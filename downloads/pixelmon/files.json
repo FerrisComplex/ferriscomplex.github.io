@@ -5,14 +5,14 @@
     "servers.dat": "servers.dat"
   },
   "mods": {
-    "foamfix-0.10.3-1.12.2.jar": "foamfix-0.10.3-1.12.2.jar",
-    "journeymap-1.12.2-5.5.5b9.jar": "journeymap-1.12.2-5.5.5b9.jar",
-    "NettyFixer-1.12.2-SNAPSHOT.jar": "NettyFixer-1.12.2-SNAPSHOT.jar",
-    "optifine-1-12-2-hd-u-e3-jar.jar": "optifine-1-12-2-hd-u-e3-jar.jar",
-    "http://ferrisbot.com/pixelmon/Pixelmon-1.12.2-8.1.2-universal.jar": "Pixelmon-1.12.2-8.1.2-universal.jar",
-    "PixelmonMetrics-1.2.2_client.jar": "PixelmonMetrics-1.2.2_client.jar",
-    "ResourceLoader-MC1.12.1-1.5.3.jar": "ResourceLoader-MC1.12.1-1.5.3.jar",
-    "CustomMainMenu-MC1.12.2-2.0.8.jar": "CustomMainMenu-MC1.12.2-2.0.8.jar"
+    "foamfix.jar": "foamfix.jar",
+    "journeymap.jar": "journeymap.jar",
+    "NettyFixer-1.12.2-SNAPSHOT.jar": "NettyFixer.jar",
+    "optifine.jar": "optifine.jar",
+    "http://ferrisbot.com/pixelmon/Pixelmon-1.12.2-8.1.2-universal.jar": "Pixelmon.jar",
+    "PixelmonMetrics.jar": "Metrics.jar",
+    "ResourceLoader.jar": "ResourceLoader.jar",
+    "CustomMainMenu.jar": "CustomMainMenu.jar"
   },
   "cleanup": [
     "(?i).*pixelmon.*",
@@ -23,6 +23,7 @@
     "(?i).*custommainmenu.*",
     "(?i).*radar.*",
     "(?i).*baritone.*",
-    "(?i).*xray.*"
+    "(?i).*xray.*",
+    "(?i).*metrics.*"
   ]
 }
