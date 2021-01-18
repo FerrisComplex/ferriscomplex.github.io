@@ -1,0 +1,133 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:complex.png",
+            "posX" : -140,
+            "posY" : -125,
+            "width" : 260,
+            "height" : 140,
+            "alignment" : "center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text": "menu.singleplayer",
+            "posX": -100,
+            "posY": 15,
+            "alignment": "center",
+            "width": 98,
+            "height": 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "multiplayer":
+        {
+            "text": "menu.multiplayer",
+            "posX": 2,
+            "posY": 15,
+            "alignment": "center",
+            "width": 98,
+            "height": 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+        "mods":
+        {
+            "text": "fml.menu.mods",
+			"posX": -100,
+            "posY": 63,
+            "alignment": "center",
+            "width": 98,
+            "height": 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+        "options":
+        {
+            "text": "menu.options",
+            "posX": 2,
+            "posY": 63,
+            "alignment": "center",
+            "width": 98,
+            "height": 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quit":
+        {
+            "text": "menu.quit",
+			
+			"posX": -100,
+            "posY": 91,
+            "alignment": "center",			
+			"width": 200,
+            "height": 20,
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+		
+        "discord":
+        {
+            "text": "Discord",
+			"posX": -100,
+            "posY": 39,
+            "alignment": "center",
+			"width": 200,
+            "height": 20,
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/ComplexPixel"
+            }
+        }
+
+    },
+
+    "texts": {
+        "mojang": {
+            "text": "",
+            "posX": -205,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_right"
+			}
+    },
+
+    "other":
+    {
+        
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["modpack:background.jpg"],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+            }
+        }
+    }
+}
