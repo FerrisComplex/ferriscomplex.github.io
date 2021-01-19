@@ -7,7 +7,7 @@
   "mods": {
     "foamfix.jar": "foamfix.jar",
     "journeymap.jar": "journeymap.jar",
-    "NettyFixer-1.12.2-SNAPSHOT.jar": "NettyFixer.jar",
+    "NettyFixer.jar": "NettyFixer.jar",
     "optifine.jar": "optifine.jar",
     "http://ferrisbot.com/pixelmon/Pixelmon-1.12.2-8.1.2-universal.jar": "Pixelmon.jar",
     "PixelmonMetrics.jar": "Metrics.jar",
