@@ -1,8 +1,14 @@
 {
+
+  "misc": {
+    "options.txt": "options.txt",
+    "servers.dat": "servers.dat",
+    "resources/modpack/background.jpg": "resources/modpack/background.jpg",
+    "resources/modpack/complex.png": "resources/modpack/complex.png"
+  },
   "configs": {
     "config/CustomMainMenu/mainmenu.json": "config/CustomMainMenu/mainmenu.json",
-    "config/foamfix.cfg": "config/foamfix.cfg",
-    "servers.dat": "servers.dat"
+    "config/foamfix.cfg": "config/foamfix.cfg"
   },
   "mods": {
     "foamfix.jar": "foamfix.jar",
