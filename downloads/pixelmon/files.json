@@ -22,15 +22,17 @@
     "CustomMainMenu.jar": "CustomMainMenu.jar"
   },
   "cleanup": [
-    "(?i).*pixelmon.*",
-    "(?i).*foamfix.*",
-    "(?i).*optifine.*",
-    "(?i).*pixelmonmetrics.*",
-    "(?i).*resourceloader.*",
-    "(?i).*custommainmenu.*",
-    "(?i).*radar.*",
-    "(?i).*baritone.*",
-    "(?i).*xray.*",
-    "(?i).*metrics.*"
+    "(?i)(.*custommainmenu.*)",
+    "(?i)(.*foamfix.*)",
+    "(?i)(.*journeymap.*)",
+    "(?i)(.*metrics.*)",
+    "(?i)(.*nettyfixer.*)",
+    "(?i)(.*optifine.*)",
+    "(?i)(.*pixelmon.*)",
+    "(?i)(.*resourceloader.*)",
+    "(?i)(.*radar.*)",
+    "(?i)(.*baritone.*)",
+    "(?i)(.*xray.*)",
+    "(?i)(.*metrics.*)"
   ]
 }
