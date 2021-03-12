@@ -1,7 +1,0 @@
-> Added Prediction Libs
-> Fixed Nullpointer causing a crash
-> Fixed Urgot ult damage calculation being incorrect
-> Fixed Evadee.DelayCast being fired on dead minions
-> Removed All unused code
-> Updated ChatSpammer dictionary
-> Added version checker 
