@@ -4,4 +4,4 @@ B> Added QuickCast to Evade processing
 B> Added AA Cancels to more champions
 C> Fixed MMRTracker returning null with non unicode character names
 C> Fixed DragonAnimation not correctly getting nearby entities
-G> Fixed Urgot E not casting to correct prediction position
+C> Fixed Urgot E not casting to correct prediction position
