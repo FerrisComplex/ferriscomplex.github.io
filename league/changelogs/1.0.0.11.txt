@@ -1,4 +1,4 @@
-G> Improved Prediction libries efficiency
+G> Improved Prediction libs efficiency
 B> Added PacketProcessing for Evade.createSpell
 B> Added QuickCast to Evade processing
 B> Added AA Cancels to more champions
