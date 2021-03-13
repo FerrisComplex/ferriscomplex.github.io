@@ -1,0 +1,6 @@
+C> Fixed CooldownTracker displaying on dead units
+C> Fixed Activator->Exhaust being used incorrectly
+C> Fixed a crash related to version checker
+G> Re-Enabled MMR Checker
+B> Added new FOW pos method from AnimationPacket
+Go ask ferris for an updated version!
