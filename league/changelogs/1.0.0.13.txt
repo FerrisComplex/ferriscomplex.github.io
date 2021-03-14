@@ -1,0 +1,3 @@
+C> Fixed Maphack inconsistency with recalling
+C> Fixed Prediction checking grass rather than walls
+C> Fixed Prediction using the wrong world vectors

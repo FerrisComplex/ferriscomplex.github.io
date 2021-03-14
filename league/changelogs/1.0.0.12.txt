@@ -3,4 +3,5 @@ C> Fixed Activator->Exhaust being used incorrectly
 C> Fixed a crash related to version checker
 G> Re-Enabled MMR Checker
 B> Added new FOW pos method from AnimationPacket
-W> <b>Go ask ferris for an updated version!</b>
+C> Fixed autolevel doing skills in the wrong order
+W> Improved loading times
