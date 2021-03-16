@@ -1,3 +1,9 @@
 C> Fixed Maphack inconsistency with recalling
 C> Fixed Prediction checking grass rather than walls
 C> Fixed Prediction using the wrong world vectors
+C> Fixed horizontal awareness hud tracker offsets
+B> Improved Irelia Q logic in combo
+B> Improved Irelia E prediction logic
+B> Improved Target Selector priority in teamfights
+B> Improved Irelia R logic
+B> Fixed a crash related to SharedExperience position
