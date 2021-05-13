@@ -2,7 +2,7 @@ B> Added Kayle Script
 B> Added Gwen Script
 G> Fixed Jungle timers for current Patch
 G> Fixed AutoSmite for current Patch
-G> Imrpoved Evade Blink Logic
+G> Improved Evade Blink Logic
 G> Improved TargetSelector usage on all champs
 G> Improved Maphack tracking
 C> Fixed a crash related to maphack
