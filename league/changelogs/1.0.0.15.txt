@@ -5,7 +5,10 @@ G> Fixed AutoSmite for current Patch
 G> Improved Evade Blink Logic
 G> Improved TargetSelector usage on all champs
 G> Improved Maphack tracking
+G> Re-Enabled MMR Checker
+C> Fixed all crashes related with MMR checker
 C> Fixed a crash related to maphack
 C> Fixed Evade Blink logic with walls
 C> Fixed a Crash with PredictionLine with walls
 C> Fixed Gwen W being used when taking turret plates
+C> Fixed Trist using E on minions randomly
