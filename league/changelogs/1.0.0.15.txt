@@ -1,5 +1,7 @@
 B> Added Kayle Script
 B> Added Gwen Script
+B> Added pentakill logs to website
+G> Fixed a crash related to unicode chars
 G> Fixed Jungle timers for current Patch
 G> Fixed AutoSmite for current Patch
 G> Improved Evade Blink Logic
