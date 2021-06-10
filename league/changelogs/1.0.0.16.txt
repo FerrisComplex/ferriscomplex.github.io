@@ -1,0 +1,10 @@
+B> Added Custom Orbwalker
+B> Added Freeze Orbwalker Support
+B> Added Shove Orbwalker Support
+B> Added animation cancelling
+B> Added kalista double jump to orbwalker
+B> Added Support for Nexus Blitz Monsters
+B> Added Support for Non Standard Map mobs 
+C> Implemented Glow on Maphack
+G> Fixed Mundo Q changing missle name
+G> Improved Orbwalker Speeds
