@@ -8,3 +8,4 @@ B> Added Support for Non Standard Map mobs
 C> Implemented Glow on Maphack
 G> Fixed Mundo Q changing missle name
 G> Improved Orbwalker Speeds
+G> Improved Orbwalker under tower logic
