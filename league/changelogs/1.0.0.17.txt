@@ -1,0 +1,2 @@
+G> Fixed Ultbook_Feast damage calc being too low
+B> Ill update this on the site soon
