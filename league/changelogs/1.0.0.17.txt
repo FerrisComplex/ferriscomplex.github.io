@@ -1,4 +1,8 @@
-G> Fixed Ultbook_Feast damage calc being too low
+C> Fixed VayneE prediction causing a crash
+C> Fixed FireAfterAttack not being called when using freeze
+C> Fixed Ultbook_Feast damage calc being too low
+C> Fixed Trap Spells not having their settings checked in evade
 B> Added TristR menu option for Killable R
 B> Added UltimateSpellbook spells to Evade spell list
-B> Ill update this on the site soon
+G> Improved Orbwalker Freeze Logic
+G> Improved Orbwalker Attack windup logic
