@@ -1,4 +1,4 @@
-Alistar
+Alistar (does some stupid logic for going in atm but its a thing will redo this one later)
 Amumu
 Ashe 
 Azir
