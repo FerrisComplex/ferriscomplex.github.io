@@ -1,2 +1,3 @@
 G> Fixed Ultbook_Feast damage calc being too low
+B> Added TristR menu option for Killable R
 B> Ill update this on the site soon
