@@ -12,3 +12,4 @@ B> Added debug case for hitting jungle plants for maphack tracker
 B> Added Spell Sprite for CooldownTracker in UltimateSpellbook
 G> Improved Orbwalker Freeze Logic
 G> Improved Orbwalker Attack windup logic
+W> Version is now available on the site!
