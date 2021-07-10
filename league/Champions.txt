@@ -6,24 +6,24 @@ Caitlyn
 Corki
 Darius
 Draven
-Ezreal
+Ezreal (W & Q Logic rewrite in progress for .18)
 Graves
 Gwen
 Irelia (unknown for current new irelia changes)
 Jhin
 Jinx
-Kalista
+Kalista (update in progress)
 Kayle
 Kogmaw
 Lucian
 MissFortune
 Pyke
-Qiyana
+Qiyana (WIP)
 Quinn
 Rengar
 Samira
 Sivir
-Sylas
+Sylas (Has about 30% of all champions ult logic added :soonTM:)
 Tristana
 Tryndamere
 TwistedFate
@@ -31,8 +31,8 @@ Twitch
 Udyr (very much broken atm and not supported properly on my custom orbwalker :soontm:)
 Urgot
 Varus
-Vayne
-Volibear
+Vayne (SAC prediction needs a bit of tweaking but is working sofar)
+Volibear (some settings are currently ignored/broken will fix .18)
 Warwick
 Xayah
 XinZhao
