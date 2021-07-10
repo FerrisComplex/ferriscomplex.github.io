@@ -9,5 +9,6 @@ B> Added TristR menu option for Killable R
 B> Added UltimateSpellbook spells to Evade spell list
 B> Added Dragon playsound packet to maphack tracker
 B> Added debug case for hitting jungle plants for maphack tracker
+B> Added Spell Sprite for CooldownTracker in UltimateSpellbook
 G> Improved Orbwalker Freeze Logic
 G> Improved Orbwalker Attack windup logic
