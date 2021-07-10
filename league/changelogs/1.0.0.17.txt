@@ -4,6 +4,7 @@ C> Fixed Ultbook_Feast damage calc being too low
 C> Fixed Trap Spells not having their settings checked in evade
 C> Fixed a crash with a missing menu on encrypted version
 C> Fixed a minor desync caused by my ASYNC task builder being delayed
+C> Fixed AOE Prediction not calculating past the first enemy hit (meaning its not working)
 B> Added TristR menu option for Killable R
 B> Added UltimateSpellbook spells to Evade spell list
 B> Added Dragon playsound packet to maphack tracker
