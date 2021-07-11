@@ -1,4 +1,3 @@
-
 C> Fixed NetworkTracker causing lag spikes when reading the wrong packet
 C> Fixed IncomingDamageTracker marking minions as doing 500 damage per attack
 C> Fixed LissandraR in UltBook being used WAAAAAYYYYY too early

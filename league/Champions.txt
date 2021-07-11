@@ -28,7 +28,7 @@ Tristana
 Tryndamere
 TwistedFate
 Twitch
-Udyr (very much broken atm and not supported properly on my custom orbwalker :soontm:)
+Udyr
 Urgot
 Varus
 Vayne (SAC prediction needs a bit of tweaking but is working sofar)
