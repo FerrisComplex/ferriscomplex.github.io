@@ -1,0 +1,15 @@
+
+C> Fixed NetworkTracker causing lag spikes when reading the wrong packet
+C> Fixed IncomingDamageTracker marking minions as doing 500 damage per attack
+C> Fixed LissandraR in UltBook being used WAAAAAYYYYY too early
+B> Added Qiyana Menu for Auto W
+B> Added MapHack packet relating to ZedW
+B> Added MapHack packet relating to HecarimQ when attacking jungle camps
+B> Added MapHack packet relating to MasterYi Ult
+B> Added MapHack packet relating to DeadMansPlate Movespeed buff
+B> Re-Added MMR Tracker (A tad unstable at the moment will improve functionality on my API soon)
+B> Added support for Funnyslayer prediction
+G> Overhauled FerrisPrediction (V2 is now in the menu still needs testing but should be much more reliable)
+G> Overhauled Exory Prediction with some reworked logic & speed
+W> As a note the custom prediction sytem works on ANY script as long as FerrisAIO is loaded 
+W> Meaning ZAIO,Elchuycho,Dreams... will all work with my predictions!
