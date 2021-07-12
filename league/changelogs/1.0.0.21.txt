@@ -1,0 +1,6 @@
+C> Fixed Collision Checks on FerrisV2, Exory and Common Pred
+G> Tweaked Ezreal Q Size to be more accurate (maybe)
+G> Tweaked CaitQ Size to be more accurate
+G> Fixed GwenR not being AOE
+G> Fixed Neeko EQ Being Delayed to Cast
+G> Fixed Prediction throwing an Exception on Certain Spells
