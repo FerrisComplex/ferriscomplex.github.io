@@ -6,7 +6,7 @@ Caitlyn
 Corki
 Darius
 Draven
-Ezreal (W & Q Logic rewrite in progress for .18)
+Ezreal
 Graves
 Gwen
 Irelia (unknown for current new irelia changes)
@@ -31,8 +31,8 @@ Twitch
 Udyr
 Urgot
 Varus
-Vayne (SAC prediction needs a bit of tweaking but is working sofar)
-Volibear (some settings are currently ignored/broken will fix .18)
+Vayne (needs a bit of tweaking but is working sofar)
+Volibear (some settings are currently ignored/broken will fix later)
 Warwick
 Xayah
 XinZhao

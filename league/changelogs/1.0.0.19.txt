@@ -1,1 +1,10 @@
-C> Rewrote Udyr to function again
+G> Rewrote Udyr to function again
+G> Added Closest Rank display on MMRTracker
+C> Fixed MMRTracker API throwing an exception
+C> Fixed MMRTracker breaking if name contains a space
+C> Fixed some inconsistencies with SpellWidth in evade
+C> Fixed Prediction issue on EzrealQ 
+C> Fixed EzrealW logic
+C> Fixed EzrealQ farm logic
+C> Fixed some Prediction issues with collision pathing
+C> Fixed UltBook spells not working correctly at all (Spaghetti riot >.>)
