@@ -10,7 +10,7 @@ Gold Tracker
 SkinChanger
 Chat Spammer
 Laugh sound on auto attack (good for trolling lol)
-AntiAfk (Disabled till .19)
+AntiAfk
 AutoLevel
 AutoQuit
 Emote Spammer (with support for sending emotes from Firstblood, Victory, Ace, Start, Mastery and the normal 5 emotes)

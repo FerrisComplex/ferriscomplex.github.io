@@ -1,0 +1,11 @@
+G> Added Ward Skin Changer
+G> Added Annie
+G> Rewrote the Skin Changer
+G> Rewrote the orbwalker (BETA Branch)
+C> Fixed an FPS drop caused by changing skins
+C> Fixed several crashes related to memory leaks
+C> Fixed a gameobject desync (guess im cooking my own spaghetti)
+C> Fixed some irelia prediction logic
+C> Fixed KalistaQ Prediction being wrong speed/size
+W>  
+W> Added a Test Branch for the new orbwalker on the github!
