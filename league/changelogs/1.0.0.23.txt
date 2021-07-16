@@ -1,0 +1,7 @@
+G> Added GangPlank barrels to Orbwalker targets
+C> Fixed many of the known crashes in the main branch
+C> Fixed skinchanger crashing non NA clients
+C> Pushed some Animation cancelling in main branch orbwalker
+C> Improved Lanclear speed and logic in testorbwalker branch
+W>     
+W> Another Update will be soonTM with more crash fixes

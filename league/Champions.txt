@@ -1,5 +1,6 @@
 Alistar (does some stupid logic for going in atm but its a thing will redo this one later)
 Amumu
+Annie (Very much not done)
 Ashe 
 Azir
 Caitlyn
