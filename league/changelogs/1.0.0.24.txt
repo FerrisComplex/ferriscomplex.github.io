@@ -1,4 +1,26 @@
-G> Added Garen (Hardest script to write yet xd)
+C> Fixed Teemo shrooms not being removed on ward tracker after they go off
+C> Fixed Traps showing up when they are allied
 C> Fixed an ARAM menu load error
 C> Fixed TargetSelector and MinionSelector trying to attack ARAM Pets
 C> Fixed Spell.CanExecute(AttackableUnit) not counting for HPRegenRate
+C> Fixed Sylas/UltBook Pyke Logic being inaccurate
+C> Fixed default settings for MMR Tracker
+C> Fixed Changelog/MMR Checks being done on the wrong threadpool
+C> Fixed some issues with evade causing PostEvade.onAction to use the wrong target
+C> Fixed a crash related to skin changer
+C> Fixed Debug crashing clients when enabled on live builds
+C> Fixed DebugLogs not containing Version
+C> Fixed AntiAFK thread not being started correctly
+C> Fixed several more crashes with Prediction changer
+G> Added OrbwalkerV2 to the debug .isEnabled check
+G> Added Garen (Hardest script to write yet xd)
+G> Added BlueTrinket to ward tracker
+G> Added JhinTrap to ward tracker
+G> Added ShacoBox to ward tracker
+G> Added Ward Owner menu option
+G> Added Ward Position Tracker 
+G> Added Ward Vision Outline
+G> Added Spell Alerter Utility
+G> Added Rewritten Zed logic
+G> Added more AACancel logic to Base Orbwalker
+G> Added a Reduced lag version of Ultbook (FPS improver)
