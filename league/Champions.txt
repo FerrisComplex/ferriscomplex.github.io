@@ -8,12 +8,13 @@ Corki
 Darius
 Draven
 Ezreal
+Garen
 Graves
 Gwen
-Irelia (unknown for current new irelia changes)
+Irelia
 Jhin
 Jinx
-Kalista (update in progress)
+Kalista
 Kayle
 Kogmaw
 Lucian
@@ -25,7 +26,7 @@ Quinn
 Rengar
 Samira
 Sivir
-Sylas (Has about 30% of all champions ult logic added :soonTM:)
+Sylas (Has about 40% of all champions ult logic added :soonTM:)
 Tristana
 Tryndamere
 TwistedFate
@@ -34,7 +35,7 @@ Udyr
 Urgot
 Varus
 Vayne (needs a bit of tweaking but is working sofar)
-Volibear (some settings are currently ignored/broken will fix later)
+Volibear
 Warwick
 Xayah
 XinZhao
