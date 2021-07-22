@@ -16,3 +16,5 @@ AutoQuit
 Emote Spammer (with support for sending emotes from Firstblood, Victory, Ace, Start, Mastery and the normal 5 emotes)
 Gank EXP share checker (show when someone is sitting near you in a bush as the XP difference can check if there is more than the people visible on your screen nearby)
 MMR Tracker
+Spell Alerter (Currently only chat no pings will be edited added when vino adds support for it)
+Vision Tracker (Show where enemy wards can see visually https://gyazo.com/446ce770aa783c64e0d5f2273b4b3532 )

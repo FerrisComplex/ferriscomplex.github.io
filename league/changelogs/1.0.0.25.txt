@@ -1,7 +1,7 @@
 G> Added A way to control quality of geometry to reduce lag
 G> Added some NoLag options to awareness to reduce lag (CPU)
 G> Added some NoLag Options to activator to reduce lag (CPU)
-C> Fixes Spell Alerter not saying summoner name correctly :facepalm:
+C> Fixes Spell Alerter not saying summoner name incorrectly :facepalm:
 C> Fixes WardVision helper attempting to edit an immutable list
 C> Fixes SpellAlerter not saying anything now (blame riot)
 C> Fixes Irelia trying to Q minions that are already dead
