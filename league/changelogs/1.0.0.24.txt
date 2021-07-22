@@ -24,3 +24,4 @@ G> Added Spell Alerter Utility
 G> Added Rewritten Zed logic
 G> Added more AACancel logic to Base Orbwalker
 G> Added a Reduced lag version of Ultbook (FPS improver)
+W> Updated to league 11.15 and working fine
