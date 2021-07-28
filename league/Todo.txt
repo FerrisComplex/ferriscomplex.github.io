@@ -1,18 +1,19 @@
-TODO
-- Ezreal crash on V1 Prediction (lane clear specifically?) ????
-- V1 Prediction needs collision checks in LinePrediction
-- Add InterrupterHelper.setupMenu(menucontroller) and InterrupterHelper.isEnabled(spellname)
-- WardVisionTracker should also track skuttle vision cones
-- v2 lineprediction is crashing (related to collision checks having a null pointer and stackoverflowing)
-- Fix Evade FerrisAIO.MyEvade.SpellDetector.AddDetectedSpells() having a nullpointer in it (debug)
-- do extreamly basic akshan script (+ add support for double auto in orbwalker based on is AIHeroClient && canReach(x, 0.5, 0.33) distance check (from garens helper list [make this a base MyLogic method]))
-- fix chatspam onDeath not firing 
+High Priority
 - Add viego spells to the database
 - Add akshan spells to the database (just Q?)
+- Add ZoeE to evade in traps (persistent dodge)
+- Add InterrupterHelper.setupMenu(menucontroller) and InterrupterHelper.isEnabled(spellname)
+- double check things like cait trap have evade hitboxes
+
+Medium Priority
+- v2 lineprediction is crashing (related to collision checks having a null pointer and stackoverflowing)
+- allow harass in freeze button & logic
+
+Low Priority
+- do extreamly basic akshan script (+ add support for double auto in orbwalker based on is AIHeroClient && canReach(x, 0.5, 0.33) distance check (from garens helper list [make this a base MyLogic method]))
 - Kalista needs to be tweaked (DiscordTodo.txt)
 - Ezreal Q Logic needs better getFastPredictionTime() logic
 - MF Extended Q needs to calculate from a cone not a triagle behind minions (use Clipper)
 - MF ult should check if any enemies exist in ult & auto cancel if needed
-- Add ZoeE to evade in traps (persistent dodge)
-- Fix skuttle spawn logic ( only 1 every x minutes not both )
+- Fix skuttle spawn logic ( only 1 every x minutes not both ) [waiting on vino for timer fix in ensouls core]
 - Add Invade & Counter invasion smite logic (seperated keybind to enable this feature)

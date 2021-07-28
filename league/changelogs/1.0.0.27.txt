@@ -6,9 +6,14 @@ C> Fixes Irelia R AOE Prediction logic
 C> Fixes Irelia E Speed being too slow after changes
 C> Fixed Irelia Q ignoring Yorick Pets (They hurt :facepalm:)
 C> Fixed Irelia W in combo not being used
-C> Added Irelia Options for Killsteal (W/Q)
-C> Added Irelia W KS with collector logic
 C> Fixed Irelia W being stuck held down after recast time has passed
 C> Fixed Irelia Combo not targeting minions to heal correctly
 C> Fixed me attaching the wrong menu to samira script
 C> Fixed Evade never trying to dodge traps
+C> Fixed Ezreal Crash on Laneclear (ARAM)
+C> Fixed Corki R not checking collision
+C> Fixed ChatSpammer.onDeath not firing
+C> Fixed a nullpointer on AddDetectedSpells() in evade
+G> Added Irelia Options for Killsteal (W/Q)
+G> Added Irelia W KS with collector logic
+B> Improves Orbwalker AA Reset Times (With 0 AA Cancels now)
