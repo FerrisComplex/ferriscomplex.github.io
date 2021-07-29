@@ -14,6 +14,8 @@ C> Fixed Ezreal Crash on Laneclear (ARAM)
 C> Fixed Corki R not checking collision
 C> Fixed ChatSpammer.onDeath not firing
 C> Fixed a nullpointer on AddDetectedSpells() in evade
+C> Fixed a collection of crashes in FerrisV2 Prediction
 G> Added Irelia Options for Killsteal (W/Q)
 G> Added Irelia W KS with collector logic
+G> Added Harass In Freeze Option to Orbwalker
 B> Improves Orbwalker AA Reset Times (With 0 AA Cancels now)

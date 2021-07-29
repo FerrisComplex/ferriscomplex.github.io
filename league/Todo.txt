@@ -5,10 +5,6 @@ High Priority
 - Add InterrupterHelper.setupMenu(menucontroller) and InterrupterHelper.isEnabled(spellname)
 - double check things like cait trap have evade hitboxes
 
-Medium Priority
-- v2 lineprediction is crashing (related to collision checks having a null pointer and stackoverflowing)
-- allow harass in freeze button & logic
-
 Low Priority
 - do extreamly basic akshan script (+ add support for double auto in orbwalker based on is AIHeroClient && canReach(x, 0.5, 0.33) distance check (from garens helper list [make this a base MyLogic method]))
 - Kalista needs to be tweaked (DiscordTodo.txt)
