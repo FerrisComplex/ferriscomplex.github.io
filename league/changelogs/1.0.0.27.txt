@@ -18,4 +18,6 @@ C> Fixed a collection of crashes in FerrisV2 Prediction
 G> Added Irelia Options for Killsteal (W/Q)
 G> Added Irelia W KS with collector logic
 G> Added Harass In Freeze Option to Orbwalker
+G> Added ZoeE to Evade
+G> Added Viego skills to evade (whoops forgot about him xd)
 B> Improves Orbwalker AA Reset Times (With 0 AA Cancels now)

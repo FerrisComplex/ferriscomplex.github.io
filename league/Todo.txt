@@ -1,12 +1,10 @@
 High Priority
-- Add viego spells to the database
-- Add akshan spells to the database (just Q?)
-- Add ZoeE to evade in traps (persistent dodge)
 - Add InterrupterHelper.setupMenu(menucontroller) and InterrupterHelper.isEnabled(spellname)
-- double check things like cait trap have evade hitboxes
+
+Medium Priority
 
 Low Priority
-- do extreamly basic akshan script (+ add support for double auto in orbwalker based on is AIHeroClient && canReach(x, 0.5, 0.33) distance check (from garens helper list [make this a base MyLogic method]))
+- Add akshan Q extend logic to the database
 - Kalista needs to be tweaked (DiscordTodo.txt)
 - Ezreal Q Logic needs better getFastPredictionTime() logic
 - MF Extended Q needs to calculate from a cone not a triagle behind minions (use Clipper)
