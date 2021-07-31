@@ -1,6 +1,8 @@
 G> Added Blitzcrank Script
 G> Added Lux Script
-G> Added Kled Script
+G> Added Kled Script (Unfinished)
 G> Added ComboOnly Option to ignite
 C> Fixed Darius R being counted as MagicDamage
 C> Fixed Pred not talking boosted movespeed into account
+C> Fixed a severe issue in orbwalker slowing autos down 30% 
+W> Yes this means you will auto 30% faster now on average!
