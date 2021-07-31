@@ -3,6 +3,7 @@ Amumu
 Annie (Very much not done)
 Ashe 
 Azir
+Blitzcrank
 Caitlyn
 Corki
 Darius
@@ -16,8 +17,10 @@ Jhin
 Jinx
 Kalista
 Kayle
+Kled
 Kogmaw
 Lucian
+Lux
 MissFortune
 Neeko
 Pyke

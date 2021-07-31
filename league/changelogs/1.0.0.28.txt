@@ -1,0 +1,6 @@
+G> Added Blitzcrank Script
+G> Added Lux Script
+G> Added Kled Script
+G> Added ComboOnly Option to ignite
+C> Fixed Darius R being counted as MagicDamage
+C> Fixed Pred not talking boosted movespeed into account
