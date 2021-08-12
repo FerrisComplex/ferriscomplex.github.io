@@ -1,5 +1,8 @@
 High Priority
 - Add InterrupterHelper.setupMenu(menucontroller) and InterrupterHelper.isEnabled(spellname)
+- Ignite should auto ignite if killable (When invulnerable ((damageTicks - invulnerable time) * damage > x.health + x.allShield + x.regen(damageTicks-invulnerableTime)))
+- Evade Irelia Dash logic needs to check for killable minions as priority, check non killable minions to avoid loss of reset
+
 
 Medium Priority
 

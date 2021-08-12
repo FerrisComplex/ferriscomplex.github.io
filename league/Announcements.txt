@@ -1,7 +1,3 @@
 W> If you crash, try changing prediction
 W> FerrisV1 is the most stable custom
 W> SDK will never crash but is less accurate
-
-G> Also as a note, if using Irelia
-G> Changed Q Mode to FocusOnTargetCanQ 
-G> For best results

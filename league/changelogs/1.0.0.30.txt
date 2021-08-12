@@ -1,0 +1,3 @@
+C> Fixed Gold Tracker not showing BonusMana Value
+
+TODO support AIO shit + improve base logic to use evade/damagecalc + add Evade.supportMode(x => x.checkAlly().willHit)

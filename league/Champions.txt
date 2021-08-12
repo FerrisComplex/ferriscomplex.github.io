@@ -8,7 +8,9 @@ Caitlyn
 Corki
 Darius
 Draven
+Evelynn
 Ezreal
+GangPlank
 Garen
 Graves
 Gwen

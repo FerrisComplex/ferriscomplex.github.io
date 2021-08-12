@@ -1,0 +1,32 @@
+C> Fixed SpellAleter desyncing the cooldown time
+C> Fixed some issues in Orbwalking Timings being wrong
+C> Fixed Default Irelia settings being wrong
+C> Fixed Zed Killsteal not having range checks
+C> Added Zed Killsteal options to menu
+C> Fixed a crash on load with evade settings being malformed
+C> Fixed several spells being missing from evade fastMoveLogic
+C> Fixed Ezreal crash on laneclear (works this time i swear)
+C> Fixed a crash with MMR Checker
+G> Improved Orbwalker AA Animation Cancel Times
+W> ^ Will add more champs to this soon
+G> Improved MF QExtend logic
+G> Improved Ashe Q logic with kraken
+G> Improved Tryndamere Farm logic
+G> Improved Tryndamere Ult logic
+G> Improved Ignite Overkill Logic
+G> Improved Ignite Killsteal Logic
+G> Improved Ignite for Melee Champs
+G> Improved Waypoints Timings to increase FPS
+G> Improved Waypoints to draw last waypoint in FOW
+G> Improved Waypoints to show all points not just last
+G> Improved Waypoints DrawAllies tanking your FPS
+G> Massivly Improved Load times (Avg 0.5s)
+G> Added DrawWayPointOnMap
+G> Added EXP Tracker to Hud Tracker
+G> Added AutoIgnite when killable user flashes out of AA range
+G> Added Option for AA Animation cancel aggression 
+W> (PASSIVE is Safe, AGGRESIVE will reset faster but can cancel autos)
+W> Setting is in Orbwalker->Advanced
+G> Added Gangplank
+G> Added Evelynn
+G> Added Shaco (This is fully untested so might be broken xd)
