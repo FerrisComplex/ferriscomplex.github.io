@@ -20,6 +20,7 @@ C> Fixed Orbwalker not attacking pets
 C> Fixed Irelia Q damage not being correct on pets (Guess no bonus damage from minions on pets)
 C> Fixed Smite indicator not being centered
 C> Fixed Many of the Crash issues across the AIO
+C> Fixed LuxR not being dodged by evade
 C> Changed AATilt to only apply to Orbwalker Created Autos when using FOrb
 G> Added Blitzcrank MinQ Range
 G> Added AllowUnderTower toggle to Pyke (E movement specifically)
@@ -34,6 +35,8 @@ G> Improved DrawUnderCharacter taking too long and lowering framerate
 G> Improved many scripts minion iteration to increase Speed/FPS
 G> Improved DrawText speed to not destroy your FPS
 W> Improves FPS by around 20-50% depending on your PC Specs
+G> Improved ScriptLoader to have MUCH faster activation time for modules
+G> Improved Orbwalker.Shove to more quickly and effectivly shove
 G> Added Aggressive/Passive values to every champions AA Animation cancel logic
 G> Massivly improved AntiGapCloser choices with spells/usage options
 G> Overhauled Darius Script, it actually works fairly well now
@@ -49,6 +52,10 @@ G> Added Vi
 G> Added Jax
 G> Added Ekko
 G> Added Elise
+G> Added Fiora
+G> Added Gnar
+G> Added Gragas
+G> Added Jarvan
 W> Also holy crap we now at more than 50% of the champs in league in ferrisaio lol
 W>  
 B> This is a HUGE update adding more than 30 Champions!
@@ -56,7 +63,6 @@ B> To Read the Full Changelog Visit
 Y> https://ferrisbot.com/ferrisaio/changelog
 
 **Things that need testing**
-Elise
 
 **High priority Todo**
 Do pass on all existing scripts and fix any bugs left and stupid logic in them *cough alistar* and quite a few others lol
@@ -64,16 +70,14 @@ Fix jinx Q logic in waveclear, fix jinx R logic in teamfights, jinx anti-gapclos
 Fix shove to actually not check wait times
 Semi Key for Snowball ARAM
 Activator->Galeforce: Add enemy champs whitelist (exactly like it is done for Ignite usage) so u can choose on which enemy champs u don't want to use the item on. Sometimes there are some feeders/inters and its not worth spending 90sec cd on them :stuck_out_tongue:
-Elise add Human & Spider Q to killsteal logic
+ general request: can u make "Enable Spell Farm [J]" option also valid for jungle clearing? So when its set to off it wont use spells both in Lane and Jungle Clears. Right now this option works only for Lane Clear
+for Xayah: Lane Clear W 
+
 
 > supports (fuck there is so many wierd things they have that other champs dont >.>) shit + improve base for ally evade/damagecalc
 > Aphelios ????????? idk if my brain can handle his 200 years of possibilities 
 > kha (jay keeps bitching about this one so fine ill do it)
-> add fiora
-> add gnar
-> add gragas
-> add jarvan
-> add karma
+> add karma (Edit need to redo R logic this will be pushed next patch)
 > add kassadin
 > add kata (P1 kat that was sent to me maybe? needs some heavy optimization but :shrug:)
 > add kayn
@@ -108,8 +112,6 @@ Remove delegate calls during prediction swap rather than letting it run in the b
 ^ Always leave FerrisV1 running as it uses QLearning to dynamically load its aprox list
 Add all the missing skins to SkinChanger database + add Chroma names to the list of chromas 
 
-for Jinx: add Q (rocket) range drawing
-
 For kog: 
 1. add semi-E key 
 2. add option to cast Q in combo only if in AA range 
@@ -125,6 +127,29 @@ for Samira:
 1. Looks like prediction cant distinguish if u are casting Q meele or Q range. Its important coz Q meele has no collision so it can be casted even when minions are between you and the target. Right now if u are on meele Q range and minions are standing between u and target, Q won't be casted. 
 2. Add some W spell block logic (targeted spells for a start should be fine) 
 3. Add Samira W to Evade Spells in Evade so u can block skillshots that are undodgable by foot
+
+for Tristana: 
+1. add antigapcloser menu (with W and R, similiar to cassio)
+
+for Sivir: 
+1. Add W usage  in harras (only after AA) 
+2. Add targeted spells block with E
+
+for Twtich: 
+1. Add option in Combo to use W only after AA 
+1b. Also an option not to cast W while R is active 
+2. Add W usage in Lane Clear (with minimum minions hit slider) 
+3. Add Antigapcloser with W
+
+for Vayne: 
+1. Add Antigapclosers list 
+2. Add semi-E key
+
+for Xayah: 
+1. Add semi -R key 
+2. Add option in Harras Q: "^ only after AA" 
+2. Lane Clear spells are not working (not casting W nor Q) 
+3. E usage seems bugged sometimes, even when target is standing between more than 3 feathers (like 4-6) and its not casting E for some reason (video: https://streamable.com/asywu0) --> Looks like this option in Combo ("Use E | If target can imprison") is not working? And it only trying to use E with the "logic" option, but when it can't do it it won't cast E at all..
 
 
 **Potential changes (PBE)**
