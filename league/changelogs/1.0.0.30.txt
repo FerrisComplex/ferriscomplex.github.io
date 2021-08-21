@@ -21,6 +21,8 @@ C> Fixed Irelia Q damage not being correct on pets (Guess no bonus damage from m
 C> Fixed Smite indicator not being centered
 C> Fixed Many of the Crash issues across the AIO
 C> Fixed LuxR not being dodged by evade
+C> Fixed FerrisV1 Pred not working correctly on external scripts
+C> Fixed Yuumi Q showing up twice in evade when attached
 C> Changed AATilt to only apply to Orbwalker Created Autos when using FOrb
 G> Added Blitzcrank MinQ Range
 G> Added AllowUnderTower toggle to Pyke (E movement specifically)
@@ -41,10 +43,12 @@ G> Added Aggressive/Passive values to every champions AA Animation cancel logic
 G> Massivly improved AntiGapCloser choices with spells/usage options
 G> Overhauled Darius Script, it actually works fairly well now
 G> Added TahmKench W Impact to Evade (Not at all late blame Jay)
+G> Added AntiGapCloser logic to Trist (W/R)
 G> Added Cassiopeia
 G> Added Heimerdinger (I totally was not bored or anything)
 G> Added Rakan (Untested but should work fine)
-G> Added Nunu (W is still TODO but base of the script is done)
+G> Added Nunu (W is still TODO but base of the script basics are done)
+W> ^ By no means is actually finished needs a fair amount more logic added
 G> Added Diana
 G> Added Ahri
 G> Added Brand
@@ -56,103 +60,20 @@ G> Added Fiora
 G> Added Gnar
 G> Added Gragas
 G> Added Jarvan
+G> Added Kassadin
+G> Added Kayn
+G> Added Leona
+G> Added Malphite
+G> Added Kindred
+G> Added Orianna
+G> Added Olaf
+G> Added Viktor
+G> Added Zyra
+G> Added Zilean
+G> Added Zac
+G> Added Velkoz
 W> Also holy crap we now at more than 50% of the champs in league in ferrisaio lol
 W>  
 B> This is a HUGE update adding more than 30 Champions!
 B> To Read the Full Changelog Visit
 Y> https://ferrisbot.com/ferrisaio/changelog
-
-**Things that need testing**
-
-**High priority Todo**
-Do pass on all existing scripts and fix any bugs left and stupid logic in them *cough alistar* and quite a few others lol
-Fix jinx Q logic in waveclear, fix jinx R logic in teamfights, jinx anti-gapcloser being slightly stupid
-Fix shove to actually not check wait times
-Semi Key for Snowball ARAM
-Activator->Galeforce: Add enemy champs whitelist (exactly like it is done for Ignite usage) so u can choose on which enemy champs u don't want to use the item on. Sometimes there are some feeders/inters and its not worth spending 90sec cd on them :stuck_out_tongue:
- general request: can u make "Enable Spell Farm [J]" option also valid for jungle clearing? So when its set to off it wont use spells both in Lane and Jungle Clears. Right now this option works only for Lane Clear
-for Xayah: Lane Clear W 
-
-
-> supports (fuck there is so many wierd things they have that other champs dont >.>) shit + improve base for ally evade/damagecalc
-> Aphelios ????????? idk if my brain can handle his 200 years of possibilities 
-> kha (jay keeps bitching about this one so fine ill do it)
-> add karma (Edit need to redo R logic this will be pushed next patch)
-> add kassadin
-> add kata (P1 kat that was sent to me maybe? needs some heavy optimization but :shrug:)
-> add kayn
-> add leona
-> add malphite
-> add malzahar
-> add yi
-> add ori
-> add olaf
-> add mundo
-> add morgana???? maybe shield logic not sure on first release
-> add syndra
-> add veigar (fuck this is gonna be so shit with his e logic to start need to overhaul prediction to not be shit with that)
-> add velkoz
-> add viktor
-> add zac
-> add ziggs (Q logic needs to not be horrible might push this one back an update to test it)
-> add zilean
-> add zyra
-> maybe add camille?? prob will push this one back 
-
-
-
-**GOAL FINISH BY AUG 22!**
-
-if all on above list are finished at 91
-leagues half way point being 78 xd
-
-
-**Low Priority Todo**
-Remove delegate calls during prediction swap rather than letting it run in the background 
-^ Always leave FerrisV1 running as it uses QLearning to dynamically load its aprox list
-Add all the missing skins to SkinChanger database + add Chroma names to the list of chromas 
-
-For kog: 
-1. add semi-E key 
-2. add option to cast Q in combo only if in AA range 
-3. add option to cast E backwards in antigapcloser (behind you)
-
-for miss fortune: 
-1. add semi E-key 
-2. add "Killable with R" notification drawing (with big font xD) 
-3. Add W and Q usage option in Lane Clear 
-4. Add casting E before R in semi-R key (more dmg from R if target is slowed)
-
-for Samira: 
-1. Looks like prediction cant distinguish if u are casting Q meele or Q range. Its important coz Q meele has no collision so it can be casted even when minions are between you and the target. Right now if u are on meele Q range and minions are standing between u and target, Q won't be casted. 
-2. Add some W spell block logic (targeted spells for a start should be fine) 
-3. Add Samira W to Evade Spells in Evade so u can block skillshots that are undodgable by foot
-
-for Tristana: 
-1. add antigapcloser menu (with W and R, similiar to cassio)
-
-for Sivir: 
-1. Add W usage  in harras (only after AA) 
-2. Add targeted spells block with E
-
-for Twtich: 
-1. Add option in Combo to use W only after AA 
-1b. Also an option not to cast W while R is active 
-2. Add W usage in Lane Clear (with minimum minions hit slider) 
-3. Add Antigapcloser with W
-
-for Vayne: 
-1. Add Antigapclosers list 
-2. Add semi-E key
-
-for Xayah: 
-1. Add semi -R key 
-2. Add option in Harras Q: "^ only after AA" 
-2. Lane Clear spells are not working (not casting W nor Q) 
-3. E usage seems bugged sometimes, even when target is standing between more than 3 feathers (like 4-6) and its not casting E for some reason (video: https://streamable.com/asywu0) --> Looks like this option in Combo ("Use E | If target can imprison") is not working? And it only trying to use E with the "logic" option, but when it can't do it it won't cast E at all..
-
-
-**Potential changes (PBE)**
-TODO (potential rework for rengar :( now i is sad tho its like the old rengar now) [Now on PBE]
-TODO (potential rework for amumu) [Think it was removed from PBE so no clue whats happening with that one]
-

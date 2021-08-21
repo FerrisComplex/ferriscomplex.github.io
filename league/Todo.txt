@@ -1,16 +1,99 @@
-High Priority
-- Add InterrupterHelper.setupMenu(menucontroller) and InterrupterHelper.isEnabled(spellname)
-- Ignite should auto ignite if killable (When invulnerable ((damageTicks - invulnerable time) * damage > x.health + x.allShield + x.regen(damageTicks-invulnerableTime)))
-- Evade Irelia Dash logic needs to check for killable minions as priority, check non killable minions to avoid loss of reset
 
 
-Medium Priority
+**Things that need testing**
 
-Low Priority
-- Add akshan Q extend logic to the database
-- Kalista needs to be tweaked (DiscordTodo.txt)
-- Ezreal Q Logic needs better getFastPredictionTime() logic
-- MF Extended Q needs to calculate from a cone not a triagle behind minions (use Clipper)
-- MF ult should check if any enemies exist in ult & auto cancel if needed
-- Fix skuttle spawn logic ( only 1 every x minutes not both ) [waiting on vino for timer fix in ensouls core]
-- Add Invade & Counter invasion smite logic (seperated keybind to enable this feature)
+
+**High priority Todo**
+Do pass on all existing scripts and fix any bugs left and stupid logic in them *cough alistar* and quite a few others lol
+Fix jinx Q logic in waveclear, fix jinx R logic in teamfights, jinx anti-gapcloser being slightly stupid
+Semi Key for Snowball ARAM
+Activator->Galeforce: Add enemy champs whitelist (exactly like it is done for Ignite usage) so u can choose on which enemy champs u don't want to use the item on. Sometimes there are some feeders/inters and its not worth spending 90sec cd on them :stuck_out_tongue:
+ general request: can u make "Enable Spell Farm [J]" option also valid for jungle clearing? So when its set to off it wont use spells both in Lane and Jungle Clears. Right now this option works only for Lane Clear
+for Xayah: Lane Clear W 
+for Zilean: Button in combo dont use Q unless W is up for combo/harass (IF Q is below 1s CD dont waste W)
+
+Kindred
+Should auto q. Currently q then autos
+Doesnt use e in lane clear
+Did q in jungle clear but only once at the start of that camp and never again?
+E jungle clear needs to hit big hp target not the baby chickens
+combo/harras seems like it doesnt spam q hard enough when in w range
+
+
+
+1.0.0.31 things
+> supports (fuck there is so many wierd things they have that other champs dont >.>) shit + improve base for ally evade/damagecalc
+> Aphelios ????????? idk if my brain can handle his 200 years of possibilities 
+> kha (jay keeps bitching about this one so fine ill do it)
+> add karma (Edit need to redo R logic this will be pushed next patch)
+> add veigar (fuck this is gonna be so shit with his e logic to start need to overhaul prediction to not be shit with that)
+> add kata (P1 kat that was sent to me maybe? needs some heavy optimization but :shrug:)
+> add ziggs (Q logic needs to not be horrible might push this one back an update to test it)
+> maybe add camille?? prob will push this one back 
+> add morgana???? maybe shield logic not sure on first release
+> add malzahar
+> add yi
+> add mundo
+> add syndra
+> add lee sin
+> call jay stinky
+
+
+if all on above list are finished at 91
+leagues half way point being 78 xd
+
+
+**Low Priority Todo**
+Remove delegate calls during prediction swap rather than letting it run in the background 
+^ Always leave FerrisV1 running as it uses QLearning to dynamically load its aprox list
+Add all the missing skins to SkinChanger database + add Chroma names to the list of chromas 
+Add InterrupterHelper.setupMenu(menucontroller) and InterrupterHelper.isEnabled(spellname)
+Ignite should auto ignite if killable (When invulnerable ((damageTicks - invulnerable time) * damage > x.health + x.allShield + x.regen(damageTicks-invulnerableTime)))
+Evade Irelia Dash logic needs to check for killable minions as priority, check non killable minions to avoid loss of reset
+Add akshan Q extend logic to the database
+Kalista needs to be tweaked (DiscordTodo.txt)
+Ezreal Q Logic needs better getFastPredictionTime() logic
+MF ult should check if any enemies exist in ult & auto cancel if needed
+Fix skuttle spawn logic ( only 1 every x minutes not both ) [waiting on vino for timer fix in ensouls core]
+Add Invade & Counter invasion smite logic (seperated keybind to enable this feature)
+
+
+For kog: 
+1. add semi-E key 
+2. add option to cast Q in combo only if in AA range 
+3. add option to cast E backwards in antigapcloser (behind you)
+
+for miss fortune: 
+1. add semi E-key 
+2. add "Killable with R" notification drawing (with big font xD) 
+3. Add W and Q usage option in Lane Clear 
+4. Add casting E before R in semi-R key (more dmg from R if target is slowed)
+
+for Samira: 
+1. Looks like prediction cant distinguish if u are casting Q meele or Q range. Its important coz Q meele has no collision so it can be casted even when minions are between you and the target. Right now if u are on meele Q range and minions are standing between u and target, Q won't be casted. 
+2. Add some W spell block logic (targeted spells for a start should be fine) 
+3. Add Samira W to Evade Spells in Evade so u can block skillshots that are undodgable by foot
+
+for Sivir: 
+1. Add W usage  in harras (only after AA) 
+2. Add targeted spells block with E
+
+for Twtich: 
+1. Add option in Combo to use W only after AA 
+1b. Also an option not to cast W while R is active 
+2. Add W usage in Lane Clear (with minimum minions hit slider) 
+3. Add Antigapcloser with W
+
+for Vayne: 
+1. Add Antigapclosers list 
+2. Add semi-E key
+
+for Xayah: 
+1. Add semi -R key 
+2. Add option in Harras Q: "^ only after AA" 
+
+
+
+**Potential changes (PBE)**
+TODO (potential rework for rengar :( now i is sad tho its like the old rengar now) [Now on PBE]
+TODO (potential rework for amumu) [Think it was removed from PBE so no clue whats happening with that one]
