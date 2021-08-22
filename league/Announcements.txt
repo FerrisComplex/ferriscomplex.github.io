@@ -4,3 +4,6 @@ W> SDK will never crash but is less accurate
 
 W> As a note please report all Animation Cancels 
 W> When using the Orbwalker to Ferris ASAP as this was changed
+
+C> I am aware of the Prediction issue on latest SDK update
+C> A fix will be deployed in the next 12 hours +-
