@@ -4,3 +4,5 @@ W> SDK will never crash but is less accurate
 
 W> As a note please report all Animation Cancels 
 W> When using the Orbwalker to Ferris ASAP as this was changed
+C> If this happens goto
+G> Orbwalker->Advanced->Turn off Allow Script Control of Move Early
