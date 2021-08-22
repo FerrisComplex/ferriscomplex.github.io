@@ -1,0 +1,7 @@
+C> Fixed Gangplank Damage Calc in AFO
+C> Fixed caitlyn aa cancelling on aggressive
+C> Fixed jarvanIV laneclear not working as expected
+C> Fixed TF Auto cancels
+C> Fixed an SDK change breaking Ferris prediction completetly
+C> Fixed Jax W not working in jungleclear / laneclear
+C> Fixed a crash with kog w usage
