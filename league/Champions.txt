@@ -1,35 +1,56 @@
+Ahri
 Alistar (does some stupid logic for going in atm but its a thing will redo this one later)
 Amumu
 Annie (Very much not done)
 Ashe 
 Azir
 Blitzcrank
+Brand
 Caitlyn
+Cassiopeia
 Corki
 Darius
+Diana
 Draven
+Ekko
+Elise
 Evelynn
 Ezreal
+Fiora
 GangPlank
 Garen
+Gnar
+Gragas
 Graves
 Gwen
+Heimerdinger
 Irelia
 Jhin
+JarvanIV
+Jax
 Jinx
 Kalista
 Kayle
+Kayn
+Kindred
 Kled
 Kogmaw
+Leona
 Lucian
 Lux
+Malphite
 MissFortune
+Nunu
 Neeko
+Olaf
+Orianna
 Pyke
 Qiyana (WIP)
 Quinn
+Rakan
 Rengar
 Samira
+Shaco
 Sivir
 Sylas (Has about 40% of all champions ult logic added :soonTM:)
 Tristana
@@ -40,10 +61,15 @@ Udyr
 Urgot
 Varus
 Vayne (needs a bit of tweaking but is working sofar)
+Velkoz
 Volibear
+Vi
+Viktor
 Warwick
 Xayah
 XinZhao
 Yorick
 Yuumi (yes it has autoplay tho you have to Q manually as vino has not added support for forcing mouse position yet)
+Zac
 Zed
+Zyra
