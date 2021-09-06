@@ -36,6 +36,6 @@ C> Fixed Irelia Targeting Tibbers (Clearly this is an issue with pets, will fix 
 C> Fixed Pet Targeting being stupid (.isPet() returns minions this update i guess :shrug:)
 C> Fixed BetterAntiGapcloser logic always using spells (ignoring menu) :whoops:
 C> Fixed a null menu in betterantigapcloser blame jay for this one
-C> Fixed Cassiopeia E in Combo breaking if someone has poision outside the E range
+C> Fixed Cassiopeia E in Combo breaking if someone has poison outside the E range
 C> Fixed some spaghetti in skin changer going moldy
 
