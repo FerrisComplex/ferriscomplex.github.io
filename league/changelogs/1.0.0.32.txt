@@ -1,0 +1,41 @@
+G> Added Pets to Irelia Q Draw Minions bool
+G> Added Irelia JungleClear Spell logic
+G> Added Laneclear W on minions to Xayah
+G> Added option to cast Q in combo only if in AA range to Kogmaw
+G> Added Gapcloser E to Kogmaw (Forgot i had a menu for that but never finished it)
+G> Added SemiR key to Cassio
+G> Added Gapcloser Mana settings to Cassio
+G> Added Extra Q Pred method for Cassio
+G> Added R Range slider to Cassio
+G> Added small animation cancels to Cassio E (Move around 10% faster after E)
+G> Added Farm Harass Options to Cassio
+C> Changed Irelia E simple/delayed prediction to use clipper rather for speed sake
+B> Improved Heimer E Prediction & Accuracy
+B> Improved CirclePred.getFastPrediction() logic for non AOE specified spells
+B> Improved Gnar E logic
+B> Improved Kayn Q/W logic (wont Q out of fights anymore)
+B> Improved TargetSelector Invulnerability checks
+B> Improved Cassio CanAuto Checks
+B> Improved Cassio QE Logic and E Priorities 
+B> Improved Cassio LastHitTargeting logic
+B> Improved Jax E Smart usage during dashes (enemies trying to run)
+B> Improved Jax wasting E when Q is not ready & no enemies are in range (EQ combo)
+C> Fixed Zed W tracking for OneForAll (Evade and playing him)
+C> Fixed a collection of AA Animation Reset Times that were slightly too fast
+C> Fixed a collection of issues in jax
+C> Fixed a few broken evade spells
+C> Fixed Evelynn W usage in JungleClear not waiting for alured
+C> Fixed Irelia Q movespeed being wrong again
+C> Fixed Heimer E logic being horrific at long distances 
+C> Fixed Heimer using R in odd places breaking combo logic (AntiGap/Harass when R was up)
+C> Fixed Jax W not being used correctly in combo
+C> Fixed Irelia Q Damage calc being slightly (0.2%) off on heimer turrets
+C> Fixed Irelia clear targeting wukong clone
+C> Fixed Irelia clear not working against illaoi (tentacles are minions now????)
+C> Fixed Irelia Targeting Tibbers (Clearly this is an issue with pets, will fix shortly >.>)
+C> Fixed Pet Targeting being stupid (.isPet() returns minions this update i guess :shrug:)
+C> Fixed BetterAntiGapcloser logic always using spells (ignoring menu) :whoops:
+C> Fixed a null menu in betterantigapcloser blame jay for this one
+C> Fixed Cassiopeia E in Combo breaking if someone has poision outside the E range
+C> Fixed some spaghetti in skin changer going moldy
+
