@@ -9,7 +9,7 @@ G> Added Extra Q Pred method for Cassio
 G> Added R Range slider to Cassio
 G> Added small animation cancels to Cassio E (Move around 10% faster after E)
 G> Added Farm Harass Options to Cassio
-C> Changed Irelia E simple/delayed prediction to use clipper rather for speed sake
+C> Changed Irelia E simple/delayed prediction to use clipper for speed sake
 B> Improved Heimer E Prediction & Accuracy
 B> Improved CirclePred.getFastPrediction() logic for non AOE specified spells
 B> Improved Gnar E logic
