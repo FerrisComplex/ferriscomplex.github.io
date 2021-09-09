@@ -1,4 +1,24 @@
+/** TODO **/
 
+Add missing skins to skin changer selection db (may take a bit of time)
+Add Proper names to skin changer chromas (skin before chroma -> skin id of next non chroma is the chorma skin name)
+Add Yorick E to evade (its an emitter so troy it is)
+
+Vex https://www.leagueoflegends.com/en-us/event/vex-abilities-rundown/
+Passive Wait for passive before engaging maybe?
+(viego logic (w) for Q) [2 skillshots first + second for evade / prediction] if (pred1.HitChance >= High || pred2.HitChance >= High)
+W (spell shield logic [copy from morg?] with checks for passive detonations during combo)
+E just a circle pred 
+R Logic same as varus + akali (R target -> E target -> Q target -> R recast -> W -> repeat spells)
+
+
+
+
+Priority stuff
+Create DelegateController with every ensoul delegate call in it
+Change all scripts to use DelegateControllers delegates over ensouls and add if debugmode -> run things with timer
+Add ability to add by priority to delegatecontroller to allow injecting things infront/behind other delegates
+Add Optionals to turn off certain delegates easilly (delegate -= x by classpath on button maybe for things like activator/awareness to have sub categories to enable disable each function)
 
 **Things that need testing**
 
@@ -9,7 +29,6 @@ Fix jinx Q logic in waveclear, fix jinx R logic in teamfights, jinx anti-gapclos
 Semi Key for Snowball ARAM
 Activator->Galeforce: Add enemy champs whitelist (exactly like it is done for Ignite usage) so u can choose on which enemy champs u don't want to use the item on. Sometimes there are some feeders/inters and its not worth spending 90sec cd on them :stuck_out_tongue:
  general request: can u make "Enable Spell Farm [J]" option also valid for jungle clearing? So when its set to off it wont use spells both in Lane and Jungle Clears. Right now this option works only for Lane Clear
-for Xayah: Lane Clear W 
 for Zilean: Button in combo dont use Q unless W is up for combo/harass (IF Q is below 1s CD dont waste W)
 
 Kindred
@@ -56,12 +75,6 @@ Ezreal Q Logic needs better getFastPredictionTime() logic
 MF ult should check if any enemies exist in ult & auto cancel if needed
 Fix skuttle spawn logic ( only 1 every x minutes not both ) [waiting on vino for timer fix in ensouls core]
 Add Invade & Counter invasion smite logic (seperated keybind to enable this feature)
-
-
-For kog: 
-1. add semi-E key 
-2. add option to cast Q in combo only if in AA range 
-3. add option to cast E backwards in antigapcloser (behind you)
 
 for miss fortune: 
 1. add semi E-key 

@@ -63,6 +63,7 @@ Varus
 Vayne (needs a bit of tweaking but is working sofar)
 Velkoz
 Volibear
+Vex
 Vi
 Viktor
 Warwick
