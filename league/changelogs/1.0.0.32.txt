@@ -9,6 +9,9 @@ G> Added Extra Q Pred method for Cassio
 G> Added R Range slider to Cassio
 G> Added small animation cancels to Cassio E (Move around 10% faster after E)
 G> Added Farm Harass Options to Cassio
+G> Added ShouldWaitForCannon in lastHitE logic
+G> Added Yorick E to Evade (Wow that spell was cancer)
+G> Added FiddleSticks E to Evade
 C> Changed Irelia E simple/delayed prediction to use clipper for speed sake
 B> Improved Heimer E Prediction & Accuracy
 B> Improved CirclePred.getFastPrediction() logic for non AOE specified spells
@@ -20,6 +23,7 @@ B> Improved Cassio QE Logic and E Priorities
 B> Improved Cassio LastHitTargeting logic
 B> Improved Jax E Smart usage during dashes (enemies trying to run)
 B> Improved Jax wasting E when Q is not ready & no enemies are in range (EQ combo)
+B> Impeocws Zac blob logic, R Logic, E Logic, and Q Logic
 C> Fixed Zed W tracking for OneForAll (Evade and playing him)
 C> Fixed a collection of AA Animation Reset Times that were slightly too fast
 C> Fixed a collection of issues in jax
@@ -37,5 +41,8 @@ C> Fixed Pet Targeting being stupid (.isPet() returns minions this update i gues
 C> Fixed BetterAntiGapcloser logic always using spells (ignoring menu) :whoops:
 C> Fixed a null menu in betterantigapcloser blame jay for this one
 C> Fixed Cassiopeia E in Combo breaking if someone has poison outside the E range
+C> Fixed Cassio R Usage not having hitchance checks :facepalm:
+C> Fixed Stat Gold Value being horrificly wrong >.> (Also made it ingore base stats by default)
 C> Fixed some spaghetti in skin changer going moldy
+G> Added <font color= "#9370DB">Vex</font> yes shes not out but the script is done xd
 
