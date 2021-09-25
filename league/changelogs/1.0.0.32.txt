@@ -44,6 +44,6 @@ C> Fixed Cassiopeia E in Combo breaking if someone has poison outside the E rang
 C> Fixed Cassio R Usage not having hitchance checks :facepalm:
 C> Fixed Stat Gold Value being horrificly wrong >.> (Also made it ingore base stats by default)
 C> Fixed some spaghetti in skin changer going moldy
-G> Added <font color= "#9370DB">Vex</font> yes shes not out but the script is done xd
+G> Added <font color= "#9370DB">Vex</font> xd
 W> Yes she is not out yet, but the script is done
 W> She will be usable with script the second she is on live!

@@ -1,4 +1,6 @@
 Ahri
+Akali
+Akshan
 Alistar (does some stupid logic for going in atm but its a thing will redo this one later)
 Amumu
 Annie (Very much not done)
@@ -25,23 +27,27 @@ Graves
 Gwen
 Heimerdinger
 Irelia
-Jhin
 JarvanIV
 Jax
+Jhin
 Jinx
 Kalista
+Kassadin
+Katarina
 Kayle
 Kayn
 Kindred
 Kled
 Kogmaw
+LeeSin
 Leona
+Lillia
 Lucian
 Lux
 Malphite
 MissFortune
-Nunu
 Neeko
+Nunu
 Olaf
 Orianna
 Pyke
@@ -49,6 +55,7 @@ Qiyana (WIP)
 Quinn
 Rakan
 Rengar
+Riven
 Samira
 Shaco
 Sivir
@@ -62,10 +69,10 @@ Urgot
 Varus
 Vayne (needs a bit of tweaking but is working sofar)
 Velkoz
-Volibear
 Vex
 Vi
 Viktor
+Volibear
 Warwick
 Xayah
 XinZhao
@@ -73,4 +80,5 @@ Yorick
 Yuumi (yes it has autoplay tho you have to Q manually as vino has not added support for forcing mouse position yet)
 Zac
 Zed
+Zilean
 Zyra

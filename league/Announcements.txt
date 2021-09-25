@@ -1,8 +1,3 @@
-W> If you crash, try changing prediction
-W> FerrisV1 is the most stable custom
-W> SDK will never crash but is less accurate
-
-W> As a note please report all Animation Cancels 
-W> When using the Orbwalker to Ferris ASAP as this was changed
-C> If this happens goto
-G> Orbwalker->Advanced->Turn off Allow Script Control of Move Early
+W> FerrisV2 had a rewrite, Its not finished
+W> But is more accurate than V1 (Lines, Arc, Cone)
+W> Circles are better with V1
