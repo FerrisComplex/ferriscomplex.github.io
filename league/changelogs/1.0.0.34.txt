@@ -1,0 +1,17 @@
+C> Fixed katarina being labeled for test build incorrectly
+C> Fixed Gragas Q targeting dead enemies
+C> Fixed Riven not using Q
+C> Fixed a nullpointer in exory prediction
+C> Fixed a nullpointer in V2 prediction (it dropped fps being null)
+C> Fixed some animation cancels on Vex Autos
+G> Improved Vex prediction times (Still needs a bit of work for Q/E)
+G> Improved Viktor laneclear directional math
+G> Improved Viktor E logic for urf
+G> Improved Kat E logic for URF (This needs a fair bit of work still sry)
+G> Improved Cassio E cast speed for urf
+G> Improved Zed Q Prediction times
+G> Improved Ezreal for URF (use pred v2 for this)
+G> Added FOW Dragon/Baron Tracker 
+W> Sometimes it will say enemy is attacking when allies attack working on it atm
+G> Added Vex Skills to Evade
+G> Added Everfrost to Evade
