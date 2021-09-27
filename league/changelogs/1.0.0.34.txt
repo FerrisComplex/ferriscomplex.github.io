@@ -15,3 +15,4 @@ G> Added FOW Dragon/Baron Tracker
 W> Sometimes it will say enemy is attacking when allies attack working on it atm
 G> Added Vex Skills to Evade
 G> Added Everfrost to Evade
+G> Fixed a bundle of evade spells being broken
