@@ -1,0 +1,41 @@
+C> Fixed Vex R-Recast name being wrong and not casting
+C> Fixed Vex passive name being wrong
+C> Fixed Vex .CanFear() being wrong
+W> Wow im "good" at grabbing passives on PBE holy crap
+C> Fixed some render issues destorying FPS on low end pcs
+C> Fixed a memory leak causing crashes at startup
+C> Fixed SkinChanger Slider not working as expected
+C> Fixed FPrediction.canCollide() being invalid
+C> Fixed Ekko Q never being used in combo :thonk: somehow i broke this post testing
+C> Fixed Viego W having 2 hitboxes in evade
+G> Rewrote FerrisPred V2 (Should nolonger crash is MUCH better tho not perfect yet)
+W> Will implement this into the AI Logic in the next few updates
+G> Added Anti-Tilt for pings/chat
+G> Added Freeze Support to Cassio (When orbwalker is loaded)
+G> Added AutoWE to Yuumi (Outside Autoplay)
+G> Added ForceToDefaultSkin for allies and enemies
+G> Added Volibear E/R to evade (AGAIN)
+G> Added Akshan (Still needs LOTS of work to finish but should work for low elo anyway)
+G> Added LeeSin (Long range Q needs a fair bit of work rest is fine)
+G> Added Katarina (Needs more logic for E but functions at least)
+G> Added Lillia
+G> Added Akali
+G> Added Riven
+G> Added <font color= "#9370DB">Vex</font>
+C> Fixed katarina being labeled for test build incorrectly
+C> Fixed Gragas Q targeting dead enemies
+C> Fixed a nullpointer in exory prediction
+C> Fixed a nullpointer in V2 prediction (it dropped fps being null)
+C> Fixed some animation cancels on Vex Autos
+G> Improved Vex prediction times (Still needs a bit of work for Q/E)
+G> Improved Viktor laneclear directional math
+G> Improved Viktor E logic for urf
+G> Improved Kat E logic for URF (This needs a fair bit of work still sry)
+G> Improved Cassio E cast speed for urf
+G> Improved Zed Q Prediction times
+G> Improved Ezreal for URF (use pred v2 for this)
+G> Added FOW Dragon/Baron Tracker 
+W> Sometimes it will say enemy is attacking when allies attack working on it atm
+G> Added Vex Skills to Evade
+G> Added Everfrost to Evade
+C> Fixed many evade special spells not working as expected
