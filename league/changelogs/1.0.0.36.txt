@@ -1,0 +1,4 @@
+C> Fixed Test drawings being left on from FOW tracker
+C> Fixed FOW Tracker detecting allies attacking as enemies
+C> Fixed Samira ER logic running too slowly
+G> Minor impvements to victor angle calc for E
