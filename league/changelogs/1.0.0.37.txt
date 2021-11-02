@@ -27,7 +27,11 @@ W> (added super shitty auto q movement logic for yuumi will improve this when i 
 C> Fixed some lux bugs and improved the logicfor E/Q
 C> Fixed an issue in HealthPrediction being inverted
 C> Fixed getCirclePositions() taking waaaaaaay to long
+C> Fixed EmoteSpammer having issues
+C> Fixed SpellAlerter not noticing ultimates
+B> Improved MapHack Exploit with several new events
 G> SpellAlerter PingSpell now works
+G> Added first iteration of basic URF logic to some scripts
 G> Added OmniVamp to gold calculator
 G> Added FOW checks to AutoWard for bushes
 G> Added a Global Toggle for SkinChanger (can now be forced off for all champs)
