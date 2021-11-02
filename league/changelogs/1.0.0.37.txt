@@ -1,0 +1,38 @@
+C> Rewrote about 30% of the core
+C> Improved Drawings
+C> Improved EventTask speed
+C> Fixed Zed evade being Stupid
+C> Ezreal laneclear Q not working
+C> IsUnderTower now respects and NEVER uses abilities under fountain (dashes etc) will do movement later
+C> Jax now respects towers properly
+C> UnderTower toggles now ignore the value state if the tower is already targeting you 
+C> Fixed Zed W check in the script itself using already gone shadows
+C> Fixed a collision error in funnyslayer pred
+C> Fixed a few misc V1 Errors
+C> Fixed velkoz R not being possible tocancel
+C> Fixed Angular prediction being wrong on v2
+C> Added Orbwalker.canCancelAutos for a few things
+C> Added ChampionBase.isUrf() for faster and simpler urf checks
+C> Added some minor improvements to ezreal for urf
+C> Added some pred changes for velkoz urf 
+C> Fixed Jungle camp timers on urf (dragson are still wrong for normal dragons will fix later)
+C> Fixed load onUpdate sending encrypted data rather than numbers
+C> Fixed CPacket cast check being wrong
+C> Fixed Irelia Damage
+C> Fixed EmoteSpammer not functioning on new core 
+C> Fixed AntiAFK being dumb
+C> Fixed a bug in skin changer causing memory leak
+C> Fixed a bug in Name Changer causing memory leaks
+W> (added super shitty auto q movement logic for yuumi will improve this when i actually have time)
+C> Fixed some lux bugs and improved the logicfor E/Q
+C> Fixed an issue in HealthPrediction being inverted
+C> Fixed getCirclePositions() taking waaaaaaay to long
+G> SpellAlerter PingSpell now works
+G> Added OmniVamp to gold calculator
+G> Added FOW checks to AutoWard for bushes
+G> Added a Global Toggle for SkinChanger (can now be forced off for all champs)
+G> AntiTilt now prevents sending bannable words (at least some of them will add more as I find them)
+G> Added ClientSided pings to Dragon/Barron FOW tracker
+G> Added Teemo
+
+This is still in progress and will release in 11.22
