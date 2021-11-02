@@ -39,4 +39,7 @@ G> AntiTilt now prevents sending bannable words (at least some of them will add 
 G> Added ClientSided pings to Dragon/Barron FOW tracker
 G> Added Teemo
 
+As a note im sure i missed some stuff i forgot to write down
+I changed alot
+
 This is still in progress and will release in 11.22
