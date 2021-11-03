@@ -29,18 +29,18 @@ C> Fixed an issue in HealthPrediction being inverted
 C> Fixed getCirclePositions() taking waaaaaaay to long
 C> Fixed EmoteSpammer having issues
 C> Fixed SpellAlerter not noticing ultimates
+C> Fixed Leesin/kata not functioning at all
+C> Fixed Pyke Q Prediction not functioning
 B> Massivly improved Jinx (Not Finished with it yet but its functional now)
 B> Improved MapHack Exploit with several new events
+B> Improved some drawing logic for more FPS
+B> Improved Prediction Logic (Some things may break but should mostly work, will fix the bugged ones shortly)
 G> SpellAlerter PingSpell now works
 G> Added first iteration of basic URF logic to some scripts
 G> Added OmniVamp to gold calculator
 G> Added FOW checks to AutoWard for bushes
 G> Added a Global Toggle for SkinChanger (can now be forced off for all champs)
 G> AntiTilt now prevents sending bannable words (at least some of them will add more as I find them)
+W> A note for this, I will add a config option next update for it
 G> Added ClientSided pings to Dragon/Barron FOW tracker
 G> Added Teemo
-
-As a note im sure i missed some stuff i forgot to write down
-I changed alot
-
-This is still in progress and will release in 11.22

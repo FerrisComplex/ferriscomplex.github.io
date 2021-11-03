@@ -1,9 +1,9 @@
 Ahri
 Akali
 Akshan
-Alistar (does some stupid logic for going in atm but its a thing will redo this one later)
+Alistar (Pending Rewrite)
 Amumu
-Annie (Very much not done)
+Annie (Pending Rewrite)
 Ashe 
 Azir
 Blitzcrank
@@ -51,7 +51,7 @@ Nunu
 Olaf
 Orianna
 Pyke
-Qiyana (WIP)
+Qiyana
 Quinn
 Rakan
 Rengar
@@ -60,6 +60,7 @@ Samira
 Shaco
 Sivir
 Sylas (Has about 40% of all champions ult logic added :soonTM:)
+Teemo
 Tristana
 Tryndamere
 TwistedFate
@@ -67,7 +68,7 @@ Twitch
 Udyr
 Urgot
 Varus
-Vayne (needs a bit of tweaking but is working sofar)
+Vayne (Pending rewrite)
 Velkoz
 Vex
 Vi
@@ -77,7 +78,7 @@ Warwick
 Xayah
 XinZhao
 Yorick
-Yuumi (yes it has autoplay tho you have to Q manually as vino has not added support for forcing mouse position yet)
+Yuumi (I will update Q Logic when i have time)
 Zac
 Zed
 Zilean

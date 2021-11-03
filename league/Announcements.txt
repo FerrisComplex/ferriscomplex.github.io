@@ -1,6 +1,3 @@
 W> FerrisV2 had a rewrite, Its not finished
 W> But is more accurate than V1 (Lines, Arc, Cone)
 W> Circles are better with V1
-
-G> A super delayed update will be comming in 11.22!
-G> Check github for current changelogs
