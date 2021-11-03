@@ -29,6 +29,7 @@ C> Fixed an issue in HealthPrediction being inverted
 C> Fixed getCirclePositions() taking waaaaaaay to long
 C> Fixed EmoteSpammer having issues
 C> Fixed SpellAlerter not noticing ultimates
+B> Massivly improved Jinx (Not Finished with it yet but its functional now)
 B> Improved MapHack Exploit with several new events
 G> SpellAlerter PingSpell now works
 G> Added first iteration of basic URF logic to some scripts
