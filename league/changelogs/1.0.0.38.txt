@@ -1,0 +1,7 @@
+C> Fixed some champions not functioning correctly 
+C> Fixed Inhib timers not showing Minutes
+C> Fixed Some text being missing
+C> Fixed a crash relating to MSIL loading
+C> Fixed ThreadProcessor Patch not working on CN Anticheat
+C> Fixed some native calls being wrong
+C> Fixed some utilities not respecting config
