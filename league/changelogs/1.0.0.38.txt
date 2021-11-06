@@ -7,3 +7,5 @@ C> Fixed some native calls being wrong
 C> Fixed some utilities not respecting config
 C> Fixed AutoBushWard not following unit position correctly
 C> Fixed skill hover packet FOW Tracking not working correctly
+B> Added PacketSpam bypass for Orbwalker Movements
+G> Improved KogmawW usage speed
