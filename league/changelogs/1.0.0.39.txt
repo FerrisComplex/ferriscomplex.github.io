@@ -1,0 +1,6 @@
+C> Fixed Activator not working correctly on Non Targeted Items
+G> Improved Console Readablility
+G> Improved Teemo Urf Logic
+G> Improved Orbwalker Move/Activation Speeds
+G> Improved Evade Activation Distance Calc Speed
+B> Implemented some custom Game Hooks/Callbacks
