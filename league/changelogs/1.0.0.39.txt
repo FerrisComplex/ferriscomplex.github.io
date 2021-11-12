@@ -1,6 +1,11 @@
 C> Fixed Activator not working correctly on Non Targeted Items
+C> Fixed an Evade isSafe check always returning false/invalid
+C> Fixed Prediction Defaulting to SDK every game
+C> Fixed HPred.GetPrediction() returning null
 G> Improved Console Readablility
 G> Improved Teemo Urf Logic
 G> Improved Orbwalker Move/Activation Speeds
 G> Improved Evade Activation Distance Calc Speed
+G> Improved Vex Q/E Timings
+G> Improved RenderTime on some Sprites
 B> Implemented some custom Game Hooks/Callbacks
