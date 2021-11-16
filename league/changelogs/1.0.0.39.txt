@@ -16,7 +16,7 @@ G> Improved RenderTime on some Sprites
 G> Improved Malphite QWE logic in Harass/Killsteal 
 W> (Will do his combo soon Preseason got in the way)
 B> Updated Damage Calcs to support PBE Changes
-B> Updated Caitlyn logic for new VGU changes to AA Resetting
+B> Updated Caitlyn logic for new ASU changes to AA Resetting
 B> Implemented some custom Game Hooks/Callbacks
 B> Added Automated Prediction Selection for Best Pred per spell
 B> Added Ability to select which prediction to use for EACH ability
