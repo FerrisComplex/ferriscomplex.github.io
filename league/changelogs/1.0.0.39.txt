@@ -1,11 +1,28 @@
 C> Fixed Activator not working correctly on Non Targeted Items
 C> Fixed an Evade isSafe check always returning false/invalid
+W> There is more than just this to be fixed soon
+W> However for now this will mostly fix getting stuck in spells
+W> And that locking your movment completetly
 C> Fixed Prediction Defaulting to SDK every game
 C> Fixed HPred.GetPrediction() returning null
+C> Fixed Kassadin R not being offset by a small distance breaking E usage
 G> Improved Console Readablility
+G> Improved Cassiopeia W logic in combo
 G> Improved Teemo Urf Logic
 G> Improved Orbwalker Move/Activation Speeds
 G> Improved Evade Activation Distance Calc Speed
 G> Improved Vex Q/E Timings
 G> Improved RenderTime on some Sprites
+G> Improved Malphite QWE logic in Harass/Killsteal 
+B> Updated Damage Calcs to support PBE Changes
+B> Updated Caitlyn logic for new VGU changes to AA Resetting
+W> (Will do his combo soon Preseason got in the way)
 B> Implemented some custom Game Hooks/Callbacks
+B> Added Automated Prediction Selection for Best Pred per spell
+B> Added Ability to select which prediction to use for EACH ability
+B> Added Improved Evade.canEvade Logic
+B> Added New Dragons to Orbwalker Mobs
+B> Added New Dragons to Jungle Timers
+Y> Removed Packet Logic for detecting Skuttle Spawn location
+Y> This will be rewritten in the next update to work correctly
+G> Updated Orbwalker to use pre-season logic for AA range / AS changes with LethalTempo
