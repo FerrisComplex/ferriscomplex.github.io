@@ -18,6 +18,9 @@ G> Improved RenderTime on some Sprites
 G> Improved Malphite QWE logic in Harass/Killsteal 
 G> Improved Orbwalker AA Reset Timings on Aggressive mode
 G> Improved Orbwalker Attack early timings
+G> Improved Start Times slightly
+G> Improved FarmPrediction Cannon Priorities
+G> Improved Evade Spell Detection Times (Still can be faster this is a WIP)
 W> (Will do his combo soon Preseason got in the way)
 B> Updated Damage Calcs to support PBE Changes
 B> Updated Caitlyn logic for new ASU changes to AA Resetting
@@ -28,5 +31,5 @@ B> Added Improved Evade.canEvade Logic
 B> Added New Dragons to Orbwalker Mobs
 B> Added New Dragons to Jungle Timers
 Y> Removed Packet Logic for detecting Skuttle Spawn location
-Y> This will be rewritten in the next update to work correctly
+Y> This will be rewritten in the next update to work correctly to show which side
 G> Updated Orbwalker to use pre-season logic for AA range / AS changes with LethalTempo
