@@ -1,5 +1,6 @@
 C> Fixed Activator not working correctly on Non Targeted Items
 C> Fixed an Evade isSafe check always returning false/invalid
+C> Fixed MF AA Damage without on targets already marked by passive being wrong
 W> There is more than just this to be fixed soon
 W> However for now this will mostly fix getting stuck in spells
 W> And that locking your movment completetly
@@ -12,8 +13,11 @@ G> Improved Teemo Urf Logic
 G> Improved Orbwalker Move/Activation Speeds
 G> Improved Evade Activation Distance Calc Speed
 G> Improved Vex Q/E Timings
+G> Improved MF Extended Q Cone size being wrong
 G> Improved RenderTime on some Sprites
 G> Improved Malphite QWE logic in Harass/Killsteal 
+G> Improved Orbwalker AA Reset Timings on Aggressive mode
+G> Improved Orbwalker Attack early timings
 W> (Will do his combo soon Preseason got in the way)
 B> Updated Damage Calcs to support PBE Changes
 B> Updated Caitlyn logic for new ASU changes to AA Resetting
