@@ -1,0 +1,4 @@
+C> Fixed DamageCalc in ult spellbook not including resistances :facepalm:
+
+Todo fix evade fow detections
+GameObjects.onCreate -> if missile matches spell & not in detector, add to detector!
