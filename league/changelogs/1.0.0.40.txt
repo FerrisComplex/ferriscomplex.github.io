@@ -1,11 +1,5 @@
 C> Fixed DamageCalc in ult spellbook not including resistances :facepalm:
 C> Fixed sylas R DamageCalc also being wrong 
 C> Fixed Smite not working on new dragons
-
-Todo fix evade fow detections
-GameObjects.onCreate -> if missile matches spell & not in detector, add to detectorservice?
-^ Animation check needs a full pass on every champion to check fow cast positions as many of the animation names are now wrong
-
-CCastSpell packet format being wrong with preseason needs to be updated in ProxyService for now Exploits/Packetcaster will be dead 
-SMobDisengage packet being wrong for FOWTracker packet
-SMobAttacking packet being wrong for FOWTracker packet
+C> Fixed Prediction erroring on Cone/Circle
+G> Tweaked FOW Spell Detector in Evade
