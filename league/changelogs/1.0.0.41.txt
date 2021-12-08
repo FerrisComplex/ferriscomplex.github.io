@@ -1,0 +1,9 @@
+C> Fixed Tahm Kench Q Range in Evade
+C> Fixed FerrisAIO not working with Ensoul (x.24 API changes)
+C> Fixed some stupid pathfinding for evade
+C> Fixed some old debug i left in some odd places
+G> Added Tahm Kench (Its super basic but it works, this is not finished yet)
+G> Improved Orbwalker Flee Functions
+W> Tis just a small update, will be doing another large champion push soon
+W> Including +- 30 more champion scripts (Just need quality testing & improvements done)
+W> And a small rewrite of the core for some fairly large timing improvements
