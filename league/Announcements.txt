@@ -1,3 +1,2 @@
-W> FerrisV2 had a rewrite, Its not finished
-W> But is more accurate than V1 (Lines, Arc, Cone)
-W> Circles are better with V1
+G> Big Changes comming soon in next major update of FerrisAIO
+G> Check Github for details!

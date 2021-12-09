@@ -55,6 +55,12 @@ W> https://gyazo.com/99d791d853f512e50c5d097b19aa5bb9
 C> Started to implemented language settings (Will still have to port all the old text in the assembly but will do it eventually)
 C> Added FerrisAIO API which will be releasing probably with this update (Custom events, faster drawings, quicker movement/attack logic, some custom things like pulling jungle timers from scoreboard (dragon/herald/baron))
 C> Added basics for packet casting back to my native (its a proxy so dont expect it to be bug free)
+C> Implemented Profiler on all delegates used within the script to improve FPS
+C> Implemented a proper debug mode within the core (no more spaghetti of debug calls)
+C> Fixed some console issues with x.writline being awaited
+
+
+
 
 Again this is still very much TODO
 Beta testers have access to the build on x.24 please report bugs as usually on the REPO
