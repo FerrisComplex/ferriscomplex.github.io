@@ -37,6 +37,7 @@ C> Removed Yasuo - (It was terrible ill rewrite it again soon)
 G> Added Zigs - (Honestly this needs a full custom prediction for his spammable shit)
 G> Added Zoe - (Testing still WIP)
 G> Added Leblanc - (Testing still WIP)
+W> TODO Write sett?
 
 C> Fixed Evade CirclePath not taking the fastest path
 C> Fixed Evade ChaseMode not functioning with force quick evade on
