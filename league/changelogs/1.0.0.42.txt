@@ -59,8 +59,11 @@ C> Added basics for packet casting back to my native (its a proxy so dont expect
 C> Implemented Profiler on all delegates used within the script to improve FPS
 C> Implemented a proper debug mode within the core (no more spaghetti of debug calls)
 C> Fixed some console issues with x.writeline being awaited
+C> Improved Orbwalker AA Damage handling
 
-
+G> Added all missing skins to skinchanger
+W> Also wrote a simple scraper for me to update this super quickly to never fall behind again XD
+W> https://gyazo.com/8faa9ead1d500384ea1cb6fbe81c50c7
 
 
 Again this is still very much TODO
