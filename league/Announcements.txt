@@ -1,2 +1,4 @@
 G> Big Changes comming soon in next major update of FerrisAIO
 G> Check Github for details!
+W> Please Report any issues on This version to me
+W> This is a BETA of the new Core
