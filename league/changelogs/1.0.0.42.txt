@@ -64,7 +64,8 @@ C> Improved Orbwalker AA Damage handling
 G> Added all missing skins to skinchanger
 W> Also wrote a simple scraper for me to update this super quickly to never fall behind again XD
 W> https://gyazo.com/8faa9ead1d500384ea1cb6fbe81c50c7
-
+G> Improved Obfuscated Stacktrace generator
+G> Improved Build System for project (No more glitchy missmatched internal versions xd)
 
 Again this is still very much TODO
 Beta testers have access to the build on x.24 please report bugs as usual on the REPO
