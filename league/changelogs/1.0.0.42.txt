@@ -1,7 +1,7 @@
 This is unreleased, It will not be pushed within the next few weeks due to IRL issues im having at the moment so be patient
 Its more of a sneak peak of what will be coming next major push
 
-G> Added Anivia - (Testing still WIP)
+G> Added Anivia - (Done & Working well! Still needs Wall against wall stuck logic but thats likely a later addition)
 G> Added Jayce - (Testing still WIP)
 G> Added Karthus - (Testing still WIP)
 G> Added Trundle - (Base Done Still needs logic)
@@ -38,6 +38,10 @@ G> Added Zigs - (Honestly this needs a full custom prediction for his spammable 
 G> Added Zoe - (Testing still WIP)
 G> Added Leblanc - (Testing still WIP)
 W> TODO Write sett?
+G> Rewrote Vayne - Seems much better now (QLogic needs work, RLogic im having to do mostly manually but works wonders other than that and has not yet missed an E)
+G> Rewrote Kindred WQ logic
+G> Rewrote Teemo Q logic a tad
+G> Tweaked Cassio E Windup Cancel to be a slight bit faster
 
 C> Fixed Evade CirclePath not taking the fastest path
 C> Fixed Evade ChaseMode not functioning with force quick evade on
