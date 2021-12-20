@@ -41,3 +41,12 @@ W> https://gyazo.com/8faa9ead1d500384ea1cb6fbe81c50c7
 W> As a small note, champion additions will be moved to be done later
 W> Had to rewrite a large chunk of my logic processor and I am only going to worry about whats already in public 
 W> Ill release the rest in the new year
+
+
+-------------------------------------------
+Current TODO for .42
+
+Move JungleTimers to Drawing<Drawer,Updater> processing
+Move LastPosition to Drawing<Drawer,Updater> processing (this is gonna suck it might be better to rewrite it since its kinda held together with tape xd)
+Move Waypoints to faster Updater logic for pathfinder & drawer cache
+Move NetworkProxy to properlly MITM leagues network handler on new native (can use /Exploits/PCasting/GenericPacketCaster.cs as a testcase)
