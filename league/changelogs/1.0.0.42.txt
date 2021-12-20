@@ -43,6 +43,7 @@ G> Rewrote Kindred WQ logic
 G> Rewrote Teemo Q logic a tad
 G> Tweaked Cassio E Windup Cancel to be a slight bit faster
 
+C> Fixed TahmKench Q Evade not being registered correctly
 C> Fixed Evade CirclePath not taking the fastest path
 C> Fixed Evade ChaseMode not functioning with force quick evade on
 C> Fixed Evade being hard capped on movements / second (it uses native movements now)
@@ -64,6 +65,17 @@ C> Implemented Profiler on all delegates used within the script to improve FPS
 C> Implemented a proper debug mode within the core (no more spaghetti of debug calls)
 C> Fixed some console issues with x.writeline being awaited
 C> Improved Orbwalker AA Damage handling
+C> Improved Orbwalker AA Reset times
+C> Improved Orbwalker CanAttack Times
+C> Improved Orbwalker CanMove Times
+C> Fixed Orbwalker Flee attacking minions >.>
+C> Improved FPS from AutoCleanse
+C> Improved Some Drawing handlers
+C> Fixed AutoWard using both Pink & Trinket at the same time
+C> Fixed some Timing calcs taking too long 
+C> Improved Drawing Cached Args to speed up HPBar/Position calculations during each frame
+ 
+
 
 G> Added all missing skins to skinchanger
 W> Also wrote a simple scraper for me to update this super quickly to never fall behind again XD
@@ -75,3 +87,8 @@ Again this is still very much TODO
 Beta testers have access to the build on x.24 please report bugs as usual on the REPO
 Evade testing is still needed on circular skillshots please use CoreDebug.dll from the repo so i can grab actual stacktraces once its updated for newest league version 
 Please avoid testing these with ExploitNative.dll its not worth using atm as many of the packet handlers are being moved to the new core & native so 99% of the bugs are broken now ill fix this next week
+
+
+TODO
+Dragon Laneclear - target dragon over enemies logic
+Add ForceOn option to profiler (code not menu) that will write to a file and send that to me on what is taking longer than 1ms per execution for lower end PCs so i can stop asking them to manually profile their shit
