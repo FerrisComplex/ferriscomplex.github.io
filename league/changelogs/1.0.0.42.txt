@@ -1,46 +1,47 @@
-G> Rewrote Vayne
-G> Rewrote Kindred WQ logic
-G> Rewrote Teemo Q logic a tad
-G> Tweaked Cassio E Windup Cancel to be a slight bit faster
-C> Fixed TahmKench Q Evade not being registered correctly
-C> Fixed Evade CirclePath not taking the fastest path
-C> Fixed Evade ChaseMode not functioning with force quick evade on
-C> Fixed Evade being hard capped on movements / second (it uses native movements now)
-C> Fixed EvadeThread sometimes getting stuck on awiting during a synchronized call
-C> Fixed Orbwalker for Sett Q usage
-C> Fixed Orbwalker cancelling syndra/yasuo/wain/veigar/kennen autos 
-C> Fixed Yi AA reset causing issues when the script was loaded after the orbwalker 
-C> Fixed some events not firing correctly
-C> Fixed some console issues with x.writeline being awaited
-C> Fixed Orbwalker Flee attacking minions >.>
-C> Fixed AutoWard using both Pink & Trinket at the same time
-C> Fixed some Timing calcs taking too long 
-A> Improved Drawings accross the board (20-40% fps increase)
-B> Implemented settings for ILChanges & Optimizations
-C> Gave the core its own menu (Native stuff) and allowed some settings to be tweaked
-W> https://gyazo.com/99d791d853f512e50c5d097b19aa5bb9
-G> Started to implemented language settings (Will still have to port all the old text in the assembly but will do it eventually)
-G> Added FerrisAIO API which will be releasing probably with this update (Custom events, faster drawings, quicker movement/attack logic, some custom things like pulling jungle timers from scoreboard (dragon/herald/baron))
-G> Added basics for packet casting back to my native (its a proxy so dont expect it to be bug free)
-B> Implemented Profiler on all delegates used within the script to improve FPS
-B> Implemented a proper debug mode within the core (no more spaghetti of debug calls)
-A> Improved Orbwalker AA Damage handling
-A> Improved Orbwalker AA Reset times
-A> Improved Orbwalker CanAttack Times
-A> Improved Orbwalker CanMove Times
-A> Improved FPS from AutoCleanse
-A> Improved Some Drawing handlers
-A> Improved Drawing Cached Args to speed up HPBar/Position calculations during each frame
-A> Improved Some issues with Text Drawing causing FPS drops
-G> Improved Obfuscated Stacktrace generator
-G> Improved Build System for project (No more glitchy missmatched internal versions xd)
-G> Added all missing skins to skinchanger
-W> Also wrote a simple scraper for me to update this super quickly to never fall behind again XD
-W> https://gyazo.com/8faa9ead1d500384ea1cb6fbe81c50c7
+Rewrote> Vayne
+Rewrote> Kindred WQ logic
+Rewrote> Teemo Q logic a tad
+Rewrote> Version Checker & Display Colors ingame
+Tweaked> Cassio E Windup Cancel to be a slight bit faster
+Fixed> TahmKench Q Evade not being registered correctly
+Fixed> Evade CirclePath not taking the fastest path
+Fixed> Evade ChaseMode not functioning with force quick evade on
+Fixed> Evade being hard capped on movements / second (it uses native movements now)
+Fixed> EvadeThread sometimes getting stuck on awiting during a synchronized call
+Fixed> Orbwalker for Sett Q usage
+Fixed> Orbwalker cancelling syndra/yasuo/wain/veigar/kennen autos 
+Fixed> Yi AA reset causing issues when the script was loaded after the orbwalker 
+Fixed> Some events not firing correctly
+Fixed> Some console issues with x.writeline being awaited
+Fixed> Orbwalker Flee attacking minions >.>
+Fixed> AutoWard using both Pink & Trinket at the same time
+Fixed> Some Timing calcs taking too long 
+Improved> Drawings accross the board (20-40% fps increase)
+Improved> Orbwalker AA Damage handling
+Improved> Orbwalker AA Reset times
+Improved> Orbwalker CanAttack Times
+Improved> Orbwalker CanMove Times
+Improved> FPS from AutoCleanse
+Improved> Some Drawing handlers
+Improved> Drawing Cached Args to speed up HPBar/Position calculations during each frame
+Improved> Some issues with Text Drawing causing FPS drops
+Improved> Obfuscated Stacktrace generator
+Improved> Build System for project (No more glitchy missmatched internal versions xd)
+Implemented> Settings for ILChanges & Optimizations
+Implemented> Profiler on all delegates used within the script to improve FPS
+Implemented> A proper debug mode within the core (no more spaghetti of debug calls)
+_Fixed> Gave the core its own menu (Native stuff) and allowed some settings to be tweaked
+Generic> https://gyazo.com/99d791d853f512e50c5d097b19aa5bb9
+_Tweaked> Started to implemented language settings (Will still have to port all the old text in the assembly but will do it eventually)
+Added> FerrisAIO API which will be releasing probably with this update (Custom events, faster drawings, quicker movement/attack logic, some custom things like pulling jungle timers from scoreboard (dragon/herald/baron))
+Added> Basics for packet casting back to my native (its a proxy so dont expect it to be bug free)
+Added> All missing skins to skinchanger
+Generic> Also wrote a simple scraper for me to update this super quickly to never fall behind again XD
+Generic> https://gyazo.com/8faa9ead1d500384ea1cb6fbe81c50c7
 
-W> As a small note, champion additions will be moved to be done later
-W> Had to rewrite a large chunk of my logic processor and I am only going to worry about whats already in public 
-W> Ill release the rest in the new year
+Generic> As a small note, champion additions will be moved to be done later
+Generic> Had to rewrite a large chunk of my logic processor and I am only going to worry about whats already in public 
+Generic> Ill release the rest in the new year
 
 
 -------------------------------------------
