@@ -1,94 +1,43 @@
-This is unreleased, It will not be pushed within the next few weeks due to IRL issues im having at the moment so be patient
-Its more of a sneak peak of what will be coming next major push
-
-G> Added Anivia - (Done & Working well! Still needs Wall against wall stuck logic but thats likely a later addition)
-G> Added Jayce - (Testing still WIP)
-G> Added Karthus - (Testing still WIP)
-G> Added Trundle - (Base Done Still needs logic)
-G> Added Sion - Very much not done, core skillset work but needs way more logic 
-G> Added Mordekaiser - (Testing still WIP)
-G> Added Morgana - (Very much still needs shield work but works, will also port the shield logic to fiora and fix hers soon)
-W> TODO - Fix Fiora W logic ^ with that
-G> Added Master Yi - (Works but is super basic)
-G> Added Malzahar - (Ult cancels ATM but works other than that)
-G> Added Khazix - (Testing still WIP)
-G> Added Kennen - (Testing still WIP)
-G> Added Karma - (Combo logic needs to be redone but works as is [more for a friend who wanted it in urf])
-G> Added Illaoi - (Testing still WIP)
-G> Added Camile - (Very fucking basic logic but functions, needs some actual heavy conditionals added to be useful outside aram)
-G> Added Aphelios - (Honestly i had no idea what his kit did before doing this, and i still dont more or less XD needs some real logic added)
-G> Added Lissandra - (This needs a fair bit more logic added but works at like gold level atm)
-G> Added Lulu - (This needs a full rewrite TBH)
-G> Added Nami - (This also needs a full rewrite of the combo logic everything else is fine)
-G> Added Nautilus - (Needs more CC Usage :thonk:)
-G> Added Reksai - (Needs more logic with ult usage & needs to check when pathing is faster with using tunnels)
-G> Added Renekton - (Testing still WIP)
-G> Added Rumble - (Is it just me or does his ult feel worthless now xd)
-G> Added Sona - (Its from my old BOL code, honestly needs some tweaks but that logic still stands strong XD)
-G> Added Soraka - (Bananas go brrrr need to add actual support logic since this was just for my troll picking to force remakes / troll games)
-G> Added Swain - (Testing still WIP)
-G> Added Syndra - (Fuck my logic is bad for this needs a full rewrite for quicker combos)
-G> Added Taliyah - (I hate this champion almost as much as i hate my script it needs work XD)
-G> Added Veigar - (E Prediction needs work the rest is good)
-G> Added Vladimir - (Needs better W usage but its good other than that)
-G> Added Xerath - (This needs to be redone with its own prediction for R/Q other than that it works)
-G> Added Yone - (Its okay ish i guess)
-C> Removed Yasuo - (It was terrible ill rewrite it again soon)
-G> Added Zigs - (Honestly this needs a full custom prediction for his spammable shit)
-G> Added Zoe - (Testing still WIP)
-G> Added Leblanc - (Testing still WIP)
-W> TODO Write sett?
-G> Rewrote Vayne - Seems much better now (QLogic needs work, RLogic im having to do mostly manually but works wonders other than that and has not yet missed an E)
+G> Rewrote Vayne
 G> Rewrote Kindred WQ logic
 G> Rewrote Teemo Q logic a tad
 G> Tweaked Cassio E Windup Cancel to be a slight bit faster
-
 C> Fixed TahmKench Q Evade not being registered correctly
 C> Fixed Evade CirclePath not taking the fastest path
 C> Fixed Evade ChaseMode not functioning with force quick evade on
 C> Fixed Evade being hard capped on movements / second (it uses native movements now)
 C> Fixed EvadeThread sometimes getting stuck on awiting during a synchronized call
-
 C> Fixed Orbwalker for Sett Q usage
 C> Fixed Orbwalker cancelling syndra/yasuo/wain/veigar/kennen autos 
 C> Fixed Yi AA reset causing issues when the script was loaded after the orbwalker 
 C> Fixed some events not firing correctly
-
-C> Improved Drawings accross the board (20-40% fps increase)
-C> Implemented settings for ILChanges & Optimizations
-C> Gave the core its own menu (Native stuff) and allowed some settings to be tweaked
-W> https://gyazo.com/99d791d853f512e50c5d097b19aa5bb9
-C> Started to implemented language settings (Will still have to port all the old text in the assembly but will do it eventually)
-C> Added FerrisAIO API which will be releasing probably with this update (Custom events, faster drawings, quicker movement/attack logic, some custom things like pulling jungle timers from scoreboard (dragon/herald/baron))
-C> Added basics for packet casting back to my native (its a proxy so dont expect it to be bug free)
-C> Implemented Profiler on all delegates used within the script to improve FPS
-C> Implemented a proper debug mode within the core (no more spaghetti of debug calls)
 C> Fixed some console issues with x.writeline being awaited
-C> Improved Orbwalker AA Damage handling
-C> Improved Orbwalker AA Reset times
-C> Improved Orbwalker CanAttack Times
-C> Improved Orbwalker CanMove Times
 C> Fixed Orbwalker Flee attacking minions >.>
-C> Improved FPS from AutoCleanse
-C> Improved Some Drawing handlers
 C> Fixed AutoWard using both Pink & Trinket at the same time
 C> Fixed some Timing calcs taking too long 
-C> Improved Drawing Cached Args to speed up HPBar/Position calculations during each frame
-C> Improved Some issues with Text Drawing causing FPS drops
-
-
+A> Improved Drawings accross the board (20-40% fps increase)
+B> Implemented settings for ILChanges & Optimizations
+C> Gave the core its own menu (Native stuff) and allowed some settings to be tweaked
+W> https://gyazo.com/99d791d853f512e50c5d097b19aa5bb9
+G> Started to implemented language settings (Will still have to port all the old text in the assembly but will do it eventually)
+G> Added FerrisAIO API which will be releasing probably with this update (Custom events, faster drawings, quicker movement/attack logic, some custom things like pulling jungle timers from scoreboard (dragon/herald/baron))
+G> Added basics for packet casting back to my native (its a proxy so dont expect it to be bug free)
+B> Implemented Profiler on all delegates used within the script to improve FPS
+B> Implemented a proper debug mode within the core (no more spaghetti of debug calls)
+A> Improved Orbwalker AA Damage handling
+A> Improved Orbwalker AA Reset times
+A> Improved Orbwalker CanAttack Times
+A> Improved Orbwalker CanMove Times
+A> Improved FPS from AutoCleanse
+A> Improved Some Drawing handlers
+A> Improved Drawing Cached Args to speed up HPBar/Position calculations during each frame
+A> Improved Some issues with Text Drawing causing FPS drops
+G> Improved Obfuscated Stacktrace generator
+G> Improved Build System for project (No more glitchy missmatched internal versions xd)
 G> Added all missing skins to skinchanger
 W> Also wrote a simple scraper for me to update this super quickly to never fall behind again XD
 W> https://gyazo.com/8faa9ead1d500384ea1cb6fbe81c50c7
-G> Improved Obfuscated Stacktrace generator
-G> Improved Build System for project (No more glitchy missmatched internal versions xd)
 
-Again this is still very much TODO
-Beta testers have access to the build on x.24 please report bugs as usual on the REPO
-Evade testing is still needed on circular skillshots please use CoreDebug.dll from the repo so i can grab actual stacktraces once its updated for newest league version 
-Please avoid testing these with ExploitNative.dll its not worth using atm as many of the packet handlers are being moved to the new core & native so 99% of the bugs are broken now ill fix this next week
-
-
-TODO
-Dragon Laneclear - target dragon over enemies logic
-Add ForceOn option to profiler (code not menu) that will write to a file and send that to me on what is taking longer than 1ms per execution for lower end PCs so i can stop asking them to manually profile their shit
+W> As a small note, champion additions will be moved to be done later
+W> Had to rewrite a large chunk of my logic processor and I am only going to worry about whats already in public 
+W> Ill release the rest in the new year
