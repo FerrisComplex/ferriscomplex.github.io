@@ -74,7 +74,7 @@ C> Improved Some Drawing handlers
 C> Fixed AutoWard using both Pink & Trinket at the same time
 C> Fixed some Timing calcs taking too long 
 C> Improved Drawing Cached Args to speed up HPBar/Position calculations during each frame
- 
+C> Improved Some issues with Text Drawing causing FPS drops
 
 
 G> Added all missing skins to skinchanger
