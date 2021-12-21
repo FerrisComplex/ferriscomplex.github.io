@@ -18,6 +18,7 @@ Fixed> AutoWard using both Pink & Trinket at the same time
 Fixed> Some Timing calcs taking too long 
 Fixed> ChogathR on ultbook having wrong minion damage & not targeting dragon/barons correctly
 Fixed> LastPosition Not Sending Units to Base after recal
+Fixed> Auto BushWard using wards when target is MIA for long time
 Improved> Drawings accross the board (20-40% fps increase)
 Improved> Orbwalker AA Damage handling
 Improved> Orbwalker AA Reset times
