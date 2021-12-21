@@ -17,12 +17,14 @@ Fixed> Orbwalker Flee attacking minions >.>
 Fixed> AutoWard using both Pink & Trinket at the same time
 Fixed> Some Timing calcs taking too long 
 Fixed> ChogathR on ultbook having wrong minion damage & not targeting dragon/barons correctly
+Fixed> LastPosition Not Sending Units to Base after recal
 Improved> Drawings accross the board (20-40% fps increase)
 Improved> Orbwalker AA Damage handling
 Improved> Orbwalker AA Reset times
 Improved> Orbwalker CanAttack Times
 Improved> Orbwalker CanMove Times
 Improved> FPS from AutoCleanse
+Improved> FPS from LastPosition Minimap Drawing
 Improved> Some Drawing handlers
 Improved> Drawing Cached Args to speed up HPBar/Position calculations during each frame
 Improved> Some issues with Text Drawing causing FPS drops
@@ -31,6 +33,7 @@ Improved> Build System for project (No more glitchy missmatched internal version
 Implemented> Settings for ILChanges & Optimizations
 Implemented> Profiler on all delegates used within the script to improve FPS
 Implemented> A proper debug mode within the core (no more spaghetti of debug calls)
+Implemented> A way to Auto load scripts by default if existing
 _Fixed> Gave the core its own menu (Native stuff) and allowed some settings to be tweaked
 Generic> https://gyazo.com/99d791d853f512e50c5d097b19aa5bb9
 _Tweaked> Started to implemented language settings (Will still have to port all the old text in the assembly but will do it eventually)
@@ -49,6 +52,5 @@ Generic> Ill release the rest in the new year
 Current TODO for .42
 
 Move JungleTimers to Drawing<Drawer,Updater> processing
-Move LastPosition to Drawing<Drawer,Updater> processing (this is gonna suck it might be better to rewrite it since its kinda held together with tape xd)
 Move Waypoints to faster Updater logic for pathfinder & drawer cache
 Move NetworkProxy to properlly MITM leagues network handler on new native (can use /Exploits/PCasting/GenericPacketCaster.cs as a testcase)
