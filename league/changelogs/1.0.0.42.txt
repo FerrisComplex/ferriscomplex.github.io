@@ -35,6 +35,7 @@ Implemented> Settings for ILChanges & Optimizations
 Implemented> Profiler on all delegates used within the script to improve FPS
 Implemented> A proper debug mode within the core (no more spaghetti of debug calls)
 Implemented> A way to Auto load scripts by default if existing
+Implemented> Basic DamageCalc Corrections to improve Internal Ensoul Calcs
 _Fixed> Gave the core its own menu (Native stuff) and allowed some settings to be tweaked
 Generic> https://gyazo.com/99d791d853f512e50c5d097b19aa5bb9
 _Tweaked> Started to implemented language settings (Will still have to port all the old text in the assembly but will do it eventually)
