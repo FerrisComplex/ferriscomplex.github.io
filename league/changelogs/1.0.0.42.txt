@@ -9,7 +9,7 @@ Fixed> Evade ChaseMode not functioning with force quick evade on
 Fixed> Evade being hard capped on movements / second (it uses native movements now)
 Fixed> EvadeThread sometimes getting stuck on awiting during a synchronized call
 Fixed> Orbwalker for Sett Q usage
-Fixed> Orbwalker cancelling syndra/yasuo/wain/veigar/kennen autos 
+Fixed> Orbwalker cancelling syndra/yasuo/swain/veigar/kennen autos 
 Fixed> Yi AA reset causing issues when the script was loaded after the orbwalker 
 Fixed> Some events not firing correctly
 Fixed> Some console issues with x.writeline being awaited
@@ -26,6 +26,9 @@ Improved> Orbwalker CanAttack Times
 Improved> Orbwalker CanMove Times
 Improved> FPS from AutoCleanse
 Improved> FPS from LastPosition Minimap Drawing
+Improved> CPU Time from CustomTick Handler
+Improved> CPU Time from Native OutgoingPacketProcess event
+Improved> CPU Time on failed Native versions
 Improved> Some Drawing handlers
 Improved> Drawing Cached Args to speed up HPBar/Position calculations during each frame
 Improved> Some issues with Text Drawing causing FPS drops
@@ -53,6 +56,8 @@ Generic> Ill release the rest in the new year
 -------------------------------------------
 Current TODO for .42
 
-Move JungleTimers to Drawing<Drawer,Updater> processing
 Move Waypoints to faster Updater logic for pathfinder & drawer cache
-Move NetworkProxy to properlly MITM leagues network handler on new native (can use /Exploits/PCasting/GenericPacketCaster.cs as a testcase)
+^ Might do this later cause holy fuck my math for drawing this is so fucking messy im just going to have to fully rewrite it >.> (maybe .43 maybe this version who knows at this point depends on my free time)
+
+Fix Orbwalker laneclear not attacking minions as soon as possible (ShouldWaitHealth being wrong HP calc maybe?)
+Fix Orbwalker lasthit (missile speed) been too slow
