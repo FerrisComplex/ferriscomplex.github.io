@@ -19,6 +19,8 @@ Fixed> Some Timing calcs taking too long
 Fixed> ChogathR on ultbook having wrong minion damage & not targeting dragon/barons correctly
 Fixed> LastPosition Not Sending Units to Base after recal
 Fixed> Auto BushWard using wards when target is MIA for long time
+Fixed> AutoPotion consuming all pots at once
+Fixed> Some lillia bugs with movement & Q usage
 Improved> Drawings accross the board (20-40% fps increase)
 Improved> Orbwalker AA Damage handling
 Improved> Orbwalker AA Reset times
@@ -34,11 +36,13 @@ Improved> Drawing Cached Args to speed up HPBar/Position calculations during eac
 Improved> Some issues with Text Drawing causing FPS drops
 Improved> Obfuscated Stacktrace generator
 Improved> Build System for project (No more glitchy missmatched internal versions xd)
+Improved> Prediction Execution Speed on V1/V2 (Circles/Lines)
 Implemented> Settings for ILChanges & Optimizations
 Implemented> Profiler on all delegates used within the script to improve FPS
 Implemented> A proper debug mode within the core (no more spaghetti of debug calls)
 Implemented> A way to Auto load scripts by default if existing
 Implemented> Basic DamageCalc Corrections to improve Internal Ensoul Calcs
+Implemented> Ping Vision on ward detection
 _Fixed> Gave the core its own menu (Native stuff) and allowed some settings to be tweaked
 Generic> https://gyazo.com/99d791d853f512e50c5d097b19aa5bb9
 _Tweaked> Started to implemented language settings (Will still have to port all the old text in the assembly but will do it eventually)
@@ -51,13 +55,3 @@ Generic> https://gyazo.com/8faa9ead1d500384ea1cb6fbe81c50c7
 Generic> As a small note, champion additions will be moved to be done later
 Generic> Had to rewrite a large chunk of my logic processor and I am only going to worry about whats already in public 
 Generic> Ill release the rest in the new year
-
-
--------------------------------------------
-Current TODO for .42
-
-Move Waypoints to faster Updater logic for pathfinder & drawer cache
-^ Might do this later cause holy fuck my math for drawing this is so fucking messy im just going to have to fully rewrite it >.> (maybe .43 maybe this version who knows at this point depends on my free time)
-
-Fix Orbwalker laneclear not attacking minions as soon as possible (ShouldWaitHealth being wrong HP calc maybe?)
-Fix Orbwalker lasthit (missile speed) been too slow

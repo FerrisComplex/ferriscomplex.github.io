@@ -1,10 +1,11 @@
 Ahri
 Akali
 Akshan
-Alistar (Pending Rewrite)
+Alistar
 Amumu
-Annie (Pending Rewrite)
-Ashe 
+Anivia
+Annie
+Ashe
 Azir
 Blitzcrank
 Brand
@@ -19,7 +20,7 @@ Elise
 Evelynn
 Ezreal
 Fiora
-GangPlank
+Gangplank
 Garen
 Gnar
 Gragas
@@ -38,7 +39,8 @@ Kayle
 Kayn
 Kindred
 Kled
-Kogmaw
+KogMaw
+Leblanc
 LeeSin
 Leona
 Lillia
@@ -58,8 +60,10 @@ Rengar
 Riven
 Samira
 Shaco
+Sion
 Sivir
-Sylas (Has about 40% of all champions ult logic added :soonTM:)
+Sylas
+TahmKench
 Teemo
 Tristana
 Tryndamere
@@ -68,7 +72,7 @@ Twitch
 Udyr
 Urgot
 Varus
-Vayne (Pending rewrite)
+Vayne
 Velkoz
 Vex
 Vi
@@ -78,7 +82,7 @@ Warwick
 Xayah
 XinZhao
 Yorick
-Yuumi (I will update Q Logic when i have time)
+Yuumi
 Zac
 Zed
 Zilean
