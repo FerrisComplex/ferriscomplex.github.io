@@ -1,0 +1,902 @@
+#FerrisAIO
+ferrisaio.ferrisaio=FerrisAIO
+ferrisaio.championmenu.teemo=Script Teemo
+ferrisaio.orbwalker=Ferris Orbwalker
+ferrisaio.evade=FEvade
+ferrisaio.loadevadescript=Charger le script d'évasion
+ferrisaio.activator=Activateur
+ferrisaio.awareness=Conscience
+ferrisaio.fpred=FerrisPrédiction
+ferrisaio.baseult=BaseUlt
+ferrisaio.autolevel=Niveau automatique Teemo
+ferrisaio.skinchanger=Changeur de peau
+ferrisaio.exploits=Exploits
+ferrisaio.utilities=Utilitaires
+ferrisaio.debugmenu=Débogage
+
+#FerrisAIO.Orbwalker
+ferrisaio.orbwalker.enabled_=Activé
+ferrisaio.orbwalker.attackable=Unité attaquable
+ferrisaio.orbwalker.prioritize=Priorité
+ferrisaio.orbwalker.orbwalker=Orbwalker
+ferrisaio.orbwalker.farm=Ferme
+ferrisaio.orbwalker.advanced=Avancé
+ferrisaio.orbwalker.drawing=Dessin
+ferrisaio.orbwalker.shove=Pousser (Basculer)
+ferrisaio.orbwalker.freeze=Geler (Basculer)
+ferrisaio.orbwalker.combo=Combo
+ferrisaio.orbwalker.combowithmove=Combo sans mouvement
+ferrisaio.orbwalker.harass=Harceler
+ferrisaio.orbwalker.laneclear=Voie dégagée
+ferrisaio.orbwalker.lasthit=Dernier coup
+ferrisaio.orbwalker.flee=Fuyez
+ferrisaio.orbwalker.reducedamage=Réduit les dégâts AA de %
+
+#FerrisAIO.Orbwalker.Attackable
+ferrisaio.orbwalker.attackable.barrels=Tonneaux
+ferrisaio.orbwalker.attackable.jungleplant=Plante de la jungle
+ferrisaio.orbwalker.attackable.specialminions=Familiers
+ferrisaio.orbwalker.attackable.wards=Gardes
+
+#FerrisAIO.Orbwalker.Priorité
+ferrisaio.orbwalker.prioritize.farmoverharass=Ferme sur harcèlement
+ferrisaio.orbwalker.prioritize.specialminion=Sbire spécial
+ferrisaio.orbwalker.prioritize.smalljungle=Petite jungle
+ferrisaio.orbwalker.prioritize.turret=Tourelle
+
+#FerrisAIO.Orbwalker.Orbwalker
+ferrisaio.orbwalker.orbwalker.extrahold=Position de maintien supplémentaire
+ferrisaio.orbwalker.orbwalker.moverandom=Randomiser le mouvement lorsqu'il est trop proche
+ferrisaio.orbwalker.orbwalker.windupdelay=Délai de liquidation
+ferrisaio.orbwalker.orbwalker.limitattack=Ne kite pas si la vitesse d'attaque > 2,5
+
+#FerrisAIO.Orbwalker.Farm
+ferrisaio.orbwalker.farm.farmdelay=Retard de la ferme
+ferrisaio.orbwalker.farm.turretfarm=Logique de ferme de tourelle
+ferrisaio.orbwalker.farm.turretfarmmethod=Méthode de ferme de tourelle
+ferrisaio.orbwalker.farm.turretframmaxlevel=Désactiver la tourelle lorsque le niveau du joueur > [EQ] x
+ferrisaio.orbwalker.farm.freezehealth=Gèle la santé maximale des minions
+ferrisaio.orbwalker.farm.laneclearmethod=Méthode de ferme LaneClear
+ferrisaio.orbwalker.farm.cannonfocus=Priorité aux canons
+ferrisaio.orbwalker.farm.freezeharass=Autoriser le harcèlement en gel
+
+#FerrisAIO.Orbwalker.Avancé
+ferrisaio.orbwalker.advanced.yasuowallcheck=Vérifier le pare-vent Yasuo
+ferrisaio.orbwalker.advanced.missilecheck=Utiliser les tests de missiles
+ferrisaio.orbwalker.advanced.calcitemdamage=Calculer les dégâts de l'objet
+ferrisaio.orbwalker.advanced.supportmode_teemo=Mode d'assistance
+ferrisaio.orbwalker.advanced.detectaaresets=Détecter les compétences de réinitialisation AA
+ferrisaio.orbwalker.advanced.allowkalistadoublejump=Utiliser le double saut Kalista
+ferrisaio.orbwalker.advanced.beforecanattack_=Attaquer les premiers Millis
+ferrisaio.orbwalker.advanced.beforecanmoveallowscriptcontrol=Autoriser le contrôle du script du déplacement anticipé
+ferrisaio.orbwalker.advanced.beforecanmove=Déplacement manuel au début des millis
+ferrisaio.orbwalker.advanced.limitmovementpackets=Empêcher les spams de paquets de mouvement
+ferrisaio.orbwalker.advanced.limitattackpackets=Empêcher le spam d'attaque par paquets
+
+#FerrisAIO.Orbwalker.Dessin
+ferrisaio.orbwalker.drawing.drawattackrange=Portée d'attaque
+ferrisaio.orbwalker.drawing.drawholdposition=Position de maintien du dessin
+ferrisaio.orbwalker.drawing.drawkillableminion=Dessiner un serviteur tuable
+ferrisaio.orbwalker.drawing.showfakeclick=Afficher FakeClick
+ferrisaio.orbwalker.drawing.fakeclickdelay=Délai entre les clics en millilis
+ferrisaio.orbwalker.drawing.glowminions=Lumeur des derniers coups
+ferrisaio.orbwalker.drawing.minionsglow=Lumeur de la dernière couleur des Minions
+ferrisaio.orbwalker.drawing.minionsdraw=Dessiner un marqueur lasthit
+ferrisaio.orbwalker.drawing.minionsanimate=Animer le marqueur lasthit
+ferrisaio.orbwalker.drawing.minionsanimatecolor=Parcourir la couleur du marqueur lasthit
+
+#FerrisAIO.Evade
+ferrisaio.evade.main=Principal
+ferrisaio.evade.keysettings=Paramètres clés
+ferrisaio.evade.miscsettings=Paramètres divers
+ferrisaio.evade.spells=Sorts
+ferrisaio.evade.traps=Pièges
+ferrisaio.evade.evadespells=Éviter les sorts
+ferrisaio.evade.draw=Dessiner
+ferrisaio.evade.autosetpingmenu=AutoSetPing
+
+#FerrisAIO.Evade.Main
+ferrisaio.evade.main.dodgeskillshots=Esquiver les tirs de compétence
+ferrisaio.evade.main.activateevadespells=Utiliser des sorts d'évasion
+ferrisaio.evade.main.dodgedangerous=Esquiver seulement dangereux
+ferrisaio.evade.main.dodgefowspells=Esquiver les tirs de compétence FOW
+ferrisaio.evade.main.dodgecircularspells=Esquiver les tirs circulaires
+ferrisaio.evade.main.dodgecircularspells_v2=Logique circulaire de l'évadé [BETA]
+
+#FerrisAIO.Evade.KeySettings
+ferrisaio.evade.keysettings.dodgedangerouskeyenabled=Activer Dodge Only Dangerous Keys
+ferrisaio.evade.keysettings.dodgedangerouskey=Esquiver uniquement la clé dangereuse
+ferrisaio.evade.keysettings.dodgedangerouskey2=Esquiver uniquement la clé dangereuse 2
+ferrisaio.evade.keysettings.dodgeonlyoncombokeyenabled=Activer l'esquive uniquement sur la touche combinée
+ferrisaio.evade.keysettings.dodgecombokey=Clé combo d'esquive uniquement
+ferrisaio.evade.keysettings.dontdodgekeyenabled=Activer la clé Ne pas esquiver
+ferrisaio.evade.keysettings.dontdodgekey=Ne pas esquiver la clé
+
+#FerrisAIO.Evade.MiscSettings
+ferrisaio.evade.miscsettings.evademode=Éviter le profil
+ferrisaio.evade.miscsettings.blockdangerdash=Bloquer le sort dangereux de Dash
+ferrisaio.evade.miscsettings.higherprecision=Précision d'esquive améliorée
+ferrisaio.evade.miscsettings.recalculateposition=Recalculer le chemin
+ferrisaio.evade.miscsettings.continuemovement=Continuer le dernier mouvement
+ferrisaio.evade.miscsettings.calculatewindupdelay=Calculer le délai de liquidation
+ferrisaio.evade.miscsettings.checkspellcollision=Vérifier la collision des sorts
+ferrisaio.evade.miscsettings.preventdodgingundertower=Empêcher d'esquiver sous la tour
+ferrisaio.evade.miscsettings.preventdodgingnearenemy=Empêcher d'esquiver les ennemis proches
+ferrisaio.evade.miscsettings.advancedspelldetection=Détection orthographique avancée
+ferrisaio.evade.miscsettings.clickremove=Autoriser la suppression du clic gauche ^ Clic gauche pour supprimer les pièges et les globals
+ferrisaio.evade.miscsettings.resetconfig=Réinitialiser la configuration d'évasion
+ferrisaio.evade.miscsettings.limiter=Humanisateur
+ferrisaio.evade.miscsettings.fastevade=Évasion rapide
+ferrisaio.evade.miscsettings.extrabuffers=Tampons supplémentaires
+ferrisaio.evade.miscsettings.loadtests=Tests
+
+#FerrisAIO.Evade.MiscSettings.Limiter
+ferrisaio.evade.miscsettings.limiter.clickonlyonce=Cliquez une seule fois
+ferrisaio.evade.miscsettings.limiter.enableevadedistance=Évasion étendue
+ferrisaio.evade.miscsettings.limiter.ticklimiter=Limiteur de tic
+ferrisaio.evade.miscsettings.limiter.spelldetectiontime=Durée de détection des sorts
+ferrisaio.evade.miscsettings.limiter.reactiontime=Temps de réaction
+ferrisaio.evade.miscsettings.limiter.dodgeinterval=Intervalle d'esquive
+
+#FerrisAIO.Evade.MiscSettings.FastEvade
+ferrisaio.evade.miscsettings.fastevade.fastmovementblock=Bloc de mouvement rapide
+ferrisaio.evade.miscsettings.fastevade.fastevadeactivationtime=Heure d'activation de FastEvade
+ferrisaio.evade.miscsettings.fastevade.spellactivationtime=Heure d'activation du sort
+ferrisaio.evade.miscsettings.fastevade.rejectmindistance=Tampon de distance de collision
+
+#FerrisAIO.Evade.MiscSettings.ExtraBuffers
+ferrisaio.evade.miscsettings.extrabuffers.extrapingbuffer=Tampon de ping supplémentaire
+ferrisaio.evade.miscsettings.extrabuffers.extracpadistance=Distance de collision supplémentaire
+ferrisaio.evade.miscsettings.extrabuffers.extraspellradius=Rayon de sort supplémentaire
+ferrisaio.evade.miscsettings.extrabuffers.extraevadedistance=Distance d'évasion supplémentaire
+ferrisaio.evade.miscsettings.extrabuffers.extraavoiddistance=Distance d'évitement supplémentaire
+ferrisaio.evade.miscsettings.extrabuffers.mincomfortzone=Distance minimale jusqu'au champion
+
+#FerrisAIO.Evade.MiscSettings.LoadTests
+ferrisaio.evade.miscsettings.loadtests.loadspelltester=Charger le testeur orthographique
+
+#FerrisAIO.Evade.EvadeSpells
+ferrisaio.evade.evadespells.flashevadespellsettings=Flash
+
+#FerrisAIO.Evade.EvadeSpells.FlashEvadeSpellSettings
+ferrisaio.evade.evadespells.flashevadespellsettings.flashuseevadespell=Utiliser le sort
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespelldangerlevel=Niveau de danger
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespellmode=Mode sort
+
+#FerrisAIO.Evade.Draw
+ferrisaio.evade.draw.drawskillshots=Dessiner des SkillShots
+ferrisaio.evade.draw.showstatus=Afficher le statut d'évasion
+ferrisaio.evade.draw.drawspellpos=Dessiner la position du sort
+ferrisaio.evade.draw.drawevadeposition=Dessiner la position d'évasion
+ferrisaio.evade.draw.dangerleveldrawings=Dessins de niveaux de danger
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing=Faible
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing=Normal
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing=Haut
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing=Extrême
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing=Impossible d'esquiver
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.LowDrawing
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowwidth=Largeur de la ligne
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowcolor=Couleur
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowenable=Activer
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.NormalDrawing
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalwidth=Largeur de la ligne
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalcolor=Couleur
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalenable=Activer
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.HighDrawing
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highwidth=Largeur de la ligne
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highcolor=Couleur
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highenable=Activer
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.ExtremeDrawing
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremewidth=Largeur de la ligne
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremecolor=Couleur
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremeenable=Activer
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.UndodgeableDrawing
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablewidth=Largeur de la ligne
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablecolor=Couleur
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeableenable=Activer
+
+#FerrisAIO.Evade.AutoSetPingMenu
+ferrisaio.evade.autosetpingmenu.autosetpingon=Configuration automatique du ping
+ferrisaio.evade.autosetpingmenu.autosetpercentile=Définition automatique du centile
+ferrisaio.evade.autosetpingmenu.testskillshotdelay=Délai de test de compétence
+
+#FerrisAIO.Activator
+ferrisaio.activator.autopotions=Potions automatiques
+ferrisaio.activator.defensive=Défensif
+ferrisaio.activator.offensive=Offensif
+ferrisaio.activator.autozhonya=Zhonya automatique
+ferrisaio.activator.autocleanse=Nettoyage automatique
+ferrisaio.activator.summonerspell=Sort d'invocateur
+ferrisaio.activator.turnaround=Retour automatique
+ferrisaio.activator.autolantern=Lanterne automatique
+
+#FerrisAIO.Activator.AutoPotions
+ferrisaio.activator.autopotions.enabled=Activé
+ferrisaio.activator.autopotions.healthpercent=^ Pourcentage de santé du joueur <[EQ] x %
+
+#FerrisAIO.Activator.Defensive
+ferrisaio.activator.defensive.locketoftheironsolari=Médaillon du fer Solari
+ferrisaio.activator.defensive.randuinomen=Présage de Randuin
+ferrisaio.activator.defensive.redemption=Rédemption
+ferrisaio.activator.defensive.gargoylestoneplate=Gargouille en pierre plate
+
+#FerrisAIO.Activator.Defensive.LocketOfTheIronSolari
+ferrisaio.activator.defensive.locketoftheironsolari.enabled=Activé
+ferrisaio.activator.defensive.locketoftheironsolari.onlycombo=Seul le combo actif
+ferrisaio.activator.defensive.locketoftheironsolari.healthpercent=Lorsque le pourcentage de santé du joueur <[EQ] x %
+ferrisaio.activator.defensive.locketoftheironsolari.damagetime=Temps de calcul des dommages (ms)
+
+#FerrisAIO.Activator.Defensive.RanduinOmen
+ferrisaio.activator.defensive.randuinomen.enabled=Activé
+ferrisaio.activator.defensive.randuinomen.onlycombo=Seul le combo actif
+ferrisaio.activator.defensive.randuinomen.minhit=Nombre minimum de coups >[EQ] x
+ferrisaio.activator.defensive.randuinomen.healthpercent=Lorsque le pourcentage de santé du joueur <[EQ] x %
+
+#FerrisAIO.Activator.Defensive.Redemption
+ferrisaio.activator.defensive.redemption.enabled=Activé
+ferrisaio.activator.defensive.redemption.onlycombo=Seul le combo actif
+ferrisaio.activator.defensive.redemption.healthpercent=Lorsque le pourcentage de santé du joueur <[EQ] x %
+ferrisaio.activator.defensive.redemption.calculatedamage=Calculer les dégâts entrants
+ferrisaio.activator.defensive.redemption.damagepercent=Pourcentage de dégâts entrants> [EQ] x %
+ferrisaio.activator.defensive.redemption.damagetime=Temps de calcul des dégâts entrants (ms)
+
+#FerrisAIO.Activator.Defensive.GargoyleStoneplate
+ferrisaio.activator.defensive.gargoylestoneplate.enabled=Activé
+ferrisaio.activator.defensive.gargoylestoneplate.onlycombo=Seul le combo actif
+ferrisaio.activator.defensive.gargoylestoneplate.healthpercent=Lorsque le pourcentage de santé du joueur <[EQ] x %
+ferrisaio.activator.defensive.gargoylestoneplate.calculatedamage=Calculer les dégâts entrants
+ferrisaio.activator.defensive.gargoylestoneplate.damagepercent=Pourcentage de dégâts reçus >[EQ] x %
+ferrisaio.activator.defensive.gargoylestoneplate.damagetime=Temps de calcul des dégâts entrants (ms)
+
+#FerrisAIO.Activator.Offensive
+ferrisaio.activator.offensive.prowlersclaw=Griffe du rôdeur
+ferrisaio.activator.offensive.everfrost=Givre éternel
+ferrisaio.activator.offensive.galeforce=Galeforce
+ferrisaio.activator.offensive.hextechprotobelt01=Protoceinture Hextech-01
+ferrisaio.activator.offensive.stridebreaker=Brise-enjambée
+ferrisaio.activator.offensive.ironspikewhip=Fouet à pointes de fer
+ferrisaio.activator.offensive.goredrinker=Goredrinker
+ferrisaio.activator.offensive.youmuughostblade=La lame fantôme de Youmuu
+
+#FerrisAIO.Activator.Offensive.ProwlersClaw
+ferrisaio.activator.offensive.prowlersclaw.enabled=Activé
+ferrisaio.activator.offensive.prowlersclaw.onlycombo=Seul le combo actif
+ferrisaio.activator.offensive.prowlersclaw.dontprowlersundertower=Ne pas utiliser sous la tour
+ferrisaio.activator.offensive.prowlersclaw.enemyhealthpercent=Lorsque le pourcentage de santé cible <[EQ] x %
+
+#FerrisAIO.Activator.Offensive.Everfrost
+ferrisaio.activator.offensive.everfrost.enabled=Activé
+ferrisaio.activator.offensive.everfrost.onlycombo=Seul le combo actif
+ferrisaio.activator.offensive.everfrost.enemyhealthpercent=Lorsque le pourcentage de santé cible <[EQ] x %
+
+#FerrisAIO.Activator.Offensive.Galeforce
+ferrisaio.activator.offensive.galeforce.enabled=Activé
+ferrisaio.activator.offensive.galeforce.onlycombo=Seul le combo actif
+ferrisaio.activator.offensive.galeforce.enemyhealthpercent=Lorsque le pourcentage de santé cible <[EQ] x %
+
+#FerrisAIO.Activator.Offensive.HextechProtobelt01
+ferrisaio.activator.offensive.hextechprotobelt01.enabled=Activé
+ferrisaio.activator.offensive.hextechprotobelt01.onlycombo=Seul le combo actif
+ferrisaio.activator.offensive.hextechprotobelt01.enemyhealthpercent=Lorsque le pourcentage de santé cible <[EQ] x %
+
+#FerrisAIO.Activator.Offensive.Stridebreaker
+ferrisaio.activator.offensive.stridebreaker.enabled=Activé
+ferrisaio.activator.offensive.stridebreaker.combo=Utiliser sur combo
+ferrisaio.activator.offensive.stridebreaker.jungle=Utiliser sur JungleClear
+
+#FerrisAIO.Activator.Offensive.IronspikeWhip
+ferrisaio.activator.offensive.ironspikewhip.enabled=Activé
+ferrisaio.activator.offensive.ironspikewhip.combo=Utiliser sur Combo
+ferrisaio.activator.offensive.ironspikewhip.jungle=Utiliser sur JungleClear
+ferrisaio.activator.offensive.ironspikewhip.isurf2=Utiliser plus activement sur URF
+
+#FerrisAIO.Activator.Offensive.Goredrinker
+ferrisaio.activator.offensive.goredrinker.enabled=Activé
+ferrisaio.activator.offensive.goredrinker.combo=Utiliser sur Combo
+ferrisaio.activator.offensive.goredrinker.jungle=Utiliser sur JungleClear
+ferrisaio.activator.offensive.goredrinker.isurf2=Utiliser plus activement sur URF
+
+#FerrisAIO.Activator.Offensive.YoumuuGhostblade
+ferrisaio.activator.offensive.youmuughostblade.enabled=Activé
+ferrisaio.activator.offensive.youmuughostblade.onlycombo=Seul le combo actif
+
+#FerrisAIO.Activator.AutoZhonya
+ferrisaio.activator.autozhonya.spellblock=Bloquer les sorts
+ferrisaio.activator.autozhonya.enabled=Activé
+ferrisaio.activator.autozhonya.lowhealth=Utiliser sur faible HP
+ferrisaio.activator.autozhonya.healthpercent=^ Pourcentage de santé du joueur <[EQ] x %
+
+#FerrisAIO.Activator.AutoCleanse
+ferrisaio.activator.autocleanse._______sep1=Oui, ceci est également utilisé pour QSS !
+ferrisaio.activator.autocleanse._______sep2=Désactivé par défaut en raison de mauvaises performances
+ferrisaio.activator.autocleanse.bufftype=Type de buff
+ferrisaio.activator.autocleanse.bufftarget=Cible de buff
+ferrisaio.activator.autocleanse.enabled_=Activé_
+ferrisaio.activator.autocleanse.miniduration=Durée minimale du buff (ms)
+ferrisaio.activator.autocleanse.onlycombo=Seul le combo actif
+ferrisaio.activator.autocleanse.onlylowhealth=Uniquement un faible pourcentage de santé
+ferrisaio.activator.autocleanse.healthpercent=^ Min HealthPercent <[EQ] x %
+ferrisaio.activator.autocleanse.allowally=Autoriser la purification des alliés
+ferrisaio.activator.autocleanse.antiexaust=À utiliser lorsque épuisé
+ferrisaio.activator.autocleanse.healthpercentexaust=^ HealthPercent >[EQ] x %
+ferrisaio.activator.autocleanse.antikill=À utiliser lorsque Ignite/Poision/DOT tuera et aucun ennemi à proximité
+
+#FerrisAIO.Activator.AutoCleanse.BuffType
+ferrisaio.activator.autocleanse.bufftype.cleanseblind=Aveugle
+ferrisaio.activator.autocleanse.bufftype.cleansecharm=Charme
+ferrisaio.activator.autocleanse.bufftype.cleansedamage=Dégâts
+ferrisaio.activator.autocleanse.bufftype.cleansefear=Peur
+ferrisaio.activator.autocleanse.bufftype.cleanseflee=Fuit
+ferrisaio.activator.autocleanse.bufftype.cleansepolymorph=Polymorphe
+ferrisaio.activator.autocleanse.bufftype.cleansesilence=Silence
+ferrisaio.activator.autocleanse.bufftype.cleanseslow=Lent
+ferrisaio.activator.autocleanse.bufftype.cleansesnare=Caisse claire
+ferrisaio.activator.autocleanse.bufftype.cleansestun=Étourdir
+ferrisaio.activator.autocleanse.bufftype.cleansesuppression=Suppression
+ferrisaio.activator.autocleanse.bufftype.cleansetaunt=Raillerie
+ferrisaio.activator.autocleanse.bufftype.cleanseasleep=En sommeil
+
+#FerrisAIO.Activator.AutoCleanse.BuffTarget
+ferrisaio.activator.autocleanse.bufftarget.cleanseon1073741853=Teemo
+
+#FerrisAIO.Activator.SummonerSpell
+ferrisaio.activator.summonerspell.barrier=Barrière
+ferrisaio.activator.summonerspell.exhaust=Échappement
+ferrisaio.activator.summonerspell.heal=Soigner
+ferrisaio.activator.summonerspell.ignite=Allumer
+ferrisaio.activator.summonerspell.smiteslot=Châtiment
+ferrisaio.activator.summonerspell.spellbookslot=Livre de sorts ultime
+
+#FerrisAIO.Activator.SummonerSpell.barrier
+ferrisaio.activator.summonerspell.barrier.enabled=Activé
+ferrisaio.activator.summonerspell.barrier.healthpercent=Lorsque le pourcentage de santé du joueur <[EQ] x %
+ferrisaio.activator.summonerspell.barrier.calculatedamage=Calculer les dégâts entrants
+ferrisaio.activator.summonerspell.barrier.damagepercent=Pourcentage de dégâts reçus >[EQ] x %
+
+#FerrisAIO.Activator.SummonerSpell.Échappement
+ferrisaio.activator.summonerspell.exhaust.enabled=Activé
+ferrisaio.activator.summonerspell.exhaust.healthpercent=Lorsque le pourcentage de santé du joueur <[EQ] x %
+ferrisaio.activator.summonerspell.exhaust.onlycombo=Seul le combo actif
+ferrisaio.activator.summonerspell.exhaust.alwayscast=Toujours lancer sur la cible
+ferrisaio.activator.summonerspell.exhaust.alwayscast2=Activer la logique d'incantation en solo
+
+#FerrisAIO.Activator.SummonerSpell.Heal
+ferrisaio.activator.summonerspell.heal.healtarget=Soigner la cible
+ferrisaio.activator.summonerspell.heal.enabled=Activé
+ferrisaio.activator.summonerspell.heal.healthpercent=Quand Ally HealthPercent <[EQ] x %
+ferrisaio.activator.summonerspell.heal.calculatedamage=Calculer les dégâts entrants
+ferrisaio.activator.summonerspell.heal.damagepercent=Pourcentage de dégâts reçus >[EQ] x %
+ferrisaio.activator.summonerspell.heal.damagetime=Temps de calcul des dégâts entrants (ms)
+
+#FerrisAIO.Activator.SummonerSpell.Heal.HealTarget
+ferrisaio.activator.summonerspell.heal.healtarget.heal_1073741853=Teemo
+
+#FerrisAIO.Activator.SummonerSpell.Ignite
+ferrisaio.activator.summonerspell.ignite.enabled=Activé
+ferrisaio.activator.summonerspell.ignite.killsteal=Quand la cible peut être tuée
+ferrisaio.activator.summonerspell.ignite.comboonly=Uniquement pendant le combo
+ferrisaio.activator.summonerspell.ignite.preventusewhenkillableaa=[KillSteal] Empêche de gaspiller l'allumage lorsque la cible peut être tuée avec 1 AA
+ferrisaio.activator.summonerspell.ignite.______sep3=^ Uniquement pour les champions de mêlée
+ferrisaio.activator.summonerspell.ignite.killableaaflash=^ Uniquement si la cible n'a pas de flash
+ferrisaio.activator.summonerspell.ignite.preventonaarangetarget=[KillSteal] Ne pas utiliser lorsque l'ennemi est à portée AA 
+ferrisaio.activator.summonerspell.ignite.rangeaaflash=^ Uniquement si la cible ne peut pas sortir de la portée d'allumage
+ferrisaio.activator.summonerspell.ignite.______sep2=^ Uniquement pour les champions de mêlée
+ferrisaio.activator.summonerspell.ignite.lowhealthandcombo=Utiliser sur le combo lorsque le pourcentage de santé cible <[EQ] x %
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot
+ferrisaio.activator.summonerspell.smiteslot.smitetarget=Châtier la cible
+ferrisaio.activator.summonerspell.smiteslot.enabled=Activé
+ferrisaio.activator.summonerspell.smiteslot.combo=Utiliser sur combo
+ferrisaio.activator.summonerspell.smiteslot.compostack=^ Seulement 2 piles
+ferrisaio.activator.summonerspell.smiteslot.killable=Utiliser sur KillAble
+ferrisaio.activator.summonerspell.smiteslot.drawrange=Dessiner une portée de châtiment
+ferrisaio.activator.summonerspell.smiteslot.drawstate=Dessiner l'état du châtiment
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot.SmiteTarget
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_baron=Baron Nashor
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_riftherald=Héraut de la faille
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_elder=Dragon ancien
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_chemtech=Dragon chimiste
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_hextech=Dragon Hextech
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_water=Dragon d'eau
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_fire=Dragon de feu
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_earth=Dragon de Terre
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_air=Dragon aérien
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_blue=Sentinelle bleue
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_red=Ronce rouge
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_razorbeak=Raptor cramoisi
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_murkwolf=Grand loup des ténèbres
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_krug=Ancien Krug
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_gromp=Gromp
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_crab=Scuttler de faille
+
+#FerrisAIO.Activator.SummonerSpell.SpellbookSlot
+ferrisaio.activator.summonerspell.spellbookslot.enableultimatespellbook=Activé
+ferrisaio.activator.summonerspell.spellbookslot.enablenolag=Mode faible décalage
+ferrisaio.activator.summonerspell.spellbookslot.sylasrspellnames=Noms des sorts
+
+#FerrisAIO.Activator.TurnAround
+ferrisaio.activator.turnaround.enabled=Activé
+ferrisaio.activator.turnaround.cassiopeiar=Éviter Cassiopée R
+ferrisaio.activator.turnaround.tryndamerew=Éviter Tryndamere W
+
+#FerrisAIO.Activator.AutoLantern
+ferrisaio.activator.autolantern.autocatch=Attraper la lanterne alliée
+ferrisaio.activator.autolantern.enabledcatch=Activé
+ferrisaio.activator.autolantern.onlykey=Seule la clé est active
+ferrisaio.activator.autolantern.catchkey=Attraper la clé de la lanterne
+ferrisaio.activator.autolantern.catchhealth=Lorsque le pourcentage de santé du joueur >[EQ] x %
+ferrisaio.activator.autolantern.autoward=Lancez la protection sur la lanterne ennemie
+ferrisaio.activator.autolantern.enabledward=Activé
+ferrisaio.activator.autolantern.wardkey=Lancer la protection sur la clé de la lanterne
+ferrisaio.activator.autolantern.warddelay=Lancer le délai de protection
+
+#FerrisAIO.Sensibilisation
+ferrisaio.awareness.attackrange=Portée d'attaque
+ferrisaio.awareness.autoward=Garde automatique
+ferrisaio.awareness.cooldowntrack=Piste de récupération
+ferrisaio.awareness.experiencetrack=Parcours d'expérience
+ferrisaio.awareness.gankalert=Alerte Gank
+ferrisaio.awareness.hudtrack=Piste Hud
+ferrisaio.awareness.inhibitortime=Temps d'inhibition
+ferrisaio.awareness.jungletime=Le temps de la jungle
+ferrisaio.awareness.lastposition=Dernière position
+ferrisaio.awareness.recalltrack=Rappeler la piste
+ferrisaio.awareness.turrethealth=Santé de la tourelle
+ferrisaio.awareness.turretrange=Portée d'attaque de la tourelle
+ferrisaio.awareness.wardtrack=Piste de service
+ferrisaio.awareness.waypoints=Points de passage
+ferrisaio.awareness.fowtracker_v2=Baron FOW / Traqueur de dragons
+
+#FerrisAIO.Awareness.AttackRange
+ferrisaio.awareness.attackrange.enabled=Activé
+ferrisaio.awareness.attackrange.ally=Dessiner un allié
+ferrisaio.awareness.attackrange.allycolor=^ Couleur alliée
+ferrisaio.awareness.attackrange.enemy=Dessiner l'ennemi
+ferrisaio.awareness.attackrange.enemycolor=^ Couleur ennemie
+
+#FerrisAIO.Awareness.AutoWard
+ferrisaio.awareness.autoward.enabled=Activé
+ferrisaio.awareness.autoward.onlycombo=Seul le combo actif
+ferrisaio.awareness.autoward.buyblue=Achat automatique bijou bleu
+ferrisaio.awareness.autoward.bushward=Parc de brousse automatique
+ferrisaio.awareness.autoward.bushpinkward=^ Utiliser le quartier rose
+ferrisaio.awareness.autoward.antisteal=Antivol
+ferrisaio.awareness.autoward.maxmissingtime=Ne pas protéger s'il manque plus de x secondes
+
+#FerrisAIO.Awareness.CooldownTrack
+ferrisaio.awareness.cooldowntrack.enabled=Activé
+ferrisaio.awareness.cooldowntrack.ally=Dessiner un allié
+ferrisaio.awareness.cooldowntrack.enemy=Dessiner l'ennemi
+ferrisaio.awareness.cooldowntrack.self=Dessiner soi-même
+
+#FerrisAIO.Awareness.ExperienceTrack
+ferrisaio.awareness.experiencetrack.enabled=Activé
+ferrisaio.awareness.experiencetrack.ally=Dessiner un allié
+ferrisaio.awareness.experiencetrack.enemy=Dessiner l'ennemi
+ferrisaio.awareness.experiencetrack.self=Dessiner soi-même
+
+#FerrisAIO.Awareness.GankAlert
+ferrisaio.awareness.gankalert.enabled=Activé
+ferrisaio.awareness.gankalert.onlyjungle=Seule la jungle
+ferrisaio.awareness.gankalert.minrange=Plage de distance minimale >[EQ] x
+ferrisaio.awareness.gankalert.maxrange=Plage de distance maximale <[EQ] x
+
+#FerrisAIO.Awareness.HudTrack
+ferrisaio.awareness.hudtrack.horizontal=Style horizontal
+ferrisaio.awareness.hudtrack.vertical=Style vertical
+ferrisaio.awareness.hudtrack.style=Style de dessin
+ferrisaio.awareness.hudtrack.enabled=Activé
+
+#FerrisAIO.Awareness.HudTrack.Horizontal
+ferrisaio.awareness.hudtrack.horizontal.horizontalxoffsets=X Décalages
+ferrisaio.awareness.hudtrack.horizontal.horizontalyoffsets=Décalages Y
+
+#FerrisAIO.Awareness.HudTrack.Vertical
+ferrisaio.awareness.hudtrack.vertical.verticalxoffsets=X Décalages
+ferrisaio.awareness.hudtrack.vertical.verticalyoffsets=Décalages Y
+ferrisaio.awareness.hudtrack.vertical.verticalpos=Position du sort d'invocateur
+
+#FerrisAIO.Awareness.InhibitorTime
+ferrisaio.awareness.inhibitortime.enabled=Activé
+ferrisaio.awareness.inhibitortime.minimap=Sur la mini-carte
+ferrisaio.awareness.inhibitortime.minimapdraw=Dessiner sur la minicarte
+ferrisaio.awareness.inhibitortime.minimapfontsize=Taille de la police
+ferrisaio.awareness.inhibitortime.map=Sur la mini-carte
+ferrisaio.awareness.inhibitortime.mapdraw=Dessiner sur la carte
+ferrisaio.awareness.inhibitortime.mapfontsize=Taille de la police
+
+#FerrisAIO.Awareness.JungleTime
+ferrisaio.awareness.jungletime.enabled=Activé
+ferrisaio.awareness.jungletime.minimap=Sur la mini-carte
+ferrisaio.awareness.jungletime.minimapdraw=Dessiner sur la minicarte
+ferrisaio.awareness.jungletime.minimapformat=Format de l'heure : 
+ferrisaio.awareness.jungletime.minimapfontsize=Taille de la police
+ferrisaio.awareness.jungletime.map=Sur la carte
+ferrisaio.awareness.jungletime.mapdraw=Dessiner sur la carte
+ferrisaio.awareness.jungletime.mapformat=Format de l'heure : 
+ferrisaio.awareness.jungletime.mapfontsize=Taille de la police
+
+#FerrisAIO.Awareness.LastPosition
+ferrisaio.awareness.lastposition.enabled=Activé
+ferrisaio.awareness.lastposition.sstime=Dessiner l'heure SS
+ferrisaio.awareness.lastposition.sscircle=Dessiner un cercle SS
+ferrisaio.awareness.lastposition.ssback__=Dessiner un indicateur de support
+ferrisaio.awareness.lastposition.urf_drawcannonpositions=Dessiner l'indicateur de position du canon URF
+
+#FerrisAIO.Awareness.RecallTrack
+ferrisaio.awareness.recalltrack.enabled=Activé
+ferrisaio.awareness.recalltrack.xoffsets=X décalages
+ferrisaio.awareness.recalltrack.yoffsets=Décalages Y
+
+#FerrisAIO.Awareness.TurretHealth
+ferrisaio.awareness.turrethealth.enabled=Activé
+ferrisaio.awareness.turrethealth.style_=Style de dessin
+ferrisaio.awareness.turrethealth.fontsize=Taille de la police
+
+#FerrisAIO.Awareness.TurretRange
+ferrisaio.awareness.turretrange.enabled=Activé
+ferrisaio.awareness.turretrange.ally=Dessiner la portée d'attaque de la tourelle alliée
+ferrisaio.awareness.turretrange.allycolor=^ Couleur d'attaque de la tourelle alliée
+ferrisaio.awareness.turretrange.enemy=Dessiner la portée d'attaque de la tourelle ennemie
+ferrisaio.awareness.turretrange.enemycolor=^ Couleur d'attaque de la tourelle ennemie
+ferrisaio.awareness.turretrange.extendrange=Étendre la portée de la tour de
+
+#FerrisAIO.Awareness.WardTrack
+ferrisaio.awareness.wardtrack.enabled=Activé
+ferrisaio.awareness.wardtrack.showowner=Afficher le propriétaire
+ferrisaio.awareness.wardtrack.pingvision=Ping Vision
+ferrisaio.awareness.wardtrack.pingdelay=Délai de ping
+ferrisaio.awareness.wardtrack.wardpositionhelper_2=Afficher la position de placement sur la clé
+ferrisaio.awareness.wardtrack.wardvisionhelper=Afficher les zones de vision du quartier
+ferrisaio.awareness.wardtrack.quality=Qualité
+ferrisaio.awareness.wardtrack.key=Raccourci + Clic gauche Supprimer
+
+#FerrisAIO.Awareness.WayPoints
+ferrisaio.awareness.waypoints.enabled_=Activé
+ferrisaio.awareness.waypoints.cross=Croix de couleur
+ferrisaio.awareness.waypoints.line=Couleur de la ligne
+ferrisaio.awareness.waypoints.aproximateposition=Couleur de la position prévue
+ferrisaio.awareness.waypoints.recalcdelay=Délai de recalcul
+ferrisaio.awareness.waypoints._____0001wp=^ Augmente le FPS à une valeur plus élevée !
+ferrisaio.awareness.waypoints.ally=Dessiner un allié
+ferrisaio.awareness.waypoints.enemy=Dessiner l'ennemi
+ferrisaio.awareness.waypoints.self=Dessiner soi-même
+ferrisaio.awareness.waypoints.map=Dessiner sur la carte
+
+#FerrisAIO.Awareness.FOWTracker_v2
+ferrisaio.awareness.fowtracker_v2.enabled=Activé
+ferrisaio.awareness.fowtracker_v2.pinglocation=Pinger l'emplacement
+ferrisaio.awareness.fowtracker_v2.sendchatmessage=Envoyer le chat à l'équipe
+ferrisaio.awareness.fowtracker_v2.sendchatlocal=Imprimer dans le chat client
+ferrisaio.awareness.fowtracker_v2.sendpinglocal=Pings d'une manière que vous seul pouvez voir
+
+#FerrisAIO.FPred
+ferrisaio.fpred._____sp2=Automatique est très en phase de test
+ferrisaio.fpred._____sp3=Signalez-moi les bugs, les problèmes sur Telegram <3
+ferrisaio.fpred.predictonlist1=Méthode de prédiction par défaut
+ferrisaio.fpred.predictonlistq=Méthode de prédiction Q
+ferrisaio.fpred.qhitchance=Q chance de toucher
+ferrisaio.fpred.predictonlistw=Méthode de prédiction W
+ferrisaio.fpred.whitchance=W chance de toucher
+ferrisaio.fpred.predictonliste=Méthode de prédiction E
+ferrisaio.fpred.ehitchance=E Chance de toucher
+ferrisaio.fpred.predictonlistr=Méthode de prédiction R
+ferrisaio.fpred.rhitchance=R chance de toucher
+ferrisaio.fpred.spredwindup=Vérifier la liquidation AA cible
+ferrisaio.fpred.spredmaxrangeignore=Ignorer la distance maximale d'esquive (%)
+ferrisaio.fpred.spredreactiondelay=Ignorer le délai de réaction
+ferrisaio.fpred.spreddelay=Délai de sort
+ferrisaio.fpred.spreddrawings=Activer les dessins
+ferrisaio.fpred.spredaccuracy_=Autoriser la prédiction AOE
+ferrisaio.fpred.waypointanalysis=Analyse des points de cheminement
+ferrisaio.fpred.predmaxrange=Portée maximale %
+
+#FerrisAIO.BaseUlt
+ferrisaio.baseult.baseult=Activer Base Ult
+ferrisaio.baseult.checkcollision=Vérifier la collision
+ferrisaio.baseult.panickey=Pas d'Ult lorsque la touche est enfoncée
+ferrisaio.baseult.regardlesskey=Ult quel que soit le kill (maintenir)
+ferrisaio.baseult.team baseult amis=TeamUlt
+ferrisaio.baseult.disabled champion target=Champions désactivés
+
+#FerrisAIO.AutoLevel
+ferrisaio.autolevel.enable.teemo=Activé
+ferrisaio.autolevel.autolevelstart.teemo=Commencer après le niveau
+ferrisaio.autolevel.customs2.teemo=Autoriser les scripts personnalisés
+ferrisaio.autolevel.primaryorder.teemo=Ordre de niveau automatique
+ferrisaio.autolevel.earlyorder.teemo=Premier ordre à trois niveaux
+
+#FerrisAIO.SkinChanger
+ferrisaio.skinchanger.enabled=Activé
+ferrisaio.skinchanger.championteemo=Peau de champion
+ferrisaio.skinchanger.ward=Peau de balise
+ferrisaio.skinchanger.minion=Peau de sbire
+
+#FerrisAIO.SkinChanger.ChampionTeemo
+ferrisaio.skinchanger.championteemo.userandom=Utiliser un skin aléatoire si aucun skin n'est défini
+ferrisaio.skinchanger.championteemo.usesliderf=Utiliser la valeur du curseur
+ferrisaio.skinchanger.championteemo.forceenemiestodefualt=Forcer les ennemis à adopter le skin par défaut
+ferrisaio.skinchanger.championteemo.forcealliestodefualt=Forcer les alliés à adopter le skin par défaut
+ferrisaio.skinchanger.championteemo.skinname=Peau
+ferrisaio.skinchanger.championteemo.chromaid=Chorma
+ferrisaio.skinchanger.championteemo.skinid=ID de skin : 
+
+#FerrisAIO.SkinChanger.Ward
+ferrisaio.skinchanger.ward.wardsenabled=Activer le changeur de service
+ferrisaio.skinchanger.ward.userandom=Utiliser un skin aléatoire si aucun skin n'est défini
+ferrisaio.skinchanger.ward.usesliderf=Utiliser la valeur du curseur
+ferrisaio.skinchanger.ward.skinid=ID de skin :
+ferrisaio.skinchanger.ward.wardid1=Véritable ID de quartier : placez un quartier à trouver !
+
+#FerrisAIO.SkinChanger.Minion
+ferrisaio.skinchanger.minion.minionskin=ID de skin de minion : 
+ferrisaio.skinchanger.minion.towerchaosskin=ID d'apparence Tour du Chaos : 
+ferrisaio.skinchanger.minion.towerorderskin=ID d'apparence de tour de commande : 
+ferrisaio.skinchanger.minion.baronskin=Identifiant du skin Baron : 
+ferrisaio.skinchanger.minion.dragonskin=ID d'apparence de dragon : 
+ferrisaio.skinchanger.minion.heraldskin=ID de skin de héraut : 
+ferrisaio.skinchanger.minion.crabskin=Identifiant du skin Skute : 
+ferrisaio.skinchanger.minion.redskin=ID de skin RedBuff : 
+ferrisaio.skinchanger.minion.blueskin=ID de skin BlueBuff : 
+ferrisaio.skinchanger.minion.blastcone=ID de skin BlastCone : 
+ferrisaio.skinchanger.minion.visionplant=Identifiant du skin des Clairvoyants : 
+ferrisaio.skinchanger.minion.healthplant=Identifiant de la peau HoneyFruit : 
+
+#FerrisAIO.Exploits
+ferrisaio.exploits.maphack=Piratage de visibilité FOW
+ferrisaio.exploits.packettracker=Traqueur de paquets
+
+#FerrisAIO.Exploits.MapHack
+ferrisaio.exploits.maphack.enabled=Activé
+ferrisaio.exploits.maphack.glow=Utiliser la lueur
+ferrisaio.exploits.maphack.____s_1=Cela montrera parfois les champions ennemis dans le brouillard de la guerre
+ferrisaio.exploits.maphack.____s_2=C'est semi-aléatoire quand cela fonctionnera mais certains cas peuvent causer cela
+ferrisaio.exploits.maphack.____s_4=Vous avez une vision à moins de 1000 unités quand ils lancent un sort en FOW
+ferrisaio.exploits.maphack.____s_5=Les animations globales jouent en vous envoyant une liste des champions à proximité et leurs positions
+ferrisaio.exploits.maphack.____s_6=Sorts qui génèrent un objet dans FOW comme la boule de neige Nunu
+
+#FerrisAIO.Exploits.PacketTracker
+ferrisaio.exploits.packettracker.____s_1=Ceci est toujours un travail en cours, attendez-vous à des bogues
+ferrisaio.exploits.packettracker.____s_3=Il s'appuie également sur ma dll native pour être mis à jour pour la ligue
+ferrisaio.exploits.packettracker.____s_4=en tant que tel, si je ne mets pas à jour l'assemblage de cette version de la ligue, cela ne fonctionnera pas !
+ferrisaio.exploits.packettracker.____s_5=> Mis à jour pour 12.1.416.4011
+ferrisaio.exploits.packettracker.information=Informations
+ferrisaio.exploits.packettracker.pingsettings=Ping (côté client)
+ferrisaio.exploits.packettracker.packetdata12.1=Informations sur le paquet
+ferrisaio.exploits.packettracker.devstuff=Matériel de développement
+
+#FerrisAIO.Exploits.PacketTracker.Information
+ferrisaio.exploits.packettracker.information.____s_1=Ceci est un exploit qui peut parfois montrer
+ferrisaio.exploits.packettracker.information.____s_2=lorsque des monstres sont attaqués en FOW
+ferrisaio.exploits.packettracker.information.____s_3=Lorsqu'il est détecté, il affichera un ping côté client
+ferrisaio.exploits.packettracker.information.____s_4=sur l'emplacement des monstres
+
+#FerrisAIO.Exploits.PacketTracker.PingSettings
+ferrisaio.exploits.packettracker.pingsettings.pingattacked=Sur le camp attaqué
+ferrisaio.exploits.packettracker.pingsettings.pingattacking=Attaque du camp
+ferrisaio.exploits.packettracker.pingsettings.pingdisengaging=Désengagement au camp
+ferrisaio.exploits.packettracker.pingsettings.pingsoundall=Lire les sons
+ferrisaio.exploits.packettracker.pingsettings.pingsoundfirst=Ne jouer le son qu'au premier ping
+ferrisaio.exploits.packettracker.pingsettings.pingdelay=Délai de ping en secondes
+
+#FerrisAIO.Exploits.PacketTracker.packetdata12.1
+ferrisaio.exploits.packettracker.packetdata12.1.____s_1=Ces valeurs se rempliront automatiquement
+ferrisaio.exploits.packettracker.packetdata12.1.____s_2=tels qu'ils sont trouvés pendant ce patch
+ferrisaio.exploits.packettracker.packetdata12.1.headeronattack2=En-tête en cas d'attaque
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmissilehit2=Header OnMissileHit
+ferrisaio.exploits.packettracker.packetdata12.1.headerondisengaged=En-tête activé désengagé
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmonsterskill=En-tête OnMonsterSkill
+ferrisaio.exploits.packettracker.packetdata12.1.____s_5=En-têtes du patch 12.1
+ferrisaio.exploits.packettracker.packetdata12.1.forcefindheaders=Essayer de recalculer automatiquement les en-têtes !
+
+#FerrisAIO.Exploits.PacketTracker.DevStuff
+ferrisaio.exploits.packettracker.devstuff.blacklistincomming=Liste noire des paquets entrants
+ferrisaio.exploits.packettracker.devstuff.clearblacklist=Effacer la liste noire
+ferrisaio.exploits.packettracker.devstuff.printblacklist=Imprimer la liste noire
+ferrisaio.exploits.packettracker.devstuff.drawnetworkid=Dessiner l'identifiant du réseau Mob
+ferrisaio.exploits.packettracker.devstuff.packetdebug=Débogage de paquets
+ferrisaio.exploits.packettracker.devstuff.onlyfow=Débogage FOW uniquement
+ferrisaio.exploits.packettracker.devstuff.debugmode=Mode de débogage
+
+#FerrisAIO.Utilitaires
+ferrisaio.utilities.preventafk=Empêcher le coup de pied AFK
+ferrisaio.utilities.autoquit=Quitter automatiquement
+ferrisaio.utilities.goldtracker=Traqueur d'or
+ferrisaio.utilities.namechanger=Changeur de nom
+ferrisaio.utilities.emotespammer=Spammeur d'emotes
+ferrisaio.utilities.chatspam=Chat Spammeur
+ferrisaio.utilities.sharedexperience=Expérience partagée (temporaire désactivé)
+ferrisaio.utilities.mmrtracker=Vérificateur MMR
+ferrisaio.utilities.aatilt=Inclinaison AA
+ferrisaio.utilities.spellalterer_v2=Alerte orthographique
+ferrisaio.utilities.antitilt=Anti-inclinaison
+
+#FerrisAIO.Utilities.AutoQuit
+ferrisaio.utilities.autoquit.enable=Quitter automatiquement après la fin du jeu
+ferrisaio.utilities.autoquit.delay=Attendez x secondes
+
+#FerrisAIO.Utilities.GoldTracker
+ferrisaio.utilities.goldtracker.enable=Activer le traqueur d'or
+ferrisaio.utilities.goldtracker.drawteamgold=Tirez l'or de l'équipe
+ferrisaio.utilities.goldtracker.drawplayergold=Tirez l'or du champion
+ferrisaio.utilities.goldtracker.textcolor=Couleur du texte
+ferrisaio.utilities.goldtracker.____s_1=---[EQ] Pas encore terminé [EQ]---
+ferrisaio.utilities.goldtracker.trackstats=Suivre la valeur des statistiques plutôt que l'or gagné
+ferrisaio.utilities.goldtracker.stattextcolor=Couleur du texte statistique
+
+#FerrisAIO.Utilities.NameChanger
+ferrisaio.utilities.namechanger.enablechanger=Activer
+ferrisaio.utilities.namechanger.copy=Définir le nom à partir du presse-papiers
+ferrisaio.utilities.namechanger.____nc_0001=FerrisAIO
+ferrisaio.utilities.namechanger.nametype=Type d'affichage
+
+#FerrisAIO.Utilities.EmoteSpammer
+ferrisaio.utilities.emotespammer.kill=Activer les éliminations
+ferrisaio.utilities.emotespammer.selectitem=Emplacement d'emote
+
+#FerrisAIO.Utilities.ChatSpam
+ferrisaio.utilities.chatspam.enabled=Activé
+ferrisaio.utilities.chatspam.binds=KeyBinds
+ferrisaio.utilities.chatspam.method=Méthodes
+ferrisaio.utilities.chatspam.clipboard=Paramètres du presse-papiers
+ferrisaio.utilities.chatspam.delay=Délai en millisecondes
+ferrisaio.utilities.chatspam.debug=Mode test (Imprime uniquement sur votre chat et non sur le serveur)
+
+#FerrisAIO.Utilities.ChatSpam.enabled
+ferrisaio.utilities.chatspam.enabled.kill=Activer les éliminations
+ferrisaio.utilities.chatspam.enabled.gameend=Activer à la fin du jeu
+ferrisaio.utilities.chatspam.enabled.ondeath=Activer en cas de décès
+ferrisaio.utilities.chatspam.enabled.all=Tous les chats
+ferrisaio.utilities.chatspam.enabled.deathcheck=Uniquement lorsque tue > décès
+ferrisaio.utilities.chatspam.enabled.disablewhiledead=Désactiver pendant la mort
+ferrisaio.utilities.chatspam.enabled.spammed=Afficher le montant spammé
+
+#FerrisAIO.Utilities.ChatSpam.binds
+ferrisaio.utilities.chatspam.binds.bind=Clé de spam (maintenir)
+ferrisaio.utilities.chatspam.binds.bind2=Clé anti-spam (bascule)
+
+#FerrisAIO.Utilities.ChatSpam.method
+ferrisaio.utilities.chatspam.method.modehold=Maintenir le mode spam
+ferrisaio.utilities.chatspam.method.slothold=Emplacement du presse-papiers pour la mise en attente
+ferrisaio.utilities.chatspam.method.modepress=Basculer en mode spam
+ferrisaio.utilities.chatspam.method.slotpress=Emplacement du presse-papiers pour basculer
+ferrisaio.utilities.chatspam.method.modekill=En mode kill
+ferrisaio.utilities.chatspam.method.slotkill=Emplacement du presse-papiers pour OnKill
+ferrisaio.utilities.chatspam.method.modegameend=En mode fin de partie
+ferrisaio.utilities.chatspam.method.slotgameend=Emplacement du presse-papiers pour la fin du jeu
+ferrisaio.utilities.chatspam.method.modedeath=En jeu à la mort
+ferrisaio.utilities.chatspam.method.slotdeath=Emplacement de presse-papiers pour la mort
+
+#FerrisAIO.Utilities.ChatSpam.Clipboard
+ferrisaio.utilities.chatspam.clipboard.copy=Copier vers l'emplacement sélectionné à partir du presse-papiers
+ferrisaio.utilities.chatspam.clipboard.copyslot=Emplacement pour copier le texte vers
+ferrisaio.utilities.chatspam.clipboard.____cb_0001=1 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0002=2 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0003=3 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0004=4 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0005=5 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0006=6 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0007=7 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0008=8 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0009=9 : 
+ferrisaio.utilities.chatspam.clipboard.____cb_0010=10 : 
+
+#FerrisAIO.Utilities.SharedExperience
+ferrisaio.utilities.sharedexperience.enabled_=Activé
+ferrisaio.utilities.sharedexperience.showenemies=Dessiner du texte sur l'ennemi
+ferrisaio.utilities.sharedexperience.onlyshowinv=Dessiner du texte uniquement lorsqu'il n'est pas visible
+ferrisaio.utilities.sharedexperience.drawpredictioncircle=Dessiner un cercle de prédiction
+ferrisaio.utilities.sharedexperience.invcolor=Couleur lorsqu'elle n'est pas visible
+
+#FerrisAIO.Utilities.MMRTracker
+ferrisaio.utilities.mmrtracker.enable=Activer le suivi MMR
+ferrisaio.utilities.mmrtracker.draw2=Match sous le champion
+ferrisaio.utilities.mmrtracker.type=Type MMR
+ferrisaio.utilities.mmrtracker.region=Région
+ferrisaio.utilities.mmrtracker.showhighest=Afficher le rang le plus élevé
+ferrisaio.utilities.mmrtracker.____s_1=^ Nécessite un rechargement du script
+ferrisaio.utilities.mmrtracker.enemymmr=Équipe ennemie MMR
+ferrisaio.utilities.mmrtracker.____s_3=Moyenne MMR allié : 1493
+ferrisaio.utilities.mmrtracker.____s_4=Moyenne du MMR ennemi : 1493
+ferrisaio.utilities.mmrtracker.____s_5=Moyenne totale du RMM : 2 987
+
+#FerrisAIO.Utilities.MMRTracker.EnemyMMr
+ferrisaio.utilities.mmrtracker.enemymmr.____s_1=EggMoneyJR : Inconnu
+
+#FerrisAIO.Utilities.AATilt
+ferrisaio.utilities.aatilt.____s_1=Ne joue que le son du rire, plutôt que l'animation pour troller les ennemis !
+ferrisaio.utilities.aatilt.laughtype=Type d'emote
+ferrisaio.utilities.aatilt.aalaugh=Rire des champions AA
+ferrisaio.utilities.aatilt.aamastery=Maîtrise sur les champions AA
+ferrisaio.utilities.aatilt.aalaughm=Rire des Minions AA
+ferrisaio.utilities.aatilt.aamasterym=Maîtrise sur les Minions AA
+ferrisaio.utilities.aatilt.aalaughb=Rire des bâtiments AA
+ferrisaio.utilities.aatilt.aamasteryb=Maîtrise des bâtiments AA
+
+#FerrisAIO.Utilities.SpellAlterer_v2
+ferrisaio.utilities.spellalterer_v2.alertultimate=Ultimes d'alerte
+ferrisaio.utilities.spellalterer_v2.alertsummoner=Sorts d'invocateur d'alerte
+ferrisaio.utilities.spellalterer_v2.seen=Alerte uniquement si l'ennemi a été vu en train d'utiliser ce sort
+ferrisaio.utilities.spellalterer_v2.urf=Désactiver dans l'URF
+ferrisaio.utilities.spellalterer_v2.usechat=Le sort Envoyer l'heure est inactif jusqu'au chat
+ferrisaio.utilities.spellalterer_v2.pingspell=Ping sort lorsqu'il est utilisé
+ferrisaio.utilities.spellalterer_v2.adddelay=Ajouter un délai humanisé
+ferrisaio.utilities.spellalterer_v2.trollmode=Mode Troll [Tous les chats]
+ferrisaio.utilities.spellalterer_v2.debugmode=Mode de débogage [chat local uniquement]
+
+#FerrisAIO.Utilities.AntiTilt
+ferrisaio.utilities.antitilt.automutechat=Chat/Emotes ennemis automatiques
+ferrisaio.utilities.antitilt.automutepings=Coupure automatique des pings alliés
+ferrisaio.utilities.antitilt.automuteally=Mettre automatiquement en sourdine le chat/les émoticônes des alliés
+ferrisaio.utilities.antitilt.preventbanwords=Empêcher les mots bannables
+
+#FerrisAIO.DebugMenu
+ferrisaio.debugmenu.debug=activer les journaux de débogage
+ferrisaio.debugmenu.actionoptions=Actions
+ferrisaio.debugmenu.profileroption=Profileur
+
+#FerrisAIO.DebugMenu.ActionOptions
+ferrisaio.debugmenu.actionoptions.skilldebug=Débogage des compétences
+ferrisaio.debugmenu.actionoptions.selfdebug=Débogage des compétences personnelles
+ferrisaio.debugmenu.actionoptions.miscdebug=Imprimer tous les objets du jeu
+ferrisaio.debugmenu.actionoptions.statdebug=Débogage des statistiques
+ferrisaio.debugmenu.actionoptions.langdebug=Générer des objets Lang
+
+#FerrisAIO.DebugMenu.ProfilerOption
+ferrisaio.debugmenu.profileroption.enablewatchdog=Imprimer les heures de surveillance
+ferrisaio.debugmenu.profileroption.allowdebug=^ Autoriser le débogage
+ferrisaio.debugmenu.profileroption.writetoconsole=^ Ecrire également dans la console
+ferrisaio.debugmenu.profileroption.writetofile=^ Ecrire également dans le fichier
+
+#FerrisAIO.CoreSettings
+ferrisaio.coresettings.ferrisaio.coresettings=Noyau FerrisAIO
+ferrisaio.coresettings.events=Événements
+ferrisaio.coresettings.language=Langue
+ferrisaio.coresettings.fnative=FNatif
+ferrisaio.coresettings.foptimizations=FOptimisations
+ferrisaio.coresettings.autoloadscripts=Charger automatiquement les scripts
+
+#FerrisAIO.CoreSettings.Events
+ferrisaio.coresettings.events.usepriority=Utiliser le bus d'événement prioritaire
+
+#FerrisAIO.CoreSettings.Langue
+ferrisaio.coresettings.language.language_=Langue
+ferrisaio.coresettings.language.dumpmissingkeys=Vider les clés de langue manquantes
+
+#FerrisAIO.CoreSettings.FNative
+ferrisaio.coresettings.fnative.packethandler=Utiliser le gestionnaire de paquets FNative
+ferrisaio.coresettings.fnative.poffsets=Essayer de trouver automatiquement les décalages de paquets
+ferrisaio.coresettings.fnative.ace=Essayer de contourner l'Anticheat
+ferrisaio.coresettings.fnative.aipred=Utiliser CPP plutôt que C# pour la prédiction de l'IA
+ferrisaio.coresettings.fnative.spp=Activer la mise à jour directe de la position du paquet source
+ferrisaio.coresettings.fnative.afk=Utiliser FNative AntiAFK
+ferrisaio.coresettings.fnative.proxy=Tentative de flux de paquets sortants des ligues proxy
+
+#FerrisAIO.CoreSettings.FOptimizations
+ferrisaio.coresettings.foptimizations.eventbus=EventBus
+ferrisaio.coresettings.foptimizations.drawings=Dessins
+ferrisaio.coresettings.foptimizations.ilchanges=ILChanges
+
+#FerrisAIO.CoreSettings.FOptimizations.EventBus
+ferrisaio.coresettings.foptimizations.eventbus.usepriority=Utiliser le bus d'événement prioritaire
+
+#FerrisAIO.CoreSettings.FOptimizations.Drawings
+ferrisaio.coresettings.foptimizations.drawings.circlev2=Utiliser des cercles plus rapides
+ferrisaio.coresettings.foptimizations.drawings.ooschecks=Utiliser les vérifications intelligentes hors écran
+ferrisaio.coresettings.foptimizations.drawings.nonative=Éviter les appels de dessin de la couche de transport FNative
+ferrisaio.coresettings.foptimizations.drawings.textrender=Remplacer EnsoulSharp.SDK.TextRender par FerrisAIO.Rendering.TextRender
+
+#FerrisAIO.CoreSettings.FOptimizations.ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.enableedits=Activer les modifications IL
+ferrisaio.coresettings.foptimizations.ilchanges.fixdrawoffscreen=Corriger les dessins de la mini-carte
+ferrisaio.coresettings.foptimizations.ilchanges.irender=Améliorer les temps de rendu
+ferrisaio.coresettings.foptimizations.ilchanges.trove=Permuter la liste pour les listes de trésors
+

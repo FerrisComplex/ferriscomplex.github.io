@@ -1,0 +1,902 @@
+#FerrisAIO
+ferrisaio.ferrisaio=FerrisAIO
+ferrisaio.championmenu.teemo=Teemo Komut Dosyası
+ferrisaio.orbwalker=Ferris Orbwalker
+ferrisaio.evade=FEvade
+ferrisaio.loadevadescript=Kurtarma Komut Dosyasını Yükle
+ferrisaio.activator=Aktivatör
+ferrisaio.awareness=Farkındalık
+ferrisaio.fpred=FerrisTahmin
+ferrisaio.baseult=BaseUlt
+ferrisaio.autolevel=Teemo Otomatik Seviye
+ferrisaio.skinchanger=Ten Değiştirici
+ferrisaio.exploits=Sömürüler
+ferrisaio.utilities=Yardımcı Programlar
+ferrisaio.debugmenu=Hata ayıklama
+
+#FerrisAIO.Orbwalker
+ferrisaio.orbwalker.enabled_=Etkin
+ferrisaio.orbwalker.attackable=Saldırılabilir Birim
+ferrisaio.orbwalker.prioritize=Önceliklendir
+ferrisaio.orbwalker.orbwalker=Orbwalker
+ferrisaio.orbwalker.farm=Çiftlik
+ferrisaio.orbwalker.advanced=Gelişmiş
+ferrisaio.orbwalker.drawing=Çizim
+ferrisaio.orbwalker.shove=Kaydır (Geçiş)
+ferrisaio.orbwalker.freeze=Dondur (Değiştir)
+ferrisaio.orbwalker.combo=Kombo
+ferrisaio.orbwalker.combowithmove=Hareket Etmeden Kombo
+ferrisaio.orbwalker.harass=Taciz
+ferrisaio.orbwalker.laneclear=ŞeritTemizle
+ferrisaio.orbwalker.lasthit=Son Hit
+ferrisaio.orbwalker.flee=Kaç
+ferrisaio.orbwalker.reducedamage=AA Hasarını % oranında azalt
+
+#FerrisAIO.Orbwalker.Saldırılabilir
+ferrisaio.orbwalker.attackable.barrels=Variller
+ferrisaio.orbwalker.attackable.jungleplant=Orman Bitkisi
+ferrisaio.orbwalker.attackable.specialminions=Evcil Hayvanlar
+ferrisaio.orbwalker.attackable.wards=Koğuşlar
+
+#FerrisAIO.Orbwalker.Önceliklendir
+ferrisaio.orbwalker.prioritize.farmoverharass=Taciz Üzerinden Çiftlik
+ferrisaio.orbwalker.prioritize.specialminion=Özel Minyon
+ferrisaio.orbwalker.prioritize.smalljungle=Küçük Orman
+ferrisaio.orbwalker.prioritize.turret=Taret
+
+#FerrisAIO.Orbwalker.Orbwalker
+ferrisaio.orbwalker.orbwalker.extrahold=Ekstra Tutma Konumu
+ferrisaio.orbwalker.orbwalker.moverandom=Çok yakın olduğunda Hareketi Rastgeleleştir
+ferrisaio.orbwalker.orbwalker.windupdelay=Kurma Gecikmesi
+ferrisaio.orbwalker.orbwalker.limitatack=Saldırı Hızı > 2.5 ise Uçurtma Yapmayın
+
+#FerrisAIO.Orbwalker.Farm
+ferrisaio.orbwalker.farm.farmdelay=Çiftlik Gecikmesi
+ferrisaio.orbwalker.farm.turretfarm=Taret Çiftliği Mantığı
+ferrisaio.orbwalker.farm.turretfarmmethod=Taret Çiftliği Yöntemi
+ferrisaio.orbwalker.farm.turretframmaxlevel=Oyuncu Seviyesi >[EQ] x olduğunda Taret Çiftliğini Devre Dışı Bırak
+ferrisaio.orbwalker.farm.freezehealth=Minyon Maks Sağlığını Dondur
+ferrisaio.orbwalker.farm.laneclearmethod=LaneClear Farm Yöntemi
+ferrisaio.orbwalker.farm.cannonfocus=Toplara Öncelik Ver
+ferrisaio.orbwalker.farm.freezeharass=Tacizin Dondurulmasına İzin Ver
+
+#FerrisAIO.Orbwalker.Gelişmiş
+ferrisaio.orbwalker.advanced.yasuowallcheck=Yasuo WindWall'ı Kontrol Et
+ferrisaio.orbwalker.advanced.missilecheck=Füze Kontrollerini Kullan
+ferrisaio.orbwalker.advanced.calcitemdamage=Öğe Hasarını Hesapla
+ferrisaio.orbwalker.advanced.supportmode_teemo=Destek Modu
+ferrisaio.orbwalker.advanced.detectaaresets=AA Sıfırlama Becerilerini Algıla
+ferrisaio.orbwalker.advanced.allowkalistadoublejump=Kalista Çift Atlama Kullan
+ferrisaio.orbwalker.advanced.beforecanattack_=Erken Milli Saldırıya Geçin
+ferrisaio.orbwalker.advanced.beforecanmoveallowscriptcontrol=Erken Taşımanın Komut Dosyası Kontrolüne İzin Ver
+ferrisaio.orbwalker.advanced.beforecanmove=Manuel Hareket Erken Millis
+ferrisaio.orbwalker.advanced.limitmovementpackets=PaketSpam Hareketini Önle
+ferrisaio.orbwalker.advanced.limittackpackets=PaketSpam Saldırısını Önle
+
+#FerrisAIO.Orbwalker.Çizim
+ferrisaio.orbwalker.drawing.drawattackrange=Çizim Saldırı Menzili
+ferrisaio.orbwalker.drawing.drawholdposition=Çizim Tutma Konumu
+ferrisaio.orbwalker.drawing.drawkillableminion=Öldürülebilir Minyon Çek
+ferrisaio.orbwalker.drawing.showfakeclick=FakeClick'i Göster
+ferrisaio.orbwalker.drawing.fakeclickdelay=Millis cinsinden Tıklamalar Arasındaki Gecikme
+ferrisaio.orbwalker.drawing.glowminions=Glow Son Vuruşlar
+ferrisaio.orbwalker.drawing.minionsglow=Glow kalıcı Minyonlar Rengi
+ferrisaio.orbwalker.drawing.minionsdraw=Son vuruş işaretçisini çiz
+ferrisaio.orbwalker.drawing.minionsanimate=Son vuruş işaretçisini canlandır
+ferrisaio.orbwalker.drawing.minionsanimatecolor=Lasthit işaretçi rengi arasında geçiş yap
+
+#FerrisAIO.Kaçış
+ferrisaio.evade.main=Ana
+ferrisaio.evade.keysettings=Anahtar Ayarları
+ferrisaio.evade.miscsettings=Çeşitli Ayarlar
+ferrisaio.evade.spells=Büyüler
+ferrisaio.evade.traps=Tuzaklar
+ferrisaio.evade.evadespells=Büyülerden Kaçın
+ferrisaio.evade.draw=Çiz
+ferrisaio.evade.autosetpingmenu=OtomatikAyarlama
+
+#FerrisAIO.Evade.Main
+ferrisaio.evade.main.dodgeskillshots=SkillShots'tan Kaçın
+ferrisaio.evade.main.activateevadespells=Kaçış Büyülerini Kullan
+ferrisaio.evade.main.dodgedangerous=Yalnızca Tehlikeli Dodge
+ferrisaio.evade.main.dodgefowspells=FOW SkillShots'tan Kaçın
+ferrisaio.evade.main.dodgecircularspells=Dairesel Beceri Atışlarından Kaçın
+ferrisaio.evade.main.dodgecircularspells_v2=Kaçış Döngüsel Mantık [BETA]
+
+#FerrisAIO.Evade.KeySettings
+ferrisaio.evade.keysettings.dodgedangerouskeyenabled=Yalnızca Tehlikeli Anahtarlardan Kurtulmayı Etkinleştir
+ferrisaio.evade.keysettings.dodgedangerouskey=Yalnızca Tehlikeli Anahtardan Kaçın
+ferrisaio.evade.keysettings.dodgedangerouskey2=Yalnızca Tehlikeli Anahtar 2'den Kaçın
+ferrisaio.evade.keysettings.dodgeonlyoncombokkeyenabled=Yalnızca Birleşik Anahtarda Soldurmayı Etkinleştir
+ferrisaio.evade.keysettings.dodgecombokey=Yalnızca Birleşik Anahtardan Kurtul
+ferrisaio.evade.keysettings.dontdodgekeyenabled=Anahtarı Atlamayı Etkinleştir
+ferrisaio.evade.keysettings.dontdodgekey=Anahtarı Atlama
+
+#FerrisAIO.Evade.MiscAyarlar
+ferrisaio.evade.miscsettings.evademode=Profilden Kaçın
+ferrisaio.evade.miscsettings.blockdangerdash=Tehlikeli Atlama Büyüsünü Engelle
+ferrisaio.evade.miscsettings.higherprecision=Geliştirilmiş Soldurma Hassasiyeti
+ferrisaio.evade.miscsettings.recalculateposition=Yolu Yeniden Hesapla
+ferrisaio.evade.miscsettings.continuemovement=Son Harekete Devam Et
+ferrisaio.evade.miscsettings.calculatewindupdelay=Kurma Gecikmesini Hesapla
+ferrisaio.evade.miscsettings.checkspellcollision=Yazım Çarpışmasını Kontrol Et
+ferrisaio.evade.miscsettings.preventdodgingundertower=Kulenin Altından Kaçmayı Önle
+ferrisaio.evade.miscsettings.preventdodgingnearenemy=Düşmanların Yanından Kaçmayı Önle
+ferrisaio.evade.miscsettings.advancedspelldetection=Gelişmiş Yazım Tespiti
+ferrisaio.evade.miscsettings.clickremove=Sol Tıkla Kaldırmaya İzin Ver ^ Tuzakları ve Küreselleri Kaldırmak için Sol Tıkla
+ferrisaio.evade.miscsettings.resetconfig=Kaçış Yapılandırmasını Sıfırla
+ferrisaio.evade.miscsettings.limiter=İnsanlaştırıcı
+ferrisaio.evade.miscsettings.fastevade=Hızlı Kaçış
+ferrisaio.evade.miscsettings.extrabuffers=Ekstra Tamponlar
+ferrisaio.evade.miscsettings.loadtests=Testler
+
+#FerrisAIO.Evade.MiscSettings.Limiter
+ferrisaio.evade.miscsettings.limiter.clickonlyonce=Yalnızca Bir Kez Tıklayın
+ferrisaio.evade.miscsettings.limiter.enableevadedistance=Genişletilmiş Kaçış
+ferrisaio.evade.miscsettings.limiter.ticklimiter=Tick Sınırlayıcı
+ferrisaio.evade.miscsettings.limiter.spelldetectiontime=Yazım Tespit Süresi
+ferrisaio.evade.miscsettings.limiter.reactiontime=Reaksiyon Süresi
+ferrisaio.evade.miscsettings.limiter.dodgeinterval=Dodge Interval
+
+#FerrisAIO.Evade.MiscSettings.FastEvade
+ferrisaio.evade.miscsettings.fastevade.fastmovementblock=Hızlı Hareket Bloğu
+ferrisaio.evade.miscsettings.fastevade.fastevadeactivationtime=Hızlı Kaçış Etkinleştirme Süresi
+ferrisaio.evade.miscsettings.fastevade.spellactivationtime=Büyü Etkinleştirme Süresi
+ferrisaio.evade.miscsettings.fastevade.rejectmindistance=Çarpışma Mesafesi Tamponu
+
+#FerrisAIO.Evade.MiscSettings.ExtraBuffers
+ferrisaio.evade.miscsettings.extrabuffers.extrapingbuffer=Ekstra Ping Tamponu
+ferrisaio.evade.miscsettings.extrabuffers.extracpadistance=Ekstra Çarpışma Mesafesi
+ferrisaio.evade.miscsettings.extrabuffers.extraspellradius=Ekstra Büyü Yarıçapı
+ferrisaio.evade.miscsettings.extrabuffers.extraevadedistance=Ekstra Kaçış Mesafesi
+ferrisaio.evade.miscsettings.extrabuffers.extraavoiddistance=Ekstra Kaçınma Mesafesi
+ferrisaio.evade.miscsettings.extrabuffers.mincomfortzone=Şampiyona Min. Mesafe
+
+#FerrisAIO.Evade.MiscSettings.LoadTests
+ferrisaio.evade.miscsettings.loadtests.loadspelltester=Yazım Testini Yükle
+
+#FerrisAIO.Evade.EvadeSpells
+ferrisaio.evade.evadespells.flashevadespellsettings=Flash
+
+#FerrisAIO.Evade.EvadeSpells.FlashEvadeSpellSettings
+ferrisaio.evade.evadespells.flashevadespellsettings.flashuseevadespell=Büyü Kullan
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespelldangerlevel=Tehlike Seviyesi
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespellmode=Büyü Modu
+
+#FerrisAIO.Evade.Draw
+ferrisaio.evade.draw.drawskillshots=SkillShots çiz
+ferrisaio.evade.draw.showstatus=Kaçış Durumunu Göster
+ferrisaio.evade.draw.drawspellpos=Yazım Konumunu Çiz
+ferrisaio.evade.draw.drawevadeposition=Kurtarma Konumunu Çiz
+ferrisaio.evade.draw.dangerleveldrawings=DangerLevel Drawings
+
+#FerrisAIO.Evade.Draw.DangerLevelÇizimler
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing=Düşük
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing=Normal
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing=Yüksek
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing=Aşırı
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing=Dodgeable
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.DüşükÇizim
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowwidth=Çizgi Genişliği
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowcolor=Renk
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowenable=Etkinleştir
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.NormalDrawing
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalwidth=Çizgi Genişliği
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalcolor=Renk
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalenable=Etkinleştir
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.HighDrawing
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highwidth=Çizgi Genişliği
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highcolor=Renk
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highenable=Etkinleştir
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.ExtremeDrawing
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extrewidth=Çizgi Genişliği
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremecolor=Renk
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremeenable=Etkinleştir
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.DodgeableDrawing
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablewidth=Çizgi Genişliği
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablecolor=Renk
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeableenable=Etkinleştir
+
+#FerrisAIO.Evade.AutoSetPingMenu
+ferrisaio.evade.autosetpingmenu.autosetpingon=Ping'i Otomatik Ayarla
+ferrisaio.evade.autosetpingmenu.autosetpercentile=Otomatik Yüzde Birimi Ayarla
+ferrisaio.evade.autosetpingmenu.testskillshotdelay=TestSkillshotDelay
+
+#FerrisAIO.Aktivatör
+ferrisaio.activator.autopotions=Oto İksirler
+ferrisaio.activator.defensive=Savunma
+ferrisaio.activator.offensive=Saldırgan
+ferrisaio.activator.autozhonya=Oto Zhonya
+ferrisaio.activator.autocleanse=Otomatik Temizleme
+ferrisaio.activator.summonerspell=Sihirdar Büyüsü
+ferrisaio.activator.turnaround=Otomatik Dönüş
+ferrisaio.activator.autolantern=Otomatik Fener
+
+#FerrisAIO.Activator.AutoPotions
+ferrisaio.activator.autopotions.enabled=Etkin
+ferrisaio.activator.autopotions.healthpercent=^ Player HealthPercent <[EQ] x%
+
+#FerrisAIO.Activator.Savunma
+ferrisaio.activator.defensive.locketoftheironsolari=Demir Solari'nin Madalyonu
+ferrisaio.activator.defensive.randuinomen=Randuin'in Alameti
+ferrisaio.activator.defensive.redemption=Geri ödeme
+ferrisaio.activator.defensive.gargoylestoneplate=Gargoyle Stoneplate
+
+#FerrisAIO.Activator.Defensive.LocketOfTheIronSolari
+ferrisaio.activator.defensive.locketoftheironsolari.enabled=Etkin
+ferrisaio.activator.defensive.locketoftheironsolari.onlycombo=Yalnızca Kombo Aktif
+ferrisaio.activator.defensive.locketoftheironsolalari.healthpercent=Oyuncu HealthPercent <[EQ] x% olduğunda
+ferrisaio.activator.defensive.locketoftheironsolari.damagetime=Hasar Hesaplama Süresi (ms)
+
+#FerrisAIO.Activator.Defensive.RanduinOmen
+ferrisaio.activator.defensive.randuinomen.enabled=Etkin
+ferrisaio.activator.defensive.randuinomen.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.defensive.randuinomen.minhit=Min Hit Count >[EQ] x
+ferrisaio.activator.defensive.randuinomen.healthpercent=Oyuncu Sağlık Yüzdesi <[EQ] x% olduğunda
+
+#FerrisAIO.Activator.Defensive.Redemption
+ferrisaio.activator.defensive.redemption.enabled=Etkin
+ferrisaio.activator.defensive.redemption.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.defensive.redemption.healthpercent=Oyuncu Sağlık Percent <[EQ] x% olduğunda
+ferrisaio.activator.defensive.redemption.calculatedamage=Gelen Hasarı Hesapla
+ferrisaio.activator.defensive.redemption.damagepercent=Gelen Hasar Yüzdesi >[EQ] x%
+ferrisaio.activator.defensive.redemption.damagetime=Gelen Hasar Hesaplama Süresi (ms)
+
+#FerrisAIO.Activator.Defensive.GargoyleStoneplate
+ferrisaio.activator.defensive.gargoylestoneplate.enabled=Etkin
+ferrisaio.activator.defensive.gargoylestoneplate.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.defensive.gargoylestoneplate.healthpercent=Oyuncu Sağlık Yüzdesi <[EQ] x% olduğunda
+ferrisaio.activator.defensive.gargoylestoneplate.calculatedamage=Gelen Hasarı Hesapla
+ferrisaio.activator.defensive.gargoylestoneplate.damagepercent=Gelen Hasar Yüzdesi >[EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.damagetime=Gelen Hasar Hesaplama Süresi (ms)
+
+#FerrisAIO.Activator.Saldırı
+ferrisaio.activator.offensive.prowlersclaw=Prowler'ın Pençesi
+ferrisaio.activator.offensive.everfrost=Everfrost
+ferrisaio.activator.offensive.galeforce=Galeforce
+ferrisaio.activator.offensive.hextechprotobelt01=Hextech Protobelt-01
+ferrisaio.activator.offensive.stridebreaker=Adım Kırıcı
+ferrisaio.activator.offensive.ironspikewhip=Ironspike Whip
+ferrisaio.activator.offensive.goredrinker=Goredrinker
+ferrisaio.activator.offensive.youmuughostblade=Youmuu'nun Hayaletkılıcı
+
+#FerrisAIO.Activator.Offensive.ProwlersPençe
+ferrisaio.activator.offensive.prowlersclaw.enabled=Etkin
+ferrisaio.activator.offensive.prowlersclaw.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.offensive.prowlersclaw.dontprowlersundertower=Kulenin altında kullanmayın
+ferrisaio.activator.offensive.prowlersclaw.enemyhealthpercent=Hedef HealthPercent <[EQ] x% olduğunda
+
+#FerrisAIO.Activator.Offensive.Everfrost
+ferrisaio.activator.offensive.everfrost.enabled=Etkin
+ferrisaio.activator.offensive.everfrost.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.offensive.everfrost.enemyhealthpercent=Hedef HealthPercent <[EQ] x% olduğunda
+
+#FerrisAIO.Activator.Offensive.Galeforce
+ferrisaio.activator.offensive.galeforce.enabled=Etkin
+ferrisaio.activator.offensive.galeforce.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.offensive.galeforce.enemyhealthpercent=Hedef HealthPercent <[EQ] x% olduğunda
+
+#FerrisAIO.Activator.Offensive.HextechProtobelt01
+ferrisaio.activator.offensive.hextechprotobelt01.enabled=Etkin
+ferrisaio.activator.offensive.hextechprotobelt01.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.offensive.hextechprotobelt01.enemyhealthpercent=Hedef HealthPercent <[EQ] x% olduğunda
+
+#FerrisAIO.Activator.Offensive.Stridebreaker
+ferrisaio.activator.offensive.stridebreaker.enabled=Etkin
+ferrisaio.activator.offensive.stridebreaker.combo=Komboda Kullan
+ferrisaio.activator.offensive.stridebreaker.jungle=JungleClear'da Kullan
+
+#FerrisAIO.Activator.Offensive.IronspikeWhip
+ferrisaio.activator.offensive.ironspikewhip.enabled=Etkin
+ferrisaio.activator.offensive.ironspikewhip.combo=Komboda Kullan
+ferrisaio.activator.offensive.ironspikewhip.jungle=Ormanda KullanımClear
+ferrisaio.activator.offensive.ironspikewhip.isurf2=URF'de daha aktif kullanın
+
+#FerrisAIO.Activator.Offensive.Goredrinker
+ferrisaio.activator.offensive.goredrinker.enabled=Etkin
+ferrisaio.activator.offensive.goredrinker.combo=Komboda Kullan
+ferrisaio.activator.offensive.goredrinker.jungle=Ormanda KullanClear
+ferrisaio.activator.offensive.goredrinker.isurf2=URF'de daha aktif kullanın
+
+#FerrisAIO.Activator.Offensive.YoumuuGhostblade
+ferrisaio.activator.offensive.youmuughostblade.enabled=Etkin
+ferrisaio.activator.offensive.youmuughostblade.onlycombo=Yalnızca Kombo Etkin
+
+#FerrisAIO.Activator.AutoZhonya
+ferrisaio.activator.autozhonya.spellblock=Büyü Bloğu
+ferrisaio.activator.autozhonya.enabled=Etkin
+ferrisaio.activator.autozhonya.lowhealth=Düşük HP'de Kullan
+ferrisaio.activator.autozhonya.healthpercent=^ Player HealthPercent <[EQ] x%
+
+#FerrisAIO.Activator.AutoCleanse
+ferrisaio.activator.autocleanse.________sep1=Evet, bu QSS için de kullanılır!
+ferrisaio.activator.autocleanse.________sep2=Düşük performans nedeniyle varsayılan olarak devre dışı
+ferrisaio.activator.autocleanse.bufftype=Buff Türü
+ferrisaio.activator.autocleanse.bufftarget=Buff Hedefi
+ferrisaio.activator.autocleanse.enabled_=Etkin_
+ferrisaio.activator.autocleanse.miniduration=Min Buff Süresi(ms)
+ferrisaio.activator.autocleanse.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.autocleanse.onlylowhealth=Yalnızca Düşük SağlıkYüzdesi
+ferrisaio.activator.autocleanse.healthpercent=^ Min HealthPercent <[EQ] x%
+ferrisaio.activator.autocleanse.allowally=Müttefikleri Temizlemeye İzin Ver
+ferrisaio.activator.autocleanse.antiexaust=Tükendiğinde Kullan
+ferrisaio.activator.autocleanse.healthpercentexaust=^ HealthPercent >[EQ] x%
+ferrisaio.activator.autocleanse.antikill=Ignite/Poision/DOT öldürdüğünde ve Yakınlarda düşman yokken kullanın
+
+#FerrisAIO.Activator.AutoCleanse.BuffType
+ferrisaio.activator.autocleanse.bufftype.cleanseblind=Kör
+ferrisaio.activator.autocleanse.bufftype.cleansecharm=Cazibe
+ferrisaio.activator.autocleanse.bufftype.cleansedamage=Hasar
+ferrisaio.activator.autocleanse.bufftype.cleansefear=Korku
+ferrisaio.activator.autocleanse.bufftype.cleanseflee=Kaç
+ferrisaio.activator.autocleanse.bufftype.cleansepolymorph=Polimorf
+ferrisaio.activator.autocleanse.bufftype.cleansesilence=Sessizlik
+ferrisaio.activator.autocleanse.bufftype.cleanseslow=Yavaş
+ferrisaio.activator.autocleanse.bufftype.cleansesnare=Tuzak
+ferrisaio.activator.autocleanse.bufftype.cleansestun=Stun
+ferrisaio.activator.autocleanse.bufftype.cleansesuppression=Bastırma
+ferrisaio.activator.autocleanse.bufftype.cleansetaunt=Alay etme
+ferrisaio.activator.autocleanse.bufftype.cleanseasleep=Uykuda
+
+#FerrisAIO.Activator.AutoCleanse.BuffTarget
+ferrisaio.activator.autocleanse.bufftarget.cleanseon1073741853=Teemo
+
+#FerrisAIO.Activator.SummonerSpell
+ferrisaio.activator.summonerspell.barrier=Bariyer
+ferrisaio.activator.summonerspell.exhaust=Egzoz
+ferrisaio.activator.summonerspell.heal=İyileştirme
+ferrisaio.activator.summonerspell.ignite=Ateşle
+ferrisaio.activator.summonerspell.smiteslot=Dur
+ferrisaio.activator.summonerspell.spellbookslot=UltimateSpellbook
+
+#FerrisAIO.Activator.SummonerSpell.barrier
+ferrisaio.activator.summonerspell.barrier.enabled=Etkin
+ferrisaio.activator.summonerspell.barrier.healthpercent=Oyuncu HealthPercent <[EQ] x% olduğunda
+ferrisaio.activator.summonerspell.barrier.calculatedamage=Gelen Hasarı Hesapla
+ferrisaio.activator.summonerspell.barrier.damagepercent=Gelen Hasar Yüzdesi >[EQ] x%
+
+#FerrisAIO.Activator.SummonerSpell.Exhaust
+ferrisaio.activator.summonerspell.exhaust.enabled=Etkin
+ferrisaio.activator.summonerspell.exhaust.healthpercent=Oyuncu HealthPercent <[EQ] x% olduğunda
+ferrisaio.activator.summonerspell.exhaust.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.activator.summonerspell.exhaust.alwayscast=Her Zaman Hedefe Atla
+ferrisaio.activator.summonerspell.exhaust.alwayscast2=Tek başına yayınlama mantığını etkinleştir
+
+#FerrisAIO.Activator.SummonerSpell.Heal
+ferrisaio.activator.summonerspell.heal.healtarget=Hedef İyileştirme
+ferrisaio.activator.summonerspell.heal.enabled=Etkin
+ferrisaio.activator.summonerspell.heal.healthpercent=Müttefik HealthPercent <[EQ] x% olduğunda
+ferrisaio.activator.summonerspell.heal.calculatedamage=Gelen Hasarı Hesapla
+ferrisaio.activator.summonerspell.heal.damagepercent=Gelen Hasar Yüzdesi >[EQ] x%
+ferrisaio.activator.summonerspell.heal.damagetime=Gelen Hasar Hesaplama Süresi (ms)
+
+#FerrisAIO.Activator.SummonerSpell.Heal.HealTarget
+ferrisaio.activator.summonerspell.heal.healtarget.heal_1073741853=Teemo
+
+#FerrisAIO.Activator.SummonerSpell.Ignite
+ferrisaio.activator.summonerspell.ignite.enabled=Etkin
+ferrisaio.activator.summonerspell.ignite.killsteal=Hedef Ne zaman Öldürülebilir
+ferrisaio.activator.summonerspell.ignite.comboonly=Yalnızca Combo Sırasında
+ferrisaio.activator.summonerspell.ignite.preventusewhilekillableaa=[KillSteal] Hedef 1 AA ile öldürülebilir olduğunda tutuşturma israfını önle
+ferrisaio.activator.summonerspell.ignite.______sep3=^ Yalnızca Yakın Dövüş Şampiyonları için
+ferrisaio.activator.summonerspell.ignite.killableaaflash=^ Yalnızca hedefin flaşı yoksa
+ferrisaio.activator.summonerspell.ignite.preventonaarangetarget=[KillSteal] Düşman AA menzilindeyken kullanmayın 
+ferrisaio.activator.summonerspell.ignite.rangeaaflash=^ Yalnızca hedef Ignite Range'in dışına çıkamıyorsa
+ferrisaio.activator.summonerspell.ignite.______sep2=^ Yalnızca Yakın Dövüş Şampiyonları için
+ferrisaio.activator.summonerspell.ignite.lowhealthandcombo=Hedef HealthPercent <[EQ] x% olduğunda Komboda Kullan
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot
+ferrisaio.activator.summonerspell.smiteslot.smitetarget=Hedef Vur
+ferrisaio.activator.summonerspell.smiteslot.enabled=Etkin
+ferrisaio.activator.summonerspell.smiteslot.combo=Komboda Kullan
+ferrisaio.activator.summonerspell.smiteslot.combostack=^ Yalnızca 2 Yığın
+ferrisaio.activator.summonerspell.smiteslot.killable=KillAble'da Kullan
+ferrisaio.activator.summonerspell.smiteslot.drawrange=Çarpın Aralığı
+ferrisaio.activator.summonerspell.smiteslot.drawstate=Çekme Durumu Çiz
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot.SmiteTarget
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_baron=Baron Nashor
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_riftherald=Yırtık Habercisi
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_elder=Yaşlı Ejderha
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_chemtech=Chemtech Dragon
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_hextech=Hextech Ejderhası
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_water=Su Ejderhası
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_fire=Ateş Ejderhası
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_earth=Dünya Ejderhası
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_air=Hava Ejderhası
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_blue=Mavi Sentinel
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_red=Kırmızı Brambleback
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_razorbeak=Kızıl Raptor
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_murkwolf=Büyük Karanlık Kurt
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_krug=Antik Krug
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_gromp=Gromp
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_crab=Rift Scuttler
+
+#FerrisAIO.Activator.SummonerSpell.SpellbookSlot
+ferrisaio.activator.summonerspell.spellbookslot.enableultimatespellbook=Etkin
+ferrisaio.activator.summonerspell.spellbookslot.enablenolag=Düşük Gecikme Modu
+ferrisaio.activator.summonerspell.spellbookslot.sylasrspellnames=SpellNames
+
+#FerrisAIO.Activator.Dönüş
+ferrisaio.activator.turnaround.enabled=Etkin
+ferrisaio.activator.turnaround.cassiopeiar=Cassiopeia R'den Kaçının
+ferrisaio.activator.turnaround.tryndamerew=Tryndamere W'dan Kaçının
+
+#FerrisAIO.Activator.AutoLantern
+ferrisaio.activator.autolantern.autocatch=Ally Lantern'ı Yakala
+ferrisaio.activator.autolantern.enabledcatch=Etkin
+ferrisaio.activator.autolantern.onlykey=Yalnızca Anahtar Etkin
+ferrisaio.activator.autolantern.catchkey=Fener Anahtarını Yakala
+ferrisaio.activator.autolantern.catchhealth=Oyuncu Sağlık Yüzdesi >[EQ] x% olduğunda
+ferrisaio.activator.autolantern.autoward=Düşman Fenerinde Totem Kullan
+ferrisaio.activator.autolantern.enabledward=Etkin
+ferrisaio.activator.autolantern.wardkey=Fener Anahtarında Totem Yayınla
+ferrisaio.activator.autolantern.warddelay=Totem Gecikmesini Kullan
+
+#FerrisAIO.Farkındalık
+ferrisaio.awareness.attackrange=Saldırı Menzili
+ferrisaio.awareness.autoward=Otomatik Koğuş
+ferrisaio.awareness.cooldowntrack=Bekleme Parçası
+ferrisaio.awareness.experiencetrack=Deneyim Yolu
+ferrisaio.awareness.gankalert=Gank Uyarısı
+ferrisaio.awareness.hudtrack=Hud Track
+ferrisaio.awareness.inhibitortime=İnhibitör Süresi
+ferrisaio.awareness.jungletime=Orman Zamanı
+ferrisaio.awareness.lastposition=Son Konum
+ferrisaio.awareness.recalltrack=Parçayı Geri Çağır
+ferrisaio.awareness.turrethealth=Taret Sağlığı
+ferrisaio.awareness.turretrange=Taret Saldırı Menzili
+ferrisaio.awareness.wardtrack=Ward Track
+ferrisaio.awareness.waypoints=Yol Noktaları
+ferrisaio.awareness.fowtracker_v2=FOW Baron / Dragon Tracker
+
+#FerrisAIO.Awareness.AttackRange
+ferrisaio.awareness.attackrange.enabled=Etkin
+ferrisaio.awareness.attackrange.ally=Müttefik Beraberlik
+ferrisaio.awareness.attackrange.allycolor=^ Ally Color
+ferrisaio.awareness.attackrange.enemy=Düşmanı Çek
+ferrisaio.awareness.attackrange.enemycolor=^ Düşman Rengi
+
+#FerrisAIO.Awareness.AutoWard
+ferrisaio.awareness.autoward.enabled=Etkin
+ferrisaio.awareness.autoward.onlycombo=Yalnızca Kombo Etkin
+ferrisaio.awareness.autoward.buyblue=Mavi Bibloyu Otomatik Satın Al
+ferrisaio.awareness.autoward.bushward=Otomatik Çalı Koğuş
+ferrisaio.awareness.autoward.bushpinkward=^ Pembe Totem Kullan
+ferrisaio.awareness.autoward.antisteal=Çalmayı Önleme
+ferrisaio.awareness.autoward.maxmissingtime=x Saniyeden Uzun Kaybolursa Gözetleme
+
+#FerrisAIO.Awareness.CooldownTrack
+ferrisaio.awareness.cooldowntrack.enabled=Etkin
+ferrisaio.awareness.cooldowntrack.ally=Müttefik Beraberlik
+ferrisaio.awareness.cooldowntrack.enemy=Düşmanı Çiz
+ferrisaio.awareness.cooldowntrack.self=Kendini Çiz
+
+#FerrisAIO.Awareness.ExperienceTrack
+ferrisaio.awareness.experiencetrack.enabled=Etkin
+ferrisaio.awareness.experiencetrack.ally=Müttefik Beraberlik
+ferrisaio.awareness.experiencetrack.enemy=Düşmanı Çiz
+ferrisaio.awareness.experiencetrack.self=Kendini Çiz
+
+#FerrisAIO.Awareness.GankAlert
+ferrisaio.awareness.gankalert.enabled=Etkin
+ferrisaio.awareness.gankalert.onlyjungle=Yalnızca Orman
+ferrisaio.awareness.gankalert.minrange=Min. Mesafe Aralığı >[EQ] x
+ferrisaio.awareness.gankalert.maxrange=Maks. Mesafe Aralığı <[EQ] x
+
+#FerrisAIO.Awareness.HudTrack
+ferrisaio.awareness.hudtrack.horizontal=Yatay Stil
+ferrisaio.awareness.hudtrack.vertical=Dikey Stil
+ferrisaio.awareness.hudtrack.style=Çizim Stili
+ferrisaio.awareness.hudtrack.enabled=Etkin
+
+#FerrisAIO.Awareness.HudTrack.Yatay
+ferrisaio.awareness.hudtrack.horizontal.horizontalxoffsets=X Ofset
+ferrisaio.awareness.hudtrack.horizontal.horizontalyoffsets=Y Ofsetleri
+
+#FerrisAIO.Awareness.HudTrack.Vertical
+ferrisaio.awareness.hudtrack.vertical.verticalxoffsets=X Ofset
+ferrisaio.awareness.hudtrack.vertical.verticalyoffsets=Y Ofsetler
+ferrisaio.awareness.hudtrack.vertical.verticalpos=Sihirdar Büyü Pozisyonu
+
+#FerrisAIO.Awareness.InhibitorTime
+ferrisaio.awareness.inhibitortime.enabled=Etkin
+ferrisaio.awareness.inhibitortime.minimap=Mini Haritada
+ferrisaio.awareness.inhibitortime.minimapdraw=MiniMap Üzerinde Çiz
+ferrisaio.awareness.inhibitortime.minimapfontsize=Yazı Tipi Boyutu
+ferrisaio.awareness.inhibitortime.map=Mini Haritada
+ferrisaio.awareness.inhibitortime.mapdraw=Haritada Çiz
+ferrisaio.awareness.inhibitortime.mapfontsize=Yazı Tipi Boyutu
+
+#FerrisAIO.Awareness.JungleTime
+ferrisaio.awareness.jungletime.enabled=Etkin
+ferrisaio.awareness.jungletime.minimap=Mini Haritada
+ferrisaio.awareness.jungletime.minimapdraw=MiniMap Üzerinde Çiz
+ferrisaio.awareness.jungletime.minimapformat=Zaman Biçimi: 
+ferrisaio.awareness.jungletime.minimapfontsize=Yazı Tipi Boyutu
+ferrisaio.awareness.jungletime.map=Haritada
+ferrisaio.awareness.jungletime.mapdraw=Haritada Çiz
+ferrisaio.awareness.jungletime.mapformat=Zaman Biçimi: 
+ferrisaio.awareness.jungletime.mapfontsize=Yazı Tipi Boyutu
+
+#FerrisAIO.Awareness.LastPosition
+ferrisaio.awareness.lastposition.enabled=Etkin
+ferrisaio.awareness.lastposition.sstime=SS Zamanını Çiz
+ferrisaio.awareness.lastposition.sscircle=SS Çemberi Çiz
+ferrisaio.awareness.lastposition.ssback__=Destek Göstergesi Çiz
+ferrisaio.awareness.lastposition.urf_drawcannonpositions=URF Top Pozisyon Göstergesini Çiz
+
+#FerrisAIO.Awareness.RecallTrack
+ferrisaio.awareness.recalltrack.enabled=Etkin
+ferrisaio.awareness.recalltrack.xoffsets=X Ofset
+ferrisaio.awareness.recalltrack.yoffsets=Y Ofsetleri
+
+#FerrisAIO.Awareness.TaretSağlık
+ferrisaio.awareness.turrethealth.enabled=Etkin
+ferrisaio.awareness.turrethealth.style_=Çizim Stili
+ferrisaio.awareness.turrethealth.fontsize=Yazı Tipi Boyutu
+
+#FerrisAIO.Awareness.TaretRange
+ferrisaio.awareness.turretrange.enabled=Etkin
+ferrisaio.awareness.turretrange.ally=Müttefik Kule Saldırı Menzili Çiz
+ferrisaio.awareness.turretrange.allycolor=^ Müttefik Taret Saldırı Rengi
+ferrisaio.awareness.turretrange.enemy=Düşman Taret Saldırı Menzili Çekin
+ferrisaio.awareness.turretrange.enemycolor=^ Düşman Kule Saldırı Rengi
+ferrisaio.awareness.turretrange.extendrange=Kule Menzilini Genişlet
+
+#FerrisAIO.Awareness.WardTrack
+ferrisaio.awareness.wardtrack.enabled=Etkin
+ferrisaio.awareness.wardtrack.showowner=Sahibi Göster
+ferrisaio.awareness.wardtrack.pingvision=Ping Vizyonu
+ferrisaio.awareness.wardtrack.pingdelay=Ping Gecikmesi
+ferrisaio.awareness.wardtrack.wardpositionhelper_2=Yerleşim Konumunu Anahtarda Göster
+ferrisaio.awareness.wardtrack.wardvisionhelper=Koğuş Görüş Alanlarını Göster
+ferrisaio.awareness.wardtrack.quality=Kalite
+ferrisaio.awareness.wardtrack.key=HotKey + Sol Tık Kaldır
+
+#FerrisAIO.Awareness.WayPoints
+ferrisaio.awareness.waypoints.enabled_=Etkin
+ferrisaio.awareness.waypoints.cross=Çapraz Renk
+ferrisaio.awareness.waypoints.line=Çizgi Rengi
+ferrisaio.awareness.waypoints.aproximateposition=Öngörülen Konum Rengi
+ferrisaio.awareness.waypoints.recalcdelay=Yeniden Hesaplama Gecikmesi
+ferrisaio.awareness.waypoints.______0001wp=^ Daha yüksek değerde FPS'yi artırır!
+ferrisaio.awareness.waypoints.ally=Müttefik Beraberlik
+ferrisaio.awareness.waypoints.enemy=Düşmanı Çiz
+ferrisaio.awareness.waypoints.self=Kendini Çiz
+ferrisaio.awareness.waypoints.map=Haritada Çiz
+
+#FerrisAIO.Awareness.FOWTracker_v2
+ferrisaio.awareness.fowtracker_v2.enabled=Etkin
+ferrisaio.awareness.fowtracker_v2.pinglocation=Ping Konumu
+ferrisaio.awareness.fowtracker_v2.sendchatmessage=Sohbeti Takıma Gönder
+ferrisaio.awareness.fowtracker_v2.sendchatlocal=Müşteri sohbetinde yazdır
+ferrisaio.awareness.fowtracker_v2.sendpinglocal=Yalnızca sizin görebileceğiniz şekilde Pingler
+
+#FerrisAIO.FPred
+ferrisaio.fpred._____sp2=Otomatik, test aşamasında çok fazla
+ferrisaio.fpred._____sp3=Telegram'daki hataları, sorunları bana bildirin <3
+ferrisaio.fpred.preditonlist1=Varsayılan Tahmin Yöntemi
+ferrisaio.fpred.prediconlistq=Tahmin Yöntemi Q
+ferrisaio.fpred.qhitchance=Q Vuruş Şansı
+ferrisaio.fpred.preditonlistw=Tahmin Yöntemi W
+ferrisaio.fpred.wichance=W Vuruş Şansı
+ferrisaio.fpred.preditonliste=Tahmin Yöntemi E
+ferrisaio.fpred.ehitchance=E Vuruş Şansı
+ferrisaio.fpred.prediconlistr=Tahmin Yöntemi R
+ferrisaio.fpred.rhitchance=R Vuruş Şansı
+ferrisaio.fpred.spredwindup=Hedef AA Windup'ı kontrol edin
+ferrisaio.fpred.spredmaxrangeignore=Maks. Menzil Atlatma Yoksay (%)
+ferrisaio.fpred.spredreactiondelay=Rection Gecikmesini Yoksay
+ferrisaio.fpred.spreddelay=Yazım Gecikmesi
+ferrisaio.fpred.spreddrawings=Çizimleri Etkinleştir
+ferrisaio.fpred.spredaccuracy_=AOE Tahminine İzin Ver
+ferrisaio.fpred.waypointanalysis=Yol NoktasıAnaliz
+ferrisaio.fpred.predmaxrange=Maks Aralık %'si
+
+#FerrisAIO.BaseUlt
+ferrisaio.baseult.baseult=Base Ult'i Etkinleştir
+ferrisaio.baseult.checkcollision=Çarpışmayı Kontrol Et
+ferrisaio.baseult.panickey=Anahtar basılıyken Ult yok
+ferrisaio.baseult.regardlesskey=Öldürmeden bağımsız olarak Ult (basılı tutun)
+ferrisaio.baseult.team baseult arkadaşlar=TeamUlt
+ferrisaio.baseult.disabled şampiyon hedefleri=DisabledChampions
+
+#FerrisAIO.AutoLevel
+ferrisaio.autolevel.enable.teemo=Etkin
+ferrisaio.autolevel.autolevelstart.teemo=Seviyeden Sonra Başla
+ferrisaio.autolevel.customs2.teemo=Script Gümrüklerine İzin Ver
+ferrisaio.autolevel.primaryorder.teemo=Otomatik Düzey Sıralaması
+ferrisaio.autolevel.earlyorder.teemo=İlk Üç Seviyeli Sipariş
+
+#FerrisAIO.SkinChanger
+ferrisaio.skinchanger.enabled=Etkin
+ferrisaio.skinchanger.championteemo=Şampiyon Görünümü
+ferrisaio.skinchanger.ward=Ward Skin
+ferrisaio.skinchanger.minion=Minyon Derisi
+
+#FerrisAIO.SkinChanger.ChampionTeemo
+ferrisaio.skinchanger.championteemo.userandom=Herhangi bir dış görünüm ayarlanmamışsa Rastgele Görünüm Kullan
+ferrisaio.skinchanger.championteemo.usesliderf=Kaydırıcı Değerini Kullan
+ferrisaio.skinchanger.championteemo.forceenemiestodefualt=Düşmanları Varsayılan Görünüme Zorla
+ferrisaio.skinchanger.championteemo.forcealliestodefualt=Müttefikleri Varsayılan Görünüme Zorla
+ferrisaio.skinchanger.championteemo.skinname=Skin
+ferrisaio.skinchanger.championteemo.chromaid=Chorma
+ferrisaio.skinchanger.championteemo.skinid=Dış Görünüm Kimliği: 
+
+#FerrisAIO.SkinChanger.Ward
+ferrisaio.skinchanger.ward.wardsenabled=Totem Değiştiriciyi Etkinleştir
+ferrisaio.skinchanger.ward.userandom=Herhangi bir dış görünüm ayarlanmamışsa Rastgele Görünüm Kullan
+ferrisaio.skinchanger.ward.usesliderf=Kaydırıcı Değerini Kullan
+ferrisaio.skinchanger.ward.skinid=Dış Görünüm Kimliği:
+ferrisaio.skinchanger.ward.wardid1=Gerçek Koğuş Kimliği: Bulmak için bir totem yerleştirin!
+
+#FerrisAIO.SkinChanger.Minion
+ferrisaio.skinchanger.minion.minionskin=Minyon Görünüm Kimliği: 
+ferrisaio.skinchanger.minion.towerchaosskin=Kaos Kulesi Görünüm Kimliği: 
+ferrisaio.skinchanger.minion.towerorderskin=Kule Görünümü Kimliğini Sipariş Edin: 
+ferrisaio.skinchanger.minion.baronskin=Baron Görünüm Kimliği: 
+ferrisaio.skinchanger.minion.dragonskin=Ejderha Görünümü Kimliği: 
+ferrisaio.skinchanger.minion.heraldskin=Herald Görünüm Kimliği: 
+ferrisaio.skinchanger.minion.crabskin=Skuttle Görünümü Kimliği: 
+ferrisaio.skinchanger.minion.redskin=RedBuff Görünüm Kimliği: 
+ferrisaio.skinchanger.minion.blueskin=BlueBuff Görünüm Kimliği: 
+ferrisaio.skinchanger.minion.blastcone=BlastCone Dış Görünüm Kimliği: 
+ferrisaio.skinchanger.minion.visionplant=Scryers Görünüm Kimliği: 
+ferrisaio.skinchanger.minion.healthplant=HoneyFruit Skin ID: 
+
+#FerrisAIO.Exploits
+ferrisaio.exploits.maphack=FOW Görünürlük Hack
+ferrisaio.exploits.packettracker=Paket İzleyici
+
+#FerrisAIO.Exploits.MapHack
+ferrisaio.exploits.maphack.enabled=Etkin
+ferrisaio.exploits.maphack.glow=Glow'u Kullan
+ferrisaio.exploits.maphack.____s_1=Bu bazen düşman şampiyonları savaş sisi içinde gösterecek
+ferrisaio.exploits.maphack.____s_2=Çalışacağı zaman yarı rastgele ama buna neden olabilecek bazı durumlar
+ferrisaio.exploits.maphack.____s_4=FOW'da büyü yaptıklarında 1000 birim içinde görüşünüz olur
+ferrisaio.exploits.maphack.____s_5=Küresel Animasyonlar size yakındaki şampiyonların ve konumlarının bir listesini göndererek oynuyor
+ferrisaio.exploits.maphack.____s_6=FOW'da Nunu kartopu gibi bir nesne oluşturan büyüler
+
+#FerrisAIO.Exploits.PacketTracker
+ferrisaio.exploits.packettracker.____s_1=Bu, Hala Devam Eden Bir Çalışmadır, hataları bekleyin
+ferrisaio.exploits.packettracker.____s_3=Lig için güncellenmesi için yerel dll'me de güveniyor
+ferrisaio.exploits.packettracker.____s_4=aslında bu lig versiyonunu derlemeyi güncellemezsem, bu çalışmayacak!
+ferrisaio.exploits.packettracker.____s_5=> 12.1.416.4011 için güncellendi
+ferrisaio.exploits.packettracker.information=Bilgi
+ferrisaio.exploits.packettracker.pingsettings=Ping (İstemcisi Taraflı)
+ferrisaio.exploits.packettracker.packetdata12.1=Paket Bilgileri
+ferrisaio.exploits.packettracker.devstuff=Dev Şeyleri
+
+#FerrisAIO.Exploits.PacketTracker.Bilgi
+ferrisaio.exploits.packettracker.information.____s_1=Bu, bazen gösterebilen bir istismardır
+ferrisaio.exploits.packettracker.information.____s_2=FOW'da canavarlara saldırıldığında
+ferrisaio.exploits.packettracker.information.____s_3=Algılandığında, istemci taraflı bir ping gösterecek
+ferrisaio.exploits.packettracker.information.____s_4=canavarların bulunduğu yerde
+
+#FerrisAIO.Exploits.PacketTracker.PingSettings
+ferrisaio.exploits.packettracker.pingsettings.pingattacked=Kampta Saldırıya Uğradı
+ferrisaio.exploits.packettracker.pingsettings.pingattacking=Kampta Saldırı
+ferrisaio.exploits.packettracker.pingsettings.pingdisengaging=Kampta Ayrılma
+ferrisaio.exploits.packettracker.pingsettings.pingsoundall=Sesleri Çal
+ferrisaio.exploits.packettracker.pingsettings.pingsoundfirst=Yalnızca ilk pingde sesi çal
+ferrisaio.exploits.packettracker.pingsettings.pingdelay=Ping Gecikmesi Saniyesi
+
+#FerrisAIO.Exploits.PacketTracker.packetdata12.1
+ferrisaio.exploits.packettracker.packetdata12.1.____s_1=Bu değerler otomatik olarak açılır
+ferrisaio.exploits.packettracker.packetdata12.1.____s_2=bu yama sırasında bulundukları gibi
+ferrisaio.exploits.packettracker.packetdata12.1.headeronattack2=Başlık OnAttack
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmissilehit2=OnMissileHit Başlık
+ferrisaio.exploits.packettracker.packetdata12.1.headerondisengaged=Başlık Açık Devre Dışı
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmonsterskill=OnMonsterSkill Başlık
+ferrisaio.exploits.packettracker.packetdata12.1.____s_5=12.1 Yaması'ndan Başlıklar
+ferrisaio.exploits.packettracker.packetdata12.1.forcefindheaders=Başlıkları otomatik olarak yeniden hesaplamayı deneyin!
+
+#FerrisAIO.Exploits.PacketTracker.DevStuff
+ferrisaio.exploits.packettracker.devstuff.blacklistincomming=Gelen Paketleri Kara Listeye Al
+ferrisaio.exploits.packettracker.devstuff.clearblacklist=Kara Listeyi Temizle
+ferrisaio.exploits.packettracker.devstuff.printblacklist=Kara Listeyi Yazdır
+ferrisaio.exploits.packettracker.devstuff.drawnetworkid=Mob Ağ Kimliği Çiz
+ferrisaio.exploits.packettracker.devstuff.packetdebug=Paket Hata Ayıklama
+ferrisaio.exploits.packettracker.devstuff.onlyfow=Yalnızca FOW Hata Ayıklama
+ferrisaio.exploits.packettracker.devstuff.debugmode=Hata Ayıklama Modu
+
+#FerrisAIO.Utilities
+ferrisaio.utilities.preventafk=AFK Tekmesini Önle
+ferrisaio.utilities.autoquit=Otomatik Çık
+ferrisaio.utilities.goldtracker=Altın İzleyici
+ferrisaio.utilities.namechanger=Ad Değiştirici
+ferrisaio.utilities.emotespammer=Emote Spamcı
+ferrisaio.utilities.chatspam=Sohbet Spamcısı
+ferrisaio.utilities.sharedexperience=Paylaşılan Deneyim (Temp devre dışı)
+ferrisaio.utilities.mmrtracker=MMR Denetleyicisi
+ferrisaio.utilities.aatilt=AA Eğim
+ferrisaio.utilities.spellalterer_v2=Yazım Uyarıcısı
+ferrisaio.utilities.antitilt=Eğme Önleme
+
+#FerrisAIO.Utilities.AutoQuit
+ferrisaio.utilities.autoquit.enable=Oyun bittikten sonra otomatik çık
+ferrisaio.utilities.autoquit.delay=Bekleyin x Saniye
+
+#FerrisAIO.Utilities.GoldTracker
+ferrisaio.utilities.goldtracker.enable=Altın İzleyiciyi Etkinleştir
+ferrisaio.utilities.goldtracker.drawteamgold=Altın Takımı Çekin
+ferrisaio.utilities.goldtracker.drawplayergold=Şampiyon Altın Beraberlik
+ferrisaio.utilities.goldtracker.textcolor=Metin Rengi
+ferrisaio.utilities.goldtracker.____s_1=---[EQ] Henüz bitmedi [EQ]---
+ferrisaio.utilities.goldtracker.trackstats=Kazanılan Altın yerine İstatistik Değerini İzle
+ferrisaio.utilities.goldtracker.stattextcolor=Stat Metin Rengi
+
+#FerrisAIO.Utilities.NameChanger
+ferrisaio.utilities.namechanger.enablechanger=Etkinleştir
+ferrisaio.utilities.namechanger.copy=Panodan Adı Ayarla
+ferrisaio.utilities.namechanger.____nc_0001=FerrisAIO
+ferrisaio.utilities.namechanger.nametype=Görüntüleme Türü
+
+#FerrisAIO.Utilities.EmoteSpammer
+ferrisaio.utilities.emotespammer.kill=Öldürmelerde Etkinleştir
+ferrisaio.utilities.emotespammer.selectitem=İfade Yuvası
+
+#FerrisAIO.Utilities.ChatSpam
+ferrisaio.utilities.chatspam.enabled=Etkin
+ferrisaio.utilities.chatspam.binds=KeyBinds
+ferrisaio.utilities.chatspam.method=Yöntemler
+ferrisaio.utilities.chatspam.clipboard=Pano ayarları
+ferrisaio.utilities.chatspam.delay=Milisaniye cinsinden gecikme
+ferrisaio.utilities.chatspam.debug=Test modu (Sunucuya değil, yalnızca sohbetinize yazdırır)
+
+#FerrisAIO.Utilities.ChatSpam.etkin
+ferrisaio.utilities.chatspam.enabled.kill=Öldürmelerde Etkinleştir
+ferrisaio.utilities.chatspam.enabled.gameend=Oyun Sonunda Etkinleştir
+ferrisaio.utilities.chatspam.enabled.ondeath=Ölüm Halinde Etkinleştir
+ferrisaio.utilities.chatspam.enabled.all=Tüm Sohbet
+ferrisaio.utilities.chatspam.enabled.deathcheck=Yalnızca öldürmeler > ölümler olduğunda
+ferrisaio.utilities.chatspam.enabled.disablewhiledead=Ölüyken devre dışı bırak
+ferrisaio.utilities.chatspam.enabled.spammed=Spam Gönderilen Miktarı Göster
+
+#FerrisAIO.Utilities.ChatSpam.binds
+ferrisaio.utilities.chatspam.binds.bind=Spam Anahtarı (basılı tutun)
+ferrisaio.utilities.chatspam.binds.bind2=Spam Anahtarı (geçiş)
+
+#FerrisAIO.Utilities.ChatSpam.yöntemi
+ferrisaio.utilities.chatspam.method.modehold=Spam Modunu Beklet
+ferrisaio.utilities.chatspam.method.slothold=Bekleme için Pano Yuvası
+ferrisaio.utilities.chatspam.method.modepress=Spam Modunu Değiştir
+ferrisaio.utilities.chatspam.method.slotpress=Geçiş için Pano Yuvası
+ferrisaio.utilities.chatspam.method.modell=Öldürme Modunda
+ferrisaio.utilities.chatspam.method.slotkill=OnKill için Pano Yuvası
+ferrisaio.utilities.chatspam.method.modegameend=Oyun Sonu Modunda
+ferrisaio.utilities.chatspam.method.slotgameend=Oyun Sonu için Pano Yuvası
+ferrisaio.utilities.chatspam.method.modedeath=Ölüm Üzerine Oyunda
+ferrisaio.utilities.chatspam.method.slotdeath=Ölüm için Pano Yuvası
+
+#FerrisAIO.Utilities.ChatSpam.Clipboard
+ferrisaio.utilities.chatspam.clipboard.copy=Panodan Seçilen Yuvaya Kopyala
+ferrisaio.utilities.chatspam.clipboard.copyslot=Metnin kopyalanacağı yuva
+ferrisaio.utilities.chatspam.clipboard.____cb_0001=1: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0002=2: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0003=3: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0004=4: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0005=5: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0006=6: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0007=7: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0008=8: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0009=9: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0010=10: 
+
+#FerrisAIO.Utilities.SharedExperience
+ferrisaio.utilities.sharedexperience.enabled_=Etkin
+ferrisaio.utilities.sharedexperience.showenemies=Düşman Üzerine Metin Çiz
+ferrisaio.utilities.sharedexperience.onlyshowinv=Yalnızca Görünmediğinde Metin Çiz
+ferrisaio.utilities.sharedexperience.drawpredictioncircle=Tahmin Çemberini Çiz
+ferrisaio.utilities.sharedexperience.invcolor=Görünmediğinde Renk
+
+#FerrisAIO.Utilities.MMRTtracker
+ferrisaio.utilities.mmrtracker.enable=MMR İzleyiciyi Etkinleştir
+ferrisaio.utilities.mmrtracker.draw2=Şampiyon Altında Beraberlik
+ferrisaio.utilities.mmrtracker.type=MMR Türü
+ferrisaio.utilities.mmrtracker.region=Bölge
+ferrisaio.utilities.mmrtracker.showhighest=En Yüksek Sıralamayı Göster
+ferrisaio.utilities.mmrtracker.____s_1=^ Komut dosyasının yeniden yüklenmesini gerektirir
+ferrisaio.utilities.mmrtracker.enemymmr=Düşman Takımı MMR'ı
+ferrisaio.utilities.mmrtracker.____s_3=Ally MMR Ortalaması: 1493
+ferrisaio.utilities.mmrtracker.____s_4=Düşman MMR Ortalaması: 1493
+ferrisaio.utilities.mmrtracker.____s_5=Toplam MMR Ortalaması: 2987
+
+#FerrisAIO.Utilities.MMRTracer.EnemyMMr
+ferrisaio.utilities.mmrtracker.enemymmr.____s_1=EggMoneyJR: Bilinmiyor
+
+#FerrisAIO.Utilities.AATilt
+ferrisaio.utilities.aatilt.____s_1=Düşmanları trollemek için animasyon yerine sadece gülme sesini çalar!
+ferrisaio.utilities.aatilt.laughtype=İfade Türü
+ferrisaio.utilities.aatilt.aalaugh=AA Şampiyonlarına Gülün
+ferrisaio.utilities.aatilt.aamastery=AA Şampiyonlarında Ustalık
+ferrisaio.utilities.aatilt.aalaughm=AA Minyonlarına Gülün
+ferrisaio.utilities.aatilt.aamasterym=AA Minyonlarında Ustalık
+ferrisaio.utilities.aatilt.aalaughb=AA Binalarına Gülün
+ferrisaio.utilities.aatilt.aamasteryb=AA Binalarında Ustalık
+
+#FerrisAIO.Utilities.SpellAlterer_v2
+ferrisaio.utilities.spellalterer_v2.alertultimate=Uyarı Sonları
+ferrisaio.utilities.spellalterer_v2.alertsummoner=Uyarı Sihirdar büyüleri
+ferrisaio.utilities.spellalterer_v2.seen=Yalnızca bu büyüyü kullanan düşman görüldüğünde uyarın
+ferrisaio.utilities.spellalterer_v2.urf=URF'de devre dışı bırak
+ferrisaio.utilities.spellalterer_v2.usechat=Gönderme Zamanı büyüsü sohbete kadar kapalı
+ferrisaio.utilities.spellalterer_v2.pingspell=Kullanıldığında ping işlemi yapın
+ferrisaio.utilities.spellalterer_v2.adddelay=İnsanlaştırılmış Gecikme Ekle
+ferrisaio.utilities.spellalterer_v2.trollmode=Trol Modu [Tüm Sohbet]
+ferrisaio.utilities.spellalterer_v2.debugmode=Hata Ayıklama Modu [Yalnızca yerel sohbet]
+
+#FerrisAIO.Utilities.AntiTilt
+ferrisaio.utilities.antitilt.automutechat=Otomatik Düşman Sohbeti/İfadeleri
+ferrisaio.utilities.antitilt.automutepings=Müttefik Pinglerini Otomatik Kapat
+ferrisaio.utilities.antitilt.automuteally=Müttefik Sohbetini/İfadelerini Otomatik Kapat
+ferrisaio.utilities.antitilt.preventbanwords=Yasaklanabilir Kelimeleri Önle
+
+#FerrisAIO.DebugMenu
+ferrisaio.debugmenu.debug=hata ayıklama günlüklerini etkinleştir
+ferrisaio.debugmenu.actionoptions=Eylemler
+ferrisaio.debugmenu.profileroption=Profil oluşturucu
+
+#FerrisAIO.DebugMenu.ActionOptions
+ferrisaio.debugmenu.actionoptions.skilldebug=Beceri Hata Ayıklama
+ferrisaio.debugmenu.actionoptions.selfdebug=Öz Beceri Hata Ayıklama
+ferrisaio.debugmenu.actionoptions.miscdebug=Tüm Oyun Nesnelerini Yazdır
+ferrisaio.debugmenu.actionoptions.statdebug=Durum Hata Ayıklama
+ferrisaio.debugmenu.actionoptions.langdebug=Lang Nesneleri Oluştur
+
+#FerrisAIO.DebugMenu.ProfilerOption
+ferrisaio.debugmenu.profileroption.enablewatchdog=İzleme Zamanını Yazdır
+ferrisaio.debugmenu.profileroption.allowdebug=^ Hata Ayıklamaya İzin Ver
+ferrisaio.debugmenu.profileroption.writetoconsole=^ Konsolda da yaz
+ferrisaio.debugmenu.profileroption.writetofile=^ Ayrıca dosyaya yazın
+
+#FerrisAIO.CoreAyarları
+ferrisaio.coresettings.ferrisaio.coresettings=FerrisAIO Core
+ferrisaio.coresettings.events=Etkinlikler
+ferrisaio.coresettings.language=Dil
+ferrisaio.coresettings.fnative=FNative
+ferrisaio.coresettings.foptimizations=FOptimizasyonlar
+ferrisaio.coresettings.autoloadscripts=Komut Dosyalarını Otomatik Olarak Yükle
+
+#FerrisAIO.CoreSettings.Events
+ferrisaio.coresettings.events.usepriority=Öncelikli Olay Veri Yolu Kullan
+
+#FerrisAIO.CoreSettings.Language
+ferrisaio.coresettings.language.language_=Dil
+ferrisaio.coresettings.language.dumpmissingkeys=Eksik Dil Anahtarlarını Atla
+
+#FerrisAIO.CoreSettings.FNative
+ferrisaio.coresettings.fnative.packethandler=FNative Paket İşleyiciyi Kullan
+ferrisaio.coresettings.fnative.poffsets=Paket Ofsetlerini Otomatik Olarak Bulmayı Deneyin
+ferrisaio.coresettings.fnative.ace=Hile Karşılığını Atlama Girişimi
+ferrisaio.coresettings.fnative.aipred=AI Tahmini için C# yerine CPP kullanın
+ferrisaio.coresettings.fnative.spp=Kaynak Paket Konumunu Doğrudan Güncellemeyi Etkinleştir
+ferrisaio.coresettings.fnative.afk=FNative AntiAFK Kullan
+ferrisaio.coresettings.fnative.proxy=Proxy Ligleri Giden paket akışı denemesi
+
+#FerrisAIO.CoreSettings.FOptimizasyonlar
+ferrisaio.coresettings.foptimizations.eventbus=EventBus
+ferrisaio.coresettings.foptimizations.drawings=Çizimler
+ferrisaio.coresettings.foptimizations.ilchanges=ILDeğişiklikler
+
+#FerrisAIO.CoreSettings.FOptimizations.EventBus
+ferrisaio.coresettings.foptimizations.eventbus.usepriority=Öncelikli Olay Veri Yolu Kullan
+
+#FerrisAIO.CoreSettings.FOptimizations.Çizimler
+ferrisaio.coresettings.foptimizations.drawings.circlev2=Daha Hızlı Çevreler Kullan
+ferrisaio.coresettings.foptimizations.drawings.ooschecks=Smart OutOfScreen Kontrollerini Kullan
+ferrisaio.coresettings.foptimizations.drawings.nonative=FNative Transport Layer Drawing Çağrılarından Kaçının
+ferrisaio.coresettings.foptimizations.drawings.textrender=EnsoulSharp.SDK.TextRender'ı FerrisAIO.Rendering.TextRender ile Değiştir
+
+#FerrisAIO.CoreSettings.FOptimizations.ILDeğişiklikler
+ferrisaio.coresettings.foptimizations.ilchanges.enableedits=ILChanges'i etkinleştir
+ferrisaio.coresettings.foptimizations.ilchanges.fixdrawoffscreen=Mini Harita Çizimlerini Onar
+ferrisaio.coresettings.foptimizations.ilchanges.irender=Oluşturma Sürelerini İyileştirin
+ferrisaio.coresettings.foptimizations.ilchanges.trove=Ağaç Listeleri için Listeyi Değiştir
+

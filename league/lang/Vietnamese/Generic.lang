@@ -1,0 +1,902 @@
+#FerrisAIO
+ferrisaio.ferrisaio=FerrisAIO
+ferrisaio.chaosystemmenu.teemo=Teemo Script
+ferrisaio.orbwalker=Ferris Orbwalker
+ferrisaio.evade=FEvade
+ferrisaio.loadevadescript=Tải tập lệnh trốn tránh
+ferrisaio.activator=Người kích hoạt
+ferrisaio.awareness=Nhận thức
+ferrisaio.fpred=FerrisPrediction
+ferrisaio.baseult=BaseUlt
+ferrisaio.autolevel=Cấp độ tự động của Teemo
+ferrisaio.skinchanger=Skin Changer
+ferrisaio.exploits=Khai thác
+ferrisaio.utilities=Tiện ích
+ferrisaio.debugmenu=Gỡ lỗi
+
+# FerrisAIO.Orbwalker
+ferrisaio.orbwalker.enabled_=Đã bật
+ferrisaio.orbwalker.attackable=Đơn vị có thể tấn công
+ferrisaio.orbwalker.priorifying=Ưu tiên
+ferrisaio.orbwalker.orbwalker=Người đi bộ
+ferrisaio.orbwalker.farm=Trang trại
+ferrisaio.orbwalker.advanced=Nâng cao
+ferrisaio.orbwalker.drawing=Vẽ
+ferrisaio.orbwalker.shove=Xô (Chuyển đổi)
+ferrisaio.orbwalker.freeze=Đóng băng (Chuyển đổi)
+ferrisaio.orbwalker.combo=Tổ hợp
+ferrisaio.orbwalker.combowithmove=Kết hợp không di chuyển
+ferrisaio.orbwalker.harass=Quấy rối
+ferrisaio.orbwalker.laneclear=LaneClear
+ferrisaio.orbwalker.lasthit=LastHit
+ferrisaio.orbwalker.flee=Chạy trốn
+ferrisaio.orbwalker.redncedamage=Giảm sát thương AA đi%
+
+# FerrisAIO.Orbwalker.Attackable
+ferrisaio.orbwalker.attackable.barrels=Thùng
+ferrisaio.orbwalker.attackable.jungleplant=Nhà máy rừng
+ferrisaio.orbwalker.attackable.specialminion=Thú cưng
+ferrisaio.orbwalker.attackable.wards=Wards
+
+# FerrisAIO.Orbwalker. Ưu tiên
+ferrisaio.orbwalker.priorifying.farmoverharass=Farm Over Harass
+ferrisaio.orbwalker.priorifying.specialminion=Minion đặc biệt
+ferrisaio.orbwalker.priorifying.smalljungle=Rừng nhỏ
+ferrisaio.orbwalker.priorifying.turret=Tháp pháo
+
+# FerrisAIO.Orbwalker.Orbwalker
+ferrisaio.orbwalker.orbwalker.extrahold=Vị trí nắm giữ bổ sung
+ferrisaio.orbwalker.orbwalker.moverandom=Ngẫu nhiên hóa chuyển động khi quá gần
+ferrisaio.orbwalker.orbwalker.windupdelay=Windup Delay
+ferrisaio.orbwalker.orbwalker.limitattack=Không thả diều nếu Tốc độ tấn công> 2,5
+
+# FerrisAIO.Orbwalker.Farm
+ferrisaio.orbwalker.farm.farmdelay=Trì hoãn trang trại
+ferrisaio.orbwalker.farm.turretfarm=Logic trang trại tháp pháo
+ferrisaio.orbwalker.farm.turretfarmmethod=Phương pháp trang trại tháp pháo
+ferrisaio.orbwalker.farm.turretframmaxlevel=Vô hiệu hóa trang trại tháp pháo khi cấp độ người chơi> [EQ] x
+ferrisaio.orbwalker.farm.freezehealth=Freeze Minion Max Health
+ferrisaio.orbwalker.farm.laneclearmethod=Phương pháp trang trại LaneClear
+ferrisaio.orbwalker.farm.cannonfocus=Ưu tiên đại bác
+ferrisaio.orbwalker.farm.freezeharass=Cho phép quấy rối trong tình trạng đóng băng
+
+# FerrisAIO.Orbwalker.Advanced
+ferrisaio.orbwalker.advanced.yasuowallcheck=Kiểm tra Yasuo WindWall
+ferrisaio.orbwalker.advanced.missilecheck=Sử dụng Kiểm tra Tên lửa
+ferrisaio.orbwalker.advanced.calcitemdamage=Tính thiệt hại vật phẩm
+ferrisaio.orbwalker.advanced.supportmode_teemo=Chế độ hỗ trợ
+ferrisaio.orbwalker.advanced.detectaaresets=Phát hiện kỹ năng khôi phục AA
+ferrisaio.orbwalker.advanced.allowkalistadoublejump=Sử dụng Kalista Double Jump
+ferrisaio.orbwalker.advanced.beforecanattack_=Attack Early Millis
+ferrisaio.orbwalker.advanced.beforecanmoveallowscriptcontrol=Cho phép kiểm soát tập lệnh di chuyển sớm
+ferrisaio.orbwalker.advanced.beforecanmove=Di chuyển thủ công sớm một triệu
+ferrisaio.orbwalker.advanced.limitmovementpackets=Ngăn chặn gói chuyển động
+ferrisaio.orbwalker.advanced.limitattackpackets=Ngăn chặn tấn công PacketSpam
+
+# FerrisAIO.Orbwalker.Drawing
+ferrisaio.orbwalker.drawing.drawattackrange=Vẽ phạm vi tấn công
+ferrisaio.orbwalker.drawing.drawholdposition=Rút tiền giữ vị trí
+ferrisaio.orbwalker.drawing.drawkillableminion=Vẽ Minion có thể giết được
+ferrisaio.orbwalker.drawing.showfakeclick=Hiển thị FakeClick
+ferrisaio.orbwalker.drawing.fakeclickdelay=Độ trễ giữa các lần nhấp tính bằng mili
+ferrisaio.orbwalker.drawing.glowminion=Phát sáng lần truy cập cuối cùng
+ferrisaio.orbwalker.drawing.minionglow=Phát sáng Màu của những chú Minion có thể nhìn thấy cuối cùng
+ferrisaio.orbwalker.drawing.miniondraw=Vẽ điểm đánh dấu lasthit
+ferrisaio.orbwalker.drawing.minionanimate=Tạo động cho điểm đánh dấu lasthit
+ferrisaio.orbwalker.drawing.minionanimatecolor=Chuyển qua màu đánh dấu lasthit
+
+# FerrisAIO.Evade
+ferrisaio.evade.main=Chính
+ferrisaio.evade.keysettings=Cài đặt chính
+ferrisaio.evade.miscsettings=Cài đặt khác
+ferrisaio.evade.spells=Phép thuật
+ferrisaio.evade.traps=Bẫy
+ferrisaio.evade.evadespells=Trốn tránh Thần chú
+ferrisaio.evade.draw=Hòa
+ferrisaio.evade.autosetpingmenu=AutoSetPing
+
+# FerrisAIO.Evade.Main
+ferrisaio.evade.main.dodgeskillshots=Dodge SkillShots
+ferrisaio.evade.main.activateevadespells=Sử dụng phép thuật trốn tránh
+ferrisaio.evade.main.dodgedangerous=Tránh né chỉ nguy hiểm
+ferrisaio.evade.main.dodgefowspells=Dodge FOW SkillShots
+ferrisaio.evade.main.dodgecircularspells=Dodge Round SkillShots
+ferrisaio.evade.main.dodgecircularspells_v2=Logic vòng tròn Evadeee [BETA]
+
+# FerrisAIO.Evade.KeySettings
+ferrisaio.evade.keysettings.dodgedangerouskeyenabled=Bật Chỉ các Phím Nguy hiểm Dodge
+ferrisaio.evade.keysettings.dodgedangerouskey=Tránh khóa nguy hiểm duy nhất
+ferrisaio.evade.keysettings.dodgedangerouskey2=Chỉ né tránh khóa nguy hiểm 2
+ferrisaio.evade.keysettings.dodgeonlyoncombokeyenabled=Chỉ kích hoạt tính năng Dodge trên phím tổ hợp
+ferrisaio.evade.keysettings.dodgecombokey=Dodge Chỉ tổ hợp phím
+ferrisaio.evade.keysettings.dontdodgekeyenabled=Bật Don't Dodge Key
+ferrisaio.evade.keysettings.dontdodgekey=Đừng né chìa khóa
+
+# FerrisAIO.Evade.MiscSettings
+ferrisaio.evade.miscsettings.evademode=Hồ sơ trốn tránh
+ferrisaio.evade.miscsettings.blockdangerdash=Chặn Dấu gạch ngang nguy hiểm
+ferrisaio.evade.miscsettings.higherpre precision=Độ chính xác tránh né nâng cao
+ferrisaio.evade.miscsettings.recalculateposition=Tính toán lại đường dẫn
+ferrisaio.evade.miscsettings.continuemovement=Tiếp tục chuyển động cuối cùng
+ferrisaio.evade.miscsettings.calculatewindupdelay=Tính độ trễ của Windup
+ferrisaio.evade.miscsettings.checkspellcollision=Kiểm tra Va chạm chính tả
+ferrisaio.evade.miscsettings.preventdodgingundertower=Ngăn chặn việc trú ẩn dưới tháp
+ferrisaio.evade.miscsettings.preventdodgingnearenemy=Ngăn chặn kẻ thù đến gần
+ferrisaio.evade.miscsettings.advancednticldetection=Advanced Spell Detection
+ferrisaio.evade.miscsettings.clickremove=Cho phép loại bỏ nhấp chuột trái ^ Nhấp chuột trái để xóa bẫy và quả cầu
+ferrisaio.evade.miscsettings.resetconfig=Đặt lại cấu hình trốn tránh
+ferrisaio.evade.miscsettings.limiter=Nhân văn
+ferrisaio.evade.miscsettings.fastevade=Chạy trốn nhanh
+ferrisaio.evade.miscsettings.extrabuffers=Bộ đệm bổ sung
+ferrisaio.evade.miscsettings.loadtests=Thử nghiệm
+
+# FerrisAIO.Evade.MiscSettings.Limiter
+ferrisaio.evade.miscsettings.limiter.clickonlyonce=Chỉ nhấp một lần
+ferrisaio.evade.miscsettings.limiter.enableevadedistance=Trốn tránh mở rộng
+ferrisaio.evade.miscsettings.limiter.ticklimiter=Đánh dấu giới hạn
+ferrisaio.evade.miscsettings.limiter.spelldetectiontime=Thời gian phát hiện chính tả
+ferrisaio.evade.miscsettings.limiter.reactiontime=Thời gian phản ứng
+ferrisaio.evade.miscsettings.limiter.dodgeinterval=Khoảng thời gian tránh né
+
+# FerrisAIO.Evade.MiscSettings.FastEvade
+ferrisaio.evade.miscsettings.fastevade.fastmovementblock=Khối chuyển động nhanh
+ferrisaio.evade.miscsettings.fastevade.fastevadeactivationtime=Thời gian kích hoạt FastEvade
+ferrisaio.evade.miscsettings.fastevade.spellactivationtime=Thời gian kích hoạt chính tả
+ferrisaio.evade.miscsettings.fastevade.rejectmindistance=Bộ đệm khoảng cách va chạm
+
+# FerrisAIO.Evade.MiscSettings.ExtraBuffers
+ferrisaio.evade.miscsettings.extrabuffers.extrapingbuffer=Bộ đệm Ping bổ sung
+ferrisaio.evade.miscsettings.extrabuffers.extracpadistance=Khoảng cách va chạm bổ sung
+ferrisaio.evade.miscsettings.extrabuffers.extraspellradius=Bán kính chính tả bổ sung
+ferrisaio.evade.miscsettings.extrabuffers.extraevadedistance=Khoảng cách trốn tránh bổ sung
+ferrisaio.evade.miscsettings.extrabuffers.extraavoiddistance=Khoảng cách tránh xa hơn
+ferrisaio.evade.miscsettings.extrabuffers.mintherszone=Khoảng cách tối thiểu đến nhà vô địch
+
+# FerrisAIO.Evade.MiscSettings.LoadTests
+ferrisaio.evade.miscsettings.loadtests.loadspelltester=Load Spell Tester
+
+# FerrisAIO.Evade.EvadeSpells
+ferrisaio.evade.evadespells.flashevadespellsettings=Flash
+
+# FerrisAIO.Evade.EvadeSpells.FlashEvadeSpellSettings
+ferrisaio.evade.evadespells.flashevadespellsettings.flashuseevadespell=Sử dụng chính tả
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespelldangerlevel=Mức độ nguy hiểm
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespellmode=Chế độ chính tả
+
+# FerrisAIO.Evade.Draw
+ferrisaio.evade.draw.drawskillshots=Vẽ SkillShots
+ferrisaio.evade.draw.showstatus=Hiển thị trạng thái trốn tránh
+ferrisaio.evade.draw.drawspellpos=Vẽ Vị trí Chính tả
+ferrisaio.evade.draw.drawevadeposition=Rút lui vị trí
+ferrisaio.evade.draw.dangerleveldrawings=Bản vẽ cấp độ nguy hiểm
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing=Thấp
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing=Bình thường
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing=Cao
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing=Cực
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing=Không thể sửa chữa
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.LowDrawing
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowwidth=Chiều rộng dòng
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowcolor=Màu
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowenable=Bật
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.NormalDrawing
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalwidth=Độ rộng dòng
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalcolor=Màu
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalenable=Bật
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.HighDrawing
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highwidth=Độ rộng dòng
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highcolor=Màu
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highenable=Bật
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.ExtremeDrawing
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremewidth=Độ rộng dòng
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremecolor=Màu
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremeenable=Bật
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.UndodhableDrawing
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodhablewidth=Độ rộng dòng
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodhablecolor=Màu
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodableenable=Bật
+
+# FerrisAIO.Evade.AutoSetPingMenu
+ferrisaio.evade.autosetpingmenu.autosetpingon=Tự động đặt Ping
+ferrisaio.evade.autosetpingmenu.autosetpercentile=Tự động đặt phân vị
+ferrisaio.evade.autosetpingmenu.testskillshotdelay=TestSkillshotDelay
+
+# FerrisAIO.Activator
+ferrisaio.activator.autopotions=Auto Potions
+ferrisaio.activator.defensive=Phòng thủ
+ferrisaio.activator.offensive=Công kích
+ferrisaio.activator.autozhonya=Auto Zhonya
+ferrisaio.activator.autocleanse=Tự động làm sạch
+ferrisaio.activator.summonerspell=Summoner Spell
+ferrisaio.activator.turnaround=Tự động quay vòng
+ferrisaio.activator.autolantern=Đèn lồng tự động
+
+# FerrisAIO.Activator.AutoPotions
+ferrisaio.activator.autopotions.enabled=Đã bật
+ferrisaio.activator.autopotions.healthpercent=^ Phần trăm sức khỏe người chơi <[EQ] x%
+
+# FerrisAIO.Activator.Defensive
+ferrisaio.activator.defensive.locketoftheironsolari=Locket of the Iron Solari
+ferrisaio.activator.defensive.randuinomen=Điềm báo của Randuin
+ferrisaio.activator.defensive.redemption=Đổi thưởng
+ferrisaio.activator.defensive.gargoylestoneplate=Gargoyle Stoneplate
+
+# FerrisAIO.Activator.Defensive.LocketOfTheIronSolari
+ferrisaio.activator.defensive.locketoftheironsolari.enabled=Đã bật
+ferrisaio.activator.defensive.locketoftheironsolari.onlycombo=Chỉ Combo Hoạt động
+ferrisaio.activator.defensive.locketoftheironsolari.healthpercent=Khi phần trăm sức khỏe người chơi <[EQ] x%
+ferrisaio.activator.defensive.locketoftheironsolari.damagetime=Thời gian tính toán thiệt hại (mili giây)
+
+# FerrisAIO.Activator.Defensive.RanduinOmen
+ferrisaio.activator.defensive.randuinomen.enabled=Đã bật
+ferrisaio.activator.defensive.randuinomen.onlycombo=Chỉ tổ hợp hoạt động
+ferrisaio.activator.defensive.randuinomen.minhit=Số lần truy cập tối thiểu> [EQ] x
+ferrisaio.activator.defensive.randuinomen.healthpercent=Khi phần trăm sức khỏe người chơi <[EQ] x%
+
+# FerrisAIO.Activator.Defensive.Redemption
+ferrisaio.activator.defensive.redemption.enabled=Đã bật
+ferrisaio.activator.defensive.redemption.onlycombo=Chỉ kết hợp hoạt động
+ferrisaio.activator.defensive.redemption.healthpercent=Khi phần trăm sức khỏe người chơi <[EQ] x%
+ferrisaio.activator.defensive.redemption.calculatedamage=Tính toán thiệt hại sắp tới
+ferrisaio.activator.defensive.redemption.damagepercent=Phần trăm thiệt hại sắp xảy ra> [EQ] x%
+ferrisaio.activator.defensive.redemption.damagetime=Thời gian tính toán thiệt hại sắp xảy ra (mili giây)
+
+# FerrisAIO.Activator.Defensive.GargoyleStoneplate
+ferrisaio.activator.defensive.gargoylestoneplate.enabled=Đã bật
+ferrisaio.activator.defensive.gargoylestoneplate.onlycombo=Chỉ kết hợp hoạt động
+ferrisaio.activator.defensive.gargoylestoneplate.healthpercent=Khi phần trăm sức khỏe người chơi <[EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.calculatedamage=Tính toán thiệt hại sắp xảy ra
+ferrisaio.activator.defensive.gargoylestoneplate.damagepercent=Phần trăm thiệt hại sắp xảy ra> [EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.damagetime=Thời gian tính toán thiệt hại sắp xảy ra (mili giây)
+
+# FerrisAIO.Activator.Offensive
+ferrisaio.activator.offensive.prowlersclaw=Móng vuốt của Prowler
+ferrisaio.activator.offensive.everfrost=Everfrost
+ferrisaio.activator.offensive.galeforce=Galeforce
+ferrisaio.activator.offensive.hextechprotobelt01=Hextech Protobelt-01
+ferrisaio.activator.offensive.stridebreaker=Máy bẻ khóa
+ferrisaio.activator.offensive.ironspikewhip=Ironspike Whip
+ferrisaio.activator.offensive.goredrinker=Goredrinker
+ferrisaio.activator.offensive.youmuughostblade=Thanh kiếm ma của Youmuu
+
+# FerrisAIO.Activator.Offensive.ProwlersClaw
+ferrisaio.activator.offensive.prowlersclaw.enabled=Đã bật
+ferrisaio.activator.offensive.prowlersclaw.onlycombo=Chỉ kết hợp hoạt động
+ferrisaio.activator.offensive.prowlersclaw.dontprowlersundertower=Không sử dụng dưới tháp
+ferrisaio.activator.offensive.prowlersclaw.enemyhealthpercent=Khi Phần trăm Sức khỏe Mục tiêu <[EQ] x%
+
+# FerrisAIO.Activator.Offensive.Everfrost
+ferrisaio.activator.offensive.everfrost.enabled=Đã bật
+ferrisaio.activator.offensive.everfrost.onlycombo=Chỉ kết hợp hoạt động
+ferrisaio.activator.offensive.everfrost.enemyhealthpercent=Khi Phần trăm Sức khỏe Mục tiêu <[EQ] x%
+
+# FerrisAIO.Activator.Offensive.Galeforce
+ferrisaio.activator.offensive.galeforce.enabled=Đã bật
+ferrisaio.activator.offensive.galeforce.onlycombo=Chỉ kết hợp hoạt động
+ferrisaio.activator.offensive.galeforce.enemyhealthpercent=Khi Phần trăm Sức khỏe Mục tiêu <[EQ] x%
+
+# FerrisAIO.Activator.Offensive.HextechProtobelt01
+ferrisaio.activator.offensive.hextechprotobelt01.enabled=Đã bật
+ferrisaio.activator.offensive.hextechprotobelt01.onlycombo=Chỉ kết hợp hoạt động
+ferrisaio.activator.offensive.hextechprotobelt01.enemyhealthpercent=Khi Phần trăm Sức khỏe Mục tiêu <[EQ] x%
+
+# FerrisAIO.Activator.Offensive.Stridebreaker
+ferrisaio.activator.offensive.stridebreaker.enabled=Đã bật
+ferrisaio.activator.offensive.stridebreaker.combo=Sử dụng theo tổ hợp
+ferrisaio.activator.offensive.stridebreaker.jungle=Sử dụng trên JungleClear
+
+# FerrisAIO.Activator.Offensive.IronspikeWhip
+ferrisaio.activator.offensive.ironspikewhip.enabled=Đã bật
+ferrisaio.activator.offensive.ironspikewhip.combo=Sử dụng theo combo
+ferrisaio.activator.offensive.ironspikewhip.jungle=Sử dụng trên JungleClear
+ferrisaio.activator.offensive.ironspikewhip.isurf2=Sử dụng tích cực hơn trên URF
+
+# FerrisAIO.Activator.Offensive.Goredrinker
+ferrisaio.activator.offensive.goredrinker.enabled=Đã bật
+ferrisaio.activator.offensive.goredrinker.combo=Sử dụng theo combo
+ferrisaio.activator.offensive.goredrinker.jungle=Sử dụng trên JungleClear
+ferrisaio.activator.offensive.goredrinker.isurf2=Sử dụng tích cực hơn trên URF
+
+# FerrisAIO.Activator.Offensive.YoumuuGhostblade
+ferrisaio.activator.offensive.youmuughostblade.enabled=Đã bật
+ferrisaio.activator.offensive.youmuughostblade.onlycombo=Chỉ tổ hợp hoạt động
+
+# FerrisAIO.Activator.AutoZhonya
+ferrisaio.activator.autozhonya.spellblock=Khối chính tả
+ferrisaio.activator.autozhonya.enabled=Đã bật
+ferrisaio.activator.autozhonya.lowhealth=Sử dụng khi HP thấp
+ferrisaio.activator.autozhonya.healthpercent=^ Phần trăm sức khỏe người chơi <[EQ] x%
+
+# FerrisAIO.Activator.AutoCleanse
+ferrisaio.activator.autocleanse ._______ sep1=Có, cái này cũng được sử dụng cho QSS!
+ferrisaio.activator.autocleanse ._______ sep2=Bị tắt theo mặc định do hiệu suất kém
+ferrisaio.activator.autocleanse.bufftype=Loại Buff
+ferrisaio.activator.autocleanse.bufftarget=Mục tiêu Buff
+ferrisaio.activator.autocleanse.enabled_=Đã bật_
+ferrisaio.activator.autocleanse.miniduration=Thời lượng đệm tối thiểu (mili giây)
+ferrisaio.activator.autocleanse.onlycombo=Chỉ tổ hợp hoạt động
+ferrisaio.activator.autocleanse.onlylowhealth=Chỉ phần trăm sức khỏe thấp
+ferrisaio.activator.autocleanse.healthpercent=^ Phần trăm sức khỏe tối thiểu <[EQ] x%
+ferrisaio.activator.autocleanse.allowally=Cho phép Đồng minh xóa sổ
+ferrisaio.activator.autocleanse.antiexaust=Sử dụng khi kiệt sức
+ferrisaio.activator.autocleanse.healthpercentexaust=^ HealthPercent> [EQ] x%
+ferrisaio.activator.autocleanse.antikill=Sử dụng khi Ignite / Poision / DOT sẽ giết và không có kẻ thù nào ở gần
+
+# FerrisAIO.Activator.AutoCleanse.BuffType
+ferrisaio.activator.autocleanse.bufftype.cleanseblind=Blind
+ferrisaio.activator.autocleanse.bufftype.cleansecharm=Sự quyến rũ
+ferrisaio.activator.autocleanse.bufftype.cleansedamage=Thiệt hại
+ferrisaio.activator.autocleanse.bufftype.cleansefear=Sợ hãi
+ferrisaio.activator.autocleanse.bufftype.cleanseflee=Chạy trốn
+ferrisaio.activator.autocleanse.bufftype.cleansepolymorph=Polymorph
+ferrisaio.activator.autocleanse.bufftype.cleansesilence=Im lặng
+ferrisaio.activator.autocleanse.bufftype.cleanseslow=Chậm
+ferrisaio.activator.autocleanse.bufftype.cleansesnare=Snare
+ferrisaio.activator.autocleanse.bufftype.cleansestun=Choáng
+ferrisaio.activator.autocleanse.bufftype.cleansesuppression=Sự đàn áp
+ferrisaio.activator.autocleanse.bufftype.cleansetaunt=Taunt
+ferrisaio.activator.autocleanse.bufftype.cleanseasleep=Ngủ
+
+# FerrisAIO.Activator.AutoCleanse.BuffTarget
+ferrisaio.activator.autocleanse.bufftarget.cleanseon1073741853=Teemo
+
+# FerrisAIO.Activator.SummonerSpell
+ferrisaio.activator.summonerspell.barrier=Rào cản
+ferrisaio.activator.summonerspell.exhaust=Exhaust
+ferrisaio.activator.summonerspell.heal=Chữa lành
+ferrisaio.activator.summonerspell.ignite=Ignite
+ferrisaio.activator.summonerspell.searchlot=Smite
+ferrisaio.activator.summonerspell.spellbookslot=UltimateSpellbook
+
+# FerrisAIO.Activator.SummonerSpell.barrier
+ferrisaio.activator.summonerspell.barrier.enabled=Đã bật
+ferrisaio.activator.summonerspell.barrier.healthpercent=Khi Phần trăm Sức khỏe của Người chơi <[EQ] x%
+ferrisaio.activator.summonerspell.barrier.calculatedamage=Tính toán Thiệt hại sắp tới
+ferrisaio.activator.summonerspell.barrier.damagepercent=Phần trăm thiệt hại sắp xảy ra> [EQ] x%
+
+# FerrisAIO.Activator.SummonerSpell.Exhaust
+ferrisaio.activator.summonerspell.exhaust.enabled=Đã bật
+ferrisaio.activator.summonerspell.exhaust.healthpercent=Khi Phần trăm Sức khỏe của Người chơi <[EQ] x%
+ferrisaio.activator.summonerspell.exhaust.onlycombo=Chỉ Combo Hoạt động
+ferrisaio.activator.summonerspell.exhaust.alwayscast=Luôn truyền đến mục tiêu
+ferrisaio.activator.summonerspell.exhaust.alwayscast2=Bật logic truyền một mình
+
+# FerrisAIO.Activator.SummonerSpell.Heal
+ferrisaio.activator.summonerspell.heal.healtarget=Mục tiêu chữa lành
+ferrisaio.activator.summonerspell.heal.enabled=Đã bật
+ferrisaio.activator.summonerspell.heal.healthpercent=Khi Sức khỏe đồng minh <[EQ] x%
+ferrisaio.activator.summonerspell.heal.calculatedamage=Tính toán Thiệt hại sắp tới
+ferrisaio.activator.summonerspell.heal.damagepercent=Phần trăm thiệt hại sắp xảy ra> [EQ] x%
+ferrisaio.activator.summonerspell.heal.damagetime=Thời gian tính toán thiệt hại sắp xảy ra (mili giây)
+
+# FerrisAIO.Activator.SummonerSpell.Heal.HealTarget
+ferrisaio.activator.summonerspell.heal.healtarget.heal_1073741853=Teemo
+
+# FerrisAIO.Activator.SummonerSpell.Ignite
+ferrisaio.activator.summonerspell.ignite.enabled=Đã bật
+ferrisaio.activator.summonerspell.ignite.killsteal=Khi mục tiêu có thể Giết được
+ferrisaio.activator.summonerspell.ignite.comboonly=Chỉ trong khi kết hợp
+ferrisaio.activator.summonerspell.ignite.preventusewhenkillableaa=[KillSteal] Ngăn chặn lãng phí kích hoạt khi mục tiêu có thể tiêu diệt bằng 1 AA
+ferrisaio.activator.summonerspell.ignite .______ sep3=^ Chỉ dành cho Melee Champs
+ferrisaio.activator.summonerspell.ignite.killableaaflash=^ Chỉ khi mục tiêu không có flash
+ferrisaio.activator.summonerspell.ignite.preventonaarangetarget=[KillSteal] Không sử dụng khi Kẻ thù trong phạm vi AA 
+ferrisaio.activator.summonerspell.ignite.rangeaaflash=^ Chỉ khi mục tiêu không thể thoát ra khỏi Ignite Range
+ferrisaio.activator.summonerspell.ignite .______ sep2=^ Chỉ dành cho Melee Champs
+ferrisaio.activator.summonerspell.ignite.lowhealthandcombo=Sử dụng kết hợp khi phần trăm sức khỏe mục tiêu <[EQ] x%
+
+# FerrisAIO.Activator.SummonerSpell.SmiteSlot
+ferrisaio.activator.summonerspell.searchlot.smitetarget=Smite Target
+ferrisaio.activator.summonerspell.searchlot.enabled=Đã bật
+ferrisaio.activator.summonerspell.searchlot.combo=Sử dụng theo tổ hợp
+ferrisaio.activator.summonerspell.searchlot.combostack=^ Chỉ có 2 ngăn xếp
+ferrisaio.activator.summonerspell.searchlot.killable=Sử dụng trên KillAble
+ferrisaio.activator.summonerspell.searchlot.drawrange=Vẽ Dãy Smite
+ferrisaio.activator.summonerspell.searchlot.drawstate=Hòa trạng thái Trừng phạt
+
+# FerrisAIO.Activator.SummonerSpell.SmiteSlot.SmiteTarget
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_baron=Baron Nashor
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_riftherald=Rift Herald
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_dragon_elder=Elder Dragon
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_dragon_chemtech=Chemtech Dragon
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_dragon_hextech=Hextech Dragon
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_dragon_water=Rồng nước
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_dragon_fire=Rồng lửa
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_dragon_earth=Rồng đất
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_dragon_air=Air Dragon
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_blue=Blue Sentinel
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_red=Red Brambleback
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_razorbeak=Crimson Raptor
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_murkwolf=Greater Murk Wolf
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_krug=Ancient Krug
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_gromp=Gromp
+ferrisaio.activator.summonerspell.searchlot.smitetarget.sru_crab=Rift Scuttler
+
+# FerrisAIO.Activator.SummonerSpell.SpellbookSlot
+ferrisaio.activator.summonerspell.spellbookslot.enableultimatepellbook=Đã bật
+ferrisaio.activator.summonerspell.spellbookslot.enablenolag=Chế độ trễ thấp
+ferrisaio.activator.summonerspell.spellbookslot.sylasrspellnames=SpellNames
+
+# FerrisAIO.Activator.TurnAround
+ferrisaio.activator.turnaround.enabled=Đã bật
+ferrisaio.activator.turnaround.cassiopeiar=Tránh Cassiopeia R
+ferrisaio.activator.turnaround.tryndamerew=Tránh Tryndamere W
+
+# FerrisAIO.Activator.AutoLantern
+ferrisaio.activator.autolantern.autocatch=Bắt Ally Lantern
+ferrisaio.activator.autolantern.enabledcatch=Đã bật
+ferrisaio.activator.autolantern.onlykey=Chỉ khóa hoạt động
+ferrisaio.activator.autolantern.catchkey=Catch Lantern Key
+ferrisaio.activator.autolantern.catchhealth=Khi phần trăm sức khỏe người chơi> [EQ] x%
+ferrisaio.activator.autolantern.autoward=Cast Ward On Enemy Lantern
+ferrisaio.activator.autolantern.enabledward=Đã bật
+ferrisaio.activator.autolantern.wardkey=Cast Ward On Lantern Key
+ferrisaio.activator.autolantern.warddelay=Diễn viên bị hoãn
+
+# FerrisAIO.Awareness
+ferrisaio.awareness.attackrange=Phạm vi tấn công
+ferrisaio.awareness.autoward=Auto Ward
+ferrisaio.awareness.cooldowntrack=Theo dõi hồi chiêu
+ferrisaio.awareness.experiencetrack=Theo dõi trải nghiệm
+ferrisaio.awareness.gankalert=Cảnh báo Gank
+ferrisaio.awareness.hudtrack=Hud Track
+ferrisaio.awareness.incturesortime=Thời gian gây ức chế
+ferrisaio.awareness.jungletime=Thời gian rừng rậm
+ferrisaio.awareness.lastposition=Vị trí cuối cùng
+ferrisaio.awareness.recalltrack=Nhớ lại bản nhạc
+ferrisaio.awareness.turrethealth=Sức khỏe của tháp pháo
+ferrisaio.awareness.turretrange=Phạm vi tấn công của tháp pháo
+ferrisaio.awareness.wardtrack=Đường mòn
+ferrisaio.awareness.waypoints=Điểm cách
+ferrisaio.awareness.fowtracker_v2=FOW Baron / Người theo dõi rồng
+
+# FerrisAIO.Awareness.AttackRange
+ferrisaio.awareness.attackrange.enabled=Đã bật
+ferrisaio.awareness.attackrange.ally=Vẽ đồng minh
+ferrisaio.awareness.attackrange.allycolor=^ Màu Ally
+ferrisaio.awareness.attackrange.enemy=Vẽ kẻ thù
+ferrisaio.awareness.attackrange.enemycolor=^ Màu địch
+
+# FerrisAIO.Awareness.AutoWard
+ferrisaio.awareness.autoward.enabled=Đã bật
+ferrisaio.awareness.autoward.onlycombo=Chỉ tổ hợp hoạt động
+ferrisaio.awareness.autoward.buyblue=Tự động mua trang sức màu xanh lam
+ferrisaio.awareness.autoward.bushward=Auto Bush Ward
+ferrisaio.awareness.autoward.bushpinkward=^ Sử dụng Pink Ward
+ferrisaio.awareness.autoward.antisteal=Chống trộm
+ferrisaio.awareness.autoward.maxmissingtime=Không phường nếu Thiếu lâu hơn x Giây
+
+# FerrisAIO.Awareness.CooldownTrack
+ferrisaio.awareness.cooldowntrack.enabled=Đã bật
+ferrisaio.awareness.cooldowntrack.ally=Vẽ đồng minh
+ferrisaio.awareness.cooldowntrack.enemy=Vẽ kẻ thù
+ferrisaio.awareness.cooldowntrack.self=Vẽ bản thân
+
+# FerrisAIO.Awareness.ExperienceTrack
+ferrisaio.awareness.experiencetrack.enabled=Đã bật
+ferrisaio.awareness.experiencetrack.ally=Vẽ đồng minh
+ferrisaio.awareness.experiencetrack.enemy=Vẽ kẻ thù
+ferrisaio.awareness.experiencetrack.self=Vẽ bản thân
+
+# FerrisAIO.Awareness.GankAlert
+ferrisaio.awareness.gankalert.enabled=Đã bật
+ferrisaio.awareness.gankalert.onlyjungle=Chỉ Jungle
+ferrisaio.awareness.gankalert.minrange=Phạm vi khoảng cách tối thiểu> [EQ] x
+ferrisaio.awareness.gankalert.maxrange=Khoảng cách tối đa <[EQ] x
+
+# FerrisAIO.Awareness.HudTrack
+ferrisaio.awareness.hudtrack.horiz Ngang=Kiểu Ngang
+ferrisaio.awareness.hudtrack.vertical=Kiểu dọc
+ferrisaio.awareness.hudtrack.style=Kiểu Vẽ
+ferrisaio.awareness.hudtrack.enabled=Đã bật
+
+# FerrisAIO.Awareness.HudTrack.Horizontal
+ferrisaio.awareness.hudtrack.horizontal.horizontalxoffsets=X Offsets
+ferrisaio.awareness.hudtrack.horizontal.horizontalyoffsets=Y Offsets
+
+# FerrisAIO.Awareness.HudTrack.Vertical
+ferrisaio.awareness.hudtrack.vertical.verticalxoffsets=X Offsets
+ferrisaio.awareness.hudtrack.vertical.verticalyoffsets=Y Offsets
+ferrisaio.awareness.hudtrack.vertical.verticalpos=Vị trí Phép thuật Triệu hồi sư
+
+# FerrisAIO.Awareness.InearchorTime
+ferrisaio.awareness.incturesortime.enabled=Đã bật
+ferrisaio.awareness.incturesortime.minimap=Trên Bản đồ thu nhỏ
+ferrisaio.awareness.inearchortime.minimapdraw=Vẽ trên Bản đồ nhỏ
+ferrisaio.awareness.inearchortime.minimapfontsize=Kích thước phông chữ
+ferrisaio.awareness.incturesortime.map=Trên Bản đồ thu nhỏ
+ferrisaio.awareness.inearchortime.mapdraw=Vẽ trên bản đồ
+ferrisaio.awareness.inearchortime.mapfontsize=Kích thước phông chữ
+
+# FerrisAIO.Awareness.JungleTime
+ferrisaio.awareness.jungletime.enabled=Đã bật
+ferrisaio.awareness.jungletime.minimap=Trên Bản đồ thu nhỏ
+ferrisaio.awareness.jungletime.minimapdraw=Vẽ trên MiniMap
+ferrisaio.awareness.jungletime.minimapformat=Định dạng thời gian: 
+ferrisaio.awareness.jungletime.minimapfontsize=Kích thước phông chữ
+ferrisaio.awareness.jungletime.map=Trên bản đồ
+ferrisaio.awareness.jungletime.mapdraw=Vẽ trên bản đồ
+ferrisaio.awareness.jungletime.mapformat=Định dạng thời gian: 
+ferrisaio.awareness.jungletime.mapfontsize=Kích thước phông chữ
+
+# FerrisAIO.Awareness.LastPosition
+ferrisaio.awareness.lastposition.enabled=Đã bật
+ferrisaio.awareness.lastposition.sstime=Vẽ Giờ SS
+ferrisaio.awareness.lastposition.sscircle=Vẽ vòng tròn SS
+ferrisaio.awareness.lastposition.ssback __=Vẽ Chỉ báo Sao lưu
+ferrisaio.awareness.lastposition.urf_drawcannonpositions=Vẽ Chỉ báo Vị trí Pháo URF
+
+# FerrisAIO.Awareness.RecallTrack
+ferrisaio.awareness.recalltrack.enabled=Đã bật
+ferrisaio.awareness.recalltrack.xoffsets=X Offsets
+ferrisaio.awareness.recalltrack.yoffsets=Y Offsets
+
+# FerrisAIO.Awareness.TurretHealth
+ferrisaio.awareness.turrethealth.enabled=Đã bật
+ferrisaio.awareness.turrethealth.style_=Vẽ kiểu
+ferrisaio.awareness.turrethealth.fontsize=Kích thước phông chữ
+
+# FerrisAIO.Awareness.TurretRange
+ferrisaio.awareness.turretrange.enabled=Đã bật
+ferrisaio.awareness.turretrange.ally=Vẽ phạm vi tấn công của tháp pháo đồng minh
+ferrisaio.awareness.turretrange.allycolor=^ Ally Turret Attack Color
+ferrisaio.awareness.turretrange.enemy=Rút ra phạm vi tấn công từ tháp pháo của kẻ thù
+ferrisaio.awareness.turretrange.enemycolor=^ Màu tấn công tháp pháo của kẻ thù
+ferrisaio.awareness.turretrange.extendrange=Mở rộng Dãy tháp bằng
+
+# FerrisAIO.Awareness.WardTrack
+ferrisaio.awareness.wardtrack.enabled=Đã bật
+ferrisaio.awareness.wardtrack.showowner=Chủ sở hữu chương trình
+ferrisaio.awareness.wardtrack.pingvision=Tầm nhìn Ping
+ferrisaio.awareness.wardtrack.pingdelay=Ping Delay
+ferrisaio.awareness.wardtrack.wardpositionhelper_2=Hiển thị Vị trí Vị trí trên Chìa khóa
+ferrisaio.awareness.wardtrack.wardvisionhelper=Hiển thị các khu vực có tầm nhìn của phường
+ferrisaio.awareness.wardtrack.quality=Chất lượng
+ferrisaio.awareness.wardtrack.key=HotKey + Nhấp chuột trái Xóa
+
+# FerrisAIO.Awareness.WayPoints
+ferrisaio.awareness.waypoints.enabled_=Đã bật
+ferrisaio.awareness.waypoints.cross=Màu chéo
+ferrisaio.awareness.waypoints.line=Màu đường kẻ
+ferrisaio.awareness.waypoints.aproximateposition=Màu vị trí dự đoán
+ferrisaio.awareness.waypoints.recalcdelay=Trì hoãn tính toán lại
+ferrisaio.awareness.waypoints ._____ 0001wp=^ Tăng FPS ở giá trị cao hơn!
+ferrisaio.awareness.waypoints.ally=Vẽ đồng minh
+ferrisaio.awareness.waypoints.enemy=Vẽ kẻ thù
+ferrisaio.awareness.waypoints.self=Vẽ bản thân
+ferrisaio.awareness.waypoints.map=Vẽ Trên Bản đồ
+
+# FerrisAIO.Awareness.FOWTracker_v2
+ferrisaio.awareness.fowtracker_v2.enabled=Đã bật
+ferrisaio.awareness.fowtracker_v2.pinglocation=Vị trí Ping
+ferrisaio.awareness.fowtracker_v2.sendchatmessage=Gửi trò chuyện cho nhóm
+ferrisaio.awareness.fowtracker_v2.sendchatlocal=In trong trò chuyện khách hàng
+ferrisaio.awareness.fowtracker_v2.sendpinglocal=Ping theo cách chỉ bạn có thể nhìn thấy
+
+# FerrisAIO.FPred
+ferrisaio.fpred ._____ sp2=Tự động đang được thử nghiệm rất nhiều
+ferrisaio.fpred ._____ sp3=Báo cáo lỗi, sự cố trên Telegram cho tôi <3
+ferrisaio.fpred.p Dự đoánonlist1=Phương pháp Dự đoán Mặc định
+ferrisaio.fpred.posystemonlistq=Phương pháp Dự đoán Q
+ferrisaio.fpred.qhitchance=Cơ hội trúng Q
+ferrisaio.fpred.p Dự đoánonlistw=Phương pháp Dự đoán W
+ferrisaio.fpred.whitchance=Cơ hội trúng đích
+ferrisaio.fpred.posystemonliste=Phương pháp Dự đoán E
+ferrisaio.fpred.ehitchance=Cơ hội trúng đích
+ferrisaio.fpred.p Dự đoánonlistr=Phương pháp Dự đoán R
+ferrisaio.fpred.rhitchance=Cơ hội truy cập R
+ferrisaio.fpred.spredwindup=Kiểm tra mục tiêu AA Windup
+ferrisaio.fpred.spredmaxrangeignore=Bỏ qua phạm vi tránh né tối đa (%)
+ferrisaio.fpred.spredreactiondelay=Bỏ qua độ trễ rà soát
+ferrisaio.fpred.spreddelay=Độ trễ chính tả
+ferrisaio.fpred.spreddrawings=Bật bản vẽ
+ferrisaio.fpred.spredaccuracy_=Cho phép dự đoán AOE
+ferrisaio.fpred.waypointanalysis=WaypointAnalysis
+ferrisaio.fpred.predmaxrange=Phạm vi tối đa%
+
+# FerrisAIO.BaseUlt
+ferrisaio.baseult.baseult=Bật Base Ult
+ferrisaio.baseult.checkcollision=Kiểm tra va chạm
+ferrisaio.baseult.panickey=Không Ult khi nhấn phím
+ferrisaio.baseult.regardlesskey=Bỏ qua bất kể giết (giữ)
+ferrisaio.baseult.team baseult friends=TeamUlt
+ferrisaio.baseult.disabled tướng mục tiêu=DisabledChampions
+
+# FerrisAIO.AutoLevel
+ferrisaio.autolevel.enable.teemo=Đã bật
+ferrisaio.autolevel.autolevelstart.teemo=Bắt đầu sau cấp độ
+ferrisaio.autolevel.customs2.teemo=Cho phép Tập lệnh Hải quan
+ferrisaio.autolevel.primaryorder.teemo=Thứ tự cấp độ tự động
+ferrisaio.autolevel.earlyorder.teemo=Thứ tự ba cấp đầu tiên
+
+# FerrisAIO.SkinChanger
+ferrisaio.skinchanger.enabled=Đã bật
+ferrisaio.skinchanger.championteemo=Champion Skin
+ferrisaio.skinchanger.ward=Ward Skin
+ferrisaio.skinchanger.minion=Da Minion
+
+# FerrisAIO.SkinChanger.ChaosystemTeemo
+ferrisaio.skinchanger.championteemo.userandom=Sử dụng Da Ngẫu nhiên nếu không có Da nào được thiết lập
+ferrisaio.skinchanger.championteemo.usesliderf=Sử dụng Giá trị Thanh trượt
+ferrisaio.skinchanger.championteemo.forceenemiestodefualt=Buộc kẻ thù đến trang phục mặc định
+ferrisaio.skinchanger.championteemo.forcealhestodefualt=Buộc quân đồng minh vào trang phục mặc định
+ferrisaio.skinchanger.championteemo.skinname=Da
+ferrisaio.skinchanger.championteemo.chromaid=Chorma
+ferrisaio.skinchanger.championteemo.skinid=ID Da: 
+
+# FerrisAIO.SkinChanger.Ward
+ferrisaio.skinchanger.ward.wardsenabled=Bật Ward Changer
+ferrisaio.skinchanger.ward.userandom=Sử dụng Da Ngẫu nhiên nếu không có Da nào được thiết lập
+ferrisaio.skinchanger.ward.usesliderf=Sử dụng Giá trị Thanh trượt
+ferrisaio.skinchanger.ward.skinid=ID Da:
+ferrisaio.skinchanger.ward.wardid1=ID phường thực: Đặt một phường để tìm!
+
+# FerrisAIO.SkinChanger.Minion
+ferrisaio.skinchanger.minion.minionkin=ID Da Minion: 
+ferrisaio.skinchanger.minion.towerchaosskin=Chaos Tower Skin ID: 
+ferrisaio.skinchanger.minion.towerorderskin=Đặt hàng ID Skin Tower: 
+ferrisaio.skinchanger.minion.baronskin=ID Da Nam tước: 
+ferrisaio.skinchanger.minion.dragonskin=Dragon Skin ID: 
+ferrisaio.skinchanger.minion.heraldskin=ID Da của Sứ giả: 
+ferrisaio.skinchanger.minion.crabskin=Skuttle Skin ID: 
+ferrisaio.skinchanger.minion.redskin=ID Da RedBuff: 
+ferrisaio.skinchanger.minion.blueskin=BlueBuff Skin ID: 
+ferrisaio.skinchanger.minion.blastcone=BlastCone Skin ID: 
+ferrisaio.skinchanger.minion.visionplant=Scryers Skin ID: 
+ferrisaio.skinchanger.minion.healthplant=HoneyFruit Skin ID: 
+
+# FerrisAIO.Exploits
+ferrisaio.exploits.maphack=Hack khả năng hiển thị FOW
+ferrisaio.exploits.packettracker=Trình theo dõi gói
+
+# FerrisAIO.Exploits.MapHack
+ferrisaio.exploits.maphack.enabled=Đã bật
+ferrisaio.exploits.maphack.glow=Sử dụng Phát sáng
+ferrisaio.exploits.maphack .____ s_1=Điều này đôi khi sẽ hiển thị các tướng địch trong sương mù chiến tranh
+ferrisaio.exploits.maphack .____ s_2=Hoàn toàn ngẫu nhiên về thời điểm nó hoạt động nhưng một số trường hợp có thể gây ra điều này
+ferrisaio.exploits.maphack .____ s_4=Bạn có tầm nhìn trong vòng 1000 đơn vị khi họ sử dụng phép thuật trong FOW
+ferrisaio.exploits.maphack .____ s_5=Global Animations chơi gửi cho bạn danh sách các nhà vô địch lân cận và vị trí của họ
+ferrisaio.exploits.maphack .____ s_6=Phép tạo ra một đối tượng trong FOW chẳng hạn như quả cầu tuyết Nunu
+
+# FerrisAIO.Exploits.PacketTracker
+ferrisaio.exploits.packettracker .____ s_1=Đây vẫn là công việc đang được tiến hành, mong có lỗi
+ferrisaio.exploits.packettracker .____ s_3=Nó cũng dựa vào dll gốc của tôi để được cập nhật cho giải đấu
+ferrisaio.exploits.packettracker .____ s_4=chẳng hạn nếu tôi không cập nhật phiên bản giải đấu này, điều này sẽ không hoạt động!
+ferrisaio.exploits.packettracker .____ s_5 => Cập nhật cho 12.1.416.4011
+ferrisaio.exploits.packettracker.information=Thông tin
+ferrisaio.exploits.packettracker.pingsettings=Ping (Mặt khách của nó)
+ferrisaio.exploits.packettracker.packetdata12.1=Thông tin gói
+ferrisaio.exploits.packettracker.devstuff=Dev Stuff
+
+# FerrisAIO.Exploits.PacketTracker.Information
+ferrisaio.exploits.packettracker.information .____ s_1=Đây là một khai thác đôi khi có thể hiển thị
+ferrisaio.exploits.packettracker.information .____ s_2=khi quái vật bị tấn công trong FOW
+ferrisaio.exploits.packettracker.information .____ s_3=Khi được phát hiện, nó sẽ hiển thị ping từ phía khách hàng
+ferrisaio.exploits.packettracker.information .____ s_4=về vị trí quái vật
+
+# FerrisAIO.Exploits.PacketTracker.PingSettings
+ferrisaio.exploits.packettracker.pingsettings.pingattacked=On Camp bị tấn công
+ferrisaio.exploits.packettracker.pingsettings.pingattacking=Vào trại tấn công
+ferrisaio.exploits.packettracker.pingsettings.pingdisengaging=Mở trại
+ferrisaio.exploits.packettracker.pingsettings.pingsoundall=Phát âm thanh
+ferrisaio.exploits.packettracker.pingsettings.pingsoundfirst=Chỉ phát âm thanh khi ping đầu tiên
+ferrisaio.exploits.packettracker.pingsettings.pingdelay=Ping Delay Giây
+
+# FerrisAIO.Exploits.PacketTracker.packetdata12.1
+ferrisaio.exploits.packettracker.packetdata12.1 .____ s_1=Các giá trị này sẽ tự động bật lên
+ferrisaio.exploits.packettracker.packetdata12.1 .____ s_2=vì chúng được tìm thấy trong bản vá này
+ferrisaio.exploits.packettracker.packetdata12.1.headeronattack2=Header OnAttack
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmissilehit2=Header OnMissileHit
+ferrisaio.exploits.packettracker.packetdata12.1.headerondisengaged=Header OnDisengaged
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmonsterskill=Header OnMonsterSkill
+ferrisaio.exploits.packettracker.packetdata12.1 .____ s_5=Tiêu đề từ Bản vá 12.1
+ferrisaio.exploits.packettracker.packetdata12.1.forcefindheaders=Cố gắng tự động tính toán lại các tiêu đề!
+
+# FerrisAIO.Exploits.PacketTracker.DevStuff
+ferrisaio.exploits.packettracker.devstuff.blacklistincomming=Các gói gửi đến danh sách đen
+ferrisaio.exploits.packettracker.devstuff.clearblacklist=Xóa danh sách đen
+ferrisaio.exploits.packettracker.devstuff.printblacklist=In danh sách đen
+ferrisaio.exploits.packettracker.devstuff.drawnetworkid=Vẽ mã mạng Mob
+ferrisaio.exploits.packettracker.devstuff.packetdebug=Packet Debug
+ferrisaio.exploits.packettracker.devstuff.onlyfow=Chỉ gỡ lỗi FOW
+ferrisaio.exploits.packettracker.devstuff.debugmode=Chế độ gỡ lỗi
+
+# FerrisAIO.Utilities
+ferrisaio.utilities.preventafk=Ngăn AFK Kick
+ferrisaio.utilities.autoquit=Tự động thoát
+ferrisaio.utilities.goldtracker=Gold Tracker
+ferrisaio.utilities.namechanger=Người thay đổi tên
+ferrisaio.utilities.emotespammer=Người gửi thư rác cảm xúc
+ferrisaio.utilities.chatspam=Trò chuyện Spammer
+ferrisaio.utilities.sharedexperience=Trải nghiệm được chia sẻ (Đã tắt tạm thời)
+ferrisaio.utilities.mmrtracker=Trình kiểm tra MMR
+ferrisaio.utilities.aatilt=AA Tilter
+ferrisaio.utilities.spellalterer_v2=Trình báo lỗi chính tả
+ferrisaio.utilities.antitilt=Chống Nghiêng
+
+# FerrisAIO.Utilities.AutoQuit
+ferrisaio.utilities.autoquit.enable=Tự động thoát sau khi trò chơi kết thúc
+ferrisaio.utilities.autoquit.delay=Hãy đợi x vài giây
+
+# FerrisAIO.Utilities.GoldTracker
+ferrisaio.utilities.goldtracker.enable=Bật theo dõi vàng
+ferrisaio.utilities.goldtracker.drawteamgold=Rút Vàng cho Đội
+ferrisaio.utilities.goldtracker.drawplayergold=Rút Vàng Vô địch
+ferrisaio.utilities.goldtracker.textcolor=Màu văn bản
+ferrisaio.utilities.goldtracker .____ s_1=--- [EQ] Chưa hoàn thành [EQ] ---
+ferrisaio.utilities.goldtracker.trackstats=Giá trị thống kê theo dõi hơn là Vàng kiếm được
+ferrisaio.utilities.goldtracker.stattextcolor=Màu văn bản thống kê
+
+# FerrisAIO.Utilities.NameChanger
+ferrisaio.utilities.namechanger.enablechanger=Bật
+ferrisaio.utilities.namechanger.copy=Đặt tên từ khay nhớ tạm
+ferrisaio.utilities.namechanger .____ nc_0001=FerrisAIO
+ferrisaio.utilities.namechanger.nametype=Loại màn hình
+
+# FerrisAIO.Utilities.EmoteSpammer
+ferrisaio.utilities.emotespammer.kill=Bật Khi giết
+ferrisaio.utilities.emotespammer.selectitem=Khe biểu tượng cảm xúc
+
+# FerrisAIO.Utilities.ChatSpam
+ferrisaio.utilities.chatspam.enabled=Đã bật
+ferrisaio.utilities.chatspam.binds=KeyBinds
+ferrisaio.utilities.chatspam.method=Các phương thức
+ferrisaio.utilities.chatspam.clipboard=Cài đặt bảng tạm
+ferrisaio.utilities.chatspam.delay=Độ trễ tính bằng mili giây
+ferrisaio.utilities.chatspam.debug=Chế độ kiểm tra (Chỉ in vào cuộc trò chuyện của bạn, không in lên máy chủ)
+
+# FerrisAIO.Utilities.ChatSpam.enabled
+ferrisaio.utilities.chatspam.enabled.kill=Bật Khi giết
+ferrisaio.utilities.chatspam.enabled.gameend=Bật khi kết thúc trò chơi
+ferrisaio.utilities.chatspam.enabled.ondeath=Bật khi chết
+ferrisaio.utilities.chatspam.enabled.all=Tất cả trò chuyện
+ferrisaio.utilities.chatspam.enabled.deathcheck=Chỉ khi giết> chết
+ferrisaio.utilities.chatspam.enabled.disablewhiledead=Tắt khi đã chết
+ferrisaio.utilities.chatspam.enabled.spammed=Hiển thị số lượng bị spam
+
+# FerrisAIO.Utilities.ChatSpam.binds
+ferrisaio.utilities.chatspam.binds.bind=Spam Key (giữ)
+ferrisaio.utilities.chatspam.binds.bind2=Spam Key (chuyển đổi)
+
+# FerrisAIO.Utilities.ChatSpam.method
+ferrisaio.utilities.chatspam.method.modehold=Giữ chế độ thư rác
+ferrisaio.utilities.chatspam.method.slothold=Khe Clipboard để Giữ
+ferrisaio.utilities.chatspam.method.modepress=Chuyển sang chế độ thư rác
+ferrisaio.utilities.chatspam.method.slotpress=Khe Clipboard để Chuyển đổi
+ferrisaio.utilities.chatspam.method.modekill=Ở chế độ Kill
+ferrisaio.utilities.chatspam.method.slotkill=Khe Clipboard cho OnKill
+ferrisaio.utilities.chatspam.method.modegameend=Ở chế độ kết thúc trò chơi
+ferrisaio.utilities.chatspam.method.slotgameend=Khe Clipboard cho Kết thúc Trò chơi
+ferrisaio.utilities.chatspam.method.modedeath=On Game on Death
+ferrisaio.utilities.chatspam.method.slotdeath=Vị trí khay nhớ tạm cho khi chết
+
+# FerrisAIO.Utilities.ChatSpam.Clipboard
+ferrisaio.utilities.chatspam.clipboard.copy=Sao chép vào Vị trí đã Chọn từ khay nhớ tạm
+ferrisaio.utilities.chatspam.clipboard.copyslot=Khe để sao chép văn bản vào
+ferrisaio.utilities.chatspam.clipboard .____ cb_0001=1: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0002=2: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0003=3: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0004=4: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0005=5: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0006=6: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0007=7: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0008=8: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0009=9: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0010=10: 
+
+# FerrisAIO.Utilities.SharedEx Experience
+ferrisaio.utilities.sharedexperience.enabled_=Đã bật
+ferrisaio.utilities.sharedexperience.showenemies=Vẽ văn bản lên kẻ thù
+ferrisaio.utilities.sharedexperience.onlyshowinv=Chỉ vẽ văn bản khi không nhìn thấy
+ferrisaio.utilities.sharedexperience.drawpredictioncircle=Vẽ vòng tròn dự đoán
+ferrisaio.utilities.sharedexperience.invcolor=Màu khi không nhìn thấy
+
+# FerrisAIO.Utilities.MMRTracker
+ferrisaio.utilities.mmrtracker.enable=Bật Trình theo dõi MMR
+ferrisaio.utilities.mmrtracker.draw2=Hòa nhà vô địch
+ferrisaio.utilities.mmrtracker.type=Loại MMR
+ferrisaio.utilities.mmrtracker.region=Khu vực
+ferrisaio.utilities.mmrtracker.showhighest=Hiển thị Thứ hạng Cao nhất
+ferrisaio.utilities.mmrtracker .____ s_1=^ Yêu cầu tải lại tập lệnh
+ferrisaio.utilities.mmrtracker.enemymmr=MMR của Đội địch
+ferrisaio.utilities.mmrtracker .____ s_3=Ally MMR Trung bình: 1493
+ferrisaio.utilities.mmrtracker .____ s_4=MMR của đối phương Trung bình: 1493
+ferrisaio.utilities.mmrtracker .____ s_5=Tổng MMR Trung bình: 2987
+
+# FerrisAIO.Utilities.MMRTracker.EnemyMMr
+ferrisaio.utilities.mmrtracker.enemymmr .____ s_1=EggMoneyJR: Không xác định
+
+# FerrisAIO.Utilities.AATilt
+ferrisaio.utilities.aatilt .____ s_1=Chỉ phát âm thanh cười, thay vì hoạt ảnh để troll kẻ thù!
+ferrisaio.utilities.aatilt.laughtype=Loại biểu tượng cảm xúc
+ferrisaio.utilities.aatilt.aalaugh=Cười trên AA Champions
+ferrisaio.utilities.aatilt.aamastery=Thành thạo với các chức vô địch AA
+ferrisaio.utilities.aatilt.aalaughm=Cười trên AA Minions
+ferrisaio.utilities.aatilt.aamasterym=Tinh thông trên AA Minions
+ferrisaio.utilities.aatilt.aalaughb=Cười trên các tòa nhà AA
+ferrisaio.utilities.aatilt.aamasteryb=Bậc thầy về các tòa nhà AA
+
+# FerrisAIO.Utilities.SpellAlterer_v2
+ferrisaio.utilities.spellalterer_v2.alertultimate=Cảnh báo Cuối cùng
+ferrisaio.utilities.spellalterer_v2.alertsummoner=Alert Summoner spells
+ferrisaio.utilities.spellalterer_v2.seen=Chỉ cảnh báo nếu kẻ thù được nhìn thấy bằng phép thuật này
+ferrisaio.utilities.spellalterer_v2.urf=Tắt trong URF
+ferrisaio.utilities.spellalterer_v2.usechat=Gửi thời gian chính tả ngừng hoạt động cho đến khi trò chuyện
+ferrisaio.utilities.spellalterer_v2.pingspell=Ping chính tả khi được sử dụng
+ferrisaio.utilities.spellalterer_v2.adddelay=Thêm độ trễ nhân bản
+ferrisaio.utilities.spellalterer_v2.trollmode=Chế độ cuộn [Tất cả trò chuyện]
+ferrisaio.utilities.spellalterer_v2.debugmode=Chế độ gỡ lỗi [Chỉ trò chuyện cục bộ]
+
+# FerrisAIO.Utilities.AntiTilt
+ferrisaio.utilities.antitilt.automutechat=Tự động trò chuyện / biểu tượng cho kẻ thù
+ferrisaio.utilities.antitilt.automutepings=Auto Mute Ally Pings
+ferrisaio.utilities.antitilt.automuteally=Tự động tắt tiếng trò chuyện / biểu tượng của đồng minh
+ferrisaio.utilities.antitilt.preventbanwords=Ngăn Những Từ Có Thể Cấm
+
+# FerrisAIO.DebugMenu
+ferrisaio.debugmenu.debug=bật nhật ký gỡ lỗi
+ferrisaio.debugmenu.actionoptions=Hành động
+ferrisaio.debugmenu.profileroption=Hồ sơ
+
+# FerrisAIO.DebugMenu.ActionOptions
+ferrisaio.debugmenu.actionoptions.skilldebug=Kỹ năng gỡ lỗi
+ferrisaio.debugmenu.actionoptions.selfdebug=Gỡ lỗi kỹ năng tự
+ferrisaio.debugmenu.actionoptions.miscdebug=In tất cả các trò chơi
+ferrisaio.debugmenu.actionoptions.statdebug=Stat Debug
+ferrisaio.debugmenu.actionoptions.langdebug=Tạo đối tượng Lang
+
+# FerrisAIO.DebugMenu.ProfilerOption
+ferrisaio.debugmenu.profileroption.enablewatchdog=Print Watchdog Times
+ferrisaio.debugmenu.profileroption.allowdebug=^ Cho phép gỡ lỗi
+ferrisaio.debugmenu.profileroption.writetoconsole=^ Cũng viết trong bảng điều khiển
+ferrisaio.debugmenu.profileroption.writetofile=^ Cũng ghi vào tệp
+
+# FerrisAIO.CoreSettings
+ferrisaio.coresettings.ferrisaio.coresettings=FerrisAIO Core
+ferrisaio.coresettings.events=Sự kiện
+ferrisaio.coresettings.language=Ngôn ngữ
+ferrisaio.coresettings.fnative=FNative
+ferrisaio.coresettings.foptimizations=FOptimizations
+ferrisaio.coresettings.autoloadscripts=Tự động tải tập lệnh
+
+# FerrisAIO.CoreSettings.Events
+ferrisaio.coresettings.events.usepriosystem=Sử dụng Xe buýt Sự kiện Ưu tiên
+
+# FerrisAIO.CoreSettings.Language
+ferrisaio.coresettings.language.language_=Ngôn ngữ
+ferrisaio.coresettings.language.dumpmissingkeys=Kết xuất thiếu khóa ngôn ngữ
+
+# FerrisAIO.CoreSettings.FNative
+ferrisaio.coresettings.fnative.packethandler=Sử dụng FNative Packet Handler
+ferrisaio.coresettings.fnative.poffsets=Cố gắng tự động tìm các gói Offsets
+ferrisaio.coresettings.fnative.ace=Cố gắng bỏ qua hệ thống chống nóng
+ferrisaio.coresettings.fnative.aipred=Sử dụng CPP thay vì C # cho Dự đoán AI
+ferrisaio.coresettings.fnative.spp=Bật Cập nhật vị trí gói nguồn trực tiếp
+ferrisaio.coresettings.fnative.afk=Sử dụng FNative AntiAFK
+ferrisaio.coresettings.fnative.proxy=Cố gắng tham gia luồng gói đi của Proxy Leagues
+
+# FerrisAIO.CoreSettings.FOptimizations
+ferrisaio.coresettings.foptimizations.eventbus=EventBus
+ferrisaio.coresettings.foptimizations.drawings=Bản vẽ
+ferrisaio.coresettings.foptimizations.ilchanges=ILChanges
+
+# FerrisAIO.CoreSettings.FOptimizations.EventBus
+ferrisaio.coresettings.foptimizations.eventbus.usepriosystem=Sử dụng Xe buýt Sự kiện Ưu tiên
+
+# FerrisAIO.CoreSettings.FOptimizations.Drawings
+ferrisaio.coresettings.foptimizations.drawings.circlev2=Sử dụng Vòng kết nối nhanh hơn
+ferrisaio.coresettings.foptimizations.drawings.ooschecks=Sử dụng Smart OutOfScreen Check
+ferrisaio.coresettings.foptimizations.drawings.nonative=Tránh các lệnh gọi vẽ lớp truyền tải FNative
+ferrisaio.coresettings.foptimizations.drawings.textrender=Thay thế EnsoulSharp.SDK.TextRender bằng FerrisAIO.Rendering.TextRender
+
+# FerrisAIO.CoreSettings.FOptimizations.ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.enableedits=Bật ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.fixdrawoffscreen=Sửa bản vẽ Minimap
+ferrisaio.coresettings.foptimizations.ilchanges.irender=Cải thiện thời gian hiển thị
+ferrisaio.coresettings.foptimizations.ilchanges.trove=Danh sách hoán đổi cho Danh sách Trove
+

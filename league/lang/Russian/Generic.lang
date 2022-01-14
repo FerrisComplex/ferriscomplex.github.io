@@ -1,0 +1,902 @@
+#ФеррисАИО
+ferrisaio.ferrisaio=FerrisAIO
+ferrisaio.championmenu.teemo=Скрипт Тимо
+ferrisaio.orbwalker=Феррис Сфероход
+ferrisaio.evade=FEуклонение
+ferrisaio.loadevadescript=Загрузить сценарий уклонения
+ferrisaio.activator=Активатор
+ferrisaio.awareness=Осведомленность
+ferrisaio.fpred=Предсказание обозрения
+ferrisaio.baseult=BaseUlt
+ferrisaio.autolevel=Автоуровень Тимо
+ferrisaio.skinchanger=Смена облика
+ferrisaio.exploits=Эксплойты
+ferrisaio.utilities=Утилиты
+ferrisaio.debugmenu=Отладка
+
+#FerrisAIO.Орбволкер
+ferrisaio.orbwalker.enabled_=Включено
+ferrisaio.orbwalker.attackable=Атакуемый юнит
+ferrisaio.orbwalker.prioritize=Расставить приоритеты
+ferrisaio.orbwalker.orbwalker=Сфероходец
+ferrisaio.orbwalker.farm=Ферма
+ferrisaio.orbwalker.advanced=Дополнительно
+ferrisaio.orbwalker.drawing=Рисование
+ferrisaio.orbwalker.shove=Толкнуть (переключить)
+ferrisaio.orbwalker.freeze=Заморозить (переключить)
+ferrisaio.orbwalker.combo=Комбо
+ferrisaio.orbwalker.combowithmove=Комбо без движения
+ferrisaio.orbwalker.harass=Издевательства
+ferrisaio.orbwalker.laneclear=Очистить полосу
+ferrisaio.orbwalker.lasthit=Последнее попадание
+ferrisaio.orbwalker.flee=Бежать
+ferrisaio.orbwalker.reducedamage=Уменьшить урон ПВО на %
+
+#FerrisAIO.Orbwalker.Атакуемый
+ferrisaio.orbwalker.attackable.barrels=Бочки
+ferrisaio.orbwalker.attackable.jungleplant=Растение из джунглей
+ferrisaio.orbwalker.attackable.specialminions=Домашние животные
+ferrisaio.orbwalker.attackable.wards=Обереги
+
+#FerrisAIO.Orbwalker.Приоритет
+ferrisaio.orbwalker.prioritize.farmoverharass=Фермерство вместо харасса
+ferrisaio.orbwalker.prioritize.specialminion=Особый миньон
+ferrisaio.orbwalker.prioritize.smalljungle=Маленькие джунгли
+ferrisaio.orbwalker.prioritize.turret=Башня
+
+#FerrisAIO.Путешествующий по кругу.Путешествующий по кругу
+ferrisaio.orbwalker.orbwalker.extrahold=Дополнительная позиция удержания
+ferrisaio.orbwalker.orbwalker.moverandom=Случайное движение, когда слишком близко
+ferrisaio.orbwalker.orbwalker.windupdelay=Задержка запуска
+ferrisaio.orbwalker.orbwalker.limitattack=Не кайтить, если скорость атаки > 2,5
+
+#FerrisAIO.Orbwalker.Ферма
+ferrisaio.orbwalker.farm.farmdelay=Задержка фермы
+ferrisaio.orbwalker.farm.turretfarm=Логика фермы турелей
+ferrisaio.orbwalker.farm.turretfarmmethod=Способ фермы турелей
+ferrisaio.orbwalker.farm.turretframmaxlevel=Отключить ферму турелей, когда уровень игрока >[EQ] x
+ferrisaio.orbwalker.farm.freezehealth=Заморозить максимальное здоровье миньона
+ferrisaio.orbwalker.farm.laneclearmethod=Метод очистки фермы
+ferrisaio.orbwalker.farm.cannonfocus=Отдайте предпочтение пушкам
+ferrisaio.orbwalker.farm.freezeharass=Разрешить преследование во время заморозки
+
+#FerrisAIO.Orbwalker.Дополнительно
+ferrisaio.orbwalker.advanced.yasuowallcheck=Проверить Стену Ветра Ясуо
+ferrisaio.orbwalker.advanced.missilecheck=Использовать проверки ракет
+ferrisaio.orbwalker.advanced.calcitemdamage=Рассчитать урон предмета
+ferrisaio.orbwalker.advanced.supportmode_teemo=Режим поддержки
+ferrisaio.orbwalker.advanced.detectaaresets=Обнаружение сброса навыков ПВО
+ferrisaio.orbwalker.advanced.allowkalistadoublejump=Используйте двойной прыжок Калисты
+ferrisaio.orbwalker.advanced.beforecanattack_=Атаковать Миллис рано
+ferrisaio.orbwalker.advanced.beforecanmoveallowscriptcontrol=Разрешить скриптовое управление ранним перемещением
+ferrisaio.orbwalker.advanced.beforecanmove=Ручное перемещение Миллис
+ferrisaio.orbwalker.advanced.limitmovementpackets=Предотвратить спам-пакеты о движении
+ferrisaio.orbwalker.advanced.limitattackpackets=Предотвратить спам-атаку
+
+#FerrisAIO.Orbwalker.Рисование
+ferrisaio.orbwalker.drawing.drawattackrange=Диапазон атаки
+ferrisaio.orbwalker.drawing.drawholdposition=Позиция удержания рисования
+ferrisaio.orbwalker.drawing.drawkillableminion=Нарисовать убиваемого миньона
+ferrisaio.orbwalker.drawing.showfakeclick=Показать FakeClick
+ferrisaio.orbwalker.drawing.fakeclickdelay=Задержка между кликами в миллисах
+ferrisaio.orbwalker.drawing.glowminions=Светящиеся последние хиты
+ferrisaio.orbwalker.drawing.minionsglow=Светящийся цвет миньонов
+ferrisaio.orbwalker.drawing.minionsdraw=Нарисовать маркер последнего удара
+ferrisaio.orbwalker.drawing.minionsanimate=Анимировать маркер последнего удара
+ferrisaio.orbwalker.drawing.minionsanimatecolor=Цвет маркера последнего попадания
+
+#FerrisAIO.Evade
+ferrisaio.evade.main=Главная
+ferrisaio.evade.keysettings=Настройки клавиш
+ferrisaio.evade.miscsettings=Разные настройки
+ferrisaio.evade.spells=Заклинания
+ferrisaio.evade.traps=Ловушки
+ferrisaio.evade.evadespells=Уклонение от заклинаний
+ferrisaio.evade.draw=Ничья
+ferrisaio.evade.autosetpingmenu=Автоустановка
+
+#FerrisAIO.Evade.Main
+ferrisaio.evade.main.dodgeskillshots=Уклонение от выстрелов навыка
+ferrisaio.evade.main.activateevadespells=Использовать заклинания уклонения
+ferrisaio.evade.main.dodgedangerous=Уклонение только от опасности
+ferrisaio.evade.main.dodgefowspells=Уклоняйтесь от FOW SkillShots
+ferrisaio.evade.main.dodgecircularspells=Уклонение от круговых выстрелов навыка
+ferrisaio.evade.main.dodgecircularspells_v2=Круговая логика Evadeee [БЕТА]
+
+#FerrisAIO.Evade.KeySettings
+ferrisaio.evade.keysettings.dodgedangerouskeyenabled=Включить уклонение только от опасных ключей
+ferrisaio.evade.keysettings.dodgedangerouskey=Уклонение только от опасного ключа
+ferrisaio.evade.keysettings.dodgedangerouskey2=Уклонение только от опасного ключа 2
+ferrisaio.evade.keysettings.dodgeonlyoncombokeyenabled=Включить уклонение только на комбо-клавише
+ferrisaio.evade.keysettings.dodgecombokey=Комбинированный ключ только для уклонения
+ferrisaio.evade.keysettings.dontdodgekeyenabled=Включить ключ «Не уклоняться»
+ferrisaio.evade.keysettings.dontdodgekey=Не уклоняться от ключа
+
+#FerrisAIO.Evade.MiscSettings
+ferrisaio.evade.miscsettings.evademode=Профиль уклонения
+ferrisaio.evade.miscsettings.blockdangerdash=Блокировать заклинание опасного рывка
+ferrisaio.evade.miscsettings.higherprecision=Улучшенная точность уклонения
+ferrisaio.evade.miscsettings.recalculateposition=Пересчитать путь
+ferrisaio.evade.miscsettings.continuemovement=Продолжить последнее движение
+ferrisaio.evade.miscsettings.calculatewindupdelay=Рассчитать задержку запуска
+ferrisaio.evade.miscsettings.checkspellcollision=Проверить коллизию орфографии
+ferrisaio.evade.miscsettings.preventdodgingundertower=Предотвратить уклонение под башней
+ferrisaio.evade.miscsettings.preventdodgingnearenemy=Предотвратить уклонение от врагов
+ferrisaio.evade.miscsettings.advancedspelldetection=Расширенное определение заклинаний
+ferrisaio.evade.miscsettings.clickremove=Разрешить удаление левой кнопкой мыши ^ Щелкните левой кнопкой мыши, чтобы удалить ловушки и глобальные объекты
+ferrisaio.evade.miscsettings.resetconfig=Сбросить конфигурацию уклонения
+ferrisaio.evade.miscsettings.limiter=Гуманизатор
+ferrisaio.evade.miscsettings.fastevade=Быстрое уклонение
+ferrisaio.evade.miscsettings.extrabuffers=Дополнительные буферы
+ferrisaio.evade.miscsettings.loadtests=Тесты
+
+#FerrisAIO.Evade.MiscSettings.Limiter
+ferrisaio.evade.miscsettings.limiter.clickonlyonce=Нажмите только один раз
+ferrisaio.evade.miscsettings.limiter.enableevadedistance=Расширенное уклонение
+ferrisaio.evade.miscsettings.limiter.ticklimiter=Ограничитель тактов
+ferrisaio.evade.miscsettings.limiter.spelldetectiontime=Время обнаружения заклинания
+ferrisaio.evade.miscsettings.limiter.reactiontime=Время реакции
+ferrisaio.evade.miscsettings.limiter.dodgeinterval=Интервал уклонения
+
+#FerrisAIO.Evade.MiscSettings.FastEvade
+ferrisaio.evade.miscsettings.fastevade.fastmovementblock=Блокировка быстрого движения
+ferrisaio.evade.miscsettings.fastevade.fastevadeactivationtime=Время активации FastEvade
+ferrisaio.evade.miscsettings.fastevade.spellactivationtime=Время активации заклинания
+ferrisaio.evade.miscsettings.fastevade.rejectmindistance=Буфер расстояния столкновения
+
+#FerrisAIO.Evade.MiscSettings.ExtraBuffers
+ferrisaio.evade.miscsettings.extrabuffers.extrapingbuffer=Дополнительный буфер пинга
+ferrisaio.evade.miscsettings.extrabuffers.extracpadistance=Дополнительная дистанция столкновения
+ferrisaio.evade.miscsettings.extrabuffers.extraspellradius=Дополнительный радиус заклинания
+ferrisaio.evade.miscsettings.extrabuffers.extraevadedistance=Дополнительное расстояние уклонения
+ferrisaio.evade.miscsettings.extrabuffers.extraavoiddistance=Дополнительно избегаемое расстояние
+ferrisaio.evade.miscsettings.extrabuffers.mincomfortzone=Минимальное расстояние до чемпиона
+
+#FerrisAIO.Evade.MiscSettings.LoadTests
+ferrisaio.evade.miscsettings.loadtests.loadspelltester=Загрузить проверку орфографии
+
+#FerrisAIO.Evade.EvadeЗаклинания
+ferrisaio.evade.evadespells.flashadespellsettings=Вспышка
+
+#FerrisAIO.Evade.EvadeSpells.FlashEvadeSpellSettings
+ferrisaio.evade.evadespells.flashevadespellsettings.flashuseevadespell=Использовать заклинание
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespelldangerlevel=Уровень опасности
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespellmode=Режим заклинаний
+
+#FerrisAIO.Evade.Draw
+ferrisaio.evade.draw.drawskillshots=Вытягивание выстрелов навыка
+ferrisaio.evade.draw.showstatus=Показать статус уклонения
+ferrisaio.evade.draw.drawspellpos=Нарисовать положение заклинания
+ferrisaio.evade.draw.drawevadeposition=Нарисовать позицию уклонения
+ferrisaio.evade.draw.dangerleveldrawings=Рисунки уровня опасности
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing=Низкий
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing=Нормальный
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing=Высокий
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing=Экстремально
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing=Неуклонный
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.LowDrawing
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowwidth=Ширина линии
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowcolor=Цвет
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowenable=Включить
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.NormalDrawing
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalwidth=Ширина линии
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalcolor=Цвет
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalenable=Включить
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.HighDrawing
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highwidth=Ширина линии
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highcolor=Цвет
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highenable=Включить
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.ExtremeDrawing
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremewidth=Ширина линии
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremecolor=Цвет
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremeenable=Включить
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.UndodgeableDrawing
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablewidth=Ширина линии
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablecolor=Цвет
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeableenable=Включить
+
+#FerrisAIO.Evade.AutoSetPingMenu
+ferrisaio.evade.autosetpingmenu.autosetpingon=Автоматическая установка пинга
+ferrisaio.evade.autosetpingmenu.autosetpercentile=Автоматическая установка процентиля
+ferrisaio.evade.autosetpingmenu.testskillshotdelay=TestSkillshotDelay
+
+#FerrisAIO.Активатор
+ferrisaio.activator.autopotions=Автозелья
+ferrisaio.activator.defensive=Защитный
+ferrisaio.activator.offensive=Атака
+ferrisaio.activator.autozhonya=Авто Жоня
+ferrisaio.activator.autocleanse=Автоматическая очистка
+ferrisaio.activator.summonerspell=Заклинание призывателя
+ferrisaio.activator.turnaround=Автоматический поворот
+ferrisaio.activator.autolantern=Автофонарь
+
+#FerrisAIO.Активатор.Автозелья
+ferrisaio.activator.autopotions.enabled=Включено
+ferrisaio.activator.autopotions.healthpercent=^ Процент здоровья игрока <[EQ] x%
+
+#FerrisAIO.Активатор.Защита
+ferrisaio.activator.defensive.locketoftheironsolari=Медальон Железных Солари
+ferrisaio.activator.defensive.randuinomen=Знамение Рандуина
+ferrisaio.activator.defensive.redemption=Искупление
+ferrisaio.activator.defensive.gargoylestoneplate=Каменная пластина горгульи
+
+#FerrisAIO.Activator.Defensive.LocketOfTheIronSolari
+ferrisaio.activator.defensive.locketoftheironsolari.enabled=Включено
+ferrisaio.activator.defensive.locketoftheironsolari.onlycombo=Только активное комбо
+ferrisaio.activator.defensive.locketoftheironsolari.healthpercent=Когда процент здоровья игрока <[EQ] x%
+ferrisaio.activator.defensive.locketoftheironsolari.damagetime=Время расчета урона (мс)
+
+#FerrisAIO.Activator.Defensive.RanduinOmen
+ferrisaio.activator.defensive.randuinomen.enabled=Включено
+ferrisaio.activator.defensive.randuinomen.onlycombo=Только активное комбо
+ferrisaio.activator.defensive.randuinomen.minhit=Минимальное количество попаданий >[EQ] x
+ferrisaio.activator.defensive.randuinomen.healthpercent=Когда процент здоровья игрока <[EQ] x%
+
+#FerrisAIO.Activator.Defensive.Redemption
+ferrisaio.activator.defensive.redemption.enabled=Включено
+ferrisaio.activator.defensive.redemption.onlycombo=Активен только комбо
+ferrisaio.activator.defensive.redemption.healthpercent=Когда процент здоровья игрока <[EQ] x%
+ferrisaio.activator.defensive.redemption.calculatedamage=Рассчитать входящий урон
+ferrisaio.activator.defensive.redemption.damagepercent=Процент входящего урона >[EQ] x%
+ferrisaio.activator.defensive.redemption.damagetime=Время расчета входящего урона (мс)
+
+#FerrisAIO.Activator.Defensive.GargoyleStoneplate
+ferrisaio.activator.defensive.gargoylestoneplate.enabled=Включено
+ferrisaio.activator.defensive.gargoylestoneplate.onlycombo=Только активное комбо
+ferrisaio.activator.defensive.gargoylestoneplate.healthpercent=Когда процент здоровья игрока <[EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.calculatedamage=Рассчитать входящий урон
+ferrisaio.activator.defensive.gargoylestoneplate.damagepercent=Процент входящего урона >[EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.damagetime=Время расчета входящего урона (мс)
+
+#FerrisAIO.Активатор.Наступление
+ferrisaio.activator.offensive.prowlersclaw=Коготь хищника
+ferrisaio.activator.offensive.everfrost=Вечный мороз
+ferrisaio.activator.offensive.galeforce=Галефорс
+ferrisaio.activator.offensive.hextechprotobelt01=Хекстековый прототип-пояс-01
+ferrisaio.activator.offensive.stridebreaker=Разрушитель
+ferrisaio.activator.offensive.ironspikewhip=Железный кнут
+ferrisaio.activator.offensive.goredrinker=Горедринкер
+ferrisaio.activator.offensive.youmuughostblade=Призрачный клинок Ёмуу
+
+#FerrisAIO.Activator.Offensive.ProwlersClaw
+ferrisaio.activator.offensive.prowlersclaw.enabled=Включено
+ferrisaio.activator.offensive.prowlersclaw.onlycombo=Только активное комбо
+ferrisaio.activator.offensive.prowlersclaw.dontprowlersundertower=Не использовать под башней
+ferrisaio.activator.offensive.prowlersclaw.enemyhealthpercent=Когда целевой процент здоровья <[EQ] x%
+
+#FerrisAIO.Activator.Наступление.Everfrost
+ferrisaio.activator.offensive.everfrost.enabled=Включено
+ferrisaio.activator.offensive.everfrost.onlycombo=Только активное комбо
+ferrisaio.activator.offensive.everfrost.enemyhealthpercent=Когда целевой процент здоровья <[EQ] x%
+
+#FerrisAIO.Активатор.Наступление.Galeforce
+ferrisaio.activator.offensive.galeforce.enabled=Включено
+ferrisaio.activator.offensive.galeforce.onlycombo=Активен только комбо
+ferrisaio.activator.offensive.galeforce.enemyhealthpercent=Когда целевой процент здоровья <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.HextechProtobelt01
+ferrisaio.activator.offensive.hextechprotobelt01.enabled=Включено
+ferrisaio.activator.offensive.hextechprotobelt01.onlycombo=Активен только комбо
+ferrisaio.activator.offensive.hextechprotobelt01.enemyhealthpercent=Когда целевой процент здоровья <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.Stridebreaker
+ferrisaio.activator.offensive.stridebreaker.enabled=Включено
+ferrisaio.activator.offensive.stridebreaker.combo=Использовать в комбо
+ferrisaio.activator.offensive.stridebreaker.jungle=Использовать на очистке джунглей
+
+#FerrisAIO.Activator.Offensive.IronspikeWhip
+ferrisaio.activator.offensive.ironspikewhip.enabled=Включено
+ferrisaio.activator.offensive.ironspikewhip.combo=Использовать в комбо
+ferrisaio.activator.offensive.ironspikewhip.jungle=Использовать на очистке джунглей
+ferrisaio.activator.offensive.ironspikewhip.isurf2=Используйте более активно на URF
+
+#FerrisAIO.Activator.Offensive.Goreddrinker
+ferrisaio.activator.offensive.goredrinker.enabled=Включено
+ferrisaio.activator.offensive.goredrinker.combo=Использовать в комбо
+ferrisaio.activator.offensive.goredrinker.jungle=Использовать на очистке джунглей
+ferrisaio.activator.offensive.goredrinker.isurf2=Используйте более активно на URF
+
+#FerrisAIO.Activator.Offensive.YoumuuGhostblade
+ferrisaio.activator.offensive.youmuughostblade.enabled=Включено
+ferrisaio.activator.offensive.youmuughostblade.onlycombo=Только активное комбо
+
+#FerrisAIO.Активатор.АвтоЖоня
+ferrisaio.activator.autozhonya.spellblock=Блокировка заклинаний
+ferrisaio.activator.autozhonya.enabled=Включено
+ferrisaio.activator.autozhonya.lowhealth=Использовать при низком уровне здоровья
+ferrisaio.activator.autozhonya.healthpercent=^ Процент здоровья игрока <[EQ] x%
+
+#FerrisAIO.Activator.AutoCleanse
+ferrisaio.activator.autocleanse._______sep1=Да, это также используется для QSS!
+ferrisaio.activator.autocleanse._______sep2=Отключено по умолчанию из-за низкой производительности
+ferrisaio.activator.autocleanse.bufftype=Тип усиления
+ferrisaio.activator.autocleanse.bufftarget=Цель усиления
+ferrisaio.activator.autocleanse.enabled_=Включено_
+ferrisaio.activator.autocleanse.miniduration=Минимальная продолжительность усиления (мс)
+ferrisaio.activator.autocleanse.onlycombo=Активен только комбо
+ferrisaio.activator.autocleanse.onlylowhealth=Только низкий процент здоровья
+ferrisaio.activator.autocleanse.healthpercent=^ Минимальный процент здоровья <[EQ] x%
+ferrisaio.activator.autocleanse.allowally=Разрешить очищать союзников
+ferrisaio.activator.autocleanse.antiexaust=Использовать при истощении
+ferrisaio.activator.autocleanse.healthpercentexaust=^ HealthPercent >[EQ] x%
+ferrisaio.activator.autocleanse.antikill=Используйте, когда Ignite/Poision/DOT убивает и поблизости нет врагов
+
+#FerrisAIO.Activator.AutoCleanse.BuffType
+ferrisaio.activator.autocleanse.bufftype.cleanseblind=Слепой
+ferrisaio.activator.autocleanse.bufftype.cleansecharm=Амулет
+ferrisaio.activator.autocleanse.bufftype.cleansedamage=Урон
+ferrisaio.activator.autocleanse.bufftype.cleansefear=Страх
+ferrisaio.activator.autocleanse.bufftype.cleanseflee=Бежать
+ferrisaio.activator.autocleanse.bufftype.cleansepolymorph=Полиморф
+ferrisaio.activator.autocleanse.bufftype.cleansesilence=Безмолвие
+ferrisaio.activator.autocleanse.bufftype.cleanseslow=Медленно
+ferrisaio.activator.autocleanse.bufftype.cleansesnare=Ловушка
+ferrisaio.activator.autocleanse.bufftype.cleansestun=Оглушение
+ferrisaio.activator.autocleanse.bufftype.cleansesuppression=Подавление
+ferrisaio.activator.autocleanse.bufftype.cleansetaunt=Насмешка
+ferrisaio.activator.autocleanse.bufftype.cleanseasleep=Спит
+
+#FerrisAIO.Activator.AutoCleanse.BuffTarget
+ferrisaio.activator.autocleanse.bufftarget.cleanseon1073741853=Тимо
+
+#FerrisAIO.Activator.SummonerЗаклинание
+ferrisaio.activator.summonerspell.barrier=Барьер
+ferrisaio.activator.summonerspell.exhaust=Выхлоп
+ferrisaio.activator.summonerspell.heal=Исцеление
+ferrisaio.activator.summonerspell.ignite=Зажечь
+ferrisaio.activator.summonerspell.smiteslot=Поразить
+ferrisaio.activator.summonerspell.spellbookslot=Абсолютная книга заклинаний
+
+#FerrisAIO.Activator.SummonerSpell.barrier
+ferrisaio.activator.summonerspell.barrier.enabled=Включено
+ferrisaio.activator.summonerspell.barrier.healthpercent=Когда процент здоровья игрока <[EQ] x%
+ferrisaio.activator.summonerspell.barrier.calculatedamage=Рассчитать входящий урон
+ferrisaio.activator.summonerspell.barrier.damagepercent=Процент входящего урона >[EQ] x%
+
+#FerrisAIO.Activator.SummonerSpell.Exhaust
+ferrisaio.activator.summonerspell.exhaust.enabled=Включено
+ferrisaio.activator.summonerspell.exhaust.healthpercent=Когда процент здоровья игрока <[EQ] x%
+ferrisaio.activator.summonerspell.exhaust.onlycombo=Активен только комбо
+ferrisaio.activator.summonerspell.exhaust.alwayscast=Всегда применять на цель
+ferrisaio.activator.summonerspell.exhaust.alwayscast2=Включить логику соло-каста
+
+#FerrisAIO.Activator.SummonerSpell.Heal
+ferrisaio.activator.summonerspell.heal.healtarget=Вылечить цель
+ferrisaio.activator.summonerspell.heal.enabled=Включено
+ferrisaio.activator.summonerspell.heal.healthpercent=Когда процент здоровья союзника <[EQ] x%
+ferrisaio.activator.summonerspell.heal.calculatedamage=Рассчитать входящий урон
+ferrisaio.activator.summonerspell.heal.damagepercent=Процент входящего урона >[EQ] x%
+ferrisaio.activator.summonerspell.heal.damagetime=Время расчета входящего урона (мс)
+
+#FerrisAIO.Activator.SummonerSpell.Heal.HealTarget
+ferrisaio.activator.summonerspell.heal.healtarget.heal_1073741853=Тимо
+
+#FerrisAIO.Activator.SummonerSpell.Ignite
+ferrisaio.activator.summonerspell.ignite.enabled=Включено
+ferrisaio.activator.summonerspell.ignite.killsteal=Когда цель может быть убита
+ferrisaio.activator.summonerspell.ignite.comboonly=Только во время комбо
+ferrisaio.activator.summonerspell.ignite.preventusewhenkillableaa=[KillSteal] Предотвращает трату воспламенения, когда цель можно убить с помощью 1 AA
+ferrisaio.activator.summonerspell.ignite.______sep3=^ Только для чемпионов ближнего боя
+ferrisaio.activator.summonerspell.ignite.killableaaflash=^ Только если у цели нет вспышки
+ferrisaio.activator.summonerspell.ignite.preventonaarangetarget=[KillSteal] Не использовать, когда враг находится в радиусе действия ПВО 
+ferrisaio.activator.summonerspell.ignite.rangeaaflash=^ Только если цель не может вспыхнуть за пределами диапазона воспламенения
+ferrisaio.activator.summonerspell.ignite.______sep2=^ Только для чемпионов ближнего боя
+ferrisaio.activator.summonerspell.ignite.lowhealthandcombo=Использовать в комбо, когда целевой процент здоровья <[EQ] x%
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot
+ferrisaio.activator.summonerspell.smiteslot.smitetarget=Поразить цель
+ferrisaio.activator.summonerspell.smiteslot.enabled=Включено
+ferrisaio.activator.summonerspell.smiteslot.combo=Использовать в комбо
+ferrisaio.activator.summonerspell.smiteslot.combostack=^ Только 2 стека
+ferrisaio.activator.summonerspell.smiteslot.killable=Использовать на KillAble
+ferrisaio.activator.summonerspell.smiteslot.drawrange=Нарисуйте дальность удара
+ferrisaio.activator.summonerspell.smiteslot.drawstate=Нарисовать состояние Smite
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot.SmiteTarget
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_baron=Барон Нашор
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_riftherald=Вестник разлома
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_elder=Старший дракон
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_chemtech=Хемтехнологический дракон
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_hextech=Хекстековый дракон
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_water=Водяной дракон
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_fire=Огненный дракон
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_earth=Земной дракон
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_air=Воздушный дракон
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_blue=Синий часовой
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_red=Красный шиповник
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_razorbeak=Багровый ящер
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_murkwolf=Большой мрачный волк
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_krug=Древний круг
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_gromp=Громп
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_crab=Разломный бегун
+
+#FerrisAIO.Activator.SummonerSpell.SpellbookSlot
+ferrisaio.activator.summonerspell.spellbookslot.enableultimatespellbook=Включено
+ferrisaio.activator.summonerspell.spellbookslot.enablenolag=Режим с низкой задержкой
+ferrisaio.activator.summonerspell.spellbookslot.sylasrspellnames=Имена заклинаний
+
+#FerrisAIO.Activator.TurnAround
+ferrisaio.activator.turnaround.enabled=Включено
+ferrisaio.activator.turnaround.cassiopeir=Избегайте Кассиопеи R
+ferrisaio.activator.turnaround.tryndamerew=Избегайте Триндамера [W]
+
+#FerrisAIO.Активатор.Автофонарь
+ferrisaio.activator.autolantern.autocatch=Поймать фонарь союзника
+ferrisaio.activator.autolantern.enabledcatch=Включено
+ferrisaio.activator.autolantern.onlykey=Активен только ключ
+ferrisaio.activator.autolantern.catchkey=Поймать ключ от фонаря
+ferrisaio.activator.autolantern.catchhealth=Когда процент здоровья игрока >[EQ] x%
+ferrisaio.activator.autolantern.autoward=Наложение оберега на вражеский фонарь
+ferrisaio.activator.autolantern.enabledward=Включено
+ferrisaio.activator.autolantern.wardkey=Наложение оберега на ключ от фонаря
+ferrisaio.activator.autolantern.warddelay=Задержка использования оберега
+
+#FerrisAIO.Осведомленность
+ferrisaio.awareness.attackrange=Дальность атаки
+ferrisaio.awareness.autoward=Автозащита
+ferrisaio.awareness.cooldowntrack=Отслеживание перезарядки
+ferrisaio.awareness.experiencetrack=Отслеживание опыта
+ferrisaio.awareness.gankalert=Предупреждение о гангах
+ferrisaio.awareness.hudtrack=Hud Track
+ferrisaio.awareness.inhibitortime=Время ингибитора
+ferrisaio.awareness.jungletime=Время джунглей
+ferrisaio.awareness.lastposition=Последняя позиция
+ferrisaio.awareness.recalltrack=Отзыв трека
+ferrisaio.awareness.turrethealth=Здоровье турели
+ferrisaio.awareness.turretrange=Дальность атаки турелей
+ferrisaio.awareness.wardtrack=Отслеживание варда
+ferrisaio.awareness.waypoints=Точки пути
+ferrisaio.awareness.fowtracker_v2=FOW Барон / Охотник за драконами
+
+#FerrisAIO.Awareness.AttackRange
+ferrisaio.awareness.attackrange.enabled=Включено
+ferrisaio.awareness.attackrange.ally=Нарисуйте союзника
+ferrisaio.awareness.attackrange.allycolor=^ Цвет союзника
+ferrisaio.awareness.attackrange.enemy=Нарисуйте врага
+ferrisaio.awareness.attackrange.enemycolor=^ Цвет врага
+
+#FerrisAIO.Осведомленность.AutoWard
+ferrisaio.awareness.autoward.enabled=Включено
+ferrisaio.awareness.autoward.onlycombo=Активен только комбо
+ferrisaio.awareness.autoward.buyblue=Автоматическая покупка синей безделушки
+ferrisaio.awareness.autoward.bushward=Автозащита Буша
+ferrisaio.awareness.autoward.bushinkward=^ Используйте розовый оберег
+ferrisaio.awareness.autoward.antisteal=Защита от кражи
+ferrisaio.awareness.autoward.maxmissingtime=Не ставить вард, если отсутствует дольше, чем x секунд
+
+#FerrisAIO.Awareness.CooldownTrack
+ferrisaio.awareness.cooldowntrack.enabled=Включено
+ferrisaio.awareness.cooldowntrack.ally=Нарисуй союзника
+ferrisaio.awareness.cooldowntrack.enemy=Нарисуйте врага
+ferrisaio.awareness.cooldowntrack.self=Нарисовать себя
+
+#FerrisAIO.Awareness.ExperienceTrack
+ferrisaio.awareness.experiencetrack.enabled=Включено
+ferrisaio.awareness.experiencetrack.ally=Нарисуй союзника
+ferrisaio.awareness.experiencetrack.enemy=Нарисуйте врага
+ferrisaio.awareness.experiencetrack.self=Нарисовать себя
+
+#FerrisAIO.Осведомленность.GankAlert
+ferrisaio.awareness.gankalert.enabled=Включено
+ferrisaio.awareness.gankalert.onlyjungle=Только джунгли
+ferrisaio.awareness.gankalert.minrange=Минимальный диапазон расстояний >[EQ] x
+ferrisaio.awareness.gankalert.maxrange=Максимальный диапазон расстояний <[EQ] x
+
+#FerrisAIO.Awareness.HudTrack
+ferrisaio.awareness.hudtrack.horizontal=Горизонтальный стиль
+ferrisaio.awareness.hudtrack.vertical=Вертикальный стиль
+ferrisaio.awareness.hudtrack.style=Стиль рисования
+ferrisaio.awareness.hudtrack.enabled=Включено
+
+#FerrisAIO.Awareness.HudTrack.Horizontal
+ferrisaio.awareness.hudtrack.horizontal.horizontalxoffsets=X смещения
+ferrisaio.awareness.hudtrack.horizontal.horizontalyoffsets=Y смещения
+
+#FerrisAIO.Awareness.HudTrack.Vertical
+ferrisaio.awareness.hudtrack.vertical.verticalxoffsets=X смещения
+ferrisaio.awareness.hudtrack.vertical.verticalyoffsets=Y смещения
+ferrisaio.awareness.hudtrack.vertical.verticalpos=Положение заклинания призывателя
+
+#FerrisAIO.Awareness.InhibitorTime
+ferrisaio.awareness.inhibitortime.enabled=Включено
+ferrisaio.awareness.inhibitortime.minimap=На мини-карте
+ferrisaio.awareness.inhibitortime.minimapdraw=Рисовать на мини-карте
+ferrisaio.awareness.inhibitortime.minimapfontsize=Размер шрифта
+ferrisaio.awareness.inhibitortime.map=На мини-карте
+ferrisaio.awareness.inhibitortime.mapdraw=Рисовать на карте
+ferrisaio.awareness.inhibitortime.mapfontsize=Размер шрифта
+
+#FerrisAIO.Awareness.JungleTime
+ferrisaio.awareness.jungletime.enabled=Включено
+ferrisaio.awareness.jungletime.minimap=На мини-карте
+ferrisaio.awareness.jungletime.minimapdraw=Рисовать на мини-карте
+ferrisaio.awareness.jungletime.minimapformat=Формат времени: 
+ferrisaio.awareness.jungletime.minimapfontsize=Размер шрифта
+ferrisaio.awareness.jungletime.map=На карте
+ferrisaio.awareness.jungletime.mapdraw=Рисовать на карте
+ferrisaio.awareness.jungletime.mapformat=Формат времени: 
+ferrisaio.awareness.jungletime.mapfontsize=Размер шрифта
+
+#FerrisAIO.Awareness.LastPosition
+ferrisaio.awareness.lastposition.enabled=Включено
+ferrisaio.awareness.lastposition.sstime=Время рисования SS
+ferrisaio.awareness.lastposition.sscircle=Нарисовать круг SS
+ferrisaio.awareness.lastposition.ssback__=Индикатор резервного копирования
+ferrisaio.awareness.lastposition.urf_drawcannonpositions=Рисовать индикатор положения пушки URF
+
+#FerrisAIO.Awareness.RecallTrack
+ferrisaio.awareness.recalltrack.enabled=Включено
+ferrisaio.awareness.recalltrack.xoffsets=X смещения
+ferrisaio.awareness.recalltrack.yoffsets=Y смещения
+
+#FerrisAIO.Awareness.TurretHealth
+ferrisaio.awareness.turrethealth.enabled=Включено
+ferrisaio.awareness.turrethealth.style_=Стиль рисования
+ferrisaio.awareness.turrethealth.fontsize=Размер шрифта
+
+#FerrisAIO.Awareness.TurretRange
+ferrisaio.awareness.turretrange.enabled=Включено
+ferrisaio.awareness.turretrange.ally=Диапазон атаки башни союзника
+ferrisaio.awareness.turretrange.allycolor=^ Цвет атаки турелей союзников
+ferrisaio.awareness.turretrange.enemy=Диапазон атаки вражеской турели
+ferrisaio.awareness.turretrange.enemycolor=^ Цвет атаки вражеской турели
+ferrisaio.awareness.turretrange.extendrange=Увеличить радиус действия башни на
+
+#FerrisAIO.Awareness.WardTrack
+ferrisaio.awareness.wardtrack.enabled=Включено
+ferrisaio.awareness.wardtrack.showowner=Показать владельца
+ferrisaio.awareness.wardtrack.pingvision=Пинг-зрение
+ferrisaio.awareness.wardtrack.pingdelay=Задержка пинга
+ferrisaio.awareness.wardtrack.wardpositionhelper_2=Показать позицию размещения на ключе
+ferrisaio.awareness.wardtrack.wardvisionhelper=Показать зоны обзора варда
+ferrisaio.awareness.wardtrack.quality=Качество
+ferrisaio.awareness.wardtrack.key=Горячая клавиша + Удалить левой кнопкой мыши
+
+#FerrisAIO.Awareness.WayPoints
+ferrisaio.awareness.waypoints.enabled_=Включено
+ferrisaio.awareness.waypoints.cross=Цвет креста
+ferrisaio.awareness.waypoints.line=Цвет линии
+ferrisaio.awareness.waypoints.aproximateposition=Цвет прогнозируемой позиции
+ferrisaio.awareness.waypoints.recalcdelay=Задержка пересчета
+ferrisaio.awareness.waypoints._____0001wp=^ Увеличивает FPS при более высоком значении!
+ferrisaio.awareness.waypoints.ally=Нарисуй союзника
+ferrisaio.awareness.waypoints.enemy=Нарисуй врага
+ferrisaio.awareness.waypoints.self=Нарисовать себя
+ferrisaio.awareness.waypoints.map=Рисовать на карте
+
+#FerrisAIO.Осведомленность.FOWTracker_v2
+ferrisaio.awareness.fowtracker_v2.enabled=Включено
+ferrisaio.awareness.fowtracker_v2.pinglocation=Пинг местоположения
+ferrisaio.awareness.fowtracker_v2.sendchatmessage=Отправить чат команде
+ferrisaio.awareness.fowtracker_v2.sendchatlocal=Печать в клиентском чате
+ferrisaio.awareness.fowtracker_v2.sendpinglocal=Пингует так, как видите только вы
+
+#FerrisAIO.FPred
+ferrisaio.fpred._____sp2=Автоматический режим активно тестируется
+ferrisaio.fpred._____sp3=Сообщать мне об ошибках и проблемах в Telegram <3
+ferrisaio.fpred.predictonlist1=Метод прогнозирования по умолчанию
+ferrisaio.fpred.predictonlistq=Метод прогнозирования Q
+ferrisaio.fpred.qhitchance=Вероятность попадания Q
+ferrisaio.fpred.predictonlistw=Метод предсказания W
+ferrisaio.fpred.whitchance=Вероятность попадания [W]
+ferrisaio.fpred.predictonliste=Метод предсказания E
+ferrisaio.fpred.ehitchance=Е шанс попадания
+ferrisaio.fpred.predictonlistr=Метод прогнозирования R
+ferrisaio.fpred.rhitchance=R шанс попадания
+ferrisaio.fpred.spredwindup=Проверить целевое наведение ПВО
+ferrisaio.fpred.spredmaxrangeignore=Максимальная дальность игнорирования уклонения (%)
+ferrisaio.fpred.spredreactiondelay=Игнорировать задержку ответа
+ferrisaio.fpred.spreddelay=Задержка произнесения
+ferrisaio.fpred.spreddrawings=Включить рисунки
+ferrisaio.fpred.spredaccuracy_=Разрешить прогнозирование области действия
+ferrisaio.fpred.waypointanalysis=Анализ путевых точек
+ferrisaio.fpred.predmaxrange=Максимальный диапазон %
+
+#FerrisAIO.BaseUlt
+ferrisaio.baseult.baseult=Включить ультимативную базу
+ferrisaio.baseult.checkcollision=Проверить столкновение
+ferrisaio.baseult.panickey=Нет ульты при нажатой клавише
+ferrisaio.baseult.regardlesskey=Ульт вне зависимости от убийства (удерживать)
+ferrisaio.baseult.team baseult friends=TeamUlt
+ferrisaio.baseult.disabled чемпионы target=DisabledChampions
+
+#FerrisAIO.Автоуровень
+ferrisaio.autolevel.enable.teemo=Включено
+ferrisaio.autolevel.autolevelstart.teemo=Начать после уровня
+ferrisaio.autolevel.customs2.teemo=Разрешить таможню скрипта
+ferrisaio.autolevel.primaryorder.teemo=Автоматический порядок уровней
+ferrisaio.autolevel.earlyorder.teemo=Первый трехуровневый заказ
+
+#FerrisAIO.SkinChanger
+ferrisaio.skinchanger.enabled=Включено
+ferrisaio.skinchanger.championteemo=Облик чемпиона
+ferrisaio.skinchanger.ward=Скин тотема
+ferrisaio.skinchanger.minion=Облик миньона
+
+#FerrisAIO.SkinChanger.ChampionTeemo
+ferrisaio.skinchanger.championteemo.userandom=Использовать случайный скин, если скин не установлен
+ferrisaio.skinchanger.championteemo.usesliderf=Использовать значение ползунка
+ferrisaio.skinchanger.championteemo.forceenemiestodefualt=Принудительно придать врагам скин по умолчанию
+ferrisaio.skinchanger.championteemo.forcealliestodefualt=Принудительно использовать скин по умолчанию для союзников
+ferrisaio.skinchanger.championteemo.skinname=Скин
+ferrisaio.skinchanger.championteemo.chromaid=Чорма
+ferrisaio.skinchanger.championteemo.skinid=Идентификатор скина: 
+
+#FerrisAIO.SkinChanger.Ward
+ferrisaio.skinchanger.ward.wardsenabled=Включить смену вардов
+ferrisaio.skinchanger.ward.userandom=Использовать случайный скин, если скин не установлен
+ferrisaio.skinchanger.ward.usesliderf=Использовать значение ползунка
+ferrisaio.skinchanger.ward.skinid=Идентификатор скина:
+ferrisaio.skinchanger.ward.wardid1=Настоящий идентификатор варда: Поместите вард, чтобы найти!
+
+#FerrisAIO.SkinChanger.Миньон
+ferrisaio.skinchanger.minion.minionskin=Идентификатор скина миньона: 
+ferrisaio.skinchanger.minion.towerchaosskin=ID скина Башни Хаоса: 
+ferrisaio.skinchanger.minion.towerorderskin=ID скина башни порядка: 
+ferrisaio.skinchanger.minion.baronskin=Идентификатор скина барона: 
+ferrisaio.skinchanger.minion.dragonskin=Идентификатор скина дракона: 
+ferrisaio.skinchanger.minion.heraldskin=Идентификатор скина Вестника: 
+ferrisaio.skinchanger.minion.crabskin=ID скина "Скуттл": 
+ferrisaio.skinchanger.minion.redskin=Идентификатор скина RedBuff: 
+ferrisaio.skinchanger.minion.blueskin=Идентификатор скина BlueBuff: 
+ferrisaio.skinchanger.minion.blastcone=Идентификатор скина BlastCone: 
+ferrisaio.skinchanger.minion.visionplant=Идентификатор скина Провидца: 
+ferrisaio.skinchanger.minion.healthplant=ID скина «Медовый фрукт»: 
+
+#FerrisAIO.Эксплойты
+ferrisaio.exploits.maphack=Взлом видимости FOW
+ferrisaio.exploits.packettracker=Отслеживание пакетов
+
+#FerrisAIO.Exploits.MapHack
+ferrisaio.exploits.maphack.enabled=Включено
+ferrisaio.exploits.maphack.glow=Использовать свечение
+ferrisaio.exploits.maphack.____s_1=Иногда вражеские чемпионы будут отображаться в тумане войны
+ferrisaio.exploits.maphack.____s_2=Это полуслучайно, когда это сработает, но некоторые случаи могут вызвать это
+ferrisaio.exploits.maphack.____s_4=У вас есть обзор в пределах 1000 единиц, когда они произносят заклинание в FOW
+ferrisaio.exploits.maphack.____s_5=Глобальная анимация воспроизводится, отправляя вам список ближайших чемпионов и их позиции
+ferrisaio.exploits.maphack.____s_6=Заклинания, которые генерируют объект в FOW, например снежок Нуну
+
+#FerrisAIO.Exploits.PacketTracker
+ferrisaio.exploits.packettracker.____s_1=Это все еще в стадии разработки, ожидайте ошибок
+ferrisaio.exploits.packettracker.____s_3=Это также требует обновления моей родной dll для лиги
+ferrisaio.exploits.packettracker.____s_4=поэтому, если я не обновлю сборку этой версии лиги, это не будет работать!
+ferrisaio.exploits.packettracker.____s_5=> Обновлено для 12.1.416.4011
+ferrisaio.exploits.packettracker.information=Информация
+ferrisaio.exploits.packettracker.pingsettings=Пинг (на стороне клиента)
+ferrisaio.exploits.packettracker.packetdata12.1=Информация о пакете
+ferrisaio.exploits.packettracker.devstuff=Вещи для разработчиков
+
+#FerrisAIO.Exploits.PacketTracker.Информация
+ferrisaio.exploits.packettracker.information.____s_1=Эта уязвимость иногда может показывать
+ferrisaio.exploits.packettracker.information.____s_2=когда монстры атакованы в FOW
+ferrisaio.exploits.packettracker.information.____s_3=При обнаружении будет показан пинг на стороне клиента
+ferrisaio.exploits.packettracker.information.____s_4=на локации монстров
+
+#FerrisAIO.Exploits.PacketTracker.PingSettings
+ferrisaio.exploits.packettracker.pingsettings.pingattacked=На лагерь напали
+ferrisaio.exploits.packettracker.pingsettings.pingattacking=При атаке лагеря
+ferrisaio.exploits.packettracker.pingsettings.pingdisengaging=При выходе из лагеря
+ferrisaio.exploits.packettracker.pingsettings.pingsoundall=Воспроизведение звуков
+ferrisaio.exploits.packettracker.pingsettings.pingsoundfirst=Воспроизведение звука только при первом пинге
+ferrisaio.exploits.packettracker.pingsettings.pingdelay=Задержка пинга в секундах
+
+#FerrisAIO.Exploits.PacketTracker.packetdata12.1
+ferrisaio.exploits.packettracker.packetdata12.1.____s_1=Эти значения появятся автоматически
+ferrisaio.exploits.packettracker.packetdata12.1.____s_2=как они были найдены во время этого патча
+ferrisaio.exploits.packettracker.packetdata12.1.headeronattack2=Заголовок при атаке
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmissilehit2=Заголовок OnMissileHit
+ferrisaio.exploits.packettracker.packetdata12.1.headerondisengaged=Заголовок отключен
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmonsterskill=Заголовок OnMonsterSkill
+ferrisaio.exploits.packettracker.packetdata12.1.____s_5=Заголовки из патча 12.1
+ferrisaio.exploits.packettracker.packetdata12.1.forcefindheaders=Попытаться автоматически пересчитать заголовки!
+
+#FerrisAIO.Exploits.PacketTracker.DevStuff
+ferrisaio.exploits.packettracker.devstuff.blacklistincomming=Черный список входящих пакетов
+ferrisaio.exploits.packettracker.devstuff.clearblacklist=Очистить черный список
+ferrisaio.exploits.packettracker.devstuff.printblacklist=Печать черного списка
+ferrisaio.exploits.packettracker.devstuff.drawnetworkid=Нарисовать идентификатор сети моба
+ferrisaio.exploits.packettracker.devstuff.packetdebug=Отладка пакетов
+ferrisaio.exploits.packettracker.devstuff.onlyfow=Только отладка FOW
+ferrisaio.exploits.packettracker.devstuff.debugmode=Режим отладки
+
+#FerrisAIO.Утилиты
+ferrisaio.utilities.preventafk=Предотвратить AFK Kick
+ferrisaio.utilities.autoquit=Автоматический выход
+ferrisaio.utilities.goldtracker=Отслеживание золота
+ferrisaio.utilities.namechanger=Изменитель имени
+ferrisaio.utilities.emotespammer=Спамер эмоций
+ferrisaio.utilities.chatspam=Спамер в чате
+ferrisaio.utilities.sharedexperience=Общий опыт (время отключено)
+ferrisaio.utilities.mmrtracker=Проверка MMR
+ferrisaio.utilities.aatilt=Наклон AA
+ferrisaio.utilities.spellalterer_v2=Предупреждение о заклинаниях
+ferrisaio.utilities.antitilt=Анти-наклон
+
+#FerrisAIO.Утилиты.Автовыход
+ferrisaio.utilities.autoquit.enable=Автоматический выход после окончания игры
+ferrisaio.utilities.autoquit.delay=Подождите x секунд
+
+#FerrisAIO.Утилиты.GoldTracker
+ferrisaio.utilities.goldtracker.enable=Включить отслеживание золота
+ferrisaio.utilities.goldtracker.drawteamgold=Розыгрыш командного золота
+ferrisaio.utilities.goldtracker.drawplayergold=Выбрать золото чемпиона
+ferrisaio.utilities.goldtracker.textcolor=Цвет текста
+ferrisaio.utilities.goldtracker.____s_1=---[EQ] Еще не закончено [EQ]---
+ferrisaio.utilities.goldtracker.trackstats=Отслеживать значение статистики, а не заработанное золото
+ferrisaio.utilities.goldtracker.stattextcolor=Цвет текста статистики
+
+#FerrisAIO.Utilities.NameChanger
+ferrisaio.utilities.namechanger.enablechanger=Включить
+ferrisaio.utilities.namechanger.copy=Установить имя из буфера обмена
+ferrisaio.utilities.namechanger.____nc_0001=FerrisAIO
+ferrisaio.utilities.namechanger.nametype=Тип отображения
+
+#FerrisAIO.Утилиты.EmoteSpammer
+ferrisaio.utilities.emotespammer.kill=Включить при убийствах
+ferrisaio.utilities.emotespammer.selectitem=Слот для эмоций
+
+#FerrisAIO.Утилиты.ЧатСпам
+ferrisaio.utilities.chatspam.enabled=Включено
+ferrisaio.utilities.chatspam.binds=Привязки клавиш
+ferrisaio.utilities.chatspam.method=Методы
+ferrisaio.utilities.chatspam.clipboard=Настройки буфера обмена
+ferrisaio.utilities.chatspam.delay=Задержка в миллисекундах
+ferrisaio.utilities.chatspam.debug=Тестовый режим (печатает только в ваш чат, а не на сервер)
+
+#FerrisAIO.Utilities.ChatSpam.enabled
+ferrisaio.utilities.chatspam.enabled.kill=Включить при убийствах
+ferrisaio.utilities.chatspam.enabled.gameend=Включить в конце игры
+ferrisaio.utilities.chatspam.enabled.ondeath=Включить при смерти
+ferrisaio.utilities.chatspam.enabled.all=Весь чат
+ferrisaio.utilities.chatspam.enabled.deathcheck=Только при убийствах > смертей
+ferrisaio.utilities.chatspam.enabled.disablewhiledead=Отключить при смерти
+ferrisaio.utilities.chatspam.enabled.spammed=Показать количество спама
+
+#FerrisAIO.Utilities.ChatSpam.binds
+ferrisaio.utilities.chatspam.binds.bind=Ключ спама (удерживать)
+ferrisaio.utilities.chatspam.binds.bind2=Ключ спама (переключатель)
+
+#FerrisAIO.Утилиты.ЧатСпам.метод
+ferrisaio.utilities.chatspam.method.modehold=Режим защиты от спама
+ferrisaio.utilities.chatspam.method.slothold=Слот буфера обмена для удержания
+ferrisaio.utilities.chatspam.method.modepress=Переключить режим спама
+ferrisaio.utilities.chatspam.method.slotpress=Слот буфера обмена для переключения
+ferrisaio.utilities.chatspam.method.modekill=В режиме убийства
+ferrisaio.utilities.chatspam.method.slotkill=Слот буфера обмена для OnKill
+ferrisaio.utilities.chatspam.method.modegameend=В режиме окончания игры
+ferrisaio.utilities.chatspam.method.slotgameend=Слот буфера обмена для конца игры
+ferrisaio.utilities.chatspam.method.modedeath=В игре после смерти
+ferrisaio.utilities.chatspam.method.slotdeath=Слот буфера обмена при смерти
+
+#FerrisAIO.Утилиты.Спам в чате.Буфер обмена
+ferrisaio.utilities.chatspam.clipboard.copy=Копировать в выбранный слот из буфера обмена
+ferrisaio.utilities.chatspam.clipboard.copyslot=Слот для копирования текста
+ferrisaio.utilities.chatspam.clipboard.____cb_0001=1: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0002=2: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0003=3: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0004=4: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0005=5: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0006=6: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0007=7: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0008=8: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0009=9: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0010=10: 
+
+#FerrisAIO.Utilities.SharedExperience
+ferrisaio.utilities.sharedexperience.enabled_=Включено
+ferrisaio.utilities.sharedexperience.showenemies=Нарисовать текст на враге
+ferrisaio.utilities.sharedexperience.onlyshowinv=Текст рисовать только тогда, когда он не виден
+ferrisaio.utilities.sharedexperience.drawpredictioncircle=Нарисовать круг предсказания
+ferrisaio.utilities.sharedexperience.invcolor=Цвет, когда не отображается
+
+#FerrisAIO.Утилиты.MMRTracker
+ferrisaio.utilities.mmrtracker.enable=Включить отслеживание MMR
+ferrisaio.utilities.mmrtracker.draw2=Ничья ниже чемпиона
+ferrisaio.utilities.mmrtracker.type=Тип MMR
+ferrisaio.utilities.mmrtracker.region=Регион
+ferrisaio.utilities.mmrtracker.showhighest=Показать самый высокий ранг
+ferrisaio.utilities.mmrtracker.____s_1=^ Требуется перезагрузка скрипта
+ferrisaio.utilities.mmrtracker.enemymmr=MMR вражеской команды
+ferrisaio.utilities.mmrtracker.____s_3=Средний MMR союзника: 1493
+ferrisaio.utilities.mmrtracker.____s_4=Средний MMR врага: 1493
+ferrisaio.utilities.mmrtracker.____s_5=Общее среднее значение MMR: 2987
+
+#FerrisAIO.Утилиты.MMRTracker.EnemyMMr
+ferrisaio.utilities.mmrtracker.enemymmr.____s_1=EggMoneyJR: Неизвестно
+
+#FerrisAIO.Утилиты.AATilt
+ferrisaio.utilities.aatilt.____s_1=Воспроизводится только звук смеха, а не анимация для троллинга врагов!
+ferrisaio.utilities.aatilt.laughtype=Тип эмоции
+ferrisaio.utilities.aatilt.aalaugh=Посмеяться над чемпионами АА
+ferrisaio.utilities.aatilt.aamastery=Мастерство на чемпионах АА
+ferrisaio.utilities.aatilt.aalaughm=Смеяться над миньонами АА
+ferrisaio.utilities.aatilt.aamasterym=Мастерство на миньонах AA
+ferrisaio.utilities.aatilt.aalaughb=Смеяться над зданиями АА
+ferrisaio.utilities.aatilt.aamasteryb=Мастерство в зданиях ПВО
+
+#FerrisAIO.Утилиты.SpellAlterer_v2
+ferrisaio.utilities.spellalterer_v2.alertultimate=Ультимейты оповещения
+ferrisaio.utilities.spellalterer_v2.alertsummoner=Оповещать о заклинаниях призывателя
+ferrisaio.utilities.spellalterer_v2.seen=Предупреждать, только если противник использовал это заклинание
+ferrisaio.utilities.spellalterer_v2.urf=Отключить в URF
+ferrisaio.utilities.spellalterer_v2.usechat=Заклинание "Отправить время" недоступно до тех пор, пока в чате
+ferrisaio.utilities.spellalterer_v2.pingspell=Пинг заклинания при использовании
+ferrisaio.utilities.spellalterer_v2.adddelay=Добавить гуманизированную задержку
+ferrisaio.utilities.spellalterer_v2.trollmode=Режим тролля [Весь чат]
+ferrisaio.utilities.spellalterer_v2.debugmode=Режим отладки [только локальный чат]
+
+#FerrisAIO.Утилиты.Антинаклон
+ferrisaio.utilities.antitilt.automutechat=Автоматический вражеский чат/эмоции
+ferrisaio.utilities.antitilt.automutepings=Автоматическое отключение сигналов союзников
+ferrisaio.utilities.antitilt.automuteally=Автоматическое отключение звука в чате/эмоциях союзников
+ferrisaio.utilities.antitilt.preventbanwords=Предотвратить запрещенные слова
+
+#FerrisAIO.DebugMenu
+ferrisaio.debugmenu.debug=включить логи отладки
+ferrisaio.debugmenu.actionoptions=Действия
+ferrisaio.debugmenu.profileroption=Профайлер
+
+#FerrisAIO.DebugMenu.ActionOptions
+ferrisaio.debugmenu.actionoptions.skilldebug=Отладка навыков
+ferrisaio.debugmenu.actionoptions.selfdebug=Самостоятельная отладка навыков
+ferrisaio.debugmenu.actionoptions.miscdebug=Распечатать все игровые объекты
+ferrisaio.debugmenu.actionoptions.statdebug=Отладка статистики
+ferrisaio.debugmenu.actionoptions.langdebug=Создать объекты Ланга
+
+#FerrisAIO.DebugMenu.ProfilerOption
+ferrisaio.debugmenu.profileroption.enablewatchdog=Печать контрольного времени
+ferrisaio.debugmenu.profileroption.allowdebug=^ Разрешить отладку
+ferrisaio.debugmenu.profileroption.writetoconsole=^ Также писать в консоли
+ferrisaio.debugmenu.profileroption.writetofile=^ Также записать в файл
+
+#FerrisAIO.CoreSettings
+ferrisaio.coresettings.ferrisaio.coresettings=Ядро FerrisAIO
+ferrisaio.coresettings.events=События
+ferrisaio.coresettings.language=Язык
+ferrisaio.coresettings.fnative=FNative
+ferrisaio.coresettings.foptimizations=Fоптимизации
+ferrisaio.coresettings.autoloadscripts=Автоматически загружать скрипты
+
+#FerrisAIO.CoreSettings.Events
+ferrisaio.coresettings.events.usepriority=Использовать шину приоритетных событий
+
+#FerrisAIO.CoreSettings.Language
+ferrisaio.coresettings.language.language_=Язык
+ferrisaio.coresettings.language.dumpmissingkeys=Дамп отсутствующих языковых ключей
+
+#FerrisAIO.CoreSettings.FNative
+ferrisaio.coresettings.fnative.packethandler=Использовать обработчик пакетов FNative
+ferrisaio.coresettings.fnative.poffsets=Попытаться автоматически найти смещения пакетов
+ferrisaio.coresettings.fnative.ace=Попытка обойти античит
+ferrisaio.coresettings.fnative.aipred=Используйте CPP, а не C# для предсказания ИИ
+ferrisaio.coresettings.fnative.spp=Включить обновление позиции исходного пакета напрямую
+ferrisaio.coresettings.fnative.afk=Использовать FNative AntiAFK
+ferrisaio.coresettings.fnative.proxy=Попытка проксировать исходящий пакетный поток лиг
+
+#FerrisAIO.CoreSettings.FОптимизация
+ferrisaio.coresettings.foptimizations.eventbus=Автобус событий
+ferrisaio.coresettings.foptimizations.drawings=Рисунки
+ferrisaio.coresettings.foptimizations.ilchanges=ILChanges
+
+#FerrisAIO.CoreSettings.FOptimizations.EventBus
+ferrisaio.coresettings.foptimizations.eventbus.usepriority=Использовать шину приоритетных событий
+
+#FerrisAIO.CoreSettings.FOptimizations.Drawings
+ferrisaio.coresettings.foptimizations.drawings.circlev2=Используйте более быстрые круги
+ferrisaio.coresettings.foptimizations.drawings.ooschecks=Использовать интеллектуальные внеэкранные проверки
+ferrisaio.coresettings.foptimizations.drawings.nonative=Избегайте вызовов отрисовки FNative транспортного уровня
+ferrisaio.coresettings.foptimizations.drawings.textrender=Замените EnsoulSharp.SDK.TextRender на FerrisAIO.Rendering.TextRender
+
+#FerrisAIO.CoreSettings.FOptimizations.ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.enableedits=Включить ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.fixdrawoffscreen=Исправить рисунки миникарты
+ferrisaio.coresettings.foptimizations.ilchanges.irender=Улучшить время рендеринга
+ferrisaio.coresettings.foptimizations.ilchanges.trove=Список обмена для списков сокровищ
+

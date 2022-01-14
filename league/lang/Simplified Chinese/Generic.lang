@@ -1,0 +1,902 @@
+#FerrisAIO
+ferrisaio.ferrisaio=FerrisAIO
+ferrisaio.championmenu.teemo=提莫脚本
+ferrisaio.orbwalker=摩天轮
+ferrisaio.evade=FEvade
+ferrisaio.loadevadescript=加载规避脚本
+ferrisaio.activator=激活器
+ferrisaio.awareness=意识
+ferrisaio.fpred=摩天预测
+ferrisaio.baseult=BaseUlt
+ferrisaio.autolevel=提莫自动等级
+ferrisaio.skinchanger=换肤器
+ferrisaio.exploits=利用
+ferrisaio.utilities=实用程序
+ferrisaio.debugmenu=调试
+
+#FerrisAIO.Orbwalker
+ferrisaio.orbwalker.enabled_=启用
+ferrisaio.orbwalker.attackable=可攻击单位
+ferrisaio.orbwalker.prioritize=优先级
+ferrisaio.orbwalker.orbwalker=Orbwalker
+ferrisaio.orbwalker.farm=农场
+ferrisaio.orbwalker.advanced=高级
+ferrisaio.orbwalker.drawing=绘图
+ferrisaio.orbwalker.shove=推（切换）
+ferrisaio.orbwalker.freeze=冻结（切换）
+ferrisaio.orbwalker.combo=组合
+ferrisaio.orbwalker.combowithmove=无移动组合
+ferrisaio.orbwalker.harass=骚扰
+ferrisaio.orbwalker.laneclear=车道清除
+ferrisaio.orbwalker.lasthit=LastHit
+ferrisaio.orbwalker.flee=逃跑
+ferrisaio.orbwalker.reducedamage=减少对空伤害 %
+
+#FerrisAIO.Orbwalker.Attackable
+ferrisaio.orbwalker.attackable.barrels=桶
+ferrisaio.orbwalker.attackable.jungleplant=丛林植物
+ferrisaio.orbwalker.attackable.specialminions=宠物
+ferrisaio.orbwalker.attackable.wards=守卫
+
+#FerrisAIO.Orbwalker.Prioritize
+ferrisaio.orbwalker.prioritize.farmoverharass=农场骚扰
+ferrisaio.orbwalker.prioritize.specialminion=特殊奴才
+ferrisaio.orbwalker.prioritize.smalljungle=小丛林
+ferrisaio.orbwalker.prioritize.turret=炮塔
+
+#FerrisAIO.Orbwalker.Orbwalker
+ferrisaio.orbwalker.orbwalker.extrahold=额外保持位置
+ferrisaio.orbwalker.orbwalker.moverandom=距离太近时随机移动
+ferrisaio.orbwalker.orbwalker.windupdelay=上链延迟
+ferrisaio.orbwalker.orbwalker.limitattack=如果攻击速度 > 2.5 则不要放风筝
+
+#FerrisAIO.Orbwalker.Farm
+ferrisaio.orbwalker.farm.farmdelay=农场延迟
+ferrisaio.orbwalker.farm.turretfarm=炮塔农场逻辑
+ferrisaio.orbwalker.farm.turretfarmmethod=炮塔农场方法
+ferrisaio.orbwalker.farm.turretframmaxlevel=当玩家等级 >[EQ] x 时禁用炮塔农场
+ferrisaio.orbwalker.farm.freezehealth=冻结小兵最大生命值
+ferrisaio.orbwalker.farm.laneclearmethod=LaneClear 农场方法
+ferrisaio.orbwalker.farm.cannonfocus=优先使用大炮
+ferrisaio.orbwalker.farm.freezeharass=冻结时允许骚扰
+
+#FerrisAIO.Orbwalker.Advanced
+ferrisaio.orbwalker.advanced.yasuowallcheck=检查亚索风墙
+ferrisaio.orbwalker.advanced.missilecheck=使用导弹检查
+ferrisaio.orbwalker.advanced.calcitemdamage=计算物品伤害
+ferrisaio.orbwalker.advanced.supportmode_teemo=支持模式
+ferrisaio.orbwalker.advanced.detectaaaresets=检测 AA 重置技能
+ferrisaio.orbwalker.advanced.allowkalistadoublejump=使用卡莉斯塔二段跳
+ferrisaio.orbwalker.advanced.beforecanattack_=攻击早期米利斯
+ferrisaio.orbwalker.advanced.beforecanmoveallowscriptcontrol=允许脚本控制提前移动
+ferrisaio.orbwalker.advanced.beforecanmove=手动提前移动 Millis
+ferrisaio.orbwalker.advanced.limitmovementpackets=防止移动PacketSpam
+ferrisaio.orbwalker.advanced.limitattackpackets=防止攻击 PacketSpam
+
+#FerrisAIO.Orbwalker.Drawing
+ferrisaio.orbwalker.drawing.drawattackrange=绘制攻击范围
+ferrisaio.orbwalker.drawing.drawholdposition=绘制保持位置
+ferrisaio.orbwalker.drawing.drawkillableminion=绘制可杀死的小兵
+ferrisaio.orbwalker.drawing.showfakeclick=显示假点击
+ferrisaio.orbwalker.drawing.fakeclickdelay=点击之间的延迟，单位为 Millis
+ferrisaio.orbwalker.drawing.glowminions=最后一击
+ferrisaio.orbwalker.drawing.minionsglow=发光持久的奴才颜色
+ferrisaio.orbwalker.drawing.minionsdraw=绘制最后一次标记
+ferrisaio.orbwalker.drawing.minionsanimate=动画lasthit标记
+ferrisaio.orbwalker.drawing.minionsanimatecolor=循环使用lasthit标记颜色
+
+#FerrisAIO.Evade
+ferrisaio.evade.main=主要
+ferrisaio.evade.keysettings=按键设置
+ferrisaio.evade.miscsettings=其他设置
+ferrisaio.evade.spells=法术
+ferrisaio.evade.traps=陷阱
+ferrisaio.evade.evadespells=规避法术
+ferrisaio.evade.draw=画
+ferrisaio.evade.autosetpingmenu=AutoSetPing
+
+#FerrisAIO.Evade.Main
+ferrisaio.evade.main.dodgeskillshots=躲避技能射击
+ferrisaio.evade.main.activateevadespells=使用闪避法术
+ferrisaio.evade.main.dodgedangerous=只躲避危险
+ferrisaio.evade.main.dodgefowspells=躲避FOW技能射击
+ferrisaio.evade.main.dodgecircularspells=躲避循环技能射击
+ferrisaio.evade.main.dodgecircularspells_v2=Evadeee 循环逻辑 [BETA]
+
+#FerrisAIO.Evade.KeySettings
+ferrisaio.evade.keysettings.dodgedangerouskeyenabled=启用仅闪避危险键
+ferrisaio.evade.keysettings.dodgedangerouskey=只躲避危险钥匙
+ferrisaio.evade.keysettings.dodgedangerouskey2=只躲避危险钥匙2
+ferrisaio.evade.keysettings.dodgeonlyoncombokeyenabled=仅在组合键上启用闪避
+ferrisaio.evade.keysettings.dodgecombokey=仅闪避组合键
+ferrisaio.evade.keysettings.dontdodgekeyenabled=启用不闪避键
+ferrisaio.evade.keysettings.dontdodgekey=不要躲避钥匙
+
+#FerrisAIO.Evade.MiscSettings
+ferrisaio.evade.miscsettings.evademode=逃避个人资料
+ferrisaio.evade.miscsettings.blockdangerdash=格挡危险冲刺法术
+ferrisaio.evade.miscsettings.higherprecision=增强的闪避精度
+ferrisaio.evade.miscsettings.recalculateposition=重新计算路径
+ferrisaio.evade.miscsettings.continuemovement=继续上次移动
+ferrisaio.evade.miscsettings.calculatewindupdelay=计算结束延迟
+ferrisaio.evade.miscsettings.checkspellcollision=检查拼写冲突
+ferrisaio.evade.miscsettings.preventdodgingundertower=防止躲在塔下
+ferrisaio.evade.miscsettings.preventdodgingnearenemy=防止躲避靠近敌人
+ferrisaio.evade.miscsettings.advancedspelldetection=高级拼写检测
+ferrisaio.evade.miscsettings.clickremove=允许左键删除 ^ 左键删除陷阱和全局
+ferrisaio.evade.miscsettings.resetconfig=重置规避配置
+ferrisaio.evade.miscsettings.limiter=人性化
+ferrisaio.evade.miscsettings.fastevade=快速闪避
+ferrisaio.evade.miscsettings.extrabuffers=额外缓冲区
+ferrisaio.evade.miscsettings.loadtests=测试
+
+#FerrisAIO.Evade.MiscSettings.Limiter
+ferrisaio.evade.miscsettings.limiter.clickonlyonce=只点击一次
+ferrisaio.evade.miscsettings.limiter.enableevadedistance=扩展规避
+ferrisaio.evade.miscsettings.limiter.ticklimiter=刻度限制器
+ferrisaio.evade.miscsettings.limiter.spelldetectiontime=法术检测时间
+ferrisaio.evade.miscsettings.limiter.reactiontime=反应时间
+ferrisaio.evade.miscsettings.limiter.dodgeinterval=闪避间隔
+
+#FerrisAIO.Evade.MiscSettings.FastEvade
+ferrisaio.evade.miscsettings.fastevade.fastmovementblock=快速移动方块
+ferrisaio.evade.miscsettings.fastevade.fastevadeactivationtime=FastEvade 激活时间
+ferrisaio.evade.miscsettings.fastevade.spellactivationtime=法术激活时间
+ferrisaio.evade.miscsettings.fastevade.rejectmindistance=碰撞距离缓冲
+
+#FerrisAIO.Evade.MiscSettings.ExtraBuffers
+ferrisaio.evade.miscsettings.extrabuffers.extrapingbuffer=额外的 Ping 缓冲区
+ferrisaio.evade.miscsettings.extrabuffers.extracpadistance=额外碰撞距离
+ferrisaio.evade.miscsettings.extrabuffers.extraspellradius=额外法术半径
+ferrisaio.evade.miscsettings.extrabuffers.extraevadedistance=额外规避距离
+ferrisaio.evade.miscsettings.extrabuffers.extraavoiddistance=额外避免距离
+ferrisaio.evade.miscsettings.extrabuffers.mincomfortzone=到冠军的最短距离
+
+#FerrisAIO.Evade.MiscSettings.LoadTests
+ferrisaio.evade.miscsettings.loadtests.loadspelltester=加载拼写测试器
+
+#FerrisAIO.Evade.EvadeSpells
+ferrisaio.evade.evadespells.flashevadespellsettings=闪光
+
+#FerrisAIO.Evade.EvadeSpells.FlashEvadeSpellSettings
+ferrisaio.evade.evadespells.flashevadespellsettings.flashuseevadespell=使用法术
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespelldangerlevel=危险等级
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespellmode=法术模式
+
+#FerrisAIO.Evade.Draw
+ferrisaio.evade.draw.drawskillshots=绘制技能射击
+ferrisaio.evade.draw.showstatus=显示回避状态
+ferrisaio.evade.draw.drawspellpos=绘制法术位置
+ferrisaio.evade.draw.drawevadeposition=绘制回避位置
+ferrisaio.evade.draw.dangerleveldrawings=危险等级图纸
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing=低
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing=正常
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing=高
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing=极端
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing=可躲避
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.LowDrawing
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowwidth=线宽
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowcolor=颜色
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowenable=启用
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.NormalDrawing
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalwidth=线宽
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalcolor=颜色
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalenable=启用
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.HighDrawing
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highwidth=线宽
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highcolor=颜色
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highenable=启用
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.ExtremeDrawing
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremewidth=线宽
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremecolor=颜色
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremeenable=启用
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.UndodgeableDrawing
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablewidth=线宽
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablecolor=颜色
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeableenable=启用
+
+#FerrisAIO.Evade.AutoSetPingMenu
+ferrisaio.evade.autosetpingmenu.autosetpingon=自动设置 Ping
+ferrisaio.evade.autosetpingmenu.autosetpercentile=自动设置百分位数
+ferrisaio.evade.autosetpingmenu.testskillshotdelay=TestSkillshotDelay
+
+#FerrisAIO.Activator
+ferrisaio.activator.autopotions=自动药水
+ferrisaio.activator.defensive=防御
+ferrisaio.activator.offensive=攻击性
+ferrisaio.activator.autozhonya=自动中亚
+ferrisaio.activator.autocleanse=自动清洁
+ferrisaio.activator.summonerspell=召唤师法术
+ferrisaio.activator.turnaround=自动转向
+ferrisaio.activator.autolantern=自动灯
+
+#FerrisAIO.Activator.AutoPotions
+ferrisaio.activator.autopotions.enabled=启用
+ferrisaio.activator.autopotions.healthpercent=^ 玩家健康百分比 <[EQ] x%
+
+#FerrisAIO.Activator.Defensive
+ferrisaio.activator.defensive.locketoftheironsolari=钢铁烈日之盒
+ferrisaio.activator.defensive.randuinomen=兰度因的预兆
+ferrisaio.activator.defensive.redemption=赎回
+ferrisaio.activator.defensive.gargoylestoneplate=石像鬼石板
+
+#FerrisAIO.Activator.Defensive.LocketOfTheIronSolari
+ferrisaio.activator.defensive.locketoftheironsolari.enabled=启用
+ferrisaio.activator.defensive.locketoftheironsolari.onlycombo=只有组合有效
+ferrisaio.activator.defensive.locketoftheironsolari.healthpercent=当玩家生命百分比 <[EQ] x%
+ferrisaio.activator.defensive.locketoftheironsolari.damagetime=伤害计算时间（毫秒）
+
+#FerrisAIO.Activator.Defensive.RanduinOmen
+ferrisaio.activator.defensive.randuinomen.enabled=启用
+ferrisaio.activator.defensive.randuinomen.onlycombo=只有组合有效
+ferrisaio.activator.defensive.randuinomen.minhit=最小命中数 >[EQ] x
+ferrisaio.activator.defensive.randuinomen.healthpercent=当玩家健康百分比 <[EQ] x%
+
+#FerrisAIO.Activator.Defensive.Redemption
+ferrisaio.activator.defensive.redemption.enabled=启用
+ferrisaio.activator.defensive.redemption.onlycombo=只有组合有效
+ferrisaio.activator.defensive.redemption.healthpercent=当玩家健康百分比 <[EQ] x%
+ferrisaio.activator.defensive.redemption.calculatedamage=计算受到的伤害
+ferrisaio.activator.defensive.redemption.damagepercent=受到的伤害百分比 >[EQ] x%
+ferrisaio.activator.defensive.redemption.damagetime=来袭伤害计算时间（毫秒）
+
+#FerrisAIO.Activator.Defensive.GargoyleStoneplate
+ferrisaio.activator.defensive.gargoylestoneplate.enabled=启用
+ferrisaio.activator.defensive.gargoylestoneplate.onlycombo=只有组合激活
+ferrisaio.activator.defensive.gargoylestoneplate.healthpercent=当玩家生命百分比 <[EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.calculatedamage=计算受到的伤害
+ferrisaio.activator.defensive.gargoylestoneplate.damagepercent=受到的伤害百分比 >[EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.damagetime=来袭伤害计算时间（毫秒）
+
+#FerrisAIO.Activator.Offensive
+ferrisaio.activator.offensive.prowlersclaw=徘徊者之爪
+ferrisaio.activator.offensive.everfrost=永霜
+ferrisaio.activator.offensive.galeforce=Galeforce
+ferrisaio.activator.offensive.hextechprotobelt01=Hextech Protobelt-01
+ferrisaio.activator.offensive.stridebreaker=步幅破坏者
+ferrisaio.activator.offensive.ironspikewhip=铁刺鞭
+ferrisaio.activator.offensive.goredrinker=嗜血者
+ferrisaio.activator.offensive.youmuughostblade=幽梦的幽魂之刃
+
+#FerrisAIO.Activator.Offensive.ProwlersClaw
+ferrisaio.activator.offensive.prowlersclaw.enabled=启用
+ferrisaio.activator.offensive.prowlersclaw.onlycombo=只有组合有效
+ferrisaio.activator.offensive.prowlersclaw.dontprowlersundertower=不要在塔下使用
+ferrisaio.activator.offensive.prowlersclaw.enemyhealthpercent=当目标生命百分比 <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.Everfrost
+ferrisaio.activator.offensive.everfrost.enabled=启用
+ferrisaio.activator.offensive.everfrost.onlycombo=只有组合激活
+ferrisaio.activator.offensive.everfrost.enemyhealthpercent=当目标生命百分比 <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.Galeforce
+ferrisaio.activator.offensive.galeforce.enabled=启用
+ferrisaio.activator.offensive.galeforce.onlycombo=只有组合激活
+ferrisaio.activator.offensive.galeforce.enemyhealthpercent=当目标生命百分比 <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.HextechProtobelt01
+ferrisaio.activator.offensive.hextechprotobelt01.enabled=启用
+ferrisaio.activator.offensive.hextechprotobelt01.onlycombo=只有组合激活
+ferrisaio.activator.offensive.hextechprotobelt01.enemyhealthpercent=当目标生命百分比 <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.Stridebreaker
+ferrisaio.activator.offensive.stridebreaker.enabled=启用
+ferrisaio.activator.offensive.stridebreaker.combo=组合使用
+ferrisaio.activator.offensive.stridebreaker.jungle=在 JungleClear 上使用
+
+#FerrisAIO.Activator.Offensive.IronspikeWhip
+ferrisaio.activator.offensive.ironspikewhip.enabled=启用
+ferrisaio.activator.offensive.ironspikewhip.combo=组合使用
+ferrisaio.activator.offensive.ironspikewhip.jungle=在 JungleClear 上使用
+ferrisaio.activator.offensive.ironspikewhip.isurf2=在URF上使用更多
+
+#FerrisAIO.Activator.Offensive.Goredrinker
+ferrisaio.activator.offensive.goredrinker.enabled=启用
+ferrisaio.activator.offensive.goredrinker.combo=组合使用
+ferrisaio.activator.offensive.goredrinker.jungle=在 JungleClear 上使用
+ferrisaio.activator.offensive.goredrinker.isurf2=在URF上更积极地使用
+
+#FerrisAIO.Activator.Offensive.YoumuuGhostblade
+ferrisaio.activator.offensive.youmuughostblade.enabled=启用
+ferrisaio.activator.offensive.youmuughostblade.onlycombo=只有组合有效
+
+#FerrisAIO.Activator.AutoZhonya
+ferrisaio.activator.autozhonya.spellblock=法术阻挡
+ferrisaio.activator.autozhonya.enabled=启用
+ferrisaio.activator.autozhonya.lowhealth=在低血量时使用
+ferrisaio.activator.autozhonya.healthpercent=^ 玩家健康百分比 <[EQ] x%
+
+#FerrisAIO.Activator.AutoCleanse
+ferrisaio.activator.autocleanse._______sep1=是的，这也用于 QSS！
+ferrisaio.activator.autocleanse._______sep2=由于性能不佳，默认禁用
+ferrisaio.activator.autocleanse.bufftype=增益类型
+ferrisaio.activator.autocleanse.bufftarget=增益目标
+ferrisaio.activator.autocleanse.enabled_=已启用_
+ferrisaio.activator.autocleanse.miniduration=最小增益持续时间（毫秒）
+ferrisaio.activator.autocleanse.onlycombo=只有组合激活
+ferrisaio.activator.autocleanse.onlylowhealth=只有低健康百分比
+ferrisaio.activator.autocleanse.healthpercent=^ Min HealthPercent <[EQ] x%
+ferrisaio.activator.autocleanse.allowally=允许压制盟友
+ferrisaio.activator.autocleanse.antiexaust=用尽时使用
+ferrisaio.activator.autocleanse.healthpercentexaust=^ HealthPercent >[EQ] x%
+ferrisaio.activator.autocleanse.antikill=当点燃/毒药/DOT会杀死并且附近没有敌人时使用
+
+#FerrisAIO.Activator.AutoCleanse.BuffType
+ferrisaio.activator.autocleanse.bufftype.cleanseblind=盲
+ferrisaio.activator.autocleanse.bufftype.cleansecharm=魅力
+ferrisaio.activator.autocleanse.bufftype.cleansedamage=伤害
+ferrisaio.activator.autocleanse.bufftype.cleansefear=恐惧
+ferrisaio.activator.autocleanse.bufftype.cleanseflee=逃跑
+ferrisaio.activator.autocleanse.bufftype.cleansepolymorph=多形体
+ferrisaio.activator.autocleanse.bufftype.cleansesilence=沉默
+ferrisaio.activator.autocleanse.bufftype.cleanseslow=慢
+ferrisaio.activator.autocleanse.bufftype.cleansesnare=圈套
+ferrisaio.activator.autocleanse.bufftype.cleansestun=眩晕
+ferrisaio.activator.autocleanse.bufftype.cleansesuppression=抑制
+ferrisaio.activator.autocleanse.bufftype.cleansetaunt=嘲讽
+ferrisaio.activator.autocleanse.bufftype.cleanseasleep=睡着了
+
+#FerrisAIO.Activator.AutoCleanse.BuffTarget
+ferrisaio.activator.autocleanse.bufftarget.cleanseon1073741853=提莫
+
+#FerrisAIO.Activator.SummonerSpell
+ferrisaio.activator.summonerspell.barrier=屏障
+ferrisaio.activator.summonerspell.exhaust=排气
+ferrisaio.activator.summonerspell.heal=治疗
+ferrisaio.activator.summonerspell.ignite=点燃
+ferrisaio.activator.summonerspell.smiteslot=惩击
+ferrisaio.activator.summonerspell.spellbookslot=终极法术书
+
+#FerrisAIO.Activator.SummonerSpell.barrier
+ferrisaio.activator.summonerspell.barrier.enabled=启用
+ferrisaio.activator.summonerspell.barrier.healthpercent=当玩家生命百分比 <[EQ] x%
+ferrisaio.activator.summonerspell.barrier.calculatedamage=计算受到的伤害
+ferrisaio.activator.summonerspell.barrier.damagepercent=受到伤害百分比 >[EQ] x%
+
+#FerrisAIO.Activator.SummonerSpell.Exhaust
+ferrisaio.activator.summonerspell.exhaust.enabled=启用
+ferrisaio.activator.summonerspell.exhaust.healthpercent=当玩家生命百分比 <[EQ] x%
+ferrisaio.activator.summonerspell.exhaust.onlycombo=只有组合有效
+ferrisaio.activator.summonerspell.exhaust.alwayscast=总是对目标施放
+ferrisaio.activator.summonerspell.exhaust.alwayscast2=启用单独施法逻辑
+
+#FerrisAIO.Activator.SummonerSpell.Heal
+ferrisaio.activator.summonerspell.heal.healtarget=治疗目标
+ferrisaio.activator.summonerspell.heal.enabled=启用
+ferrisaio.activator.summonerspell.heal.healthpercent=当盟友的生命百分比 <[EQ] x%
+ferrisaio.activator.summonerspell.heal.calculatedamage=计算受到的伤害
+ferrisaio.activator.summonerspell.heal.damagepercent=受到伤害百分比 >[EQ] x%
+ferrisaio.activator.summonerspell.heal.damagetime=来袭伤害计算时间（毫秒）
+
+#FerrisAIO.Activator.SummonerSpell.Heal.HealTarget
+ferrisaio.activator.summonerspell.heal.healtarget.heal_1073741853=提莫
+
+#FerrisAIO.Activator.SummonerSpell.Ignite
+ferrisaio.activator.summonerspell.ignite.enabled=启用
+ferrisaio.activator.summonerspell.ignite.killsteal=当目标可以被杀死时
+ferrisaio.activator.summonerspell.ignite.comboonly=仅在组合期间
+ferrisaio.activator.summonerspell.ignite.preventusewhenkillableaa=[KillSteal] 防止在目标可用 1 AA 杀死时浪费点燃
+ferrisaio.activator.summonerspell.ignite.______sep3=^ 仅适用于近战冠军
+ferrisaio.activator.summonerspell.ignite.killableaaflash=^ 仅当目标没有闪现时
+ferrisaio.activator.summonerspell.ignite.preventonaarangetarget=[KillSteal] 当敌人在 AA 范围内时不要使用 
+ferrisaio.activator.summonerspell.ignite.rangeaaflash=^ 仅当目标无法闪现出点燃范围时
+ferrisaio.activator.summonerspell.ignite.______sep2=^ 仅适用于近战冠军
+ferrisaio.activator.summonerspell.ignite.lowhealthandcombo=当目标 HealthPercent <[EQ] x% 时用于 Combo
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot
+ferrisaio.activator.summonerspell.smiteslot.smitetarget=惩击目标
+ferrisaio.activator.summonerspell.smiteslot.enabled=启用
+ferrisaio.activator.summonerspell.smiteslot.combo=组合使用
+ferrisaio.activator.summonerspell.smiteslot.combostack=^ 只有 2 叠
+ferrisaio.activator.summonerspell.smiteslot.killable=在 KillAble 上使用
+ferrisaio.activator.summonerspell.smiteslot.drawrange=绘制惩戒范围
+ferrisaio.activator.summonerspell.smiteslot.drawstate=绘制惩戒状态
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot.SmiteTarget
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_baron=纳什男爵
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_riftherald=峡谷先驱
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_elder=远古巨龙
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_chemtech=化学科技龙
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_hextech=海克斯科技龙
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_water=水龙
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_fire=火龙
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_earth=地龙
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_air=空气龙
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_blue=蓝色哨兵
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_red=红荆棘
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_razorbeak=猩红猛禽
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_murkwolf=大黑狼
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_krug=古克鲁格
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_gromp=Gromp
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_crab=裂隙潜舰
+
+#FerrisAIO.Activator.SummonerSpell.SpellbookSlot
+ferrisaio.activator.summonerspell.spellbookslot.enableultimatespellbook=启用
+ferrisaio.activator.summonerspell.spellbookslot.enablenolag=低延迟模式
+ferrisaio.activator.summonerspell.spellbookslot.sylasrspellnames=SpellNames
+
+#FerrisAIO.Activator.TurnAround
+ferrisaio.activator.turnaround.enabled=启用
+ferrisaio.activator.turnaround.cassiopeia=避开仙后座 R
+ferrisaio.activator.turnaround.tryndamerew=避免泰达米尔W
+
+#FerrisAIO.Activator.AutoLantern
+ferrisaio.activator.autolantern.autocatch=捕捉盟友灯笼
+ferrisaio.activator.autolantern.enabledcatch=启用
+ferrisaio.activator.autolantern.onlykey=只有键激活
+ferrisaio.activator.autolantern.catchkey=捕捉灯笼钥匙
+ferrisaio.activator.autolantern.catchhealth=当玩家 HealthPercent >[EQ] x%
+ferrisaio.activator.autolantern.autoward=对敌人灯笼施放守卫
+ferrisaio.activator.autolantern.enabledward=启用
+ferrisaio.activator.autolantern.wardkey=在灯笼钥匙上施放守卫
+ferrisaio.activator.autolantern.warddelay=施放守卫延迟
+
+#FerrisAIO.Awareness
+ferrisaio.awareness.attackrange=攻击范围
+ferrisaio.awareness.autoward=自动守卫
+ferrisaio.awareness.cooldowntrack=冷却轨道
+ferrisaio.awareness.experiencetrack=体验轨道
+ferrisaio.awareness.gankalert=Gank 警报
+ferrisaio.awareness.hudtrack=Hud 轨道
+ferrisaio.awareness.inhibitortime=抑制剂时间
+ferrisaio.awareness.jungletime=丛林时间
+ferrisaio.awareness.lastposition=最后位置
+ferrisaio.awareness.recalltrack=召回轨道
+ferrisaio.awareness.turrethealth=炮塔生命值
+ferrisaio.awareness.turretrange=炮塔攻击范围
+ferrisaio.awareness.wardtrack=病房追踪
+ferrisaio.awareness.waypoints=航点
+ferrisaio.awareness.fowtracker_v2=FOW男爵/追龙者
+
+#FerrisAIO.Awareness.AttackRange
+ferrisaio.awareness.attackrange.enabled=启用
+ferrisaio.awareness.attackrange.ally=吸引盟友
+ferrisaio.awareness.attackrange.allycolor=^ 盟友颜色
+ferrisaio.awareness.attackrange.enemy=绘制敌人
+ferrisaio.awareness.attackrange.enemycolor=^ 敌人颜色
+
+#FerrisAIO.Awareness.AutoWard
+ferrisaio.awareness.autoward.enabled=启用
+ferrisaio.awareness.autoward.onlycombo=只有组合有效
+ferrisaio.awareness.autoward.buyblue=自动购买蓝色饰品
+ferrisaio.awareness.autoward.bushward=自动灌木病房
+ferrisaio.awareness.autoward.bushpinkward=^ 使用粉色守卫
+ferrisaio.awareness.autoward.antisteal=反偷窃
+ferrisaio.awareness.autoward.maxmissingtime=如果失踪时间超过 x 秒，则不要守卫
+
+#FerrisAIO.Awareness.CooldownTrack
+ferrisaio.awareness.cooldowntrack.enabled=启用
+ferrisaio.awareness.cooldowntrack.ally=吸引盟友
+ferrisaio.awareness.cooldowntrack.enemy=绘制敌人
+ferrisaio.awareness.cooldowntrack.self=画自我
+
+#FerrisAIO.Awareness.ExperienceTrack
+ferrisaio.awareness.experiencetrack.enabled=启用
+ferrisaio.awareness.experiencetrack.ally=绘制盟友
+ferrisaio.awareness.experiencetrack.enemy=绘制敌人
+ferrisaio.awareness.experiencetrack.self=画自我
+
+#FerrisAIO.Awareness.GankAlert
+ferrisaio.awareness.gankalert.enabled=启用
+ferrisaio.awareness.gankalert.onlyjungle=只有丛林
+ferrisaio.awareness.gankalert.minrange=最小距离范围>[EQ] x
+ferrisaio.awareness.gankalert.maxrange=最大距离范围<[EQ] x
+
+#FerrisAIO.Awareness.HudTrack
+ferrisaio.awareness.hudtrack.horizo​​ntal=水平风格
+ferrisaio.awareness.hudtrack.vertical=垂直风格
+ferrisaio.awareness.hudtrack.style=绘制风格
+ferrisaio.awareness.hudtrack.enabled=启用
+
+#FerrisAIO.Awareness.HudTrack.Horizo​​ntal
+ferrisaio.awareness.hudtrack.horizo​​ntal.horizo​​ntalxoffsets=X 偏移量
+ferrisaio.awareness.hudtrack.horizo​​ntal.horizo​​ntalyoffsets=Y 偏移
+
+#FerrisAIO.Awareness.HudTrack.Vertical
+ferrisaio.awareness.hudtrack.vertical.verticalxoffsets=X 偏移
+ferrisaio.awareness.hudtrack.vertical.verticalyoffsets=Y 偏移
+ferrisaio.awareness.hudtrack.vertical.verticalpos=召唤师法术位置
+
+#FerrisAIO.Awareness.InhibitorTime
+ferrisaio.awareness.inhibitortime.enabled=启用
+ferrisaio.awareness.inhibitortime.minimap=在小地图上
+ferrisaio.awareness.inhibitortime.minimapdraw=在小地图上绘图
+ferrisaio.awareness.inhibitortime.minimapfontsize=字体大小
+ferrisaio.awareness.inhibitortime.map=在小地图上
+ferrisaio.awareness.inhibitortime.mapdraw=在地图上绘图
+ferrisaio.awareness.inhibitortime.mapfontsize=字体大小
+
+#FerrisAIO.Awareness.JungleTime
+ferrisaio.awareness.jungletime.enabled=启用
+ferrisaio.awareness.jungletime.minimap=在小地图上
+ferrisaio.awareness.jungletime.minimapdraw=在小地图上绘图
+ferrisaio.awareness.jungletime.minimapformat=时间格式： 
+ferrisaio.awareness.jungletime.minimapfontsize=字体大小
+ferrisaio.awareness.jungletime.map=在地图上
+ferrisaio.awareness.jungletime.mapdraw=在地图上绘图
+ferrisaio.awareness.jungletime.mapformat=时间格式： 
+ferrisaio.awareness.jungletime.mapfontsize=字体大小
+
+#FerrisAIO.Awareness.LastPosition
+ferrisaio.awareness.lastposition.enabled=启用
+ferrisaio.awareness.lastposition.sstime=绘制 SS 时间
+ferrisaio.awareness.lastposition.sscircle=画SS圆
+ferrisaio.awareness.lastposition.ssback__=绘制支持指标
+ferrisaio.awareness.lastposition.urf_drawcannonpositions=绘制 URF 大炮位置指示器
+
+#FerrisAIO.Awareness.RecallTrack
+ferrisaio.awareness.recalltrack.enabled=启用
+ferrisaio.awareness.recalltrack.xoffsets=X 偏移量
+ferrisaio.awareness.recalltrack.yoffsets=Y 偏移量
+
+#FerrisAIO.Awareness.TurretHealth
+ferrisaio.awareness.turrethealth.enabled=启用
+ferrisaio.awareness.turrethealth.style_=绘制风格
+ferrisaio.awareness.turrethealth.fontsize=字体大小
+
+#FerrisAIO.Awareness.TurretRange
+ferrisaio.awareness.turretrange.enabled=启用
+ferrisaio.awareness.turretrange.ally=绘制盟友炮塔攻击范围
+ferrisaio.awareness.turretrange.allycolor=^ 盟友炮塔攻击颜色
+ferrisaio.awareness.turretrange.enemy=绘制敌人炮塔攻击范围
+ferrisaio.awareness.turretrange.enemycolor=^ 敌人炮塔攻击颜色
+ferrisaio.awareness.turretrange.extendrange=将塔范围扩大
+
+#FerrisAIO.Awareness.WardTrack
+ferrisaio.awareness.wardtrack.enabled=启用
+ferrisaio.awareness.wardtrack.showowner=显示所有者
+ferrisaio.awareness.wardtrack.pingvision=Ping 视觉
+ferrisaio.awareness.wardtrack.pingdelay=Ping 延迟
+ferrisaio.awareness.wardtrack.wardpositionhelper_2=在钥匙上显示放置位置
+ferrisaio.awareness.wardtrack.wardvisionhelper=显示病房视觉区域
+ferrisaio.awareness.wardtrack.quality=质量
+ferrisaio.awareness.wardtrack.key=热键+左键删除
+
+#FerrisAIO.Awareness.WayPoints
+ferrisaio.awareness.waypoints.enabled_=启用
+ferrisaio.awareness.waypoints.cross=交叉颜色
+ferrisaio.awareness.waypoints.line=线条颜色
+ferrisaio.awareness.waypoints.aproximateposition=预测位置颜色
+ferrisaio.awareness.waypoints.recalcdelay=重新计算延迟
+ferrisaio.awareness.waypoints._____0001wp=^ 以更高的价值增加 FPS！
+ferrisaio.awareness.waypoints.ally=绘制盟友
+ferrisaio.awareness.waypoints.enemy=绘制敌人
+ferrisaio.awareness.waypoints.self=画自我
+ferrisaio.awareness.waypoints.map=在地图上绘图
+
+#FerrisAIO.Awareness.FOWTracker_v2
+ferrisaio.awareness.fowtracker_v2.enabled=启用
+ferrisaio.awareness.fowtracker_v2.pinglocation=Ping 位置
+ferrisaio.awareness.fowtracker_v2.sendchatmessage=发送聊天给团队
+ferrisaio.awareness.fowtracker_v2.sendchatlocal=在客户端聊天中打印
+ferrisaio.awareness.fowtracker_v2.sendpinglocal=Pings 只有你能看到
+
+#FerrisAIO.FPred
+ferrisaio.fpred._____sp2=Automatic 正在测试中
+ferrisaio.fpred.____sp3=在 Telegram 上向我报告错误和问题 <3
+ferrisaio.fpred.predictonlist1=默认预测方法
+ferrisaio.fpred.predictonlistq=预测方法 Q
+ferrisaio.fpred.qhitchance=Q 命中率
+ferrisaio.fpred.predictonlistw=预测方法 W
+ferrisaio.fpred.whitchance=W 命中率
+ferrisaio.fpred.predictonliste=预测方法 E
+ferrisaio.fpred.ehitchance=E 命中率
+ferrisaio.fpred.predictonlistr=预测方法 R
+ferrisaio.fpred.rhitchance=R 命中率
+ferrisaio.fpred.spredwindup=检查目标 AA Windup
+ferrisaio.fpred.spredmaxrangeignore=最大距离闪避忽略 (%)
+ferrisaio.fpred.spredreactiondelay=忽略反应延迟
+ferrisaio.fpred.spreddelay=法术延迟
+ferrisaio.fpred.spreddrawings=启用绘图
+ferrisaio.fpred.spredaccuracy_=允许 AOE 预测
+ferrisaio.fpred.waypointanalysis=航点分析
+ferrisaio.fpred.predmaxrange=最大范围 %
+
+#FerrisAIO.BaseUlt
+ferrisaio.baseult.baseult=启用基本 Ult
+ferrisaio.baseult.checkcollision=检查碰撞
+ferrisaio.baseult.panickey=按键时没有 Ult
+ferrisaio.baseult.regardlesskey=Ult 不管杀戮（按住）
+ferrisaio.baseult.team baseult friends=TeamUlt
+ferrisaio.baseult.disabled Champion targets=DisabledChampions
+
+#FerrisAIO.AutoLevel
+ferrisaio.autolevel.enable.teemo=启用
+ferrisaio.autolevel.autolevelstart.teemo=在关卡之后开始
+ferrisaio.autolevel.customs2.teemo=允许脚本自定义
+ferrisaio.autolevel.primaryorder.teemo=自动等级顺序
+ferrisaio.autolevel.earlyorder.teemo=第一个三层顺序
+
+#FerrisAIO.SkinChanger
+ferrisaio.skinchanger.enabled=启用
+ferrisaio.skinchanger.championteemo=冠军皮肤
+ferrisaio.skinchanger.ward=守卫皮肤
+ferrisaio.skinchanger.minion=小兵皮肤
+
+#FerrisAIO.SkinChanger.ChampionTeemo
+ferrisaio.skinchanger.championteemo.userandom=如果没有设置皮肤，则使用随机皮肤
+ferrisaio.skinchanger.championteemo.usesliderf=使用滑块值
+ferrisaio.skinchanger.championteemo.forceenemestodefualt=强制敌人使用默认皮肤
+ferrisaio.skinchanger.championteemo.forcealliestodefualt=强制盟友使用默认皮肤
+ferrisaio.skinchanger.championteemo.skinname=皮肤
+ferrisaio.skinchanger.championteemo.chromaid=Chorma
+ferrisaio.skinchanger.championteemo.skinid=皮肤 ID： 
+
+#FerrisAIO.SkinChanger.Ward
+ferrisaio.skinchanger.ward.wardsenabled=启用换病器
+ferrisaio.skinchanger.ward.userandom=如果没有设置皮肤，则使用随机皮肤
+ferrisaio.skinchanger.ward.usesliderf=使用滑块值
+ferrisaio.skinchanger.ward.skinid=皮肤 ID：
+ferrisaio.skinchanger.ward.wardid1=真实病房ID：放置一个病房来寻找！
+
+#FerrisAIO.SkinChanger.Minion
+ferrisaio.skinchanger.minion.minionskin=小黄人皮肤 ID： 
+ferrisaio.skinchanger.minion.towerchaosskin=混沌之塔皮肤 ID： 
+ferrisaio.skinchanger.minion.towerorderskin=订单塔皮肤 ID： 
+ferrisaio.skinchanger.minion.baronskin=男爵皮肤 ID： 
+ferrisaio.skinchanger.minion.dragonskin=龙皮肤 ID： 
+ferrisaio.skinchanger.minion.heraldskin=先驱皮肤 ID： 
+ferrisaio.skinchanger.minion.crabskin=Skuttle 皮肤 ID： 
+ferrisaio.skinchanger.minion.redskin=RedBuff 皮肤 ID： 
+ferrisaio.skinchanger.minion.blueskin=BlueBuff 皮肤 ID： 
+ferrisaio.skinchanger.minion.blastcone=BlastCone 皮肤 ID： 
+ferrisaio.skinchanger.minion.visionplant=占星皮肤 ID： 
+ferrisaio.skinchanger.minion.healthplant=蜜果皮肤 ID： 
+
+#FerrisAIO.Exploits
+ferrisaio.exploits.maphack=FOW 可见性黑客
+ferrisaio.exploits.packettracker=数据包跟踪器
+
+#FerrisAIO.Exploits.MapHack
+ferrisaio.exploits.maphack.enabled=启用
+ferrisaio.exploits.maphack.glow=使用发光
+ferrisaio.exploits.maphack.____s_1=这有时会在战争迷雾中显示敌方英雄
+ferrisaio.exploits.maphack.____s_2=它何时起作用是半随机的，但在某些情况下可能会导致这种情况
+ferrisaio.exploits.maphack.____s_4=当他们在FOW中施法时你有1000单位内的视野
+ferrisaio.exploits.maphack.____s_5=全球动画播放向您发送附近英雄及其位置的列表
+ferrisaio.exploits.maphack.____s_6=在 FOW 中生成对象的法术，例如努努雪球
+
+#FerrisAIO.Exploits.PacketTracker
+ferrisaio.exploits.packettracker.____s_1=这仍在进行中，期待错误
+ferrisaio.exploits.packettracker.____s_3=它还依赖我的本地 dll 来更新联赛
+ferrisaio.exploits.packettracker.____s_4=因此，如果我不更新这个联赛版本的程序集，这将不起作用！
+ferrisaio.exploits.packettracker.____s_5=> 更新至 12.1.416.4011
+ferrisaio.exploits.packettracker.information=信息
+ferrisaio.exploits.packettracker.pingsettings=Ping（它的客户端）
+ferrisaio.exploits.packettracker.packetdata12.1=数据包信息
+ferrisaio.exploits.packettracker.devstuff=开发资料
+
+#FerrisAIO.Exploits.PacketTracker.Information
+ferrisaio.exploits.packettracker.information.____s_1=这是一个有时可以显示的漏洞
+ferrisaio.exploits.packettracker.information.____s_2=当怪物在FOW中被攻击时
+ferrisaio.exploits.packettracker.information.____s_3=检测到时，将显示客户端 ping
+ferrisaio.exploits.packettracker.information.____s_4=怪物位置
+
+#FerrisAIO.Exploits.PacketTracker.PingSettings
+ferrisaio.exploits.packettracker.pingsettings.pingattacked=营地被攻击
+ferrisaio.exploits.packettracker.pingsettings.pingattacking=营地攻击
+ferrisaio.exploits.packettracker.pingsettings.pingdisengaging=营地脱离
+ferrisaio.exploits.packettracker.pingsettings.pingsoundall=播放声音
+ferrisaio.exploits.packettracker.pingsettings.pingsoundfirst=仅在第一次 ping 时播放声音
+ferrisaio.exploits.packettracker.pingsettings.pingdelay=Ping 延迟秒数
+
+#FerrisAIO.Exploits.PacketTracker.packetdata12.1
+ferrisaio.exploits.packettracker.packetdata12.1.____s_1=这些值将自动弹出
+ferrisaio.exploits.packettracker.packetdata12.1.____s_2=在这个补丁中发现
+ferrisaio.exploits.packettracker.packetdata12.1.headeronattack2=标头 OnAttack
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmissilehit2=标头 OnMissileHit
+ferrisaio.exploits.packettracker.packetdata12.1.headerondisengaged=标头 OnDisengaged
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmonsterskill=标题 OnMonsterSkill
+ferrisaio.exploits.packettracker.packetdata12.1.____s_5=来自补丁 12.1 的标题
+ferrisaio.exploits.packettracker.packetdata12.1.forcefindheaders=尝试自动重新计算标题！
+
+#FerrisAIO.Exploits.PacketTracker.DevStuff
+ferrisaio.exploits.packettracker.devstuff.blacklistincomming=黑名单传入数据包
+ferrisaio.exploits.packettracker.devstuff.clearblacklist=清除黑名单
+ferrisaio.exploits.packettracker.devstuff.printblacklist=打印黑名单
+ferrisaio.exploits.packettracker.devstuff.drawnetworkid=绘制 Mob 网络 ID
+ferrisaio.exploits.packettracker.devstuff.packetdebug=数据包调试
+ferrisaio.exploits.packettracker.devstuff.onlyfow=仅 FOW 调试
+ferrisaio.exploits.packettracker.devstuff.debugmode=调试模式
+
+#FerrisAIO.Utilities
+ferrisaio.utilities.preventafk=防止AFK踢
+ferrisaio.utilities.autoquit=自动退出
+ferrisaio.utilities.goldtracker=黄金追踪器
+ferrisaio.utilities.namechanger=名称转换器
+ferrisaio.utilities.emotespammer=表情垃圾邮件发送者
+ferrisaio.utilities.chatspam=聊天垃圾邮件发送者
+ferrisaio.utilities.sharedexperience=共享体验（临时禁用）
+ferrisaio.utilities.mmrtracker=MMR 检查器
+ferrisaio.utilities.aatilt=AA 倾斜器
+ferrisaio.utilities.spellalterer_v2=拼写警报器
+ferrisaio.utilities.antitilt=反倾斜
+
+#FerrisAIO.Utilities.AutoQuit
+ferrisaio.utilities.autoquit.enable=游戏结束后自动退出
+ferrisaio.utilities.autoquit.delay=等待 x 秒
+
+#FerrisAIO.Utilities.GoldTracker
+ferrisaio.utilities.goldtracker.enable=启用黄金追踪器
+ferrisaio.utilities.goldtracker.drawteamgold=抽金队
+ferrisaio.utilities.goldtracker.drawplayergold=抽取冠军金币
+ferrisaio.utilities.goldtracker.textcolor=文字颜色
+ferrisaio.utilities.goldtracker.____s_1=---[EQ] 还没完成[EQ]---
+ferrisaio.utilities.goldtracker.trackstats=追踪统计值而不是获得的金币
+ferrisaio.utilities.goldtracker.stattextcolor=统计文本颜色
+
+#FerrisAIO.Utilities.NameChanger
+ferrisaio.utilities.namechanger.enablechanger=启用
+ferrisaio.utilities.namechanger.copy=从剪贴板设置名称
+ferrisaio.utilities.namechanger.____nc_0001=FerrisAIO
+ferrisaio.utilities.namechanger.nametype=显示类型
+
+#FerrisAIO.Utilities.EmoteSpammer
+ferrisaio.utilities.emotespammer.kill=在击杀时启用
+ferrisaio.utilities.emotespammer.selectitem=表情槽
+
+#FerrisAIO.Utilities.ChatSpam
+ferrisaio.utilities.chatspam.enabled=启用
+ferrisaio.utilities.chatspam.binds=KeyBinds
+ferrisaio.utilities.chatspam.method=方法
+ferrisaio.utilities.chatspam.clipboard=剪贴板设置
+ferrisaio.utilities.chatspam.delay=延迟毫秒
+ferrisaio.utilities.chatspam.debug=测试模式（仅打印到您的聊天而不是服务器）
+
+#FerrisAIO.Utilities.ChatSpam.enabled
+ferrisaio.utilities.chatspam.enabled.kill=杀死时启用
+ferrisaio.utilities.chatspam.enabled.gameend=在游戏结束时启用
+ferrisaio.utilities.chatspam.enabled.ondeath=死亡时启用
+ferrisaio.utilities.chatspam.enabled.all=所有聊天
+ferrisaio.utilities.chatspam.enabled.deathcheck=仅当击杀 > 死亡时
+ferrisaio.utilities.chatspam.enabled.disablewhiledead=死亡时禁用
+ferrisaio.utilities.chatspam.enabled.spammed=显示垃圾邮件数量
+
+#FerrisAIO.Utilities.ChatSpam.binds
+ferrisaio.utilities.chatspam.binds.bind=垃圾邮件密钥（保留）
+ferrisaio.utilities.chatspam.binds.bind2=垃圾邮件密钥（切换）
+
+#FerrisAIO.Utilities.ChatSpam.method
+ferrisaio.utilities.chatspam.method.modehold=保持垃圾邮件模式
+ferrisaio.utilities.chatspam.method.slothold=剪贴板插槽
+ferrisaio.utilities.chatspam.method.modepress=切换垃圾邮件模式
+ferrisaio.utilities.chatspam.method.slotpress=用于切换的剪贴板插槽
+ferrisaio.utilities.chatspam.method.modekill=开启杀戮模式
+ferrisaio.utilities.chatspam.method.slotkill=OnKill 的剪贴板插槽
+ferrisaio.utilities.chatspam.method.modegameend=在游戏结束模式
+ferrisaio.utilities.chatspam.method.slotgameend=游戏结束的剪贴板槽
+ferrisaio.utilities.chatspam.method.modedeath=死亡游戏
+ferrisaio.utilities.chatspam.method.slotdeath=死亡时剪贴板槽
+
+#FerrisAIO.Utilities.ChatSpam.Clipboard
+ferrisaio.utilities.chatspam.clipboard.copy=从剪贴板复制到选定的插槽
+ferrisaio.utilities.chatspam.clipboard.copyslot=将文本复制到的插槽
+ferrisaio.utilities.chatspam.clipboard.____cb_0001=1： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0002=2： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0003=3： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0004=4： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0005=5： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0006=6： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0007=7： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0008=8： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0009=9： 
+ferrisaio.utilities.chatspam.clipboard.____cb_0010=10： 
+
+#FerrisAIO.Utilities.SharedExperience
+ferrisaio.utilities.sharedexperience.enabled_=已启用
+ferrisaio.utilities.sharedexperience.showenemies=在敌人上绘制文字
+ferrisaio.utilities.sharedexperience.onlyshowinv=仅在不可见时绘制文本
+ferrisaio.utilities.sharedexperience.drawpredictioncircle=绘制预测圆
+ferrisaio.utilities.sharedexperience.invcolor=不可见时的颜色
+
+#FerrisAIO.Utilities.MMRTracker
+ferrisaio.utilities.mmrtracker.enable=启用 MMR 追踪器
+ferrisaio.utilities.mmrtracker.draw2=在冠军下抽奖
+ferrisaio.utilities.mmrtracker.type=MMR 类型
+ferrisaio.utilities.mmrtracker.region=地区
+ferrisaio.utilities.mmrtracker.showhighest=显示最高排名
+ferrisaio.utilities.mmrtracker.____s_1=^ 需要重新加载脚本
+ferrisaio.utilities.mmrtracker.enemymmr=敌方团队 MMR
+ferrisaio.utilities.mmrtracker.____s_3=盟友平均积分：1493
+ferrisaio.utilities.mmrtracker.____s_4=敌人 MMR 平均：1493
+ferrisaio.utilities.mmrtracker.____s_5=总MMR平均值：2987
+
+#FerrisAIO.Utilities.MMRTracker.EnemyMMr
+ferrisaio.utilities.mmrtracker.enemymmr.____s_1=EggMoneyJR：未知
+
+#FerrisAIO.Utilities.AATilt
+ferrisaio.utilities.aatilt.____s_1=只播放笑声，而不是拖钓敌人的动画！
+ferrisaio.utilities.aatilt.laughtype=表情类型
+ferrisaio.utilities.aatilt.aalaugh=对 AA 冠军大笑
+ferrisaio.utilities.aatilt.aamastery=精通AA冠军
+ferrisaio.utilities.aatilt.aalaughm=嘲笑对空小兵
+ferrisaio.utilities.aatilt.aamasterym=精通对空小兵
+ferrisaio.utilities.aatilt.aalaughb=嘲笑 AA 建筑
+ferrisaio.utilities.aatilt.aamasteryb=精通 AA 建筑
+
+#FerrisAIO.Utilities.SpellAlterer_v2
+ferrisaio.utilities.spellalterer_v2.alertultimate=警报终极版
+ferrisaio.utilities.spellalterer_v2.alertsummoner=警报召唤师法术
+ferrisaio.utilities.spellalterer_v2.seen=只有在发现敌人使用此法术时才会发出警报
+ferrisaio.utilities.spellalterer_v2.urf=在 URF 中禁用
+ferrisaio.utilities.spellalterer_v2.usechat=Send Time 法术在聊天前停止
+ferrisaio.utilities.spellalterer_v2.pingspell=使用 Ping 法术
+ferrisaio.utilities.spellalterer_v2.adddelay=添加人性化延迟
+ferrisaio.utilities.spellalterer_v2.trollmode=巨魔模式[所有聊天]
+ferrisaio.utilities.spellalterer_v2.debugmode=调试模式[仅限本地聊天]
+
+#FerrisAIO.Utilities.AntiTilt
+ferrisaio.utilities.antitilt.automutechat=自动敌人聊天/表情
+ferrisaio.utilities.antitilt.automutepings=自动静音盟友信号
+ferrisaio.utilities.antitilt.automuteally=自动静音盟友聊天/表情
+ferrisaio.utilities.antitilt.preventbanwords=防止禁用词
+
+#FerrisAIO.DebugMenu
+ferrisaio.debugmenu.debug=启用调试日志
+ferrisaio.debugmenu.actionoptions=动作
+ferrisaio.debugmenu.profileroption=分析器
+
+#FerrisAIO.DebugMenu.ActionOptions
+ferrisaio.debugmenu.actionoptions.skilldebug=技能调试
+ferrisaio.debugmenu.actionoptions.selfdebug=自我技能调试
+ferrisaio.debugmenu.actionoptions.miscdebug=打印所有游戏对象
+ferrisaio.debugmenu.actionoptions.statdebug=统计调试
+ferrisaio.debugmenu.actionoptions.langdebug=生成语言对象
+
+#FerrisAIO.DebugMenu.ProfilerOption
+ferrisaio.debugmenu.profileroption.enablewatchdog=打印看门狗时间
+ferrisaio.debugmenu.profileroption.allowdebug=^ 允许调试
+ferrisaio.debugmenu.profileroption.writetoconsole=^ 也写在控制台
+ferrisaio.debugmenu.profileroption.writetofile=^ 也写入文件
+
+#FerrisAIO.CoreSettings
+ferrisaio.coresettings.ferrisaio.coresettings=FerrisAIO 核心
+ferrisaio.coresettings.events=事件
+ferrisaio.coresettings.language=语言
+ferrisaio.coresettings.fnative=FNative
+ferrisaio.coresettings.foptimizations=FOptimizations
+ferrisaio.coresettings.autoloadscripts=自动加载脚本
+
+#FerrisAIO.CoreSettings.Events
+ferrisaio.coresettings.events.usepriority=使用优先事件总线
+
+#FerrisAIO.CoreSettings.Language
+ferrisaio.coresettings.language.language_=语言
+ferrisaio.coresettings.language.dumpmissingkeys=转储缺少的语言键
+
+#FerrisAIO.CoreSettings.FNative
+ferrisaio.coresettings.fnative.packethandler=使用 FNative 数据包处理程序
+ferrisaio.coresettings.fnative.poffsets=尝试自动查找数据包偏移
+ferrisaio.coresettings.fnative.ace=尝试绕过反作弊
+ferrisaio.coresettings.fnative.aipred=使用 CPP 而不是 C# 进行 AI 预测
+ferrisaio.coresettings.fnative.spp=启用直接更新源数据包位置
+ferrisaio.coresettings.fnative.afk=使用 FNative AntiAFK
+ferrisaio.coresettings.fnative.proxy=尝试代理联盟传出数据包流
+
+#FerrisAIO.CoreSettings.FOptimizations
+ferrisaio.coresettings.foptimizations.eventbus=EventBus
+ferrisaio.coresettings.foptimizations.drawings=图纸
+ferrisaio.coresettings.foptimizations.ilchanges=ILChanges
+
+#FerrisAIO.CoreSettings.FOptimizations.EventBus
+ferrisaio.coresettings.foptimizations.eventbus.usepriority=使用优先级事件总线
+
+#FerrisAIO.CoreSettings.FOptimizations.Drawings
+ferrisaio.coresettings.foptimizations.drawings.circlev2=使用更快的圆圈
+ferrisaio.coresettings.foptimizations.drawings.ooschecks=使用智能屏幕外检查
+ferrisaio.coresettings.foptimizations.drawings.nonative=避免 FNative 传输层绘图调用
+ferrisaio.coresettings.foptimizations.drawings.textrender=用 FerrisAIO.Rendering.TextRender 替换 EnsoulSharp.SDK.TextRender
+
+#FerrisAIO.CoreSettings.FOptimizations.ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.enableedits=启用 ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.fixdrawoffscreen=修复小地图绘图
+ferrisaio.coresettings.foptimizations.ilchanges.irender=提高渲染时间
+ferrisaio.coresettings.foptimizations.ilchanges.trove=宝库列表交换列表
+

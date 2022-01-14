@@ -1,0 +1,70 @@
+
+#FerrisAIO.ChampionMenu.Teemo
+ferrisaio.championmenu.teemo.combooption=Combo
+ferrisaio.championmenu.teemo.harassoption=Harass
+ferrisaio.championmenu.teemo.laneclearoption=LaneClear
+ferrisaio.championmenu.teemo.jungleclearoption=JungleClear
+ferrisaio.championmenu.teemo.killstealoption=KillSteal
+ferrisaio.championmenu.teemo.miscoption=Misc
+ferrisaio.championmenu.teemo.drawoption=Drawing
+
+#FerrisAIO.ChampionMenu.Teemo.ComboOption
+ferrisaio.championmenu.teemo.combooption.useq=Use Q
+ferrisaio.championmenu.teemo.combooption.useqadc=^ Focus ADC
+ferrisaio.championmenu.teemo.combooption.adcprio=Marksman Priority
+ferrisaio.championmenu.teemo.combooption.usew=Use W
+ferrisaio.championmenu.teemo.combooption.wcombat=^ Only if Enemy in Range
+ferrisaio.championmenu.teemo.combooption.user=Kite with R in Combo
+ferrisaio.championmenu.teemo.combooption.rcharge=Charges of R Before using R
+ferrisaio.championmenu.teemo.combooption.checkcamo=Prevents combo being activated while stealthed in bush
+
+#FerrisAIO.ChampionMenu.Teemo.HarassOption
+ferrisaio.championmenu.teemo.harassoption.useq=Use Q
+ferrisaio.championmenu.teemo.harassoption.minmanabeforesmartlogic=Min Mana % before using Smart Logic
+
+#FerrisAIO.ChampionMenu.Teemo.LaneClearOption
+ferrisaio.championmenu.teemo.laneclearoption.useq=Use Q
+ferrisaio.championmenu.teemo.laneclearoption.qsave=^ Save for non killable
+ferrisaio.championmenu.teemo.laneclearoption.alwaysqcannon=^ Always use for cannon
+ferrisaio.championmenu.teemo.laneclearoption.qmanamanager=Minimum Mana for Q
+ferrisaio.championmenu.teemo.laneclearoption.qmanamanagercannon=^ Ignore when targeting cannon
+ferrisaio.championmenu.teemo.laneclearoption.user=Use R
+ferrisaio.championmenu.teemo.laneclearoption.userkill=^ Only if Minions Killable
+ferrisaio.championmenu.teemo.laneclearoption.minionr=^ Only if can hit >[EQ] x
+ferrisaio.championmenu.teemo.laneclearoption.rsave=^ Only when >[EQ] x Shrooms
+ferrisaio.championmenu.teemo.laneclearoption.rmanamanager=Minimum Mana for R
+
+#FerrisAIO.ChampionMenu.Teemo.JungleClearOption
+ferrisaio.championmenu.teemo.jungleclearoption.useq=Use Q
+ferrisaio.championmenu.teemo.jungleclearoption.user=Use R
+ferrisaio.championmenu.teemo.jungleclearoption.rsave=^ Only when >[EQ] x Shrooms
+ferrisaio.championmenu.teemo.jungleclearoption.rsavebypass=^ Ignore on Dragon/Baron/Herald
+
+#FerrisAIO.ChampionMenu.Teemo.KillstealOption
+ferrisaio.championmenu.teemo.killstealoption.useq=Use Q
+
+#FerrisAIO.ChampionMenu.Teemo.MiscOption
+ferrisaio.championmenu.teemo.miscoption.mymanamanager.spellfarmsettings=Spell Settings
+ferrisaio.championmenu.teemo.miscoption.autor=Use Place R in Important Spots
+ferrisaio.championmenu.teemo.miscoption.autorsave=^ Save x Shrooms
+ferrisaio.championmenu.teemo.miscoption.eacc=Use Auto R on CC
+ferrisaio.championmenu.teemo.miscoption.egapa=Use Q Gapcloser
+ferrisaio.championmenu.teemo.miscoption.reduceqrange=Shorten Q Range
+ferrisaio.championmenu.teemo.miscoption.antigapcloser=AntiGapCloser
+
+#FerrisAIO.ChampionMenu.Teemo.MiscOption.MyManaManager.SpellFarmSettings
+ferrisaio.championmenu.teemo.miscoption.mymanamanager.spellfarmsettings.mymanamanager.spellfarm=Enabled Spell Farm
+ferrisaio.championmenu.teemo.miscoption.mymanamanager.spellfarmsettings.mymanamanager.spellfarmmode=Control Mode: 
+ferrisaio.championmenu.teemo.miscoption.mymanamanager.spellfarmsettings.mymanamanager.spellfarmkey=Spell Farm Key
+ferrisaio.championmenu.teemo.miscoption.mymanamanager.spellfarmsettings.mymanamanager.spellharass=Enabled Spell Harass
+ferrisaio.championmenu.teemo.miscoption.mymanamanager.spellfarmsettings.mymanamanager.spellharassmode=Control Mode: 
+ferrisaio.championmenu.teemo.miscoption.mymanamanager.spellfarmsettings.mymanamanager.spellharasskey=Spell Harass Key
+
+#FerrisAIO.ChampionMenu.Teemo.DrawOption
+ferrisaio.championmenu.teemo.drawoption.drawq=Draw BlindingDart Range
+ferrisaio.championmenu.teemo.drawoption.draww=Draw MoveQuick Range
+ferrisaio.championmenu.teemo.drawoption.drawe=Draw ToxicShot Range
+ferrisaio.championmenu.teemo.drawoption.drawr=Draw TeemoRCast Range
+ferrisaio.championmenu.teemo.drawoption.drawrspots=Draw R Spots
+ferrisaio.championmenu.teemo.drawoption.drawrspots_1=^ Only if has enough ammo
+ferrisaio.championmenu.teemo.drawoption.drawrspots_2=^ Only if R is up

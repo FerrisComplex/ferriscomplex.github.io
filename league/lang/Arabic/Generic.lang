@@ -1,0 +1,902 @@
+#FerrisAIO
+ferrisaio.ferrisaio=FerrisAIO
+ferrisaio.championmenu.teemo=نص Teemo
+ferrisaio.orbwalker=Ferris Orbwalker
+ferrisaio.evade=FEvade
+ferrisaio.loadevadescript=تحميل البرنامج النصي للتهرب
+ferrisaio.activator=المنشط
+ferrisaio.awareness=وعي
+ferrisaio.fpred=توقع فيريس
+ferrisaio.baseult=BaseUlt
+ferrisaio.autolevel=مستوى Teemo التلقائي
+ferrisaio.skinchanger=مغير الجلد
+ferrisaio.exploits=مآثر
+ferrisaio.utilities=المرافق
+ferrisaio.debugmenu=تصحيح
+
+# فيريسايو
+ferrisaio.orbwalker.enabled_=ممكّن
+ferrisaio.orbwalker.attackable=وحدة قابلة للهجوم
+ferrisaio.orbwalker.prioritize=إعطاء الأولوية
+ferrisaio.orbwalker.orbwalker=Orbwalker
+ferrisaio.orbwalker.farm=مزرعة
+ferrisaio.orbwalker.advanced=متقدم
+ferrisaio.orbwalker.drawing=رسم
+ferrisaio.orbwalker.shove=شوف (تبديل)
+ferrisaio.orbwalker.freeze=تجميد (تبديل)
+ferrisaio.orbwalker.combo=كومبو
+ferrisaio.orbwalker.combowithmove=كومبو بدون حركة
+ferrisaio.orbwalker.harass=مضايقة
+ferrisaio.orbwalker.laneclear=LaneClear
+ferrisaio.orbwalker.lasthit=LastHit
+ferrisaio.orbwalker.flee=الفرار
+ferrisaio.orbwalker.reducedamage=تقليل ضرر AA بنسبة٪
+
+# FerrisAIO.Orbwalker. قابل للهجوم
+ferrisaio.orbwalker.attackable.barrels=برميل
+ferrisaio.orbwalker.attackable.jungleplant=نبات الغابة
+ferrisaio.orbwalker.attackable.specialminions=حيوانات أليفة
+ferrisaio.orbwalker.attackable.wards=أجنحة
+
+# FerrisAIO.Orbwalker. الأولوية
+ferrisaio.orbwalker.prioritize.farmoverharass=مزرعة فوق المضايقة
+ferrisaio.orbwalker.prioritize.specialminion=تابع خاص
+ferrisaio.orbwalker.prioritize.smalljungle=غابة صغيرة
+ferrisaio.orbwalker.prioritize.turret=برج
+
+# FerrisAIO.Orbwalker.Orbwalker
+ferrisaio.orbwalker.orbwalker.extrahold=وضع الانتظار الإضافي
+ferrisaio.orbwalker.orbwalker.moverandom=ترتيب الحركة عشوائيًا عندما تكون قريبة جدًا
+ferrisaio.orbwalker.orbwalker.windupdelay=تأخر الإنهاء
+ferrisaio.orbwalker.orbwalker.limitattack=لا تقم بالطائرة الورقية إذا كانت سرعة الهجوم> 2.5
+
+# FerrisAIO.Orbwalker.Farm
+ferrisaio.orbwalker.farm.farmdelay=تأخير المزرعة
+ferrisaio.orbwalker.farm.turretfarm=منطق مزرعة البرج
+ferrisaio.orbwalker.farm.turretfarmmethod=طريقة مزرعة البرج
+ferrisaio.orbwalker.farm.turretframmaxlevel=تعطيل مزرعة البرج عند مستوى اللاعب> [EQ] x
+ferrisaio.orbwalker.farm.freezehealth=تجميد Minion Max Health
+ferrisaio.orbwalker.farm.laneclearmethod=LaneClear Farm Method
+ferrisaio.orbwalker.farm.cannonfocus=إعطاء الأولوية للمدافع
+ferrisaio.orbwalker.farm.freezeharass=السماح بالمضايقة بالتجميد
+
+# FerrisAIO.Orbwalker. متقدم
+ferrisaio.orbwalker.advanced.yasuowallcheck=تحقق من Yasuo WindWall
+ferrisaio.orbwalker.advanced.missilecheck=استخدام فحوصات الصواريخ
+ferrisaio.orbwalker.advanced.calcitemdamage=حساب ضرر العنصر
+ferrisaio.orbwalker.advanced.supportmode_teemo=وضع الدعم
+ferrisaio.orbwalker.advanced.detectaaresets=كشف مهارات إعادة تعيين AA
+ferrisaio.orbwalker.advanced.allowkalistadoublejump=استخدم قفزة كاليستا المزدوجة
+ferrisaio.orbwalker.advanced.beforecanattack_=هجوم بالمللي المبكر
+ferrisaio.orbwalker.advanced.beforecanmoveallowscriptcontrol=السماح بالتحكم بالبرنامج النصي في الحركة مبكرًا
+ferrisaio.orbwalker.advanced.beforecanmove=نقل يدوي مبكر بالمللي
+ferrisaio.orbwalker.advanced.limitmovementpackets=منع حزمة الحركة البريد العشوائي
+ferrisaio.orbwalker.advanced.limitattackpackets=منع هجوم حزم البريد العشوائي
+
+# FerrisAIO.Orbwalker.Drawing
+ferrisaio.orbwalker.drawing.drawattackrange=رسم نطاق الهجوم
+ferrisaio.orbwalker.drawing.drawholdposition=رسم مركز الانتظار
+ferrisaio.orbwalker.drawing.drawkillableminion=ارسم العميل القابل للقتل
+ferrisaio.orbwalker.drawing.showfakeclick=إظهار FakeClick
+ferrisaio.orbwalker.drawing.fakeclickdelay=التأخير بين النقرات بالمللي
+ferrisaio.orbwalker.drawing.glowminions=آخر فعالية توهج
+ferrisaio.orbwalker.drawing.minionsglow=توهج لون التوابع القابل للاستمرار
+ferrisaio.orbwalker.drawing.minionsdraw=رسم علامة Lasthit
+ferrisaio.orbwalker.drawing.minionsanimate=تحريك علامة آخر مرة
+ferrisaio.orbwalker.drawing.minionsanimatecolor=دورة عبر لون علامة lasthit
+
+# فيريسايو
+ferrisaio.evade.main=رئيسي
+ferrisaio.evade.keysettings=إعدادات المفاتيح
+ferrisaio.evade.miscsettings=إعدادات متنوعة
+ferrisaio.evade.spells=نوبات
+ferrisaio.evade.traps=مصائد
+ferrisaio.evade.evadespells=نوبات التهرب
+ferrisaio.evade.draw=ارسم
+ferrisaio.evade.autosetpingmenu=AutoSetPing
+
+# FerrisAIO.Evade.Main
+ferrisaio.evade.main.dodgeskillshots=دودج سكيلشوتس
+ferrisaio.evade.main.activateevadespells=استخدام نوبات التهرب
+ferrisaio.evade.main.dodgedangerous=المراوغة الخطرة فقط
+ferrisaio.evade.main.dodgefowspells=مراوغة FOW SkillShots
+ferrisaio.evade.main.dodgecircularspells=مراوغة SkillShots الدائري
+ferrisaio.evade.main.dodgecircularspells_v2=المنطق الدائري Evadeee [إصدار تجريبي]
+
+# FerrisAIO.Evade.KeySettings
+ferrisaio.evade.keysettings.dodgedangerouskeyenabled=تمكين المراوغة فقط المفاتيح الخطرة
+ferrisaio.evade.keysettings.dodgedangerouskey=مراوغة المفتاح الخطير فقط
+ferrisaio.evade.keysettings.dodgedangerouskey2=مراوغة المفتاح الخطير فقط 2
+ferrisaio.evade.keysettings.dodgeonlyoncombokeyenabled=تمكين المراوغة فقط على مفتاح التحرير والسرد
+ferrisaio.evade.keysettings.dodgecombokey=دودج فقط مفتاح التحرير والسرد
+ferrisaio.evade.keysettings.dontdodgekeyenabled=تمكين عدم مراوغة مفتاح
+ferrisaio.evade.keysettings.dontdodgekey=لا تتهرب من المفتاح
+
+# FerrisAIO.Evade. إعدادات متفرقة
+ferrisaio.evade.miscsettings.evademode=ملف تعريف التهرب
+ferrisaio.evade.miscsettings.blockdangerdash=منع تعويذة Dangerous Dash
+ferrisaio.evade.miscsettings.higherprecision=دقة مراوغة محسنة
+ferrisaio.evade.miscsettings.recalculateposition=إعادة حساب المسار
+ferrisaio.evade.miscsettings.continuemovement=متابعة الحركة الأخيرة
+ferrisaio.evade.miscsettings.calculatewindupdelay=حساب تأخير الإنهاء
+ferrisaio.evade.miscsettings.checkspellcollision=تحقق من التصادم الإملائي
+ferrisaio.evade.miscsettings.preventdodgingundertower=منع المراوغة تحت البرج
+ferrisaio.evade.miscsettings.preventdodgingnearenemy=منع المراوغة بالقرب من الأعداء
+ferrisaio.evade.miscsettings.advancedspelldetection=اكتشاف متقدم للتهجئة
+ferrisaio.evade.miscsettings.clickremove=السماح بإزالة النقر بزر الماوس الأيسر ^ انقر بزر الماوس الأيسر لإزالة التراكبات والكرة الأرضية
+ferrisaio.evade.miscsettings.resetconfig=إعادة ضبط تهيئة التهرب
+ferrisaio.evade.miscsettings.limiter=أنسنة
+ferrisaio.evade.miscsettings.fastevade=التهرب السريع
+ferrisaio.evade.miscsettings.extrabuffers=مخازن مؤقتة إضافية
+ferrisaio.evade.miscsettings.loadtests=الاختبارات
+
+# FerrisAIO ، Evade ، إعدادات متنوعة ، حد
+ferrisaio.evade.miscsettings.limiter.clickonlyonce=انقر مرة واحدة فقط
+ferrisaio.evade.miscsettings.limiter.enableevadedistance=التهرب الممتد
+ferrisaio.evade.miscsettings.limiter.ticklimiter=محدد التجزئة
+ferrisaio.evade.miscsettings.limiter.spelldetectiontime=وقت الكشف الإملائي
+ferrisaio.evade.miscsettings.limiter.reactiontime=وقت رد الفعل
+ferrisaio.evade.miscsettings.limiter.dodgeinterval=فاصل مراوغة
+
+# FerrisAIO.Evade.MiscSettings.FastEvade
+ferrisaio.evade.miscsettings.fastevade.fastmovementblock=كتلة حركة سريعة
+ferrisaio.evade.miscsettings.fastevade.fastevadeactivationtime=وقت تنشيط FastEvade
+ferrisaio.evade.miscsettings.fastevade.spellactivationtime=وقت التنشيط الإملائي
+ferrisaio.evade.miscsettings.fastevade.rejectmindistance=مسافة الاصطدام العازلة
+
+# FerrisAIO.Evade.MiscSettings.ExtraBuffers
+ferrisaio.evade.miscsettings.extrabuffers.extrapingbuffer=مخزن مؤقت إضافي بينج
+ferrisaio.evade.miscsettings.extrabuffers.extracpadistance=مسافة تصادم إضافية
+ferrisaio.evade.miscsettings.extrabuffers.extraspellradius=نصف قطر السحر الإضافي
+ferrisaio.evade.miscsettings.extrabuffers.extraevadedistance=مسافة تهرب إضافية
+ferrisaio.evade.miscsettings.extrabuffers.extraavoiddistance=مسافة تجنب إضافية
+ferrisaio.evade.miscsettings.extrabuffers.min Comfortzone=أقل مسافة للبطل
+
+# FerrisAIO.Evade.MiscSettings.LoadTests
+ferrisaio.evade.miscsettings.loadtests.loadspelltester=تحميل اختبار الإملاء
+
+# FerrisAIO.Evade.EvadeSpells
+ferrisaio.evade.evadespells.flashevadespellsettings=فلاش
+
+# FerrisAIO.Evade.EvadeSpells.FlashEvadeSpellSettings
+ferrisaio.evade.evadespells.flashevadespellsettings.flashuseevadespell=استخدام التعويذة
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespelldangerlevel=مستوى الخطر
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespellmode=الوضع الإملائي
+
+# FerrisAIO.Evade.Draw
+ferrisaio.evade.draw.drawskillshots=رسم SkillShots
+ferrisaio.evade.draw.showstatus=إظهار حالة التهرب
+ferrisaio.evade.draw.drawspellpos=رسم موضع تعويضي
+ferrisaio.evade.draw.drawevadeposition=رسم وضع التهرب
+ferrisaio.evade.draw.dangerleveldrawings=رسومات DangerLevel
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing=منخفض
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing=عادي
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing=عالية
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing=أقصى
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing=غير قابل للتغير
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.LowDrawing
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowwidth=عرض الخط
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowcolor=اللون
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowenable=تمكين
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.NormalDrawing
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalwidth=عرض الخط
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalcolor=اللون
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalenable=تمكين
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.HighDrawing
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highwidth=عرض الخط
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highcolor=اللون
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highenable=تمكين
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.ExtremeDrawing
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremewidth=عرض الخط
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremecolor=اللون
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremeenable=تمكين
+
+# FerrisAIO.Evade.Draw.DangerLevelDrawings.UndableDrawing
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablewidth=عرض الخط
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablecolor=اللون
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodbleenable=تمكين
+
+# FerrisAIO.Evade.AutoSetPingMenu
+ferrisaio.evade.autosetpingmenu.autosetpingon=ضبط تلقائي بينغ
+ferrisaio.evade.autosetpingmenu.autosetpercentile=النسبة المئوية للتعيين التلقائي
+ferrisaio.evade.autosetpingmenu.testskillshotdelay=TestSkillshotDelay
+
+# FerrisAIO المنشط
+ferrisaio.activator.autopotions=جرعات تلقائية
+ferrisaio.activator.defensive=دفاعي
+ferrisaio.activator.offensive=هجوم
+ferrisaio.activator.autozhonya=Auto Zhonya
+ferrisaio.activator.autocleanse=تنظيف تلقائي
+ferrisaio.activator.summonerspell=سحر المستدعي
+ferrisaio.activator.turnaround=دوران تلقائي
+ferrisaio.activator.autolantern=فانوس تلقائي
+
+# FerrisAIO.Activator.AutoPotions
+ferrisaio.activator.autopotions.enabled=ممكّن
+ferrisaio.activator.autopotions.healthpercent=^ النسبة المئوية لصحة اللاعب <[EQ] x٪
+
+# FerrisAIO. المنشط. دفاعي
+ferrisaio.activator.defensive.locketoftheironsolari=Locket of the Iron Solari
+ferrisaio.activator.defensive.randuinomen=فأل راندوين
+ferrisaio.activator.defensive.redemption=الفداء
+ferrisaio.activator.defensive.gargoylestoneplate=Gargoyle Stoneplate
+
+# FerrisAIO.Activator.Defensive.LocketOfTheIronSolari
+ferrisaio.activator.defensive.locketoftheironsolari.enabled=ممكّن
+ferrisaio.activator.defensive.locketoftheironsolari.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.defensive.locketoftheironsolari.healthpercent=عندما تكون نسبة صحة اللاعب <[EQ] x٪
+ferrisaio.activator.defensive.locketoftheironsolari.damagetime=الضرر حساب الوقت (مللي ثانية)
+
+# FerrisAIO.Activator.Defensive.RanduinOmen
+ferrisaio.activator.defensive.randuinomen.enabled=ممكّن
+ferrisaio.activator.defensive.randuinomen.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.defensive.randuinomen.minhit=الحد الأدنى لعدد النتائج> [EQ] x
+ferrisaio.activator.defensive.randuinomen.healthpercent=عند نسبة صحة اللاعب <[EQ] x٪
+
+# FerrisAIO المنشط دفاعي الفداء
+ferrisaio.activator.defensive.redemption.enabled=ممكّن
+ferrisaio.activator.defensive.redemption.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.defensive.redemption.healthpercent=عندما تكون نسبة صحة اللاعب <[EQ] x٪
+ferrisaio.activator.defensive.redemption.calculatedamage=حساب الضرر الوارد
+ferrisaio.activator.defensive.redemption.damagepercent=نسبة الضرر الوارد> [EQ] x٪
+ferrisaio.activator.defensive.redemption.damagetime=الضرر الوارد حساب الوقت (مللي ثانية)
+
+# FerrisAIO.Activator.Defensive.GargoyleStoneplate
+ferrisaio.activator.defensive.gargoylestoneplate.enabled=ممكّن
+ferrisaio.activator.defensive.gargoylestoneplate.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.defensive.gargoylestoneplate.healthpercent=عندما تكون نسبة صحة اللاعب <[EQ] x٪
+ferrisaio.activator.defensive.gargoylestoneplate.calculatedamage=حساب الضرر الوارد
+ferrisaio.activator.defensive.gargoylestoneplate.damagepercent=نسبة الضرر الوارد> [EQ] x٪
+ferrisaio.activator.defensive.gargoylestoneplate.damagetime=الضرر الوارد حساب الوقت (مللي ثانية)
+
+# FerrisAIO. المنشط. هجوم
+ferrisaio.activator.offensive.prowlersclaw=مخلب براولر
+ferrisaio.activator.offensive.everfrost=Everfrost
+ferrisaio.activator.offensive.galeforce=Galeforce
+ferrisaio.activator.offensive.hextechprotobelt01=Hextech Protobelt-01
+ferrisaio.activator.offensive.stridebreaker=Stridebreaker
+ferrisaio.activator.offensive.ironspikewhip=Ironspike Whip
+ferrisaio.activator.offensive.goredrinker=Goredrinker
+ferrisaio.activator.offensive.youmuughostblade=شفرة شبح Youmuu
+
+# FerrisAIO.Activator.Offensive.ProwlersClaw
+ferrisaio.activator.offensive.prowlersclaw.enabled=ممكّن
+ferrisaio.activator.offensive.prowlersclaw.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.offensive.prowlersclaw.dontprowlersundertower=لا تستخدم تحت البرج
+ferrisaio.activator.offensive.prowlersclaw.enemyhealthpercent=عند النسبة الصحية المستهدفة <[EQ] x٪
+
+# FerrisAIO. المنشط. الهجوم. الصقيع
+ferrisaio.activator.offensive.everfrost.enabled=ممكّن
+ferrisaio.activator.offensive.everfrost.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.offensive.everfrost.enemyhealthpercent=عند النسبة الصحية المستهدفة <[EQ] x٪
+
+# FerrisAIO. المنشط. الهجوم. القوة
+ferrisaio.activator.offensive.galeforce.enabled=ممكّن
+ferrisaio.activator.offensive.galeforce.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.offensive.galeforce.enemyhealthpercent=عند النسبة الصحية المستهدفة <[EQ] x٪
+
+# FerrisAIO.Activator.Offensive.HextechProtobelt01
+ferrisaio.activator.offensive.hextechprotobelt01.enabled=ممكّن
+ferrisaio.activator.offensive.hextechprotobelt01.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.offensive.hextechprotobelt01.enemyhealthpercent=عندما تكون النسبة المئوية للصحة الهدف <[EQ] x٪
+
+# FerrisAIO.Activator.Offensive.Stridebreaker
+ferrisaio.activator.offensive.stridebreaker.enabled=ممكّن
+ferrisaio.activator.offensive.stridebreaker.combo=استخدم في كومبو
+ferrisaio.activator.offensive.stridebreaker.jungle=استخدم في JungleClear
+
+# FerrisAIO.Activator.edensive .ronspikeWhip
+ferrisaio.activator.offensive.ironspikewhip.enabled=ممكّن
+ferrisaio.activator.offensive.ironspikewhip.combo=استخدم على كومبو
+ferrisaio.activator.offensive.ironspikewhip.jungle=استخدم في JungleClear
+ferrisaio.activator.offensive.ironspikewhip.isurf2=استخدم بشكل أكثر نشاطًا على URF
+
+# FerrisAIO. المنشط. الهجوم. الشارب
+ferrisaio.activator.offensive.goredrinker.enabled=ممكّن
+ferrisaio.activator.offensive.goredrinker.combo=استخدم في الكومبو
+ferrisaio.activator.offensive.goredrinker.jungle=استخدم في JungleClear
+ferrisaio.activator.offensive.goredrinker.isurf2=استخدم بشكل أكثر نشاطًا على URF
+
+# FerrisAIO.Activator.Offensive .YoumuuGhostblade
+ferrisaio.activator.offensive.youmuughostblade.enabled=ممكّن
+ferrisaio.activator.offensive.youmuughostblade.onlycombo=فقط كومبو نشط
+
+# FerrisAIO.Autivator.AutoZhonya
+ferrisaio.activator.autozhonya.spellblock=كتلة تعويضية
+ferrisaio.activator.autozhonya.enabled=ممكّن
+ferrisaio.activator.autozhonya.lowhealth=استخدام على نقاط صحة منخفضة
+ferrisaio.activator.autozhonya.healthpercent=^ نسبة صحة اللاعب <[EQ] x٪
+
+# FerrisAIO.Activator.AutoCleanse
+ferrisaio.activator.autocleanse ._______ sep1=نعم يستخدم هذا أيضًا لـ QSS!
+ferrisaio.activator.autocleanse ._______ sep2=معطل افتراضيًا بسبب الأداء الضعيف
+ferrisaio.activator.autocleanse.bufftype=نوع بوف
+ferrisaio.activator.autocleanse.bufftarget=بوف الهدف
+ferrisaio.activator.autocleanse.enabled_=Enabled_
+ferrisaio.activator.autocleanse.miniduration=أدنى مدة بوف (مللي ثانية)
+ferrisaio.activator.autocleanse.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.autocleanse.onlylowhealth=نسبة صحية منخفضة فقط
+ferrisaio.activator.autocleanse.healthpercent=^ Min HealthPercent <[EQ] x٪
+ferrisaio.activator.autocleanse.allowally=السماح بتشكيل الحلفاء
+ferrisaio.activator.autocleanse.antiexaust=استخدم عند الإرهاق
+ferrisaio.activator.autocleanse.healthpercentexaust=^ HealthPercent> [EQ] x٪
+ferrisaio.activator.autocleanse.antikill=استخدم عند الاشتعال / التسمم / DOT سيقتل ولا يوجد أعداء قريبون
+
+# FerrisAIO.Activator.AutoCleanse.BuffType
+ferrisaio.activator.autocleanse.bufftype.cleanseblind=مكفوفين
+ferrisaio.activator.autocleanse.bufftype.cleansecharm=سحر
+ferrisaio.activator.autocleanse.bufftype.cleansedamage=الضرر
+ferrisaio.activator.autocleanse.bufftype.cleansefear=خوف
+ferrisaio.activator.autocleanse.bufftype.cleanseflee=الفرار
+ferrisaio.activator.autocleanse.bufftype.cleansepolymorph=متعدد الأشكال
+ferrisaio.activator.autocleanse.bufftype.cleansesilence=صمت
+ferrisaio.activator.autocleanse.bufftype.cleanseslow=بطيء
+ferrisaio.activator.autocleanse.bufftype.cleansesnare=كمين
+ferrisaio.activator.autocleanse.bufftype.cleansestun=صاعقة
+ferrisaio.activator.autocleanse.bufftype.cleansesuppression=قمع
+ferrisaio.activator.autocleanse.bufftype.cleansetaunt=تهكم
+ferrisaio.activator.autocleanse.bufftype.cleanseasleep=نائم
+
+# FerrisAIO.Activator.AutoCleanse.BuffTarget
+ferrisaio.activator.autocleanse.bufftarget.cleanseon1073741853=Teemo
+
+# FerrisAIO.Activator.SummonerSpell
+ferrisaio.activator.summonerspell.barrier=حاجز
+ferrisaio.activator.summonerspell.exhaust=العادم
+ferrisaio.activator.summonerspell.heal=شفاء
+ferrisaio.activator.summonerspell.ignite=إشعال
+ferrisaio.activator.summonerspell.smiteslot=Smite
+ferrisaio.activator.summonerspell.spellbookslot=UltimateSpellbook
+
+# FerrisAIO.Activator.SummonerSpell.barrier
+ferrisaio.activator.summonerspell.barrier.enabled=ممكّن
+ferrisaio.activator.summonerspell.barrier.healthpercent=عندما تكون نسبة صحة اللاعب <[EQ] x٪
+ferrisaio.activator.summonerspell.barrier.calculatedamage=حساب الضرر الوارد
+ferrisaio.activator.summonerspell.barrier.damagepercent=نسبة الضرر الوارد> [EQ] x٪
+
+# FerrisAIO.Activator.SummonerSpell.Exhaust
+ferrisaio.activator.summonerspell.exhaust.enabled=ممكّن
+ferrisaio.activator.summonerspell.exhaust.healthpercent=عندما تكون نسبة صحة اللاعب <[EQ] x٪
+ferrisaio.activator.summonerspell.exhaust.onlycombo=تنشيط كومبو فقط
+ferrisaio.activator.summonerspell.exhaust.alwayscast=يلقي دائمًا على الهدف
+ferrisaio.activator.summonerspell.exhaust.alwayscast2=تمكين منطق الصب الفردي
+
+# FerrisAIO.Activator.SummonerSpell.Heal
+ferrisaio.activator.summonerspell.heal.healtarget=شفاء الهدف
+ferrisaio.activator.summonerspell.heal.enabled=ممكّن
+ferrisaio.activator.summonerspell.heal.healthpercent=عند Ally HealthPercent <[EQ] x٪
+ferrisaio.activator.summonerspell.heal.calculatedamage=حساب الضرر الوارد
+ferrisaio.activator.summonerspell.heal.damagepercent=نسبة الضرر الوارد> [EQ] x٪
+ferrisaio.activator.summonerspell.heal.damagetime=الضرر الوارد حساب الوقت (مللي ثانية)
+
+# FerrisAIO.Activator.SummonerSpell.Heal.HealTarget
+ferrisaio.activator.summonerspell.heal.healtarget.heal_1073741853=Teemo
+
+# FerrisAIO.Activator.SummonerSpell.Agnite
+ferrisaio.activator.summonerspell.ignite.enabled=ممكّن
+ferrisaio.activator.summonerspell.ignite.killsteal=متى يمكن قتل الهدف
+ferrisaio.activator.summonerspell.ignite.comboonly=فقط خلال الكومبو
+ferrisaio.activator.summonerspell.ignite.preventusewhenkillableaa=[KillSteal] منع إهدار الإشعال عندما يكون الهدف قابلاً للقتل باستخدام 1 AA
+ferrisaio.activator.summonerspell.ignite .______ sep3=^ فقط لأبطال المشاجرة
+ferrisaio.activator.summonerspell.ignite.killableaaflash=^ فقط في حالة عدم وجود وميض للهدف
+ferrisaio.activator.summonerspell.ignite.preventonaarangetarget=[KillSteal] لا تستخدم عندما يكون العدو في نطاق AA 
+ferrisaio.activator.summonerspell.ignite.rangeaaflash=^ فقط في حالة تعذر وميض الهدف خارج نطاق الإشعال
+ferrisaio.activator.summonerspell.ignite .______ sep2=^ فقط لأبطال المشاجرة
+ferrisaio.activator.summonerspell.ignite.lowhealthandcombo=استخدم في التحرير والسرد عند الهدف HealthPercent <[EQ] x٪
+
+# FerrisAIO.Activator.SummonerSpell.SmiteSlot
+ferrisaio.activator.summonerspell.smiteslot.smitetarget=هدف ضارب
+ferrisaio.activator.summonerspell.smiteslot.enabled=ممكّن
+ferrisaio.activator.summonerspell.smiteslot.combo=استخدم على كومبو
+ferrisaio.activator.summonerspell.smiteslot.combostack=^ 2 مكدس فقط
+ferrisaio.activator.summonerspell.smiteslot.killable=استخدم عند القتل
+ferrisaio.activator.summonerspell.smiteslot.drawrange=رسم نطاق الضرب
+ferrisaio.activator.summonerspell.smiteslot.drawstate=رسم حالة الضربة القاضية
+
+# FerrisAIO.Activator.SummonerSpell .miteSlot.SmiteTarget
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_baron=بارون ناشور
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_riftherald=ريفت هيرالد
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_elder=التنين الأكبر
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_chemtech=Chemtech Dragon
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_hextech=Hextech Dragon
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_water=تنين الماء
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_fire=Fire Dragon
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_earth=تنين الأرض
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_air=تنين الهواء
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_blue=الحارس الأزرق
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_red=أحمر Brambleback
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_razorbeak=قرمزي رابتور
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_murkwolf=الذئب الكبير
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_krug=Krug القديمة
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_gromp=Gromp
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_crab=Rift Scuttler
+
+# FerrisAIO.Activator.SummonerSpell.SpellbookSlot
+ferrisaio.activator.summonerspell.spellbookslot.enableultimatespellbook=ممكّن
+ferrisaio.activator.summonerspell.spellbookslot.enablenolag=وضع التأخير المنخفض
+ferrisaio.activator.summonerspell.spellbookslot.sylasrspellnames=SpellNames
+
+# FerrisAIO.Activator
+ferrisaio.activator.turnaround.enabled=ممكّن
+ferrisaio.activator.turnaround.cassiopeiar=تجنب Cassiopeia R.
+ferrisaio.activator.turnaround.tryndamerew=تجنب Tryndamere W.
+
+# FerrisAIO.Activator.AutoLantern
+ferrisaio.activator.autolantern.autocatch=فانوس اصطياد الحليف
+ferrisaio.activator.autolantern.enabledcatch=ممكّن
+ferrisaio.activator.autolantern.onlykey=المفتاح الوحيد النشط
+ferrisaio.activator.autolantern.catchkey=امسك مفتاح الفانوس
+ferrisaio.activator.autolantern.catchhealth=عندما تكون نسبة صحة اللاعب> [EQ] x٪
+ferrisaio.activator.autolantern.autoward=Cast Ward على فانوس العدو
+ferrisaio.activator.autolantern.enabledward=ممكّن
+ferrisaio.activator.autolantern.wardkey=Cast Ward على مفتاح الفانوس
+ferrisaio.activator.autolantern.warddelay=Cast Ward Delay
+
+# FerrisAIO. الوعي
+ferrisaio.awareness.attackrange=نطاق الهجوم
+ferrisaio.awareness.autoward=حراسة السيارات
+ferrisaio.awareness.cooldowntrack=مسار التهدئة
+ferrisaio.awareness.experiencetrack=مسار الخبرة
+ferrisaio.awareness.gankalert=تنبيه Gank
+ferrisaio.awareness.hudtrack=Hud Track
+ferrisaio.awareness.inhibitortime=وقت المانع
+ferrisaio.awareness.jungletime=وقت الغابة
+ferrisaio.awareness.lastposition=آخر مركز
+ferrisaio.awareness.recalltrack=أذكر المسار
+ferrisaio.awareness.turrethealth=صحة البرج
+ferrisaio.awareness.turretrange=نطاق هجوم البرج
+ferrisaio.awareness.wardtrack=مسار الجناح
+ferrisaio.awareness.waypoints=نقاط الطريق
+ferrisaio.awareness.fowtracker_v2=FOW Baron / Dragon Tracker
+
+# FerrisAIO. الوعي. نطاق الهجوم
+ferrisaio.awareness.attackrange.enabled=ممكن
+ferrisaio.awareness.attackrange.ally=ارسم حليف
+ferrisaio.awareness.attackrange.allycolor=^ Ally Color
+ferrisaio.awareness.attackrange.enemy=ارسم العدو
+ferrisaio.awareness.attackrange.enemycolor=^ لون العدو
+
+# FerrisAIO. وعي. تلقائي
+ferrisaio.awareness.autoward.enabled=ممكّن
+ferrisaio.awareness.autoward.onlycombo=فقط كومبو نشط
+ferrisaio.awareness.autoward.buyblue=شراء السيارات الزرقاء Trinket
+ferrisaio.awareness.autoward.bushward=Auto Bush Ward
+ferrisaio.awareness.autoward.bushpinkward=^ استخدم Pink Ward
+ferrisaio.awareness.autoward.antisteal=مكافحة السرقة
+ferrisaio.awareness.autoward.maxmissingtime=لا تحذر إذا فقدت أكثر من x ثانية
+
+# FerrisAIO.Awareness.CooldownTrack
+ferrisaio.awareness.cooldowntrack.enabled=ممكّن
+ferrisaio.awareness.cooldowntrack.ally=ارسم حليف
+ferrisaio.awareness.cooldowntrack.enemy=ارسم العدو
+ferrisaio.awareness.cooldowntrack.self=ارسم ذاتيًا
+
+# FerrisAIO.Awareness.ExperienceTrack
+ferrisaio.awareness.experiencetrack.enabled=ممكّن
+ferrisaio.awareness.experiencetrack.ally=ارسم حليف
+ferrisaio.awareness.experiencetrack.enemy=ارسم العدو
+ferrisaio.awareness.experiencetrack.self=ارسم ذاتيًا
+
+# FerrisAIO.Awareness.GankAlert
+ferrisaio.awareness.gankalert.enabled=ممكّن
+ferrisaio.awareness.gankalert.onlyjungle=الغابة فقط
+ferrisaio.awareness.gankalert.minrange=أقل مدى مسافة> [EQ] x
+ferrisaio.awareness.gankalert.maxrange=أقصى مدى للمسافة <[EQ] x
+
+# FerrisAIO. الوعي. HudTrack
+ferrisaio.awareness.hudtrack.horizontal=نمط أفقي
+ferrisaio.awareness.hudtrack.vertical=النمط الرأسي
+ferrisaio.awareness.hudtrack.style=ارسم النمط
+ferrisaio.awareness.hudtrack.enabled=ممكّن
+
+# FerrisAIO. الوعي. HudTrack. أفقي
+ferrisaio.awareness.hudtrack.horizontal.horizontalxoffsets=تعويضات X
+ferrisaio.awareness.hudtrack.horizontal.horizontalyoffsets=Y Offsets
+
+# FerrisAIO. الوعي. HudTrack. عمودي
+ferrisaio.awareness.hudtrack.vertical.verticalxoffsets=تعويضات X
+ferrisaio.awareness.hudtrack.vertical.verticalyoffsets=Y Offsets
+ferrisaio.awareness.hudtrack.vertical.verticalpos=وضع تعويذة المستدعي
+
+# FerrisAIO. الوعي. الوقت المانع
+ferrisaio.awareness.inhibitortime.enabled=ممكّن
+ferrisaio.awareness.inhibitortime.minimap=على الخريطة المصغرة
+ferrisaio.awareness.inhibitortime.minimapdraw=ارسم على خريطة مصغرة
+ferrisaio.awareness.inhibitortime.minimapfontsize=حجم الخط
+ferrisaio.awareness.inhibitortime.map=على الخريطة المصغرة
+ferrisaio.awareness.inhibitortime.mapdraw=ارسم على الخريطة
+ferrisaio.awareness.inhibitortime.mapfontsize=حجم الخط
+
+# FerrisAIO. الوعي. وقت الغابة
+ferrisaio.awareness.jungletime.enabled=ممكّن
+ferrisaio.awareness.jungletime.minimap=على الخريطة المصغرة
+ferrisaio.awareness.jungletime.minimapdraw=ارسم على خريطة مصغرة
+ferrisaio.awareness.jungletime.minimapformat=تنسيق الوقت: 
+ferrisaio.awareness.jungletime.minimapfontsize=حجم الخط
+ferrisaio.awareness.jungletime.map=على الخريطة
+ferrisaio.awareness.jungletime.mapdraw=ارسم على الخريطة
+ferrisaio.awareness.jungletime.mapformat=تنسيق الوقت: 
+ferrisaio.awareness.jungletime.mapfontsize=حجم الخط
+
+# FerrisAIO. الوعي. آخر موقف
+ferrisaio.awareness.lastposition.enabled=ممكّن
+ferrisaio.awareness.lastposition.sstime=ارسم وقت SS
+ferrisaio.awareness.lastposition.sscircle=ارسم دائرة SS
+ferrisaio.awareness.lastposition.ssback __=رسم مؤشر الدعم
+ferrisaio.awareness.lastposition.urf_drawcannonpositions=رسم مؤشر موضع المدفع URF
+
+# FerrisAIO. الوعي. RecallTrack
+ferrisaio.awareness.recalltrack.enabled=ممكّن
+ferrisaio.awareness.recalltrack.xoffsets=X Offsets
+ferrisaio.awareness.recalltrack.yoffsets=Y Offsets
+
+# FerrisAIO.Awareness.TurretHealth
+ferrisaio.awareness.turrethealth.enabled=ممكّن
+ferrisaio.awareness.turrethealth.style_=ارسم النمط
+ferrisaio.awareness.turrethealth.fontsize=حجم الخط
+
+# FerrisAIO.Awareness.TurretRange
+ferrisaio.awareness.turretrange.enabled=ممكّن
+ferrisaio.awareness.turretrange.ally=ارسم نطاق هجوم برج الحليف
+ferrisaio.awareness.turretrange.allycolor=^ Ally Turret Attack Color
+ferrisaio.awareness.turretrange.enemy=ارسم نطاق هجوم برج العدو
+ferrisaio.awareness.turretrange.enemycolor=^ لون هجوم برج العدو
+ferrisaio.awareness.turretrange.extendrange=قم بتوسيع نطاق البرج بمقدار
+
+# FerrisAIO.Wareness.WardTrack
+ferrisaio.awareness.wardtrack.enabled=ممكّن
+ferrisaio.awareness.wardtrack.showowner=عرض المالك
+ferrisaio.awareness.wardtrack.pingvision=رؤية بينج
+ferrisaio.awareness.wardtrack.pingdelay=Ping Delay
+ferrisaio.awareness.wardtrack.wardpositionhelper_2=إظهار موضع الموضع على المفتاح
+ferrisaio.awareness.wardtrack.wardvisionhelper=إظهار مناطق رؤية وارد
+ferrisaio.awareness.wardtrack.quality=الجودة
+ferrisaio.awareness.wardtrack.key=HotKey + Left Click Remove
+
+# FerrisAIO. الوعي. نقاط الطريق
+ferrisaio.awareness.waypoints.enabled_=ممكّن
+ferrisaio.awareness.waypoints.cross=Cross Color
+ferrisaio.awareness.waypoints.line=لون الخط
+ferrisaio.awareness.waypoints.aproximateposition=لون المركز المتوقع
+ferrisaio.awareness.waypoints.recalcdelay=تأخير إعادة الحساب
+ferrisaio.awareness.waypoints ._____ 0001wp=^ يزيد FPS بقيمة أعلى!
+ferrisaio.awareness.waypoints.ally=ارسم حليف
+ferrisaio.awareness.waypoints.enemy=ارسم العدو
+ferrisaio.awareness.waypoints.self=ارسم الذات
+ferrisaio.awareness.waypoints.map=الرسم على الخريطة
+
+# FerrisAIO.Awareness.FOWTracker_v2
+ferrisaio.awareness.fowtracker_v2.enabled=ممكّن
+ferrisaio.awareness.fowtracker_v2.pinglocation=موقع Ping
+ferrisaio.awareness.fowtracker_v2.sendchatmessage=أرسل محادثة إلى الفريق
+ferrisaio.awareness.fowtracker_v2.sendchatlocal=اطبع في محادثة العميل
+ferrisaio.awareness.fowtracker_v2.sendpinglocal=أصوات تنبيه بطريقة يمكنك أنت فقط رؤيتها
+
+# FerrisAIO.FPred
+ferrisaio.fpred ._____ sp2=التلقائي قيد الاختبار
+ferrisaio.fpred ._____ sp3=أبلغني عن أخطاء ومشكلات على Telegram <3
+ferrisaio.fpred.predictonlist1=طريقة التنبؤ الافتراضية
+ferrisaio.fpred.predictonlistq=طريقة التنبؤ س
+ferrisaio.fpred.qhitchance=Q فرصة الإصابة
+ferrisaio.fpred.predictonlistw=طريقة التنبؤ W
+ferrisaio.fpred.whitchance=فرصة ضرب W
+ferrisaio.fpred.predictonliste=طريقة التنبؤ هـ
+ferrisaio.fpred.ehitchance=فرصة ضرب E
+ferrisaio.fpred.predictonlistr=طريقة التنبؤ R
+ferrisaio.fpred.rhitchance=R فرصة الإصابة
+ferrisaio.fpred.spredwindup=تحقق من إنهاء AA الهدف
+ferrisaio.fpred.spredmaxrangeignore=تجاهل مراوغة المدى الأقصى (٪)
+ferrisaio.fpred.spredreactiondelay=تجاهل تأخير الوصول
+ferrisaio.fpred.spreddelay=تأخير التهجئة
+ferrisaio.fpred.spreddrawings=تمكين الرسومات
+ferrisaio.fpred.spredaccuracy_=السماح بتوقع AOE
+ferrisaio.fpred.waypointanalysis=تحليل نقطة الطريق
+ferrisaio.fpred.predmaxrange=أقصى مدى٪
+
+# FerrisAIO.BaseUlt
+ferrisaio.baseult.baseult=تمكين Base Ult
+ferrisaio.baseult.checkcollision=تحقق من التصادم
+ferrisaio.baseult.panickey=No Ult أثناء الضغط على المفتاح
+ferrisaio.baseult.regardlesskey=Ult بغض النظر عن القتل (الانتظار)
+ferrisaio.baseult.team baseult أصدقاء=TeamUlt
+أهداف بطل ferrisaio.baseult.disabled=DisabledChampions
+
+# FerrisAIO.AutoLevel
+ferrisaio.autolevel.enable.teemo=ممكّن
+ferrisaio.autolevel.autolevelstart.teemo=ابدأ بعد المستوى
+ferrisaio.autolevel.customs2.teemo=السماح بجمارك البرنامج النصي
+ferrisaio.autolevel.primaryorder.teemo=ترتيب مستوى تلقائي
+ferrisaio.autolevel.earlyorder.teemo=ترتيب المستويات الثلاثة الأولى
+
+# FerrisAIO.SkinChanger
+ferrisaio.skinchanger.enabled=ممكّن
+ferrisaio.skinchanger.championteemo=الجلد البطل
+ferrisaio.skinchanger.ward=جلد وارد
+ferrisaio.skinchanger.minion=مظهر العميل
+
+# FerrisAIO.SkinChanger.ChampionTeemo
+ferrisaio.skinchanger.championteemo.userandom=استخدم الجلد العشوائي إذا لم يتم ضبط الجلد
+ferrisaio.skinchanger.championteemo.usesliderf=استخدام قيمة شريط التمرير
+ferrisaio.skinchanger.championteemo.forceenemiestodefualt=إجبار الأعداء على المظهر الافتراضي
+ferrisaio.skinchanger.championteemo.forcealliestodefualt=إجبار الحلفاء على المظهر الافتراضي
+ferrisaio.skinchanger.championteemo.skinname=الجلد
+ferrisaio.skinchanger.championteemo.chromaid=Chorma
+ferrisaio.skinchanger.championteemo.skinid=معرف الجلد: 
+
+# FerrisAIO.SkinChanger.Ward
+ferrisaio.skinchanger.ward.wardsenabled=تمكين مغير الجناح
+ferrisaio.skinchanger.ward.userandom=استخدم الجلد العشوائي إذا لم يتم ضبط الجلد
+ferrisaio.skinchanger.ward.usesliderf=استخدام قيمة شريط التمرير
+ferrisaio.skinchanger.ward.skinid=معرف الجلد:
+ferrisaio.skinchanger.ward.wardid1=معرف الجناح الحقيقي: ضع جناحًا للبحث عنه!
+
+# FerrisAIO.SkinChanger.Minion
+ferrisaio.skinchanger.minion.minionskin=معرف مظهر العميل: 
+ferrisaio.skinchanger.minion.towerchaosskin=معرف مظهر برج الفوضى: 
+ferrisaio.skinchanger.minion.towerorderskin=رقم تعريف مظهر برج الطلب: 
+ferrisaio.skinchanger.minion.baronskin=معرف مظهر البارون: 
+ferrisaio.skinchanger.minion.dragonskin=معرف مظهر التنين: 
+ferrisaio.skinchanger.minion.heraldskin=معرف Herald Skin: 
+ferrisaio.skinchanger.minion.crabskin=معرّف Skuttle Skin ID: 
+ferrisaio.skinchanger.minion.redskin=معرف مظهر RedBuff: 
+ferrisaio.skinchanger.minion.blueskin=معرف مظهر BlueBuff: 
+ferrisaio.skinchanger.minion.blastcone=معرف مظهر BlastCone: 
+ferrisaio.skinchanger.minion.visionplant=Scryers Skin ID: 
+ferrisaio.skinchanger.minion.healthplant=معرّف الجلد لفاكهة العسل: 
+
+# FerrisAIO
+ferrisaio.exploits.maphack=اختراق رؤية FOW
+ferrisaio.exploits.packettracker=تعقب الحزم
+
+# FerrisAIO.Exploits.MapHack
+ferrisaio.exploits.maphack.enabled=ممكّن
+ferrisaio.exploits.maphack.glow=استخدم الوهج
+ferrisaio.exploits.maphack .____ s_1=سيظهر هذا أحيانًا أبطال العدو في ضباب الحرب
+ferrisaio.exploits.maphack .____ s_2=إنه شبه عشوائي حول متى سيعمل ولكن بعض الحالات يمكن أن تسبب ذلك
+ferrisaio.exploits.maphack .____ s_4=لديك رؤية في حدود 1000 وحدة عندما يلقيون تعويذة في FOW
+ferrisaio.exploits.maphack .____ s_5=تقوم الرسوم المتحركة العالمية بإرسال قائمة بالأبطال القريبين ومواقعهم
+ferrisaio.exploits.maphack .____ s_6=نوبات تولد كائنًا في FOW مثل كرة الثلج Nunu
+
+# FerrisAIO.Exploits.PacketTracker
+ferrisaio.exploits.packettracker .____ s_1=لا يزال هذا العمل قيد التقدم ، وتوقع الأخطاء
+ferrisaio.exploits.packettracker .____ s_3=يعتمد أيضًا على ملف dll الأصلي الخاص بي ليتم تحديثه للدوري
+ferrisaio.exploits.packettracker .____ s_4=على هذا النحو إذا لم أقم بتحديث تجميع إصدار الدوري هذا ، فلن يعمل هذا!
+ferrisaio.exploits.packettracker .____ s_5 => مُحدَّث لـ 12.1.416.4011
+ferrisaio.exploits.packettracker.information=معلومات
+ferrisaio.exploits.packettracker.pingsettings=Ping (من جانب العميل)
+ferrisaio.exploits.packettracker.packetdata12.1=معلومات الحزمة
+ferrisaio.exploits.packettracker.devstuff=Dev Stuff
+
+# FerrisAIO.Exploits.PacketTracker.Information
+ferrisaio.exploits.packettracker.information .____ s_1=هذا استغلال يمكن أن يظهر في بعض الأحيان
+ferrisaio.exploits.packettracker.information .____ s_2=عند مهاجمة الوحوش في ميدان القتال
+ferrisaio.exploits.packettracker.information .____ s_3=عند الكشف عنها ، ستظهر اختبار الاتصال من جانب العميل
+ferrisaio.exploits.packettracker.information .____ s_4=على موقع الوحوش
+
+# FerrisAIO.Exploits.PacketTracker.PingSettings
+ferrisaio.exploits.packettracker.pingsettings.pingattacked=تم الهجوم على المعسكر
+ferrisaio.exploits.packettracker.pingsettings.pingattacking=هجوم على المعسكر
+ferrisaio.exploits.packettracker.pingsettings.pingdisengaging=فك الارتباط في المعسكر
+ferrisaio.exploits.packettracker.pingsettings.pingsoundall=تشغيل الأصوات
+ferrisaio.exploits.packettracker.pingsettings.pingsoundfirst=تشغيل الصوت فقط عند أول ping
+ferrisaio.exploits.packettracker.pingsettings.pingdelay=ثواني تأخير Ping
+
+# FerrisAIO.Exploits.PacketTracker.packetdata12.1
+ferrisaio.exploits.packettracker.packetdata12.1 .____ s_1=ستظهر هذه القيم تلقائيًا
+ferrisaio.exploits.packettracker.packetdata12.1 .____ s_2=حيث تم العثور عليها أثناء هذا التصحيح
+ferrisaio.exploits.packettracker.packetdata12.1.headeronattack2=Header OnAttack
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmissilehit2=Header OnMissileHit
+ferrisaio.exploits.packettracker.packetdata12.1.headerondisengaged=الرأس قيد التشغيل
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmonsterskill=Header OnMonsterSkill
+ferrisaio.exploits.packettracker.packetdata12.1 .____ s_5=رؤوس من التصحيح 12.1
+ferrisaio.exploits.packettracker.packetdata12.1.forcefindheaders=محاولة إعادة حساب الرؤوس تلقائيًا!
+
+# FerrisAIO.Exploits.PacketTracker.DevStuff
+ferrisaio.exploits.packettracker.devstuff.blacklistincomming=الحزم الواردة في القائمة السوداء
+ferrisaio.exploits.packettracker.devstuff.clearblacklist=مسح القائمة السوداء
+ferrisaio.exploits.packettracker.devstuff.printblacklist=طباعة القائمة السوداء
+ferrisaio.exploits.packettracker.devstuff.drawnetworkid=رسم معرف شبكة Mob
+ferrisaio.exploits.packettracker.devstuff.packetdebug=تصحيح أخطاء الحزمة
+ferrisaio.exploits.packettracker.devstuff.onlyfow=تصحيح أخطاء FOW فقط
+ferrisaio.exploits.packettracker.devstuff.debugmode=وضع التصحيح
+
+# FerrisAIO
+ferrisaio.utilities.preventafk=منع ركلة AFK
+ferrisaio.utilities.autoquit=إنهاء تلقائي
+ferrisaio.utilities.goldtracker=متعقب الذهب
+ferrisaio.utilities.namechanger=مغير الاسم
+ferrisaio.utilities.emotespammer=Emote Spammer
+ferrisaio.utilities.chatspam=الدردشة المزعجة
+ferrisaio.utilities.sharedexperience=تجربة مشتركة (معطل مؤقتًا)
+ferrisaio.utilities.mmrtracker=مدقق MMR
+ferrisaio.utilities.aatilt=AA Tilter
+ferrisaio.utilities.spellalterer_v2=التنبيه الإملائي
+ferrisaio.utilities.antitilt=مانع الإمالة
+
+# FerrisAIO.Utilities.AutoQuit
+ferrisaio.utilities.autoquit.enable=إنهاء تلقائي بعد انتهاء اللعبة
+ferrisaio.utilities.autoquit.delay=انتظر × ثانية
+
+# FerrisAIO.Utilities.GoldTracker
+ferrisaio.utilities.goldtracker.enable=تمكين تعقب الذهب
+ferrisaio.utilities.goldtracker.drawteamgold=ارسم ذهب الفريق
+ferrisaio.utilities.goldtracker.drawplayergold=سحب البطل الذهبي
+ferrisaio.utilities.goldtracker.textcolor=لون النص
+ferrisaio.utilities.goldtracker .____ s_1=--- [EQ] لم ينته بعد [EQ] ---
+ferrisaio.utilities.goldtracker.trackstats=تتبع قيمة الإحصاء بدلاً من الذهب المكتسب
+ferrisaio.utilities.goldtracker.stattextcolor=Stat Text Color
+
+# FerrisAIO.Utilities.NameChanger
+ferrisaio.utilities.namechanger.enablechanger=تمكين
+ferrisaio.utilities.namechanger.copy=تعيين الاسم من الحافظة
+ferrisaio.utilities.namechanger .____ nc_0001=FerrisAIO
+ferrisaio.utilities.namechanger.nametype=نوع العرض
+
+# FerrisAIO.Utilities.EmoteSpammer
+ferrisaio.utilities.emotespammer.kill=تمكين عند القتل
+ferrisaio.utilities.emotespammer.selectitem=فتحة التعبيرات
+
+# FerrisAIO.Utilities.ChatSpam
+ferrisaio.utilities.chatspam.enabled=ممكّن
+ferrisaio.utilities.chatspam.binds=KeyBinds
+ferrisaio.utilities.chatspam.method=الطرق
+ferrisaio.utilities.chatspam.clipboard=إعدادات الحافظة
+ferrisaio.utilities.chatspam.delay=تأخير بالمللي ثانية
+ferrisaio.utilities.chatspam.debug=وضع الاختبار (يطبع فقط على الدردشة وليس على الخادم)
+
+# FerrisAIO.Utilities.ChatSpam.enabled
+ferrisaio.utilities.chatspam.enabled.kill=تمكين عند القتل
+ferrisaio.utilities.chatspam.enabled.gameend=تمكين في نهاية اللعبة
+ferrisaio.utilities.chatspam.enabled.ondeath=تمكين عند الموت
+ferrisaio.utilities.chatspam.enabled.all=كل الدردشة
+ferrisaio.utilities.chatspam.enabled.deathcheck=فقط عند القتل> الوفيات
+ferrisaio.utilities.chatspam.enabled.disablewhiledead=تعطيل أثناء الموت
+ferrisaio.utilities.chatspam.enabled.spammed=إظهار المبلغ الذي تم إرساله بالبريد العشوائي
+
+# FerrisAIO.Utilities.ChatSpam.binds
+ferrisaio.utilities.chatspam.binds.bind=مفتاح البريد العشوائي (تعليق)
+ferrisaio.utilities.chatspam.binds.bind2=مفتاح البريد العشوائي (تبديل)
+
+# FerrisAIO.Utilities.ChatSpam.method
+ferrisaio.utilities.chatspam.method.modehold=تعليق وضع البريد العشوائي
+ferrisaio.utilities.chatspam.method.slothold=فتحة الحافظة للتعليق
+ferrisaio.utilities.chatspam.method.modepress=تبديل وضع البريد العشوائي
+ferrisaio.utilities.chatspam.method.slotpress=فتحة الحافظة للتبديل
+ferrisaio.utilities.chatspam.method.modekill=في وضع القتل
+ferrisaio.utilities.chatspam.method.slotkill=فتحة الحافظة لـ OnKill
+ferrisaio.utilities.chatspam.method.modegameend=في وضع نهاية اللعبة
+ferrisaio.utilities.chatspam.method.slotgameend=فتحة الحافظة لنهاية اللعبة
+ferrisaio.utilities.chatspam.method.modedeath=في اللعبة عند الموت
+ferrisaio.utilities.chatspam.method.slotdeath=فتحة الحافظة عند الموت
+
+# FerrisAIO.Utilities.ChatSpam.Clipboard
+ferrisaio.utilities.chatspam.clipboard.copy=نسخ إلى الفتحة المحددة من الحافظة
+ferrisaio.utilities.chatspam.clipboard.copyslot=فتحة لنسخ النص إلى
+ferrisaio.utilities.chatspam.clipboard .____ cb_0001=1: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0002=2: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0003=3: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0004=4: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0005=5: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0006=6: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0007=7: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0008=8: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0009=9: 
+ferrisaio.utilities.chatspam.clipboard .____ cb_0010=10: 
+
+# FerrisAIO. مرافق. خبرة مشتركة
+ferrisaio.utilities.sharedexperience.enabled_=ممكّن
+ferrisaio.utilities.sharedexperience.showenemies=رسم نص على العدو
+ferrisaio.utilities.sharedexperience.onlyshowinv=رسم النص فقط عندما لا يكون مرئيًا
+ferrisaio.utilities.sharedexperience.drawpredictioncircle=رسم دائرة التنبؤ
+ferrisaio.utilities.sharedexperience.invcolor=اللون عندما لا يكون مرئيًا
+
+# FerrisAIO.Utilities.MMRTracker
+ferrisaio.utilities.mmrtracker.enable=تمكين متتبع MMR
+ferrisaio.utilities.mmrtracker.draw2=رسم تحت البطل
+ferrisaio.utilities.mmrtracker.type=نوع MMR
+ferrisaio.utilities.mmrtracker.region=المنطقة
+ferrisaio.utilities.mmrtracker.showhighest=إظهار أعلى تصنيف
+ferrisaio.utilities.mmrtracker .____ s_1=^ يتطلب إعادة تحميل البرنامج النصي
+ferrisaio.utilities.mmrtracker.enemymmr=فريق العدو MMR
+ferrisaio.utilities.mmrtracker .____ s_3=متوسط ​​MMR الحليف: 1493
+ferrisaio.utilities.mmrtracker .____ s_4=متوسط ​​معدل وفيات الأمهات للعدو: 1493
+ferrisaio.utilities.mmrtracker .____ s_5=إجمالي متوسط ​​معدل وفيات الأمهات: 2987
+
+# FerrisAIO.Utilities.MMRTracker.EnemyMMr
+ferrisaio.utilities.mmrtracker.enemymmr .____ s_1=EggMoneyJR: غير معروف
+
+# FerrisAIO.Utilities.AATilt
+ferrisaio.utilities.aatilt .____ s_1=يشغل صوت الضحك فقط ، بدلاً من الرسوم المتحركة لتصيد الأعداء!
+ferrisaio.utilities.aatilt.laughtype=نوع التعبير
+ferrisaio.utilities.aatilt.aalaugh=اضحك على أبطال AA
+ferrisaio.utilities.aatilt.aamastery=إتقان أبطال AA
+ferrisaio.utilities.aatilt.aalaughm=اضحك على التوابع AA
+ferrisaio.utilities.aatilt.aamasterym=إتقان التوابع AA
+ferrisaio.utilities.aatilt.aalaughb=اضحك على مباني AA
+ferrisaio.utilities.aatilt.aamasteryb=إتقان المباني AA
+
+# FerrisAIO.Utilities.SellAlterer_v2
+ferrisaio.utilities.spellalterer_v2.alertultimate=التنبيه النهائي
+ferrisaio.utilities.spellalterer_v2.alertsummoner=نوبات تنبيه المستدعي
+ferrisaio.utilities.spellalterer_v2.seen=تنبيه فقط إذا تم رؤية العدو يستخدم هذه التعويذة
+ferrisaio.utilities.spellalterer_v2.urf=تعطيل في URF
+ferrisaio.utilities.spellalterer_v2.usechat=مهلة وقت الإرسال معطلة حتى الدردشة
+ferrisaio.utilities.spellalterer_v2.pingspell=تعويذة بينغ عند استخدامها
+ferrisaio.utilities.spellalterer_v2.adddelay=إضافة التأخير المتوافق مع البشر
+ferrisaio.utilities.spellalterer_v2.trollmode=وضع Troll [كل الدردشة]
+ferrisaio.utilities.spellalterer_v2.debugmode=وضع التصحيح [الدردشة المحلية فقط]
+
+# FerrisAIO.Utilities.AntiTilt
+ferrisaio.utilities.antitilt.automutechat=الدردشة / التعبيرات التلقائية للعدو
+ferrisaio.utilities.antitilt.automutepings=Auto Mute Ally Pings
+ferrisaio.utilities.antitilt.automuteally=Auto Mute Ally Chat / Emotes
+ferrisaio.utilities.antitilt.preventbanwords=منع الكلمات القابلة للتنزيل
+
+# FerrisAIO.DebugMenu
+ferrisaio.debugmenu.debug=تمكين سجلات التصحيح
+ferrisaio.debugmenu.actionoptions=الإجراءات
+ferrisaio.debugmenu.profileroption=منشئ ملفات التعريف
+
+# FerrisAIO.DebugMenu.ActionOptions
+ferrisaio.debugmenu.actionoptions.skilldebug=تصحيح المهارة
+ferrisaio.debugmenu.actionoptions.selfdebug=تصحيح المهارات الذاتية
+ferrisaio.debugmenu.actionoptions.miscdebug=طباعة كافة كائنات اللعبة
+ferrisaio.debugmenu.actionoptions.statdebug=حالة التصحيح
+ferrisaio.debugmenu.actionoptions.langdebug=إنشاء كائنات Lang
+
+# FerrisAIO.DebugMenu.ProfilerOption
+ferrisaio.debugmenu.profileroption.enablewatchdog=طباعة أوقات المراقبة
+ferrisaio.debugmenu.profileroption.allowdebug=^ السماح بالتصحيح
+ferrisaio.debugmenu.profileroption.writetoconsole=^ اكتب أيضًا في وحدة التحكم
+ferrisaio.debugmenu.profileroption.writetofile=^ اكتب أيضًا في الملف
+
+# FerrisAIO.CoreSettings
+ferrisaio.coresettings.ferrisaio.coresettings=FerrisAIO Core
+ferrisaio.coresettings.events=الأحداث
+ferrisaio.coresettings.language=لغة
+ferrisaio.coresettings.fnative=FNative
+ferrisaio.coresettings.foptimizations=FOptimizations
+ferrisaio.coresettings.autoloadscripts=تحميل البرامج النصية تلقائيًا
+
+# FerrisAIO.CoreSettings. أحداث
+ferrisaio.coresettings.events.usepriority=استخدام ناقل الحدث ذي الأولوية
+
+# FerrisAIO.CoreSettings.Language
+ferrisaio.coresettings.language.language_=لغة
+ferrisaio.coresettings.language.dumpmissingkeys=تفريغ مفاتيح اللغة المفقودة
+
+# FerrisAIO.CoreSettings.FNative
+ferrisaio.coresettings.fnative.packethandler=استخدام معالج الحزم FNative
+ferrisaio.coresettings.fnative.poffsets=محاولة العثور على مجموعات إزاحة الحزم تلقائيًا
+ferrisaio.coresettings.fnative.ace=محاولة تجاوز Anticheat
+ferrisaio.coresettings.fnative.aipred=استخدم CPP بدلاً من C # للتنبؤ بالذكاء الاصطناعي
+ferrisaio.coresettings.fnative.spp=تمكين تحديث موضع حزمة المصدر مباشرة
+ferrisaio.coresettings.fnative.afk=استخدم FNative AntiAFK
+ferrisaio.coresettings.fnative.proxy=محاولة اتحادات الوكيل دفق الحزمة الصادرة
+
+# FerrisAIO.CoreSettings.FOptimizations
+ferrisaio.coresettings.foptimizations.eventbus=EventBus
+ferrisaio.coresettings.foptimizations.drawings=الرسومات
+ferrisaio.coresettings.foptimizations.ilchanges=ILC التغييرات
+
+# FerrisAIO.CoreSettings.FOptimizations.EventBus
+ferrisaio.coresettings.foptimizations.eventbus.usepriority=استخدام ناقل الحدث ذي الأولوية
+
+# FerrisAIO.CoreSettings.FOptimizations.Drawings
+ferrisaio.coresettings.foptimizations.drawings.circlev2=استخدام دوائر أسرع
+ferrisaio.coresettings.foptimizations.drawings.ooschecks=استخدام اختبارات Smart OutOfScreen
+ferrisaio.coresettings.foptimizations.drawings.nonative=تجنب مكالمات رسم طبقة النقل الأصلية
+ferrisaio.coresettings.foptimizations.drawings.textrender=استبدل EnsoulSharp.SDK.TextRender بـ FerrisAIO.Rendering.TextRender
+
+# FerrisAIO.CoreSettings.FOptimizations.ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.enableedits=تمكين ILChanges
+ferrisaio.coresettings.foptimizations.ilchanges.fixdrawoffscreen=إصلاح رسومات الخرائط المصغرة
+ferrisaio.coresettings.foptimizations.ilchanges.irender=تحسين أوقات العرض
+ferrisaio.coresettings.foptimizations.ilchanges.trove=قائمة المبادلة لقوائم Trove
+

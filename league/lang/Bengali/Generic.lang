@@ -1,0 +1,902 @@
+# ফেরিসএআইও
+ferrisaio.ferrisaio=FerrisAIO
+ferrisaio.championmenu.teemo=Teemo স্ক্রিপ্ট
+ferrisaio.orbwalker=ফেরিস অরবওয়াকার
+ferrisaio.evade=FEvade
+ferrisaio.loadevadescript=লোড এভেড স্ক্রিপ্ট
+ferrisaio.activator=অ্যাক্টিভেটর
+ferrisaio.awareness=সচেতনতা
+ferrisaio.fpred=ফেরিস প্রেডিকশন
+ferrisaio.baseult=BaseUlt
+ferrisaio.autolevel=টিমো অটো লেভেল
+ferrisaio.skinchanger=স্কিন চেঞ্জার
+ferrisaio.exploits=শোষণ
+ferrisaio.utilities=উপযোগিতা
+ferrisaio.debugmenu=ডিবাগ
+
+#FerrisAIO.Orbwalker
+ferrisaio.orbwalker.enabled_=সক্রিয়
+ferrisaio.orbwalker.attackable=আক্রমণযোগ্য ইউনিট
+ferrisaio.orbwalker.prioritize=অগ্রাধিকার দিন
+ferrisaio.orbwalker.orbwalker=Orbwalker
+ferrisaio.orbwalker.farm=খামার
+ferrisaio.orbwalker.advanced=উন্নত
+ferrisaio.orbwalker.drawing=অঙ্কন
+ferrisaio.orbwalker.shove=শেভ (টগল)
+ferrisaio.orbwalker.freeze=ফ্রিজ (টগল)
+ferrisaio.orbwalker.combo=কম্বো
+ferrisaio.orbwalker.combowithmove=সরানো ছাড়া কম্বো
+ferrisaio.orbwalker.harass=হ্যারাস
+ferrisaio.orbwalker.laneclear=LaneClear
+ferrisaio.orbwalker.lasthit=LastHit
+ferrisaio.orbwalker.flee=পলান
+ferrisaio.orbwalker.reducedamage=% দ্বারা AA ক্ষতি হ্রাস করুন
+
+#FerrisAIO.Orbwalker.আক্রমণযোগ্য
+ferrisaio.orbwalker.attackable.barrels=ব্যারেল
+ferrisaio.orbwalker.attackable.jungleplant=জঙ্গল উদ্ভিদ
+ferrisaio.orbwalker.attackable.specialminions=পোষা প্রাণী
+ferrisaio.orbwalker.attackable.wards=ওয়ার্ড
+
+#FerrisAIO.Orbwalker.প্রাধান্য দিন
+ferrisaio.orbwalker.prioritize.farmoverharass=ফার্ম ওভার হ্যারাস
+ferrisaio.orbwalker.prioritize.specialminion=স্পেশাল মিনিয়ন
+ferrisaio.orbwalker.prioritize.smalljungle=ছোট জঙ্গল
+ferrisaio.orbwalker.prioritize.turret=Turret
+
+#FerrisAIO.Orbwalker.Orbwalker
+ferrisaio.orbwalker.orbwalker.extrahold=অতিরিক্ত হোল্ড পজিশন
+ferrisaio.orbwalker.orbwalker.moverandom=খুব কাছাকাছি হলে র্যান্ডমাইজ মুভমেন্ট
+ferrisaio.orbwalker.orbwalker.windupdelay=উইন্ডআপ বিলম্ব
+ferrisaio.orbwalker.orbwalker.limitattack=আক্রমণের গতি > 2.5 হলে ঘুড়ি চড়বেন না
+
+#FerrisAIO.Orbwalker.Farm
+ferrisaio.orbwalker.farm.farmdelay=খামার বিলম্ব
+ferrisaio.orbwalker.farm.turretfarm=টারেট ফার্ম লজিক
+ferrisaio.orbwalker.farm.turretfarmmethod=টারেট ফার্ম পদ্ধতি
+ferrisaio.orbwalker.farm.turretframmaxlevel=প্লেয়ার লেভেল >[EQ] x হলে টারেট ফার্ম নিষ্ক্রিয় করুন
+ferrisaio.orbwalker.farm.freezehealth=ফ্রিজ মিনিয়ন ম্যাক্স হেলথ
+ferrisaio.orbwalker.farm.laneclearmethod=LaneClear ফার্ম পদ্ধতি
+ferrisaio.orbwalker.farm.cannonfocus=কামানকে অগ্রাধিকার দিন
+ferrisaio.orbwalker.farm.freezeharass=ফ্রিজে হয়রানির অনুমতি দিন
+
+#FerrisAIO.Orbwalker.Advanced
+ferrisaio.orbwalker.advanced.yasuowallcheck=ইয়াসুও উইন্ডওয়াল চেক করুন
+ferrisaio.orbwalker.advanced.missilecheck=মিসাইল চেক ব্যবহার করুন
+ferrisaio.orbwalker.advanced.calcitemdamage=আইটেমের ক্ষতি গণনা করুন
+ferrisaio.orbwalker.advanced.supportmode_teemo=সাপোর্ট মোড
+ferrisaio.orbwalker.advanced.detectaaresets=এএ রিসেট দক্ষতা সনাক্ত করুন
+ferrisaio.orbwalker.advanced.allowkalistadoublejump=কালিস্তা ডাবল জাম্প ব্যবহার করুন
+ferrisaio.orbwalker.advanced.beforecanattack_= প্রারম্ভিক মিলিস আক্রমণ
+ferrisaio.orbwalker.advanced.beforecanmoveallowscriptcontrol=প্রথম দিকে সরানোর স্ক্রিপ্ট নিয়ন্ত্রণের অনুমতি দিন
+ferrisaio.orbwalker.advanced.beforecanmove=ম্যানুয়াল মুভ আর্লি মিলিস
+ferrisaio.orbwalker.advanced.limitmovementpackets=Prevent Movement PacketSpam
+ferrisaio.orbwalker.advanced.limitattackpackets=প্যাকেটস্প্যাম আক্রমণ প্রতিরোধ করুন
+
+#FerrisAIO.Orbwalker.ড্রয়িং
+ferrisaio.orbwalker.drawing.drawattackrange=আক্রমণের রেঞ্জ আঁকুন
+ferrisaio.orbwalker.drawing.drawholdposition=আঁকুন হোল্ড পজিশন
+ferrisaio.orbwalker.drawing.drawkillableminion=নিধনযোগ্য মিনিয়ন আঁকুন
+ferrisaio.orbwalker.drawing.showfakeclick=ফেকক্লিক দেখান
+ferrisaio.orbwalker.drawing.fakeclickdelay=মিলিসে ক্লিকের মধ্যে বিলম্ব
+ferrisaio.orbwalker.drawing.glowminions=গ্লো লাস্ট হিট
+ferrisaio.orbwalker.drawing.minionsglow=গ্লো লাস্টহিটেবল মিনিয়ন কালার
+ferrisaio.orbwalker.drawing.minionsdraw=লাস্টহিট মার্কার আঁকুন
+ferrisaio.orbwalker.drawing.minionsanimate=অ্যানিমেট লাস্টহিট মার্কার
+ferrisaio.orbwalker.drawing.minionsanimatecolor= লাস্টহিট মার্কার রঙের মাধ্যমে চক্র
+
+#FerrisAIO.Evade
+ferrisaio.evade.main=প্রধান
+ferrisaio.evade.keysettings=কী সেটিংস
+ferrisaio.evade.miscsettings=বিবিধ সেটিংস
+ferrisaio.evade.spells=বানান
+ferrisaio.evade.traps=ফাঁদ
+ferrisaio.evade.evadespells= বানান এড়ানো
+ferrisaio.evade.draw=আঁকুন
+ferrisaio.evade.autosetpingmenu=AutoSetPing
+
+#FerrisAIO.Evade.Main
+ferrisaio.evade.main.dodgeskillshots=ডজ স্কিলশট
+ferrisaio.evade.main.activateevadespells=এভাড বানান ব্যবহার করুন
+ferrisaio.evade.main.dodgedangerous=ডজ শুধুমাত্র বিপজ্জনক
+ferrisaio.evade.main.dodgefowspells=Dodge FOW SkillShots
+ferrisaio.evade.main.dodgecircularspells=ডজ সার্কুলার স্কিলশট
+ferrisaio.evade.main.dodgecircularspells_v2=Evadeee সার্কুলার লজিক [BETA]
+
+#FerrisAIO.Evade.KeySettings
+ferrisaio.evade.keysettings.dodgedangerouskeyenabled=ডজ শুধুমাত্র বিপজ্জনক কী সক্রিয় করুন
+ferrisaio.evade.keysettings.dodgedangerouskey=ডজ শুধুমাত্র বিপজ্জনক কী
+ferrisaio.evade.keysettings.dodgedangerouskey2=ডজ শুধুমাত্র বিপজ্জনক কী 2
+ferrisaio.evade.keysettings.dodgeonlyoncombokeyenabled=শুধুমাত্র কম্বো কীতে ডজ সক্ষম করুন
+ferrisaio.evade.keysettings.dodgecombokey=ডজ অনলি কম্বো কী
+ferrisaio.evade.keysettings.dontdodgekeyenabled=ডোন্ট ডজ কী সক্ষম করুন
+ferrisaio.evade.keysettings.dontdodgekey=কী ডজ করবেন না
+
+#FerrisAIO.Evade.MiscSettings
+ferrisaio.evade.miscsettings.evademode=প্রোফাইল এড়ানো
+ferrisaio.evade.miscsettings.blockdangerdash=বিপজ্জনক ড্যাশ বানান ব্লক করুন
+ferrisaio.evade.miscsettings.higherprecision=বর্ধিত ডজ যথার্থতা
+ferrisaio.evade.miscsettings.recalculateposition=পুনরায় গণনা করার পথ
+ferrisaio.evade.miscsettings.continuemovement=শেষ আন্দোলন চালিয়ে যান
+ferrisaio.evade.miscsettings.calculatewindupdelay=উইন্ডআপ বিলম্বের হিসাব করুন
+ferrisaio.evade.miscsettings.checkspellcollision=বানান সংঘর্ষ পরীক্ষা করুন
+ferrisaio.evade.miscsettings.preventdodgingundertower=টাওয়ারের নিচে ডজিং প্রতিরোধ করুন
+ferrisaio.evade.miscsettings.preventdodgingnearenemy=শত্রুদের কাছে ডজিং প্রতিরোধ করুন
+ferrisaio.evade.miscsettings.advancedspelldetection=উন্নত বানান সনাক্তকরণ
+ferrisaio.evade.miscsettings.clickremove=বাম ক্লিক অপসারণের অনুমতি দিন ^ ফাঁদ এবং গ্লোবাল অপসারণের জন্য বাম ক্লিক করুন
+ferrisaio.evade.miscsettings.resetconfig=এভাড কনফিগারেশন রিসেট করুন
+ferrisaio.evade.miscsettings.limiter=হিউম্যানাইজার
+ferrisaio.evade.miscsettings.fastevade=দ্রুত এড়ানো
+ferrisaio.evade.miscsettings.extrabuffers=অতিরিক্ত বাফার
+ferrisaio.evade.miscsettings.loadtests=পরীক্ষা
+
+#FerrisAIO.Evade.MiscSettings.Limeter
+ferrisaio.evade.miscsettings.limiter.clickonlyonce=শুধু একবার ক্লিক করুন
+ferrisaio.evade.miscsettings.limiter.enableevadedistance=বর্ধিত এভাড
+ferrisaio.evade.miscsettings.limiter.ticklimiter=টিক লিমিটার
+ferrisaio.evade.miscsettings.limiter.spelldetectiontime=বানান নির্ণয়ের সময়
+ferrisaio.evade.miscsettings.limiter.reactiontime=প্রতিক্রিয়ার সময়
+ferrisaio.evade.miscsettings.limiter.dodgeinterval=ডজ ব্যবধান
+
+#FerrisAIO.Evade.MiscSettings.FastEvade
+ferrisaio.evade.miscsettings.fastevade.fastmovementblock=দ্রুত চলাচলের ব্লক
+ferrisaio.evade.miscsettings.fastevade.fastevadeactivationtime=FastEvade সক্রিয়করণ সময়
+ferrisaio.evade.miscsettings.fastevade.spellactivationtime=বানান সক্রিয়করণ সময়
+ferrisaio.evade.miscsettings.fastevade.rejectmindistance=সংঘর্ষ দূরত্ব বাফার
+
+#FerrisAIO.Evade.MiscSettings.ExtraBuffers
+ferrisaio.evade.miscsettings.extrabuffers.extrapingbuffer=অতিরিক্ত পিং বাফার
+ferrisaio.evade.miscsettings.extrabuffers.extracpadistance=অতিরিক্ত সংঘর্ষের দূরত্ব
+ferrisaio.evade.miscsettings.extrabuffers.extraspellradius=অতিরিক্ত বানান ব্যাসার্ধ
+ferrisaio.evade.miscsettings.extrabuffers.extraevadedistance=অতিরিক্ত এড়ানো দূরত্ব
+ferrisaio.evade.miscsettings.extrabuffers.extraavoiddistance=অতিরিক্ত দূরত্ব এড়িয়ে চলুন
+ferrisaio.evade.miscsettings.extrabuffers.mincomfortzone=চ্যাম্পিয়নের ন্যূনতম দূরত্ব
+
+#FerrisAIO.Evade.MiscSettings.LoadTests
+ferrisaio.evade.miscsettings.loadtests.loadspelltester=লোড বানান পরীক্ষক
+
+#FerrisAIO.Evade.EvadeSpells
+ferrisaio.evade.evadespells.flashevadespellsettings=ফ্ল্যাশ
+
+#FerrisAIO.Evade.EvadeSpells.FlashEvadeSpellSettings
+ferrisaio.evade.evadespells.flashevadespellsettings.flashuseevadespell=বানান ব্যবহার করুন
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespelldangerlevel=বিপদ স্তর
+ferrisaio.evade.evadespells.flashevadespellsettings.flashevadespellmode=বানান মোড
+
+#FerrisAIO.Evade.Draw
+ferrisaio.evade.draw.drawskillshots=স্কিলশট আঁকুন
+ferrisaio.evade.draw.showstatus=এভাড স্ট্যাটাস দেখান
+ferrisaio.evade.draw.drawspellpos=বানান অবস্থান আঁকুন
+ferrisaio.evade.draw.drawevadeposition=এভেড অবস্থান আঁকুন
+ferrisaio.evade.draw.dangerleveldrawings=ডেঞ্জার লেভেল অঙ্কন
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing=নিম্ন
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing=Normal
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing=উচ্চ
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing=চরম
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing=আনডজযোগ্য
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.LowDrawing
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowwidth=রেখা প্রস্থ
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowcolor=রঙ
+ferrisaio.evade.draw.dangerleveldrawings.lowdrawing.lowenable=সক্ষম করুন
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.NormalDrawing
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalwidth=রেখা প্রস্থ
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalcolor=রঙ
+ferrisaio.evade.draw.dangerleveldrawings.normaldrawing.normalenable=সক্ষম করুন
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.HighDrawing
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highwidth=লাইন প্রস্থ
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highcolor=রঙ
+ferrisaio.evade.draw.dangerleveldrawings.highdrawing.highenable=সক্ষম করুন
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.ExtremeDrawing
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremewidth=রেখা প্রস্থ
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremecolor=রঙ
+ferrisaio.evade.draw.dangerleveldrawings.extremedrawing.extremeenable=সক্ষম করুন
+
+#FerrisAIO.Evade.Draw.DangerLevelDrawings.UndodgeableDrawing
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablewidth=লাইন প্রস্থ
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeablecolor=রঙ
+ferrisaio.evade.draw.dangerleveldrawings.undodgeabledrawing.undodgeableenable=সক্ষম করুন
+
+#FerrisAIO.Evade.AutoSetPingMenu
+ferrisaio.evade.autosetpingmenu.autosetpingon=অটো সেট পিং
+ferrisaio.evade.autosetpingmenu.autosetpercentile=অটো সেট পারসেন্টাইল
+ferrisaio.evade.autosetpingmenu.testskillshotdelay=TestSkillshotDelay
+
+#FerrisAIO.Activator
+ferrisaio.activator.autopotions=অটো পোশন
+ferrisaio.activator.defensive=প্রতিরক্ষামূলক
+ferrisaio.activator.offensive=আপত্তিকর
+ferrisaio.activator.autozhonya=অটো ঝোনিয়া
+ferrisaio.activator.autocleanse=অটো ক্লিনজ
+ferrisaio.activator.summonerspell=সামনার বানান
+ferrisaio.activator.turnaround=অটো টার্নআরাউন্ড
+ferrisaio.activator.autolantern=অটো লণ্ঠন
+
+#FerrisAIO.Activator.AutoPotions
+ferrisaio.activator.autopotions.enabled=সক্রিয়
+ferrisaio.activator.autopotions.healthpercent=^ খেলোয়াড় স্বাস্থ্য শতাংশ <[EQ] x%
+
+#FerrisAIO.Activator.প্রতিরক্ষামূলক
+ferrisaio.activator.defensive.locketoftheironsolari=লোহার সোলারির লকেট
+ferrisaio.activator.defensive.randuinomen=Randuin's Omen
+ferrisaio.activator.defensive.redemption=মুক্তি
+ferrisaio.activator.defensive.gargoylestoneplate=গারগয়েল স্টোনপ্লেট
+
+#FerrisAIO.Activator.Defensive.LocketOfTheIronSolari
+ferrisaio.activator.defensive.locketoftheironsolari.enabled=সক্ষম
+ferrisaio.activator.defensive.locketoftheironsolari.onlycombo=শুধুমাত্র কম্বো সক্রিয়
+ferrisaio.activator.defensive.locketoftheironsolari.healthpercent=যখন খেলোয়াড় স্বাস্থ্য শতাংশ <[EQ] x%
+ferrisaio.activator.defensive.locketoftheironsolari.damagetime=ক্ষতি গণনা করার সময় (ms)
+
+#FerrisAIO.Activator.Defensive.RanduinOmen
+ferrisaio.activator.defensive.randuinomen.enabled=সক্রিয়
+ferrisaio.activator.defensive.randuinomen.onlycombo=কেবল কম্বো সক্রিয়
+ferrisaio.activator.defensive.randuinomen.minhit=মিনিট হিট কাউন্ট >[EQ] x
+ferrisaio.activator.defensive.randuinomen.healthpercent=যখন খেলোয়াড় স্বাস্থ্য শতাংশ <[EQ] x%
+
+#FerrisAIO.Activator.Defensive.Redemption
+ferrisaio.activator.defensive.redemption.enabled=সক্রিয়
+ferrisaio.activator.defensive.redemption.onlycombo=কেবল কম্বো সক্রিয়
+ferrisaio.activator.defensive.redemption.healthpercent=যখন খেলোয়াড় স্বাস্থ্য শতাংশ <[EQ] x%
+ferrisaio.activator.defensive.redemption.calculatedamage=আগত ক্ষতি গণনা করুন
+ferrisaio.activator.defensive.redemption.damagepercent=আগত ক্ষতির শতাংশ >[EQ] x%
+ferrisaio.activator.defensive.redemption.damagetime=আগত ক্ষতি গণনা করার সময় (ms)
+
+#FerrisAIO.Activator.Defensive.GargoyleStoneplate
+ferrisaio.activator.defensive.gargoylestoneplate.enabled=সক্ষম
+ferrisaio.activator.defensive.gargoylestoneplate.onlycombo=শুধুমাত্র কম্বো সক্রিয়
+ferrisaio.activator.defensive.gargoylestoneplate.healthpercent=যখন খেলোয়াড় স্বাস্থ্য শতাংশ <[EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.calculatedamage=আগত ক্ষতি গণনা করুন
+ferrisaio.activator.defensive.gargoylestoneplate.damagepercent=আগত ক্ষতি শতাংশ >[EQ] x%
+ferrisaio.activator.defensive.gargoylestoneplate.damagetime=আগত ক্ষতি গণনা করার সময় (ms)
+
+#FerrisAIO.Activator.Offensive
+ferrisaio.activator.offensive.prowlersclaw=প্রোলারের নখর
+ferrisaio.activator.offensive.everfrost=এভারফ্রস্ট
+ferrisaio.activator.offensive.galeforce=Galeforce
+ferrisaio.activator.offensive.hextechprotobelt01=Hextech Protobelt-01
+ferrisaio.activator.offensive.stridebreaker=স্ট্রাইডব্রেকার
+ferrisaio.activator.offensive.ironspikewhip=Ironspike হুইপ
+ferrisaio.activator.offensive.goredrinker=গোরেড্রিংকার
+ferrisaio.activator.offensive.youmuughostblade=Youmuu's Ghostblade
+
+#FerrisAIO.Activator.Offensive.ProwlersClaw
+ferrisaio.activator.offensive.prowlersclaw.enabled=সক্রিয়
+ferrisaio.activator.offensive.prowlersclaw.onlycombo=কেবল কম্বো সক্রিয়
+ferrisaio.activator.offensive.prowlersclaw.dontprowlersundertower=টাওয়ারের নিচে ব্যবহার করবেন না
+ferrisaio.activator.offensive.prowlersclaw.enemyhealthpercent=যখন লক্ষ্য স্বাস্থ্য শতাংশ <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.Everfrost
+ferrisaio.activator.offensive.everfrost.enabled=সক্রিয়
+ferrisaio.activator.offensive.everfrost.onlycombo=কেবল কম্বো সক্রিয়
+ferrisaio.activator.offensive.everfrost.enemyhealthpercent=যখন লক্ষ্য স্বাস্থ্য শতাংশ <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.Galeforce
+ferrisaio.activator.offensive.galeforce.enabled=সক্রিয়
+ferrisaio.activator.offensive.galeforce.onlycombo=কেবল কম্বো সক্রিয়
+ferrisaio.activator.offensive.galeforce.enemyhealthpercent=যখন লক্ষ্য স্বাস্থ্য শতাংশ <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.HextechProtobelt01
+ferrisaio.activator.offensive.hextechprotobelt01.enabled=সক্ষম
+ferrisaio.activator.offensive.hextechprotobelt01.onlycombo=কেবল কম্বো সক্রিয়
+ferrisaio.activator.offensive.hextechprotobelt01.enemyhealthpercent=যখন লক্ষ্য স্বাস্থ্য শতাংশ <[EQ] x%
+
+#FerrisAIO.Activator.Offensive.Stridebreaker
+ferrisaio.activator.offensive.stridebreaker.enabled=সক্রিয়
+ferrisaio.activator.offensive.stridebreaker.combo=কম্বো ব্যবহার করুন
+ferrisaio.activator.offensive.stridebreaker.jungle=JungleClear-এ ব্যবহার করুন
+
+#FerrisAIO.Activator.Offensive.IronspikeWhip
+ferrisaio.activator.offensive.ironspikewhip.enabled=সক্রিয়
+ferrisaio.activator.offensive.ironspikewhip.combo=কম্বো ব্যবহার করুন
+ferrisaio.activator.offensive.ironspikewhip.jungle=জঙ্গলক্লিয়ারে ব্যবহার করুন
+ferrisaio.activator.offensive.ironspikewhip.isurf2=ইউআরএফ-এ আরও সক্রিয়ভাবে ব্যবহার করুন
+
+#FerrisAIO.Activator.Offensive.Goredrinker
+ferrisaio.activator.offensive.goredrinker.enabled=সক্রিয়
+ferrisaio.activator.offensive.goredrinker.combo=কম্বো ব্যবহার করুন
+ferrisaio.activator.offensive.goredrinker.jungle=জঙ্গলক্লিয়ারে ব্যবহার করুন
+ferrisaio.activator.offensive.goredrinker.isurf2=ইউআরএফ-এ আরও সক্রিয়ভাবে ব্যবহার করুন
+
+#FerrisAIO.Activator.Offensive.YoumuuGhostblade
+ferrisaio.activator.offensive.youmuughostblade.enabled=সক্রিয়
+ferrisaio.activator.offensive.youmuughostblade.onlycombo=কেবল কম্বো সক্রিয়
+
+#FerrisAIO.Activator.AutoZhonya
+ferrisaio.activator.autozhonya.spellblock=বানান ব্লক
+ferrisaio.activator.autozhonya.enabled=সক্রিয়
+ferrisaio.activator.autozhonya.lowhealth=লো HP-এ ব্যবহার করুন
+ferrisaio.activator.autozhonya.healthpercent=^ খেলোয়াড় স্বাস্থ্য শতাংশ <[EQ] x%
+
+#FerrisAIO.Activator.AutoCleanse
+ferrisaio.activator.autocleanse.______sep1=হ্যাঁ এটি QSS-এর জন্যও ব্যবহৃত হয়!
+ferrisaio.activator.autocleanse.______sep2=খারাপ কর্মক্ষমতার কারণে ডিফল্টরূপে নিষ্ক্রিয়
+ferrisaio.activator.autocleanse.bufftype=বাফ টাইপ
+ferrisaio.activator.autocleanse.bufftarget=বাফ টার্গেট
+ferrisaio.activator.autocleanse.enabled_=সক্ষম_
+ferrisaio.activator.autocleanse.miniduration=মিনিট বাফ সময়কাল(ms)
+ferrisaio.activator.autocleanse.onlycombo=কেবল কম্বো সক্রিয়
+ferrisaio.activator.autocleanse.onlylowhealth=শুধুমাত্র কম স্বাস্থ্য শতাংশ
+ferrisaio.activator.autocleanse.healthpercent=^ সর্বনিম্ন স্বাস্থ্য শতাংশ <[EQ] x%
+ferrisaio.activator.autocleanse.allowally=ক্লেন্সিং মিত্রদের অনুমতি দিন
+ferrisaio.activator.autocleanse.antiexaust=নিঃশেষ হয়ে গেলে ব্যবহার করুন
+ferrisaio.activator.autocleanse.healthpercentexaust=^ HealthPercent >[EQ] x%
+ferrisaio.activator.autocleanse.antikill=ইগ্নাইট/পজিশন/ডিওটি মেরে ফেললে ব্যবহার করুন এবং কাছাকাছি কোন শত্রু থাকবে না
+
+#FerrisAIO.Activator.AutoCleanse.BuffType
+ferrisaio.activator.autocleanse.bufftype.cleanseblind=অন্ধ
+ferrisaio.activator.autocleanse.bufftype.cleansecharm=চার্ম
+ferrisaio.activator.autocleanse.bufftype.cleansedamage=ক্ষতি
+ferrisaio.activator.autocleanse.bufftype.cleansefear=ভয়
+ferrisaio.activator.autocleanse.bufftype.cleanseflee=পলান
+ferrisaio.activator.autocleanse.bufftype.cleansepolymorph=Polymorph
+ferrisaio.activator.autocleanse.bufftype.cleansesilence=নিরবতা
+ferrisaio.activator.autocleanse.bufftype.cleanseslow=ধীর
+ferrisaio.activator.autocleanse.bufftype.cleansesnare=জাল
+ferrisaio.activator.autocleanse.bufftype.cleansestun=Stun
+ferrisaio.activator.autocleanse.bufftype.cleansesuppression=দমন
+ferrisaio.activator.autocleanse.bufftype.cleansetaunt=Taunt
+ferrisaio.activator.autocleanse.bufftype.cleanseasleep=ঘুমানো
+
+#FerrisAIO.Activator.AutoCleanse.BuffTarget
+ferrisaio.activator.autocleanse.bufftarget.cleanseon1073741853=Teemo
+
+#FerrisAIO.Activator.SummonerSpell
+ferrisaio.activator.summonerspell.barrier=বাধা
+ferrisaio.activator.summonerspell.exhaust=Exhaust
+ferrisaio.activator.summonerspell.heal=নিরাময় করুন
+ferrisaio.activator.summonerspell.ignite=জ্বলুন
+ferrisaio.activator.summonerspell.smiteslot=Smite
+ferrisaio.activator.summonerspell.spellbookslot=UltimateSpellbook
+
+#FerrisAIO.Activator.SummonerSpell.barrier
+ferrisaio.activator.summonerspell.barrier.enabled=সক্রিয়
+ferrisaio.activator.summonerspell.barrier.healthpercent=যখন খেলোয়াড় স্বাস্থ্য শতাংশ <[EQ] x%
+ferrisaio.activator.summonerspell.barrier.calculatedamage=আগত ক্ষতি গণনা করুন
+ferrisaio.activator.summonerspell.barrier.damagepercent=আগত ক্ষতির শতাংশ >[EQ] x%
+
+#FerrisAIO.Activator.SummonerSpell.Exhaust
+ferrisaio.activator.summonerspell.exhaust.enabled=সক্রিয়
+ferrisaio.activator.summonerspell.exhaust.healthpercent=যখন খেলোয়াড় স্বাস্থ্য শতাংশ <[EQ] x%
+ferrisaio.activator.summonerspell.exhaust.onlycombo=কেবল কম্বো সক্রিয়
+ferrisaio.activator.summonerspell.exhaust.alwayscast=সর্বদা লক্ষ্যে কাস্ট করুন
+ferrisaio.activator.summonerspell.exhaust.alwayscast2=একক কাস্টিং যুক্তি সক্রিয় করুন
+
+#FerrisAIO.Activator.SummonerSpell.Heal
+ferrisaio.activator.summonerspell.heal.healtarget=নিরাময় লক্ষ্য
+ferrisaio.activator.summonerspell.heal.enabled=সক্রিয়
+ferrisaio.activator.summonerspell.heal.healthpercent=যখন Ally HealthPercent <[EQ] x%
+ferrisaio.activator.summonerspell.heal.calculatedamage=আগত ক্ষতি গণনা করুন
+ferrisaio.activator.summonerspell.heal.damagepercent=আগত ক্ষতির শতাংশ >[EQ] x%
+ferrisaio.activator.summonerspell.heal.damagetime=আগত ক্ষতি গণনা করার সময় (ms)
+
+#FerrisAIO.Activator.SummonerSpell.Heal.HealTarget
+ferrisaio.activator.summonerspell.heal.healtarget.heal_1073741853=Teemo
+
+#FerrisAIO.Activator.SummonerSpell.Ignite
+ferrisaio.activator.summonerspell.ignite.enabled=সক্রিয়
+ferrisaio.activator.summonerspell.ignite.killsteal=যখন লক্ষ্য কিল করা যায়
+ferrisaio.activator.summonerspell.ignite.comboonly=শুধু কম্বো চলাকালীন
+ferrisaio.activator.summonerspell.ignite.preventusewhenkillableaa=[KillSteal] 1 AA দিয়ে লক্ষ্যবস্তু মারার যোগ্য হলে আগুনের অপচয় রোধ করুন
+ferrisaio.activator.summonerspell.ignite.______sep3=^ শুধুমাত্র মেলি চ্যাম্পদের জন্য
+ferrisaio.activator.summonerspell.ignite.killableaaflash=^ শুধুমাত্র যদি লক্ষ্যে কোন ফ্ল্যাশ না থাকে
+ferrisaio.activator.summonerspell.ignite.preventonaarangetarget=[KillSteal] এএ রেঞ্জে শত্রু হলে ব্যবহার করবেন না 
+ferrisaio.activator.summonerspell.ignite.rangeaaflash=^ শুধুমাত্র লক্ষ্যমাত্রা যদি ইগ্নাইট রেঞ্জ থেকে ফ্ল্যাশ করতে না পারে
+ferrisaio.activator.summonerspell.ignite.______sep2=^ শুধুমাত্র মেলি চ্যাম্পদের জন্য
+ferrisaio.activator.summonerspell.ignite.lowhealthandcombo=কম্বোতে ব্যবহার করুন যখন লক্ষ্য স্বাস্থ্য শতাংশ <[EQ] x%
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot
+ferrisaio.activator.summonerspell.smiteslot.smitetarget=Smite Target
+ferrisaio.activator.summonerspell.smiteslot.enabled=সক্রিয়
+ferrisaio.activator.summonerspell.smiteslot.combo=কম্বো ব্যবহার করুন
+ferrisaio.activator.summonerspell.smiteslot.combostack=^ শুধুমাত্র 2 স্ট্যাক
+ferrisaio.activator.summonerspell.smiteslot.killable=KillAable ব্যবহার করুন
+ferrisaio.activator.summonerspell.smiteslot.drawrange=আঁকো স্মাইট রেঞ্জ
+ferrisaio.activator.summonerspell.smiteslot.drawstate=আঁকুন স্মাইট স্টেট
+
+#FerrisAIO.Activator.SummonerSpell.SmiteSlot.SmiteTarget
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_baron=ব্যারন নাশোর
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_riftherald=Rift Herald
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_elder=এল্ডার ড্রাগন
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_chemtech=Chemtech ড্রাগন
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_hextech=Hextech ড্রাগন
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_water=ওয়াটার ড্রাগন
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_fire=ফায়ার ড্রাগন
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_earth=আর্থ ড্রাগন
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_dragon_air=এয়ার ড্রাগন
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_blue=ব্লু সেন্টিনেল
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_red=Red Brambleback
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_razorbeak=ক্রিমসন র্যাপ্টর
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_murkwolf=গ্রেটার মুর্ক উলফ
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_krug=প্রাচীন ক্রুগ
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_gromp=Gromp
+ferrisaio.activator.summonerspell.smiteslot.smitetarget.sru_crab=Rift Scuttler
+
+#FerrisAIO.Activator.SummonerSpell.SpellbookSlot
+ferrisaio.activator.summonerspell.spellbookslot.enableultimatespellbook=সক্রিয়
+ferrisaio.activator.summonerspell.spellbookslot.enablenolag=লো ল্যাগ মোড
+ferrisaio.activator.summonerspell.spellbookslot.sylasrspellnames=SpellNames
+
+#FerrisAIO.Activator.TurnAround
+ferrisaio.activator.turnaround.enabled=সক্রিয়
+ferrisaio.activator.turnaround.cassiopeiar=Cassiopeia R এড়িয়ে চলুন
+ferrisaio.activator.turnaround.tryndamerew=Tryndamere W এড়িয়ে চলুন
+
+#FerrisAIO.Activator.AutoLantern
+ferrisaio.activator.autolantern.autocatch=অ্যালি লণ্ঠন ধরুন
+ferrisaio.activator.autolantern.enabledcatch=সক্রিয়
+ferrisaio.activator.autolantern.onlykey=শুধুমাত্র কী সক্রিয়
+ferrisaio.activator.autolantern.catchkey=লণ্ঠন কী ধরুন
+ferrisaio.activator.autolantern.catchhealth=যখন খেলোয়াড় স্বাস্থ্য শতাংশ >[EQ] x%
+ferrisaio.activator.autolantern.autoward=শত্রু লণ্ঠনে কাস্ট ওয়ার্ড
+ferrisaio.activator.autolantern.enabledward=সক্রিয়
+ferrisaio.activator.autolantern.wardkey=লণ্ঠন চাবিতে কাস্ট ওয়ার্ড
+ferrisaio.activator.autolantern.warddelay=কাস্ট ওয়ার্ড বিলম্ব
+
+#FerrisAIO.সচেতনতা
+ferrisaio.awareness.attackrange=আক্রমণের পরিসর
+ferrisaio.awareness.autoward=অটো ওয়ার্ড
+ferrisaio.awareness.cooldowntrack=কুলডাউন ট্র্যাক
+ferrisaio.awareness.experiencetrack=অভিজ্ঞতা ট্র্যাক
+ferrisaio.awareness.gankalert=গ্যাঙ্ক সতর্কতা
+ferrisaio.awareness.hudtrack=হুড ট্র্যাক
+ferrisaio.awareness.inhibitortime=ইনহিবিটার সময়
+ferrisaio.awareness.jungletime=জঙ্গল সময়
+ferrisaio.awareness.lastposition=শেষ অবস্থান
+ferrisaio.awareness.recalltrack=ট্র্যাক প্রত্যাহার করুন
+ferrisaio.awareness.turrethealth=Turret Health
+ferrisaio.awareness.turretrange=টারেট অ্যাটাক রেঞ্জ
+ferrisaio.awareness.wardtrack=ওয়ার্ড ট্র্যাক
+ferrisaio.awareness.waypoints=ওয়ে পয়েন্ট
+ferrisaio.awareness.fowtracker_v2=FOW ব্যারন / ড্রাগন ট্র্যাকার
+
+#FerrisAIO.সচেতনতা.আক্রমণ রেঞ্জ
+ferrisaio.awareness.attackrange.enabled=সক্রিয়
+ferrisaio.awareness.attackrange.ally=অ্যালি আঁকুন
+ferrisaio.awareness.attackrange.allycolor=^ মিত্র রঙ
+ferrisaio.awareness.attackrange.enemy=শত্রু আঁকুন
+ferrisaio.awareness.attackrange.enemycolor=^ শত্রুর রঙ
+
+#ফেরিসএআইও।সচেতনতা।অটোওয়ার্ড
+ferrisaio.awareness.autoward.enabled=সক্রিয়
+ferrisaio.awareness.autoward.onlycombo=শুধুমাত্র কম্বো সক্রিয়
+ferrisaio.awareness.autoward.buyblue=অটো বাই ব্লু ট্রিঙ্কেট
+ferrisaio.awareness.autoward.bushward=অটো বুশ ওয়ার্ড
+ferrisaio.awareness.autoward.bushpinkward=^ পিঙ্ক ওয়ার্ড ব্যবহার করুন
+ferrisaio.awareness.autoward.antisteal=এন্টি চুরি
+ferrisaio.awareness.autoward.maxmissingtime=x সেকেন্ডের বেশি সময় অনুপস্থিত থাকলে ওয়ার্ড করবেন না
+
+#FerrisAIO.সচেতনতা.CooldownTrack
+ferrisaio.awareness.cooldowntrack.enabled=সক্রিয়
+ferrisaio.awareness.cooldowntrack.ally=অ্যালি আঁকুন
+ferrisaio.awareness.cooldowntrack.enemy=শত্রু আঁকুন
+ferrisaio.awareness.cooldowntrack.self=নিজেকে আঁকুন
+
+#FerrisAIO.সচেতনতা.ExperienceTrack
+ferrisaio.awareness.experiencetrack.enabled=সক্রিয়
+ferrisaio.awareness.experiencetrack.ally=ড্র অ্যালি
+ferrisaio.awareness.experiencetrack.enemy=শত্রু আঁকুন
+ferrisaio.awareness.experiencetrack.self=নিজেকে আঁকুন
+
+#FerrisAIO.সচেতনতা.GankAlert
+ferrisaio.awareness.gankalert.enabled=সক্রিয়
+ferrisaio.awareness.gankalert.onlyjungle=শুধু জঙ্গল
+ferrisaio.awareness.gankalert.minrange=মিনিট দূরত্ব পরিসীমা >[EQ] x
+ferrisaio.awareness.gankalert.maxrange=সর্বোচ্চ দূরত্ব পরিসীমা <[EQ] x
+
+#FerrisAIO.সচেতনতা.HudTrack
+ferrisaio.awareness.hudtrack.horizontal=অনুভূমিক শৈলী
+ferrisaio.awareness.hudtrack.vertical=উল্লম্ব শৈলী
+ferrisaio.awareness.hudtrack.style=শৈলী আঁকুন
+ferrisaio.awareness.hudtrack.enabled=সক্রিয়
+
+#FerrisAIO.সচেতনতা.HudTrack.Horizontal
+ferrisaio.awareness.hudtrack.horizontal.horizontalxoffsets=X অফসেট
+ferrisaio.awareness.hudtrack.horizontal.horizontalyoffsets=Y অফসেট
+
+#FerrisAIO.সচেতনতা.HudTrack.Vertical
+ferrisaio.awareness.hudtrack.vertical.verticalxoffsets=X অফসেট
+ferrisaio.awareness.hudtrack.vertical.verticalyoffsets=Y অফসেট
+ferrisaio.awareness.hudtrack.vertical.verticalpos=Summoner বানান অবস্থান
+
+#FerrisAIO.সচেতনতা.ইনহিবিটার টাইম
+ferrisaio.awareness.inhibitortime.enabled=সক্রিয়
+ferrisaio.awareness.inhibitortime.minimap=মিনি মানচিত্রে
+ferrisaio.awareness.inhibitortime.minimapdraw=মিনিম্যাপে আঁকা
+ferrisaio.awareness.inhibitortime.minimapfontsize=হরফের আকার
+ferrisaio.awareness.inhibitortime.map=মিনি মানচিত্রে
+ferrisaio.awareness.inhibitortime.mapdraw=মানচিত্রে আঁকুন
+ferrisaio.awareness.inhibitortime.mapfontsize=হরফের আকার
+
+#ফেরিসএআইও।সচেতনতা।জঙ্গলটাইম
+ferrisaio.awareness.jungletime.enabled=সক্রিয়
+ferrisaio.awareness.jungletime.minimap=মিনি মানচিত্রে
+ferrisaio.awareness.jungletime.minimapdraw=মিনিম্যাপে আঁকুন
+ferrisaio.awareness.jungletime.minimapformat=সময় বিন্যাস: 
+ferrisaio.awareness.jungletime.minimapfontsize=ফন্ট সাইজ
+ferrisaio.awareness.jungletime.map=মানচিত্রে
+ferrisaio.awareness.jungletime.mapdraw=মানচিত্রে আঁকুন
+ferrisaio.awareness.jungletime.mapformat=সময় বিন্যাস: 
+ferrisaio.awareness.jungletime.mapfontsize=হরফের আকার
+
+#FerrisAIO.সচেতনতা.শেষ অবস্থান
+ferrisaio.awareness.lastposition.enabled=সক্রিয়
+ferrisaio.awareness.lastposition.sstime=SS সময় আঁকুন
+ferrisaio.awareness.lastposition.sscircle=SS সার্কেল আঁকুন
+ferrisaio.awareness.lastposition.ssback__=ব্যাকিং ইন্ডিকেটর আঁকুন
+ferrisaio.awareness.lastposition.urf_drawcannonpositions=ইউআরএফ কামান অবস্থান নির্দেশক আঁকুন
+
+#FerrisAIO.সচেতনতা.রিকলট্র্যাক
+ferrisaio.awareness.recalltrack.enabled=সক্রিয়
+ferrisaio.awareness.recalltrack.xoffsets=X অফসেট
+ferrisaio.awareness.recalltrack.yoffsets=Y অফসেট
+
+#FerrisAIO.সচেতনতা.TurretHealth
+ferrisaio.awareness.turrethealth.enabled=সক্রিয়
+ferrisaio.awareness.turrethealth.style_=শৈলী আঁকুন
+ferrisaio.awareness.turrethealth.fontsize=হরফের আকার
+
+#FerrisAIO.সচেতনতা.TurretRange
+ferrisaio.awareness.turretrange.enabled=সক্রিয়
+ferrisaio.awareness.turretrange.ally=অ্যালি টারেট অ্যাটাক রেঞ্জ আঁকুন
+ferrisaio.awareness.turretrange.allycolor=^ অ্যালি টারেট অ্যাটাক কালার
+ferrisaio.awareness.turretrange.enemy=এনিমি টারেট অ্যাটাক রেঞ্জ আঁকুন
+ferrisaio.awareness.turretrange.enemycolor=^ শত্রু বুরুজ আক্রমণের রঙ
+ferrisaio.awareness.turretrange.extendrange=এর দ্বারা টাওয়ার পরিসর প্রসারিত করুন
+
+#FerrisAIO.সচেতনতা.ওয়ার্ডট্র্যাক
+ferrisaio.awareness.wardtrack.enabled=সক্রিয়
+ferrisaio.awareness.wardtrack.showowner=শোন মালিক
+ferrisaio.awareness.wardtrack.pingvision=পিং ভিশন
+ferrisaio.awareness.wardtrack.pingdelay=পিং বিলম্ব
+ferrisaio.awareness.wardtrack.wardpositionhelper_2=চাবিতে বসানো অবস্থান দেখান
+ferrisaio.awareness.wardtrack.wardvisionhelper=ওয়ার্ড দর্শন এলাকা দেখান
+ferrisaio.awareness.wardtrack.quality=গুণমান
+ferrisaio.awareness.wardtrack.key=HotKey + বাম ক্লিক সরান
+
+#FerrisAIO.সচেতনতা.WayPoints
+ferrisaio.awareness.waypoints.enabled_=সক্রিয়
+ferrisaio.awareness.waypoints.cross=ক্রস কালার
+ferrisaio.awareness.waypoints.line=রেখার রঙ
+ferrisaio.awareness.waypoints.aproximateposition=অনুমানিত অবস্থানের রঙ
+ferrisaio.awareness.waypoints.recalcdelay=পুনঃগণনা বিলম্ব
+ferrisaio.awareness.waypoints._____0001wp=^ উচ্চ মূল্যে FPS বাড়ায়!
+ferrisaio.awareness.waypoints.ally=ড্র অ্যালি
+ferrisaio.awareness.waypoints.enemy=শত্রু আঁকুন
+ferrisaio.awareness.waypoints.self=নিজেকে আঁকুন
+ferrisaio.awareness.waypoints.map=মানচিত্রে আঁকুন
+
+#FerrisAIO.Awareness.FOWTracker_v2
+ferrisaio.awareness.fowtracker_v2.enabled=সক্রিয়
+ferrisaio.awareness.fowtracker_v2.pinglocation=পিং অবস্থান
+ferrisaio.awareness.fowtracker_v2.sendchatmessage=টিমের সাথে চ্যাট পাঠান
+ferrisaio.awareness.fowtracker_v2.sendchatlocal=ক্লায়েন্ট চ্যাটে মুদ্রণ করুন
+ferrisaio.awareness.fowtracker_v2.sendpinglocal=পিং এমনভাবে যা আপনি দেখতে পারেন
+
+#FerrisAIO.FPred
+ferrisaio.fpred._____sp2=পরীক্ষায় স্বয়ংক্রিয়
+ferrisaio.fpred._____sp3=টেলিগ্রামে বাগ, সমস্যা আমাকে রিপোর্ট করুন <3
+ferrisaio.fpred.predictonlist1=ডিফল্ট পূর্বাভাস পদ্ধতি
+ferrisaio.fpred.predictonlistq=ভবিষ্যদ্বাণী পদ্ধতি প্রশ্ন
+ferrisaio.fpred.qhitchance=Q হিট চান্স
+ferrisaio.fpred.predictonlistw=ভবিষ্যদ্বাণী পদ্ধতি W
+ferrisaio.fpred.whitchance=W হিট চান্স
+ferrisaio.fpred.predictonliste=ভবিষ্যদ্বাণী পদ্ধতি ই
+ferrisaio.fpred.ehitchance=E হিট চান্স
+ferrisaio.fpred.predictonlistr=ভবিষ্যদ্বাণী পদ্ধতি আর
+ferrisaio.fpred.rhitchance=R হিট চান্স
+ferrisaio.fpred.spredwindup=টার্গেট AA Windup-এর জন্য চেক করুন
+ferrisaio.fpred.spredmaxrangeignore=ম্যাক্স রেঞ্জ ডজ উপেক্ষা (%)
+ferrisaio.fpred.spredreactiondelay=অনুসরণ বিলম্ব উপেক্ষা করুন
+ferrisaio.fpred.spreddelay=বানান বিলম্ব
+ferrisaio.fpred.spreddrawings=অঙ্কন সক্রিয় করুন
+ferrisaio.fpred.spredaccuracy_=AOE পূর্বাভাসের অনুমতি দিন
+ferrisaio.fpred.waypointanalysis=ওয়েপয়েন্ট বিশ্লেষণ
+ferrisaio.fpred.predmaxrange=সর্বোচ্চ পরিসীমা %
+
+#FerrisAIO.BaseUlt
+ferrisaio.baseult.baseult=বেস আল্ট সক্রিয় করুন
+ferrisaio.baseult.checkcollision=চেক সংঘর্ষ
+ferrisaio.baseult.panickey=কী নিচে থাকার সময় কোন আল্ট নেই
+ferrisaio.baseult.regardlesskey=Ult নির্বিশেষে হত্যা (ধরে রাখা)
+ferrisaio.baseult.team baseult friends=TeamUlt
+ferrisaio.baseult.disabled champion targets=Disabled Champions
+
+#FerrisAIO.অটো লেভেল
+ferrisaio.autolevel.enable.teemo=সক্রিয়
+ferrisaio.autolevel.autolevelstart.teemo=স্তরের পর শুরু করুন
+ferrisaio.autolevel.customs2.teemo=স্ক্রিপ্ট কাস্টমসকে অনুমতি দিন
+ferrisaio.autolevel.primaryorder.teemo=অটো লেভেল অর্ডার
+ferrisaio.autolevel.earlyorder.teemo=প্রথম তিন স্তরের আদেশ
+
+#FerrisAIO.স্কিনচেঞ্জার
+ferrisaio.skinchanger.enabled=সক্রিয়
+ferrisaio.skinchanger.championteemo=চ্যাম্পিয়ন স্কিন
+ferrisaio.skinchanger.ward=ওয়ার্ড স্কিন
+ferrisaio.skinchanger.minion=মিনিয়ন স্কিন
+
+#FerrisAIO.SkinChanger.ChampionTeemo
+ferrisaio.skinchanger.championteemo.userandom=কোন স্কিন সেট না থাকলে র্যান্ডম স্কিন ব্যবহার করুন
+ferrisaio.skinchanger.championteemo.usesliderf=স্লাইডার মান ব্যবহার করুন
+ferrisaio.skinchanger.championteemo.forceenemiestodefualt=শত্রুদের ডিফল্ট ত্বকে বাধ্য করুন
+ferrisaio.skinchanger.championteemo.forcealliestodefualt=মিত্রদের ডিফল্ট ত্বকে বাধ্য করুন
+ferrisaio.skinchanger.championteemo.skinname=স্কিন
+ferrisaio.skinchanger.championteemo.chromaid=Chorma
+ferrisaio.skinchanger.championteemo.skinid=স্কিন আইডি: 
+
+#FerrisAIO.স্কিনচেঞ্জার.ওয়ার্ড
+ferrisaio.skinchanger.ward.wardsenabled=ওয়ার্ড পরিবর্তনকারী সক্রিয় করুন
+ferrisaio.skinchanger.ward.userandom=কোন স্কিন সেট না থাকলে র্যান্ডম স্কিন ব্যবহার করুন
+ferrisaio.skinchanger.ward.usesliderf=স্লাইডার মান ব্যবহার করুন
+ferrisaio.skinchanger.ward.skinid=স্কিন আইডি:
+ferrisaio.skinchanger.ward.wardid1=রিয়েল ওয়ার্ড আইডি: খুঁজতে একটি ওয়ার্ড রাখুন!
+
+#FerrisAIO.SkinChanger.Minion
+ferrisaio.skinchanger.minion.minionskin=মিনিয়ন স্কিন আইডি: 
+ferrisaio.skinchanger.minion.towerchaosskin=কেওস টাওয়ার স্কিন আইডি: 
+ferrisaio.skinchanger.minion.towerorderskin=অর্ডার টাওয়ার স্কিন আইডি: 
+ferrisaio.skinchanger.minion.baronskin=ব্যারন স্কিন আইডি: 
+ferrisaio.skinchanger.minion.dragonskin=ড্রাগন স্কিন আইডি: 
+ferrisaio.skinchanger.minion.heraldskin=হেরাল্ড স্কিন আইডি: 
+ferrisaio.skinchanger.minion.crabskin=স্কটল স্কিন আইডি: 
+ferrisaio.skinchanger.minion.redskin=RedBuff স্কিন আইডি: 
+ferrisaio.skinchanger.minion.blueskin=BlueBuff স্কিন আইডি: 
+ferrisaio.skinchanger.minion.blastcone=BlastCone স্কিন আইডি: 
+ferrisaio.skinchanger.minion.visionplant=স্ক্রাইয়ার্স স্কিন আইডি: 
+ferrisaio.skinchanger.minion.healthplant=HoneyFruit Skin ID: 
+
+#FerrisAIO.শোষণ
+ferrisaio.exploits.maphack=FOW দৃশ্যমানতা হ্যাক
+ferrisaio.exploits.packettracker=প্যাকেট ট্র্যাকার
+
+#FerrisAIO.Exploits.MapHack
+ferrisaio.exploits.maphack.enabled=সক্রিয়
+ferrisaio.exploits.maphack.glow=গ্লো ব্যবহার করুন
+ferrisaio.exploits.maphack.____s_1=এটি কখনও কখনও যুদ্ধের কুয়াশায় শত্রু চ্যাম্পিয়নদের দেখাবে
+ferrisaio.exploits.maphack._____s_2=এটি কখন কাজ করবে তা আধা এলোমেলো কিন্তু কিছু ক্ষেত্রে যা এটি ঘটাতে পারে
+ferrisaio.exploits.maphack.____s_4=যখন তারা FOW তে স্পেল দেয় তখন 1000 ইউনিটের মধ্যে আপনার দৃষ্টি থাকে
+ferrisaio.exploits.maphack._____s_5=গ্লোবাল অ্যানিমেশনগুলি আপনাকে আশেপাশের চ্যাম্পিয়ন এবং তাদের অবস্থানের তালিকা পাঠাচ্ছে
+ferrisaio.exploits.maphack.____s_6=বানান যা FOW-তে একটি বস্তু তৈরি করে যেমন নুনু স্নোবল
+
+#FerrisAIO.Exploits.PacketTracker
+ferrisaio.exploits.packettracker._____s_1=এটি এখনও একটি কাজ চলছে, বাগ আশা করুন
+ferrisaio.exploits.packettracker._____s_3=এটি লিগের জন্য আপডেট হওয়ার জন্য আমার নেটিভ dll-এর উপরও নির্ভর করে
+ferrisaio.exploits.packettracker._____s_4=যেমন আমি যদি এই লিগ সংস্করণের সমাবেশ আপডেট না করি, তাহলে এটি কাজ করবে না!
+ferrisaio.exploits.packettracker.____s_5=> 12.1.416.4011 এর জন্য আপডেট করা হয়েছে
+ferrisaio.exploits.packettracker.information=তথ্য
+ferrisaio.exploits.packettracker.pingsettings=Ping (এর ক্লায়েন্ট সাইডেড)
+ferrisaio.exploits.packettracker.packetdata12.1=প্যাকেট তথ্য
+ferrisaio.exploits.packettracker.devstuff=দেব স্টাফ
+
+#FerrisAIO.Exploits.PacketTracker.তথ্য
+ferrisaio.exploits.packettracker.information.____s_1=এটি একটি শোষণ যা কখনও কখনও দেখাতে পারে
+ferrisaio.exploits.packettracker.information.____s_2=যখন দানবরা FOW-তে আক্রমণ করে
+ferrisaio.exploits.packettracker.information.____s_3=শনাক্ত করা হলে, এটি একটি ক্লায়েন্ট পার্শ্বযুক্ত পিং দেখাবে
+ferrisaio.exploits.packettracker.information.____s_4=দানবদের অবস্থানে
+
+#FerrisAIO.Exploits.PacketTracker.PingSettings
+ferrisaio.exploits.packettracker.pingsettings.pingattacked=অন ক্যাম্প অ্যাটাকড
+ferrisaio.exploits.packettracker.pingsettings.pingattacking=অন ক্যাম্প অ্যাটাকিং
+ferrisaio.exploits.packettracker.pingsettings.pingdisengaging=অন ক্যাম্প বিচ্ছিন্ন করা
+ferrisaio.exploits.packettracker.pingsettings.pingsoundall=বাজানো শব্দ
+ferrisaio.exploits.packettracker.pingsettings.pingsoundfirst=শুধুমাত্র প্রথম পিং এ শব্দ চালান
+ferrisaio.exploits.packettracker.pingsettings.pingdelay=পিং বিলম্ব সেকেন্ড
+
+#FerrisAIO.Exploits.PacketTracker.packetdata12.1
+ferrisaio.exploits.packettracker.packetdata12.1.____s_1=এই মানগুলি স্বয়ংক্রিয়ভাবে পপুলেট হবে
+ferrisaio.exploits.packettracker.packetdata12.1.____s_2=যেমন তারা এই প্যাচের সময় পাওয়া যায়
+ferrisaio.exploits.packettracker.packetdata12.1.headeronattack2=হেডার অনঅ্যাটাক
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmissilehit2=হেডার OnMissileHit
+ferrisaio.exploits.packettracker.packetdata12.1.headerondisengaged=Header OnDisengaged
+ferrisaio.exploits.packettracker.packetdata12.1.headeronmonsterskill=হেডার OnMonsterSkill
+ferrisaio.exploits.packettracker.packetdata12.1.____s_5=প্যাচ 12.1 থেকে হেডার
+ferrisaio.exploits.packettracker.packetdata12.1.forcefindheaders=হেডার স্বয়ংক্রিয়ভাবে গণনা করার চেষ্টা!
+
+#FerrisAIO.Exploits.PacketTracker.DevStuff
+ferrisaio.exploits.packettracker.devstuff.blacklistincomming=ব্ল্যাকলিস্ট ইনকামিং প্যাকেট
+ferrisaio.exploits.packettracker.devstuff.clearblacklist=ব্ল্যাকলিস্ট সাফ করুন
+ferrisaio.exploits.packettracker.devstuff.printblacklist=ব্ল্যাকলিস্ট মুদ্রণ করুন
+ferrisaio.exploits.packettracker.devstuff.drawnetworkid=ড্র মব নেটওয়ার্ক আইডি
+ferrisaio.exploits.packettracker.devstuff.packetdebug=প্যাকেট ডিবাগ
+ferrisaio.exploits.packettracker.devstuff.onlyfow=Only FOW ডিবাগ
+ferrisaio.exploits.packettracker.devstuff.debugmode=ডিবাগ মোড
+
+#FerrisAIO.ইউটিলিটিস
+ferrisaio.utilities.preventafk=এএফকে কিক প্রতিরোধ করুন
+ferrisaio.utilities.autoquit=অটো প্রস্থান করুন
+ferrisaio.utilities.goldtracker=গোল্ড ট্র্যাকার
+ferrisaio.utilities.namechanger=নাম পরিবর্তনকারী
+ferrisaio.utilities.emotespammer=ইমোট স্প্যামার
+ferrisaio.utilities.chatspam=চ্যাট স্প্যামার
+ferrisaio.utilities.sharedexperience=ভাগ করা অভিজ্ঞতা (টেম্প অক্ষম)
+ferrisaio.utilities.mmrtracker=MMR চেকার
+ferrisaio.utilities.atilt=AA টিল্টার
+ferrisaio.utilities.spellalterer_v2=বানান সতর্কতা
+ferrisaio.utilities.antitilt=অ্যান্টি-টিল্ট
+
+#FerrisAIO.Utilities.AutoQuit
+ferrisaio.utilities.autoquit.enable=গেম শেষ হওয়ার পর স্বয়ংক্রিয়ভাবে প্রস্থান করুন
+ferrisaio.utilities.autoquit.delay=অপেক্ষা করুন x সেকেন্ড
+
+#FerrisAIO.Utilities.GoldTracker
+ferrisaio.utilities.goldtracker.enable=গোল্ড ট্র্যাকার সক্রিয় করুন
+ferrisaio.utilities.goldtracker.drawteamgold=ড্র টিম গোল্ড
+ferrisaio.utilities.goldtracker.drawplayergold=ড্র চ্যাম্পিয়ন গোল্ড
+ferrisaio.utilities.goldtracker.textcolor=পাঠ্য রঙ
+ferrisaio.utilities.goldtracker.____s_1=---[EQ] এখনো শেষ হয়নি [EQ]---
+ferrisaio.utilities.goldtracker.trackstats=গোল্ড অর্জিত না হয়ে স্ট্যাট ভ্যালু ট্র্যাক করুন
+ferrisaio.utilities.goldtracker.stattextcolor=স্ট্যাট টেক্সট কালার
+
+#FerrisAIO.Utilities.NameChanger
+ferrisaio.utilities.namechanger.enablechanger=সক্রিয় করুন
+ferrisaio.utilities.namechanger.copy=ক্লিপবোর্ড থেকে নাম সেট করুন
+ferrisaio.utilities.namechanger.______nc_0001=FerrisAIO
+ferrisaio.utilities.namechanger.nametype=ডিসপ্লে টাইপ
+
+#FerrisAIO.Utilities.EmoteSpammer
+ferrisaio.utilities.emotespammer.kill=কিলস সক্রিয় করুন
+ferrisaio.utilities.emotespammer.selectitem=Emote স্লট
+
+#FerrisAIO.Utilities.ChatSpam
+ferrisaio.utilities.chatspam.enabled=সক্রিয়
+ferrisaio.utilities.chatspam.binds=KeyBinds
+ferrisaio.utilities.chatspam.method=পদ্ধতি
+ferrisaio.utilities.chatspam.clipboard=ক্লিপবোর্ড সেটিংস
+ferrisaio.utilities.chatspam.delay=মিলিসেকেন্ডে বিলম্ব
+ferrisaio.utilities.chatspam.debug=পরীক্ষা মোড (শুধুমাত্র আপনার চ্যাটে প্রিন্ট করে সার্ভারে নয়)
+
+#FerrisAIO.Utilities.ChatSpam.enabled
+ferrisaio.utilities.chatspam.enabled.kill=Enable On Kills
+ferrisaio.utilities.chatspam.enabled.gameend=গেম এন্ড সক্রিয় করুন
+ferrisaio.utilities.chatspam.enabled.ondeath=মৃত্যুতে সক্ষম করুন
+ferrisaio.utilities.chatspam.enabled.all=সমস্ত চ্যাট
+ferrisaio.utilities.chatspam.enabled.deathcheck=শুধু যখন খুন হয় > মৃত্যু
+ferrisaio.utilities.chatspam.enabled.disablewhiledead=মৃত অবস্থায় নিষ্ক্রিয় করুন
+ferrisaio.utilities.chatspam.enabled.spammed=স্প্যাম করা পরিমাণ দেখান
+
+#FerrisAIO.Utilities.ChatSpam.binds
+ferrisaio.utilities.chatspam.binds.bind=স্প্যাম কী (হোল্ড)
+ferrisaio.utilities.chatspam.binds.bind2=স্প্যাম কী (টগল)
+
+#FerrisAIO.Utilities.ChatSpam.method
+ferrisaio.utilities.chatspam.method.modehold=স্প্যাম মোড ধরে রাখুন
+ferrisaio.utilities.chatspam.method.slothold=হোল্ডের জন্য ক্লিপবোর্ড স্লট
+ferrisaio.utilities.chatspam.method.modepress=স্প্যাম মোড টগল করুন
+ferrisaio.utilities.chatspam.method.slotpress=টগল করার জন্য ক্লিপবোর্ড স্লট
+ferrisaio.utilities.chatspam.method.modekill=কিল মোডে
+ferrisaio.utilities.chatspam.method.slotkill=অনকিলের জন্য ক্লিপবোর্ড স্লট
+ferrisaio.utilities.chatspam.method.modegameend=অন গেইম এন্ড মোড
+ferrisaio.utilities.chatspam.method.slotgameend=গেম শেষের জন্য ক্লিপবোর্ড স্লট
+ferrisaio.utilities.chatspam.method.modedeath=মৃত্যুর উপর খেলা
+ferrisaio.utilities.chatspam.method.slotdeath=মৃত্যুর জন্য ক্লিপবোর্ড স্লট
+
+#FerrisAIO.Utilities.ChatSpam.Clipboard
+ferrisaio.utilities.chatspam.clipboard.copy=ক্লিপবোর্ড থেকে নির্বাচিত স্লটে অনুলিপি করুন
+ferrisaio.utilities.chatspam.clipboard.copyslot=টেক্সট কপি করার জন্য স্লট
+ferrisaio.utilities.chatspam.clipboard.____cb_0001=1: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0002=2: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0003=3: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0004=4: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0005=5: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0006=6: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0007=7: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0008=8: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0009=9: 
+ferrisaio.utilities.chatspam.clipboard.____cb_0010=10: 
+
+#FerrisAIO.Utilities.SharedExperience
+ferrisaio.utilities.sharedexperience.enabled_=সক্রিয়
+ferrisaio.utilities.sharedexperience.showenemies=শত্রুতে পাঠ্য আঁকুন
+ferrisaio.utilities.sharedexperience.onlyshowinv=শুধুমাত্র টেক্সট আঁকুন যখন দৃশ্যমান নয়
+ferrisaio.utilities.sharedexperience.drawpredictioncircle=ভবিষ্যদ্বাণী বৃত্ত আঁকুন
+ferrisaio.utilities.sharedexperience.invcolor=রঙ যখন দৃশ্যমান নয়
+
+#FerrisAIO.Utilities.MMRTracker
+ferrisaio.utilities.mmrtracker.enable=এমএমআর ট্র্যাকার সক্রিয় করুন
+ferrisaio.utilities.mmrtracker.draw2= ড্র আন্ডার চ্যাম্পিয়ন
+ferrisaio.utilities.mmrtracker.type=MMR প্রকার
+ferrisaio.utilities.mmrtracker.region=অঞ্চল
+ferrisaio.utilities.mmrtracker.showhighest=সর্বোচ্চ র‍্যাঙ্ক দেখান
+ferrisaio.utilities.mmrtracker.____s_1=^ স্ক্রিপ্ট পুনরায় লোড প্রয়োজন
+ferrisaio.utilities.mmrtracker.enemymmr=শত্রু দল MMR
+ferrisaio.utilities.mmrtracker.____s_3=অ্যালি এমএমআর গড়: 1493
+ferrisaio.utilities.mmrtracker.____s_4=Enemy MMR গড়: 1493
+ferrisaio.utilities.mmrtracker.____s_5=মোট MMR গড়: 2987
+
+#FerrisAIO.Utilities.MMRTracker.EnemyMMr
+ferrisaio.utilities.mmrtracker.enemymmr.______s_1=EggMoneyJR: অজানা
+
+#FerrisAIO.Utilities.AATilt
+ferrisaio.utilities.atilt.____s_1=শুধুমাত্র হাসির শব্দ বাজায়, শত্রুদের ট্রল করার অ্যানিমেশনের পরিবর্তে!
+ferrisaio.utilities.atilt.laughtype=ইমোট টাইপ
+ferrisaio.utilities.atilt.aalaugh=এএ চ্যাম্পিয়নদের নিয়ে হাসুন
+ferrisaio.utilities.atilt.aamastery=এএ চ্যাম্পিয়নদের উপর দক্ষতা
+ferrisaio.utilities.atilt.aalaughm=এএ মিনিয়নের উপর হাসুন
+ferrisaio.utilities.atilt.aamasterym=এএ মিনিয়নগুলিতে দক্ষতা
+ferrisaio.utilities.atilt.aalaughb=এএ ভবনে হাসুন
+ferrisaio.utilities.atilt.aamasteryb=এএ বিল্ডিংগুলিতে দক্ষতা
+
+#FerrisAIO.Utilities.SpellAlterer_v2
+ferrisaio.utilities.spellalterer_v2.alertultimate=Alert Ultimates
+ferrisaio.utilities.spellalterer_v2.alertsummoner=Alert Summoner বানান
+ferrisaio.utilities.spellalterer_v2.seen=শুধুমাত্র সতর্ক করুন যদি শত্রুকে এই বানানটি ব্যবহার করতে দেখা যায়
+ferrisaio.utilities.spellalterer_v2.urf=ইউআরএফ-এ নিষ্ক্রিয় করুন
+ferrisaio.utilities.spellalterer_v2.usechat=সেন্ড টাইম স্পেল আড্ডা না হওয়া পর্যন্ত
+ferrisaio.utilities.spellalterer_v2.pingspell=পিং বানান যখন ব্যবহার করা হয়
+ferrisaio.utilities.spellalterer_v2.adddelay=মানবিক বিলম্ব যোগ করুন
+ferrisaio.utilities.spellalterer_v2.trollmode=ট্রল মোড [সমস্ত চ্যাট]
+ferrisaio.utilities.spellalterer_v2.debugmode=ডিবাগ মোড [শুধুমাত্র স্থানীয় চ্যাট]
+
+#FerrisAIO.Utilities.AntiTilt
+ferrisaio.utilities.antitilt.automutechat=স্বয়ংক্রিয় শত্রু চ্যাট/ইমোটস
+ferrisaio.utilities.antitilt.automutepings=অটো মিউট অ্যালি পিংস
+ferrisaio.utilities.antitilt.automuteally=অটো মিউট অ্যালি চ্যাট/ইমোটস
+ferrisaio.utilities.antitilt.preventbanwords=নিষিদ্ধ শব্দ প্রতিরোধ করুন
+
+#FerrisAIO.DebugMenu
+ferrisaio.debugmenu.debug=ডিবাগ লগ সক্রিয় করুন
+ferrisaio.debugmenu.actionoptions=ক্রিয়া
+ferrisaio.debugmenu.profileroption=প্রোফাইলার
+
+#FerrisAIO.DebugMenu.Action Options
+ferrisaio.debugmenu.actionoptions.skilldebug=স্কিল ডিবাগ
+ferrisaio.debugmenu.actionoptions.selfdebug=সেল্ফ স্কিল ডিবাগ
+ferrisaio.debugmenu.actionoptions.miscdebug=সমস্ত গেমবজেক্ট মুদ্রণ করুন
+ferrisaio.debugmenu.actionoptions.statdebug=স্ট্যাট ডিবাগ
+ferrisaio.debugmenu.actionoptions.langdebug=ল্যাং অবজেক্ট তৈরি করুন
+
+#FerrisAIO.DebugMenu.ProfilerOption
+ferrisaio.debugmenu.profileroption.enablewatchdog=প্রিন্ট ওয়াচডগ টাইমস
+ferrisaio.debugmenu.profileroption.allowdebug=^ ডিবাগ করার অনুমতি দিন
+ferrisaio.debugmenu.profileroption.writetoconsole=^ এছাড়াও কনসোলে লিখুন
+ferrisaio.debugmenu.profileroption.writetofile=^ এছাড়াও ফাইলে লিখুন
+
+#FerrisAIO.Coreসেটিংস
+ferrisaio.coresettings.ferrisaio.coresettings=FerrisAIO কোর
+ferrisaio.coresettings.events=ইভেন্ট
+ferrisaio.coresettings.language=ভাষা
+ferrisaio.coresettings.fnative=FNative
+ferrisaio.coresettings.foptimizations=FOptimizations
+ferrisaio.coresettings.autoloadscripts=স্বয়ংক্রিয়ভাবে স্ক্রিপ্ট লোড করুন
+
+#FerrisAIO.CoreSettings.Events
+ferrisaio.coresettings.events.usepriority=প্রধান ইভেন্ট বাস ব্যবহার করুন
+
+#FerrisAIO.CoreSettings.Language
+ferrisaio.coresettings.language.language_=ভাষা
+ferrisaio.coresettings.language.dumpmissingkeys=অনুপস্থিত ভাষা কী ডাম্প করুন
+
+#FerrisAIO.CoreSettings.FNative
+ferrisaio.coresettings.fnative.packethandler=FNative প্যাকেট হ্যান্ডলার ব্যবহার করুন
+ferrisaio.coresettings.fnative.poffsets=প্যাকেট অফসেটগুলি স্বয়ংক্রিয়ভাবে খুঁজে বের করার চেষ্টা
+ferrisaio.coresettings.fnative.ace=অ্যান্টিচিট বাইপাস করার চেষ্টা
+ferrisaio.coresettings.fnative.aipred=AI পূর্বাভাসের জন্য C# এর পরিবর্তে CPP ব্যবহার করুন
+ferrisaio.coresettings.fnative.spp=সোর্স প্যাকেটের অবস্থান সরাসরি আপডেট করা সক্ষম করুন
+ferrisaio.coresettings.fnative.afk=FNative AntiAFK ব্যবহার করুন
+ferrisaio.coresettings.fnative.proxy=প্রক্সি লিগের আউটগোয়িং প্যাকেট স্ট্রীম করার চেষ্টা
+
+#FerrisAIO.CoreSettings.FOptimizations
+ferrisaio.coresettings.foptimizations.eventbus=EventBus
+ferrisaio.coresettings.foptimizations.drawings=অঙ্কন
+ferrisaio.coresettings.foptimizations.ilchanges=IL পরিবর্তন
+
+#FerrisAIO.CoreSettings.FOptimizations.EventBus
+ferrisaio.coresettings.foptimizations.eventbus.usepriority=প্রধান ইভেন্ট বাস ব্যবহার করুন
+
+#FerrisAIO.CoreSettings.FOptimizations.drawings
+ferrisaio.coresettings.foptimizations.drawings.circlev2=দ্রুত চেনাশোনা ব্যবহার করুন
+ferrisaio.coresettings.foptimizations.drawings.ooschecks=স্মার্ট আউটঅফস্ক্রিন চেক ব্যবহার করুন
+ferrisaio.coresettings.foptimizations.drawings.nonative=FNative ট্রান্সপোর্ট লেয়ার ড্রয়িং কল এড়িয়ে চলুন
+ferrisaio.coresettings.foptimizations.drawings.textrender= EnsoulSharp.SDK.TextRender FerrisAIO.Rendering.TextRender দিয়ে প্রতিস্থাপন করুন
+
+#FerrisAIO.CoreSettings.FOptimizations.ILপরিবর্তনগুলি৷
+ferrisaio.coresettings.foptimizations.ilchanges.enableedits=ILChanges সক্রিয় করুন
+ferrisaio.coresettings.foptimizations.ilchanges.fixdrawoffscreen=মিনিম্যাপ অঙ্কন ঠিক করুন
+ferrisaio.coresettings.foptimizations.ilchanges.irender=রেন্ডারের সময় উন্নত করুন
+ferrisaio.coresettings.foptimizations.ilchanges.trove=ট্রভ তালিকার জন্য অদলবদল তালিকা
+
