@@ -1,2 +1,4 @@
 G> FPS Changes are live (First test)
 G> Please Report Low FPS to Ferris on Telegram!
+
+G> Am building a hotfix for MMRChecker json parser values being wrong, should be out shortly
