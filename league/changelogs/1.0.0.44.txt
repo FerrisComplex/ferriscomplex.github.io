@@ -8,6 +8,7 @@ Fixed> MMRChecker Rank tracking being off by a rank
 Fixed> AutoQuit causing a crash when disabled
 Fixed> AutoLevel always showing as "Teemo AutoLevel"
 Fixed> Some translations being invalid/null
+Fixed> Base Translation System to allow custom translations
 Fixed> NetworkProcessor not allowing PCast to work correctly
 Fixed> EventID from onPreprocessPacket being wrong
 Fixed> Changing values from onPreprocessPacket not correctly altering the input value
