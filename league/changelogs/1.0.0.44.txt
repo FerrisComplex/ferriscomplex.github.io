@@ -1,0 +1,30 @@
+Improved> Evade Radius not being added to max range
+_Improved> ^ Fixes spells that are slightly shorter than what they should be
+Improved> Tristana Killsteal with ignite
+Improved> MMRChecker should now run NOT on the main thread (Whoops)
+_Improved> ^ Improves load times a fair bit >.>
+Fixed> NameChanger sometimes failing to set names
+Fixed> MMRChecker Rank tracking being off by a rank
+Fixed> AutoQuit causing a crash when disabled
+Fixed> AutoLevel always showing as "Teemo AutoLevel"
+Fixed> Some translations being invalid/null
+Fixed> NetworkProcessor not allowing PCast to work correctly
+Fixed> EventID from onPreprocessPacket being wrong
+Fixed> Changing values from onPreprocessPacket not correctly altering the input value
+Fixed> A Memory leak in SkinChanger
+
+
+TODO for this update
+
+remove killsteal on 
+> Anivia passive up
+> Zac passive up
+
+add ping ward options
+> Only Ping New wards with Vision
+> Only Ping Pinks
+> Ping when ally is standing in ward & they are in a bush 
+> Ping after x millis
+
+add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
+add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
