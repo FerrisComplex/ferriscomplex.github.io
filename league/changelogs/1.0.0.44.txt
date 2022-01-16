@@ -13,7 +13,9 @@ Fixed> NetworkProcessor not allowing PCast to work correctly
 Fixed> EventID from onPreprocessPacket being wrong
 Fixed> Changing values from onPreprocessPacket not correctly altering the input value
 Fixed> A Memory leak in SkinChanger
-
+Fixed> TahmKench Q being too large in evade (whoops)
+Fixed> Evade Flash usage on WW R to not flash further down the line to get hit anyway >.>
+Fixed> Some slight dash logic on evade
 
 TODO for this update
 
