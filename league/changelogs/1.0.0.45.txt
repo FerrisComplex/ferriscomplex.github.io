@@ -1,0 +1,18 @@
+Added> Leblanc
+Improved> Warwick Logic
+Improved> Zed R Logic & Q Usage
+
+TODO for this update
+
+remove killsteal on 
+> Anivia passive up
+> Zac passive up
+
+add ping ward options
+> Only Ping New wards with Vision
+> Only Ping Pinks
+> Ping when ally is standing in ward & they are in a bush 
+> Ping after x millis
+
+add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
+add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
