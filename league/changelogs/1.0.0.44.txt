@@ -3,7 +3,7 @@ _Improved> ^ Fixes spells that are slightly shorter than what they should be
 Improved> Tristana Killsteal with ignite
 Improved> MMRChecker should now run NOT on the main thread (Whoops)
 _Improved> ^ Improves load times a fair bit >.>
-Improved> FNative to support both 12.2 418.8022 
+Improved> FNative updated to 12.2 418.8022 
 _Improved> ^(Might need another update shortly for NA)
 Fixed> Skinchanger missing a few skins from 12.2
 Fixed> NameChanger sometimes failing to set names
