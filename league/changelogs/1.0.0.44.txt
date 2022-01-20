@@ -19,3 +19,7 @@ Fixed> A Memory leak in SkinChanger
 Fixed> TahmKench Q being too large in evade (whoops)
 Fixed> Evade Flash usage on WW R to not flash further down the line to get hit anyway >.>
 Fixed> Some slight dash logic on evade
+Fixed> A chunk of Lang being broken
+Fixed> Default Lang not correctly pointing to valid lang files
+Added> About 10 Languages to FerrisAIO core selection 
+_Added> Does not work on champion menus yet, Ill have Kingjay do those later this week
