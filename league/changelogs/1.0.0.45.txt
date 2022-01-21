@@ -1,6 +1,14 @@
 Added> Leblanc
+Added> Zeri Orbwalker Support
+Added> Zeri Skills to Evade
+Added> Zeri Dash to EvadeSpells
 Improved> Warwick Logic
 Improved> Zed R Logic & Q Usage
+_Improved> Massivly Improved Prediction (Ferris V1) Collision Checks & HitChance Calculations
+Fixed> NameChanger
+Fixed> An issue in SkinChanger
+Fixed> Disabling Evade Not actually disabling drawing/skill detector
+
 
 TODO for this update
 
