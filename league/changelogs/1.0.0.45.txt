@@ -1,8 +1,3 @@
-Added> Leblanc (Basic & Not finished)
-Added> Zeri
-Added> Zeri Orbwalker Support
-Added> Zeri Skills to Evade
-Added> Zeri Dash to EvadeSpells
 Improved> Warwick Logic
 Improved> Zed R Logic & Q Usage
 _Improved> Massivly Improved Prediction (Ferris V1) Collision Checks & HitChance Calculations
@@ -18,6 +13,13 @@ Fixed> Orbwalker AA Animation Cancel logic breaking
 Fixed> Evade Menu being in the wrong place
 Fixed> Missing Spells in Ultbook with different names (Think this is all of them)
 Fixed> A small chunk of line skillshots showing up stupidly large
+Fixed> A Crash related to the crash handler
+_Fixed> Yeah.... im dumb for that one
+Added> Leblanc (Basic & Not finished)
+Added> Zeri
+Added> Zeri Orbwalker Support
+Added> Zeri Skills to Evade
+Added> Zeri Dash to EvadeSpells
 
 TODO
 -------------------------
