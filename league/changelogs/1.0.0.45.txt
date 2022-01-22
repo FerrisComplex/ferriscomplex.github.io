@@ -1,26 +1,37 @@
-Added> Leblanc
+Added> Leblanc (Basic & Not finished)
+Added> Zeri
 Added> Zeri Orbwalker Support
 Added> Zeri Skills to Evade
 Added> Zeri Dash to EvadeSpells
 Improved> Warwick Logic
 Improved> Zed R Logic & Q Usage
 _Improved> Massivly Improved Prediction (Ferris V1) Collision Checks & HitChance Calculations
+Improved> Some HudDrawing/CooldownDrawing Positions
+Fixed> Vertical HudTrack being incorrectly positioned
 Fixed> NameChanger
 Fixed> An issue in SkinChanger
 Fixed> Disabling Evade Not actually disabling drawing/skill detector
+Fixed> Akshan Double Auto being broken
+Fixed> Akshan E Getting Stuck
+Fixed> Akshan R Sometimes breaking Autos
+Fixed> Orbwalker AA Animation Cancel logic breaking
+Fixed> Evade Menu being in the wrong place
 
-
-TODO for this update
-
-remove killsteal on 
-> Anivia passive up
-> Zac passive up
+TODO
+-------------------------
+Fix Zeri Extended W (Wall beam) prediction
+Tweak zeri animation cancel on Q movement
+Fix Zeri AA Weaving animation cancelling being slightly slower than i want
 
 add ping ward options
 > Only Ping New wards with Vision
-> Only Ping Pinks
+> Only Ping Pinks (FOW optional? still scripty)
 > Ping when ally is standing in ward & they are in a bush 
-> Ping after x millis
+> Ping after x millis optional
+> Grab ward caster & update last position on ward cast (x.buffs.caster should still function in fow) [only do when last seen time > 10 seconds to show aprox area & mark as last seen time starting as 5s for vision circle update]
 
+
+Stuff to do later
+-------------------------
 add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
 add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)

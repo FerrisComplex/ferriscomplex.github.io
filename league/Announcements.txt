@@ -1,3 +1,8 @@
 G> FPS Changes are live (First test)
 G> Please Report Low FPS to Ferris on Telegram!
-W> Note: Will Add Zeri Skills to Evade sometime later today
+W>
+W> Will Add Zeri Evade Shortly
+G> Zeri Champion Script is Almost done aswell
+G> +- 12hours to bugfix final issues
+W>
+W> Check Github for current changes included in .45
