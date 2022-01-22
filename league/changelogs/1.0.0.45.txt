@@ -16,13 +16,12 @@ Fixed> Akshan E Getting Stuck
 Fixed> Akshan R Sometimes breaking Autos
 Fixed> Orbwalker AA Animation Cancel logic breaking
 Fixed> Evade Menu being in the wrong place
+Fixed> Missing Spells in Ultbook with different names (Think this is all of them)
+Fixed> A small chunk of line skillshots showing up stupidly large
 
 TODO
 -------------------------
 Fix Zeri Extended W (Wall beam) prediction
-Tweak zeri animation cancel on Q movement
-Fix Zeri AA Weaving animation cancelling being slightly slower than i want
-Fix Sett Q/W in evade being waaaaaaaaaaaaaaaaaaaaaaayy too big????
 
 add ping ward options
 > Only Ping New wards with Vision
