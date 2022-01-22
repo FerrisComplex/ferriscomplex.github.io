@@ -22,6 +22,7 @@ TODO
 Fix Zeri Extended W (Wall beam) prediction
 Tweak zeri animation cancel on Q movement
 Fix Zeri AA Weaving animation cancelling being slightly slower than i want
+Fix Sett Q/W in evade being waaaaaaaaaaaaaaaaaaaaaaayy too big????
 
 add ping ward options
 > Only Ping New wards with Vision
