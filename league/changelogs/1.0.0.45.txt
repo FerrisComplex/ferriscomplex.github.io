@@ -2,6 +2,9 @@ Improved> Warwick Logic
 Improved> Zed R Logic & Q Usage
 _Improved> Massivly Improved Prediction (Ferris V1) Collision Checks & HitChance Calculations
 Improved> Some HudDrawing/CooldownDrawing Positions
+Improved> Rewrote a good segment of Prediction now labeled as FerrisV3
+_Improved> This is fairly untested and might not be stable yet
+_Improved> But should generally Massivly improve Pred Speeds & Skill usage
 Fixed> Vertical HudTrack being incorrectly positioned
 Fixed> NameChanger
 Fixed> An issue in SkinChanger
