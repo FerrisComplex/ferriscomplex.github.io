@@ -16,8 +16,8 @@ Fixed> Missing Spells in Ultbook with different names (Think this is all of them
 Fixed> A small chunk of line skillshots showing up stupidly large
 Fixed> A Chunk of Skins being missing from skinchanger data
 Fixed> Inhib times always showing 5 minutes
-Fixed> A Crash related to the crash handler
 Fixed> Urf Detection for Scripts like lucian/ezreal logic to change
+Fixed> A Crash related to the crash handler
 _Fixed> Yeah.... im dumb for that one
 Added> Exhaust Keybind & Target Selection Method
 Added> Leblanc (Basic & Not finished)
