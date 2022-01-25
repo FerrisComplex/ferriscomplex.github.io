@@ -1,8 +1,7 @@
 G> FPS Changes are live (First test)
 G> Please Report Low FPS to Ferris on Telegram!
 W>
-W> Will Add Zeri Evade Shortly
-G> Zeri Champion Script is Almost done aswell
-G> +- 12hours to bugfix final issues
-W>
-W> Check Github for current changes included in .45
+W> FerrisV3 Prediction is now out!
+W> This should be WAY better than V1/V2 using some AI/ReactionTime Calcs
+W> Please Report Bugs To Ferris on Telegram!
+W> If all goes well v1 will be removed after this update

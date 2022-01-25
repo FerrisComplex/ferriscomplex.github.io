@@ -19,6 +19,7 @@ Fixed> Missing Spells in Ultbook with different names (Think this is all of them
 Fixed> A small chunk of line skillshots showing up stupidly large
 Fixed> A Chunk of Skins being missing from skinchanger data
 Fixed> Inhib times always showing 5 minutes
+Fixed> Some small FPS issues with Recalling
 Fixed> Urf Detection for Scripts like lucian/ezreal logic to change
 Fixed> A Crash related to the crash handler
 _Fixed> Yeah.... im dumb for that one
@@ -28,20 +29,5 @@ Added> Zeri
 Added> Zeri Orbwalker Support
 Added> Zeri Skills to Evade
 Added> Zeri Dash to EvadeSpells
-
-TODO
--------------------------
-Fix Zeri Extended W (Wall beam) prediction
-
-add ping ward options
-> Only Ping New wards with Vision
-> Only Ping Pinks (FOW optional? still scripty)
-> Ping when ally is standing in ward & they are in a bush 
-> Ping after x millis optional
-> Grab ward caster & update last position on ward cast (x.buffs.caster should still function in fow) [only do when last seen time > 10 seconds to show aprox area & mark as last seen time starting as 5s for vision circle update]
-
-
-Stuff to do later
--------------------------
-add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
-add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
+_Added> ZeriW pred through walls will be done in a bit, had some issues wiht it
+Added> Massive Overhaul to Prediction now labeled as FerrisV3
