@@ -1,0 +1,27 @@
+Fixed> Akshan Second Auto Damage
+Fixed> Akshan R Collision checks
+Fixed> FerrisV3 always returning out of range on jungle units
+Fixed> Prediction not working on non hero units (whoops)
+_Fixed> Will improve this later as its a hotfix change
+Fixed> A memory leak caused by typing errors in prediction
+Fixed> A memory leak relating to RangeCounter not being checked properly
+Fixed> A memory leak in unitTracker
+Fixed> A memory leak in plant rendering
+
+
+TODO
+-------------------------
+Fix Zeri Extended W (Wall beam) prediction
+
+add ping ward options
+> Only Ping New wards with Vision
+> Only Ping Pinks (FOW optional? still scripty)
+> Ping when ally is standing in ward & they are in a bush 
+> Ping after x millis optional
+> Grab ward caster & update last position on ward cast (x.buffs.caster should still function in fow) [only do when last seen time > 10 seconds to show aprox area & mark as last seen time starting as 5s for vision circle update]
+
+
+Stuff to do later
+-------------------------
+add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
+add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
