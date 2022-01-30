@@ -7,26 +7,14 @@ Fixed> Varus Causing Patchguard failure
 Fixed> Jarvan R Killable damage calc being wrong
 Fixed> Jhin AutoR 
 Fixed> VexQ being way too large in evade
-Fixed> TeemoQ in to have urf logic
+Fixed> TeemoQ to have urf logic
 Fixed> ZeriQ Causing Patchguard Failure in urf
 Fixed> Zed Missile Speeds (W/Q) being horribly wrong >.>
 Fixed> Irelia Killsteal crash
 Fixed> Ahri Laneclear not using W ever
-
-TODO
--------------------------
-Fix Zeri Extended W (Wall beam) prediction
-Fix Orbwalker getTarget returning null/invalid dictionary check
-
-add ping ward options
-> Only Ping New wards with Vision
-> Only Ping Pinks (FOW optional? still scripty)
-> Ping when ally is standing in ward & they are in a bush 
-> Ping after x millis optional
-> Grab ward caster & update last position on ward cast (x.buffs.caster should still function in fow) [only do when last seen time > 10 seconds to show aprox area & mark as last seen time starting as 5s for vision circle update]
-
-
-Stuff to do later
--------------------------
-add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
-add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
+Fixed> Evade Nullpointer in adding missing spells
+Fixed> Kha Long W being broken in evade
+Fixed> Potential AC Flag caused by invalid minions in orbwalker
+Fixed> Some AA studering with orbwalker
+Fixed> Many prediction crashes (Wall checks & Targeted)
+Fixed> AOE Prediction not calculating collision properly
