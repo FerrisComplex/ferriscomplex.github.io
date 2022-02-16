@@ -1,0 +1,24 @@
+Fixed> EXPTracker not showing exp after level 18 (urf)
+Fixed> A crash relating to AOE Circles
+Fixed> Ashe W Collision being wrong
+Fixed> ConsoleWriting taking too long (Uses my own native hooks now)
+Fixed> Cone related crashes with prediction
+Fixed> AsheW usage having odd collision checks with new pred
+Fixed> Caitlyn Passive in Orbwalker taking too long
+Fixed> Caitlyn R collision check
+Fixed> Caitlyn Q Combo not firing
+Fixed> Kayle W Cancelling backs
+Fixed> SpellHarass/SpellFarm Permashow not updating correctly
+Fixed> Crash relating to dashing prediction loop
+Fixed> StackOverflow Crash causing hard crash (Mem gaurd error)
+Fixed> Object construction in native causing mem leak (Thx for the info Vino)
+Fixed> Ashe Ult to projectile speed calculations in BaseUlt
+Fixed> Orbwalker not targeting gangplank barrels when he has a skin (oops)
+Fixed> Xayah E not firing when using a skin
+Fixed> Fizz R not being dodged when he had a skin
+Fixed> Cones lagging the fuck out of the client (CassioR specifically)
+Improved> FPS related to evade (Only about 5% done + improvements are next)
+Improved> FPS related to damage indicator rendering every jungle camp 100% of the time >.>
+Improved> Ping on Vision system
+Improved> FPS relating to Activator on all usable features
+Improved> Prediction callback speed
