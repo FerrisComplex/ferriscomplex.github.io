@@ -1,15 +1,6 @@
-
-
-As a note this will be built/released on 12.4 with some core api changes
-
-TODO
--------------------------
-Fix Zeri Extended W (Wall beam) prediction
-Fully rewrite orbwalker turret farming logic
-Kayle use E lasthit when minion out of AA range
-
-
-Stuff to do later
--------------------------
-add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
-add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
+Improved> Namechanger not changing names on pings / streaks
+Improved> Math for Ashe BaseUlt
+Fixed> AntiAFK not functioning with new offsets
+Added> Renata Evade Skills
+Added> Renata Orbwalker Animation Cancels
+Added> Renata skin changer skins
