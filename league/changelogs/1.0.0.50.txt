@@ -1,0 +1,2 @@
+Fixed> A crash caused by invalid patch in chat messages
+Also did some stuff, tho i dont remember what else i changed and im lazy to look at my comit messages to find out

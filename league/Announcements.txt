@@ -1,4 +1,2 @@
-B> Am Aware of the current Crash
-B> Fix is being compiled atm, for now
-B> Enable Namechanger to prevent crashing 
-W> and blame vinos chat hook breaking my chat hook XD
+W> Blame kingjay for the delay on updates
+W> Crash Fixes should now mostly be live
