@@ -1,2 +1,9 @@
 W> Blame kingjay for the delay on updates
-W> Crash Fixes should now mostly be live
+W>
+W> Evade Updates are now being worked on
+W> Primary Goal is FPS/Performance from it
+W> + Pathing Imrpovements [Veigar wall for example >.>]
+W>
+W> Beside that I am doing a Renata script
+W> Not sure on when im starting it
+W> +- A week maybe depending on some work stuff
