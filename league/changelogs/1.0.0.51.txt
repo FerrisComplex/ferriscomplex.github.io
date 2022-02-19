@@ -1,0 +1,15 @@
+Fixed> Evade CalculateIsInDanger sometimes setting state to Evading without actually setting a path
+Improved> Circular Skillshot pathfinding (IE Veigar W will nolonger walk into veigar wall XD)
+Added> Safety checks for Pathing (Off by default due to how much time it takes)
+
+TODO
+-------------------------
+Fix Zeri Extended W (Wall beam) prediction
+Fully rewrite orbwalker turret farming logic
+Kayle use E lasthit when minion out of AA range
+Renata script
+
+Stuff to do later
+-------------------------
+add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
+add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
