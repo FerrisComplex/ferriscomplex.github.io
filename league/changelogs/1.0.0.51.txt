@@ -1,15 +1,31 @@
 Fixed> Evade CalculateIsInDanger sometimes setting state to Evading without actually setting a path
+Fixed> Needing to reload after placing target dummies with Pred V2
+Fixed> Orbwalker not focusing cannons properly
+Fixed> Some drawings using the wrong location to draw
+Fixed> Some Prediction Checks using the wrong position offset
+Fixed> Irelia Damage calc on pets being wrong
+Fixed> Zeri not using W behind walls
+Fixed> Kalista Ranges being wrong
+Fixed> Kalista Damage Calc being wrong
+Fixed> Kalista Incomming Damage calc being outdated
+Fixed> Damage Indicator on jungle being positioned slightly wrong
+Fixed> Damage Indicator wasting a huge amount of CPU to draw
+Fixed> Damage Indicator not working on jungle/minions correctly
+Fixed> Evade Stupidity around veigar wall
+Fixed> JungleTimers not tracking the change from dragons to Elder for timing
+Fixed> JungleTimers not tracking dragon killed in FOW respawn time
+Fixed> EXP Tracker having a small FPS issue
+Improved> Fps related to damage indicator being horrific
 Improved> Circular Skillshot pathfinding (IE Veigar W will nolonger walk into veigar wall XD)
+Improved> Evade Ban Rate caused by an odd case of spamming issueorder too hard
+_Improved> This might break some of the logic for movement, still needs to be tested fully!
+Improved> Laneclear Orbwalking Logic should push much faster than before with less missed minions
+Improved> Added Orbalker HardShove Option to ignore waiting for killable minions (Orbwalker->Farm)
 Added> Safety checks for Pathing (Off by default due to how much time it takes)
-
-TODO
--------------------------
-Fix Zeri Extended W (Wall beam) prediction
-Fully rewrite orbwalker turret farming logic
-Kayle use E lasthit when minion out of AA range
-Renata script
-
-Stuff to do later
--------------------------
-add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
-add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
+Added> New Orbwalker Shove/Wait Logic (setting in Orbwalker->Farm to use the original)
+Added> Ignite Key to force ignite early (Same as exhaust key)
+Added> New Skins from 12.5 Update
+_Added> As a note Renata will be added later this patch
+Added> 3 New Irelia E Modes (For testing 0 clue if they are stable)
+Added> Master Yi
+_Added> Updated AntiAfk Callback to not be flagged by AntiCheat
