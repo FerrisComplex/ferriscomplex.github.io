@@ -29,3 +29,5 @@ _Added> As a note Renata will be added later this patch
 Added> 3 New Irelia E Modes (For testing 0 clue if they are stable)
 Added> Master Yi
 _Added> Updated AntiAfk Callback to not be flagged by AntiCheat
+_Added> Updated IssueOrder Callback to not be flagged by AntiCheat
+_Added> Updated FOW Tracking callbacks to not be flagged by AntiCheat
