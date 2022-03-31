@@ -2,34 +2,10 @@ Fixed> Some minor position offsets of damage indicator on heroes
 Fixed> Kalista Q being slightly too long
 Fixed> Irelia E2 not being used correctly in solo cases on new E methods
 Fixed> Irelia R Logic never using R >.>
-
-
-TODO - Before .52 is public
--------------------------
-Renata
-Nassus
-
---------------
-Maybes - unsure which of these i will do soonish
-More can be added but this is the list im going with from small group of testers
---------------
-Malz
-Mord
-Camille
-Morg
-Mundo
-Karma
-Veigar??? (e logic should work now)
-Syndra? (brain is needed when i write this XD dont do it drunk like the normal ones)
-Vlad?
-Khaz
-
-
-
-Stuff to do later
--------------------------
-Kayle use E lasthit when minion out of AA range
-Fully rewrite orbwalker turret farming logic
-Fix Freeze Logic firing slightly later than expected, bump by 100ms+- (its now fully broken with that change might just full rewrite >.>)
-add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
-add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
+Fixed> Irelia Damage calc being wrong on pets
+Fixed> Irelia passive damage being wrong
+Fixed> getAsyncNetworkId returning the wrong value when null or invalid
+_Fixed> Updated Skins for 12.6
+Improved> Patchgaurd bypass to avoid destroying FPS on getPing calls
+Added> Core->Prevent Disconnect Packets to support new ensoul protections
+_Added> This is off by default as its untested
