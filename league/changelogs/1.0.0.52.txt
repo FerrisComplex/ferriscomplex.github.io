@@ -3,6 +3,7 @@ Fixed> Kalista Q being slightly too long
 Fixed> Irelia E2 not being used correctly in solo cases on new E methods
 Fixed> Irelia R Logic never using R >.>
 Fixed> Irelia Damage calc being wrong on pets
+_Fixed> *Edit* ^ This is now under calculating slightly will fix in a short bit
 Fixed> Irelia passive damage being wrong
 Fixed> getAsyncNetworkId returning the wrong value when null or invalid
 _Fixed> Updated Skins for 12.6
