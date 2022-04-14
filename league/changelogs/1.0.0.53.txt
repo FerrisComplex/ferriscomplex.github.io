@@ -1,0 +1,16 @@
+Added> 12.7 Skins to skinchanger
+Improved> Some oddities with lucian
+Improved> Some oddities with cleanse
+Improved> Some oddities with awareness renders taking too long
+Fixed> Gnar Q being horrificly wrong
+Fixed> MMRChecker DB getting deadlocked when > 200 requests per minute >.>
+Improved> Tristana Killsteal ignite usage
+Added> Tristana Anti-R for minions
+Updated> Pantheon Q Width for 12.7
+_Updated> As a small note, the size was also wrong on this which is now correct
+Added> Ability to change Spell Length in evade
+Updated> About 1/3 of the evade spells from the wiki to be correct again 
+_Updated> (Still lots to do when i find time)
+Updated> Orbwalker to not try to attack gwen in W when unhittable
+Updated> Evade Pathfinder to pick least dangerous (No other skills will hit you) when possible
+_Improved> Optimized evade fairly massively tho its not finished yet
