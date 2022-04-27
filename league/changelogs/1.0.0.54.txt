@@ -1,32 +1,18 @@
-
-
-
-TODO - Before .53 is public
--------------------------
-Renata
-Nassus
-
---------------
-Maybes - unsure which of these i will do soonish
-More can be added but this is the list im going with from small group of testers
---------------
-Malz
-Mord
-Camille
-Morg
-Mundo
-Karma
-Veigar??? (e logic should work now)
-Syndra? (brain is needed when i write this XD dont do it drunk like the normal ones)
-Vlad?
-Khaz
-
-
-
-Stuff to do later
--------------------------
-Kayle use E lasthit when minion out of AA range
-Fully rewrite orbwalker turret farming logic
-Fix Freeze Logic firing slightly later than expected, bump by 100ms+- (its now fully broken with that change might just full rewrite >.>)
-add sion Q to evade (treq its a visual not an actual thing (also extend all directionals by 10 for full charge handling))
-add option for irelia Q for using it on non marked/non reset targets as a use option (IE use Q to avoid = true : use Q non reset = false will say use Q if it can reset but not otherwise)
+Improved> Drawings of Awareness for FPS
+Improved> A few native hooks having invalid args
+Improved> A few Killsteal methods not having a range check
+Improved> Lucian EQW logic
+Improved> Ignite Logic
+Improved> A few evade spells being wrong
+Improved> All predictions now use V3 Collisions (MUCH BETTER & More accurate checks)
+Improved> Added Kalista Q through killable minions into collisions (not perfect yet dmg calc is wrong)
+_Improved> This is semi untested atm, but it should work fine without breaking everything :shrug:
+Improved> Orbwalker Barrel Targeting / Priority when GP is in game
+Improved> Some evade Pathing issues
+_Improved> Will fix the getting stopped at edge of skillshot later, found the problem with it >.>
+_Improved> Only took a year to find XD
+Improved> FNative to have less overly complex calls to offsets should improve performance somewhat
+Added> Skins from 12.8
+_Added> As a note will be adding wave tempo calculator
+_Added> Next patch (Just needs testing) :soonTM:
+_Added> 6 Champions are also in testing ATM so that should be soon
