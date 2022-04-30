@@ -1,0 +1,7 @@
+Fixed> A DX9 Crash with new native
+Fixed> A crash related to PredictionBalance being invalid
+Fixed> Some core exploit loaders being wrong
+Fixed> A crash relating to Evade isSafe
+Fixed> MinionPosition being wrong in FOW Tracker
+Improved> FOW Tracker added Jungle tracking in FOW 
+_Improved> (Not perfect but fairly accurate)
