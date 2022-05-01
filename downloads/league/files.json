@@ -1,0 +1,18 @@
+{
+
+  "misc": {},
+  "configs": {},
+  "exploits": {
+    "antipatchguard.dll": "antipatchguard.dll",
+    "sysguard.dll": "sysguard.dll",
+    "fnativebypass.dll": "fnativebypass.dll"
+  },
+  "cleanup": [
+    "(?i)(avl.dll)",
+    "(?i)(avp.dll)",
+    "(?i)(d3dcompiler_73.dll)",
+    "(?i)(antipatchguard.dll)",
+    "(?i)(sysguard.dll)",
+    "(?i)(fnativebypass.dll)"
+  ]
+}
