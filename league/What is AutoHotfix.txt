@@ -1,0 +1,10 @@
+Autohotfix ensures league/ensouls configs are correct to use the client
+It also automatically downloads hotfix files when league runs mini-patches
+
+Simply run it while the league client is open & logged in
+Enable auto-hotfix and it will do the rest of the work needed
+
+Should always remain updated with ensouls game version!
+
+(I wrote this in about 2 hours, dm me if you have any issues)
+(The code is viewable via any .net decompiler, nothing is encrypted so feel free to check it for yourself)
