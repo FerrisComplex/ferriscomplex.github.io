@@ -1,3 +1,2 @@
-W> 4 Champions In progress
-W> Still busy with life this will be delayed a bit longer sry :(
 W> Autohotfix has been added to my github if you want it
+W> Added Symbol chat spammer to exploit for anyone who logs in
