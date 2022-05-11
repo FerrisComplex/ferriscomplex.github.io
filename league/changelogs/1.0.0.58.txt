@@ -1,2 +1,47 @@
-Added> Swain
-_Added> This is semi unfinished, will improve over the next patch
+Fixed> Prediction Loop in AOE Checks causing crashes
+Fixed> V2 Prediction Not supporting unit position pred (whoops)
+Fixed> Prediction Hard Game Crash with SDK
+Fixed> Prediction Hard Game Crash with V2
+Fixed> Prediction Ticker not handling collision internal calls
+Fixed> Common Prediction not running UnitTracker hooks on init
+Fixed> FCollision not checking CanKillPass damage correctly
+Fixed> Aram detecting traps as minions (whoops) 
+Fixed> A render error on dummies not showing up in awareness
+Fixed> Zoe Autoattack animation cancel being slightly too fast
+Fixed> Cooldown/Exp tracker not being under champion after reloads
+Fixed> Some minor issues with CD tracker being buggy
+Fixed> HeroTracker IsJungler not correctly working after reload
+_Fixed> When they have evolved smite
+Fixed> Orbwalker/Evade breaking auto turn around logic
+Fixed> Tristana Forcus E Target not working (Wrong buff name >.>)
+Fixed> Orbwalker.ForceTarget being ignored for minion priority
+Fixed> A crash caused by my native still running during reloads
+Fixed> Zilean Q killsteal not having a range check
+Fixed> AATilt sometimes slowing down Autos/Movement
+Fixed> Ahri Lasthit sometimes leaking some memory/crashing
+Fixed> Evade getting stuck at the edge of spells 
+_Fixed> (This is a test fix but i have not had the issue since implementing it)
+Improved> V2 Pred output
+Improved> Prediction error processing
+Improved> Prediction error catching
+Improved> Prediction Skill overrides
+Improved> Kalista DoubleJump now functions much more consistently
+Improved> FCollision Windwall collision test
+Improved> Some misscalculations on collisions
+Improved> Some threading issues causing crashes recently on slower GPUs
+Improved> Some threads leaking references when on slower CPUs
+Improved> Cone AOE Prediction Killing FPS 
+_Improved> (Still not perfect but will improve with time)
+Improved> ShouldWait cannon logic to correctly wait for cannon
+Improved> Orbwalker GetMinions range checks
+Improved> Number of redundant calls in orbwalker getTarget
+Improved> Number of redundant calls in prediction V2/V1/Exory/Common
+Improved> Orbwalker MoveEarly millis to be champion specific not global
+Added> Smite Heal Logic (With prevent wasting when drag/baron are up logic)
+Added> DX11 Drawing Support for my custom Draws 
+Added> 12.9 Skins to SkinChanger
+Generic> (When SDK gets updated should be easier for me to add support to both)
+Fixed> <b>Veigar Evade logic not working (FINALLY)</b>
+Added> Zoe Script 
+_Added> (All W Items/Spells have been added with logic behind them)
+_Added> (RQ Logic still needs some tweaks but genrally works well)
