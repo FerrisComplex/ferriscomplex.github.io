@@ -1,0 +1,9 @@
+Fixed> Orbwalker Cannon focus not being used propery
+Fixed> Orbwalker Minion focus breaking when set as ensoul & cannon in range
+Fixed> Orbwalker Turret farm breaking when set as ensoul
+Fixed> Irelia E logic on the old preds being inverted
+Fixed> Many crashes caused by peaking ensouls main thread stack size
+Fixed> Drawing issues on 12.10
+Fixed> Damage calcs for 12.10 (i think i got them all)
+Improved> V3/V2/V1 Pred to be iterative not recursively validated
+Added> Skins for 12.10
