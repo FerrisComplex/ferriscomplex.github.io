@@ -1,0 +1,7 @@
+Fixed> Velkoz R Cancelling not working
+Fixed> A crash related to SendPacket being cancelled
+Added> Velkoz cancel R when noone in range
+Fixed> Pyke R Damage calc being slightly wrong
+Fixed> Orbwalker MissCalculating Range when cannon is nearby
+Fixed> Brand Orbwalker Animation cancel being slightly too fast in urf
+Fixed> Cooldown tracker sometimes not working in FOW
