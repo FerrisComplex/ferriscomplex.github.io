@@ -1,0 +1,17 @@
+Improved> Samira Fast Combo Speed
+Improved> Samira Killsteal (EQW)
+Improved> Samira W usage for slow combo
+Improved> A few summoners activation speed
+Improved> FPS on a few evade draws tanking stuff
+Improved> FPS related to activator
+Improved> FPS related to skin changer
+Improved> FPS related to utilities
+Improved> FPS related to awareness 
+_Improved> (This might be a tad buggy some is untested)
+Added> Support for windows 7 natives again
+_Added> (Update your windows dammit)
+Added> Zoom Hack Specification
+Fixed> Emote spammer missing bottom option
+Updated> Natives for 12.12 
+_Updated> (AC stuff in core is disabled ftm dont have the time to maintain it)
+Added> Skins for 12.12
