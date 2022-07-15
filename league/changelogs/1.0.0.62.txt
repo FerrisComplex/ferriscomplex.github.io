@@ -1,0 +1,4 @@
+Fixed> Bypass Hooks now updated
+Fixed> Minor tracing issues being inverted
+Fixed> Pathing having wrong cos methods
+Added> 12.13 skins
