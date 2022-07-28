@@ -1,0 +1,6 @@
+Updated> Potion Healing Values in Damage calcs
+Updated> Teemo R Range
+_Updated> Will update Zeri's script for all the masses of changes in a bit
+Updated> Exhaust/Redsmite damage changes
+Added> 12.4 Skins
+Updated> Natives to match latest
