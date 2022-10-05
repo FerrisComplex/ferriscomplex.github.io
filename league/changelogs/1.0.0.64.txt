@@ -1,0 +1,55 @@
+Improved> Viktor E Logic
+Improved> Viktor QAuto Speeds
+Improved> Viktor Damage
+Improved> Viktor Urf Logic
+Improved> Viktor W Position prediction (Still not perfect but much much much better)
+Improved> Viktor E Targeting during Combo
+Added> New Keybinds for Viktor E swaps
+Added> Viktor R Killsteal (Why the fuck not :shrug:)
+_Added> Note> I broke Viktor E on minions ill fix it mid patch >.>
+_Improved> I have also consistently went 15/0 in games with the new logic it works wonders
+Fixed> SpellAlterer not correctly pinging spells
+Fixed> ChangeColor mem leaking on Dx11
+Updated> DrawText Logic for Dx11
+Improved> Orbwalker Draws taking too long on Dx11
+Improved> Orbwalker Minion selection for laneclear
+Improved> Orbwalker HealthPrediction to ensure closer accuracy
+Improved> Orbwalker Animation Cancel logic on aggresive (Advanced->MoveEarly->Aggressive)
+Fixed> Cannon Priority when under tower
+Fixed> Orbwalker undertower farm being stupid
+Improved> Prediction V2 Speeds by about 15%
+Improved> Prediction V2 Circle Accuracy
+Improved> Prediction V2 Movement Positioning
+Improved> Prediction V2 Line Positioning
+Fixed> BackPosition Exploit not always working in FOW
+Fixed> Jungle Timer Tracking to correctly detect gromp death (It was delayed by about 10 seconds)
+Fixed> Smite Damage Calc being horrificly wrong
+Fixed> Smite Speeds being a tad slow (Will rewrite this module next patch)
+Fixed> Smite not targeting enemy players
+Fixed> Smite incorrectly targeting nearby jungle camps when low health in combo/fights
+Fixed> ^ Sometimes targeting lane minions (SuperMinions)
+Fixed> Evelyn W logic not accepting avoid autos correctly
+Fixed> Evade Pathfinding having some incorrect math
+Fixed> Evade IsInSkillshot logic being too small and not dodging spell edges
+Fixed> Evade ShouldMove() activation to be on update not on tick
+_Fixed> Moved> EvadeTick to use my own native for slightly faster calls
+Fixed> Evade Not correctly calculating spell speeds
+Fixed> Evade sometimes causing a desync in spells cooldown
+Fixed> SendToServer() not correctly returning response from native for packetcasting
+Updated> Packet controller being massively outdated and causing crashes
+Updated> Drawings to perform better on low end PCs
+Updated> Some Text Drawing issues (All Text Size is diff and may change am still working on this)
+Added> All Missing skins from previous versions
+Improved> General Performance, am still re-profiling everything and optimizing
+Improved> FPS related to lastposition
+Improved> FPS related to tower health
+Improved> FPS related to circles
+Improved> FPS related to damage indicator
+Improved> FPS related to evade
+_Improved> This might take a few patches to improve everything >.>
+Updated> Damage & Evade Hitbox sizes to fit with 12.14->12.19 changes
+Updated> Natives to match latest
+Updated> The core plugin should now be on latest Ensoul
+Updated> Internal Offsets to 12.19
+Added> DirectX-11 Support (Its so much cleaner XD)
+_Added> As a note im officially back to wrting code on ensoul again :wink:
