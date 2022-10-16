@@ -1,0 +1,37 @@
+Fixed> BaseUlt having errors on team baseults
+Fixed> LangManager having errors on updating menus
+Fixed> Awareness fps drops when updating sprites
+Added> DeathTimers to awareness
+Fixed> Viktor Q killsteal not functioning
+Fixed> Viktor E on minions
+Added> Viktor E Async Prediction logic
+Improved> Viktor Flee QEW logic
+Fixed> Ezreal targeting non minions in urf
+Fixed> Ezreal W on baron/dragon not functioning
+Fixed> Ezreal QW pred on jungle camps being a tad slow in urf
+Fixed> Katarina Drawing Odd entities as daggers
+Fixed> Katarina trying to use invalid minions as daggers
+Improved> Katarina combo speed
+Fixed> katarina Killsteal ER logic
+Fixed> Pyke R Happening twice on a single target
+Fixed> Pyke Q Accuracy using the wrong ML Tunings
+Fixed> Sylas crashes (I think there was a fair bit changed so idk now XD)
+Fixed> Potential issue in natives causing skills to become unusable without restart of league
+Added> Many animation exploits to many champs 
+_Added> ^ (Vayne,Azir,Tryndamere,Jarvan,Kindred,Leblanc,Sylas,Urgot,Belveth,Zeri)
+Added> Syndra E to Evade
+Added> Syndra E Missile to Evade
+Added> Correct FOW Syndra E checks
+Added> Failsafe missle for Syndra E Missle for unseen Spheres
+Fixed> Caitlyn Traps not working in evade
+Fixed> Blitzcrank QTargetSelector still casting Q on ignored targets
+Improved> Pred V2 Machine learning updater for circles (finally)
+Improved> Pred V2 SpamClick Detection for higher mmr players (Plat+ usually use this movement)
+Fixed> An issue causing delayed casts in Pred V2 (Whoops wrong offset blame riot)
+Added> Start of update to Automatic prediction (Lots and lots of logic to go here but will update it as i go)
+_Added> Rewrote> Awareness Hud Tracker to have better FPS & Theme support (This is still in progress but its sorta here)
+_Added> Rewrote> A chunk of the Natives to run smoother with less App Locks
+_Added> Rewrote> Orbwalker MoveEarly logic to better handle ping differences
+_Added> ^ Orbwalker->Advanced->Move Early->Aggresive for best results
+Added> Aatrox (Not finished as this is a mid patch for other improvements)
+_Added> ^ EQ logic needs work and crit positioning logic needs work but seems generally functional ill improve more with time
