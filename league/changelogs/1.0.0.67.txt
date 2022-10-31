@@ -1,0 +1,23 @@
+Fixed> Moved awareness updates to OnTick rather than OnUpdate (5 fps improvement avg when testing)
+Improved> Irelia E logic
+Improved> Irelia Q speeds
+Improved> Samira E speed
+Improved> Kalista E damage calc
+Improved> Viktor QE harass logic with yasuo shield/malz shield
+Improved> Pyke R Accuracy/Damage calc
+Added> ZeriW Wall Logic (Finally whoops forgot about that)
+Improved> Zeri W general logic
+Fixed> Spellharass toggle causing minor fps drops
+Improved> Orbwalker Turret farm again (Ferris mode)
+Fixed> FPS drops related to hudtrack drawing incorrectly
+Added> Animation exploit to zeri
+Added> Animation exploit to lucian
+Fixed> Prediction V2 DashLogic not calculating endPosition timing correctly
+Added> Senna (Basic logic W needs improvements still)
+Added> Senna Ult to BaseUlt
+Added> Renata (Basic logic Q directional needs work)
+Added> Belveth (Basic logic needs work)
+_Improved> Massively Improved> Automatic prediction (V2/V3 logic) Huge Thanks to Bluebird for Improvements from Impulse <3
+_Improved> Tho as a note Automatic Circle logic is still +- :shrug:
+_Improved> Some champs may also be forced to certain preds (Leesin for example forces v2)
+Added> Taric (Way too much fun on URF XD)
