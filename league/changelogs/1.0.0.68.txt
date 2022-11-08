@@ -1,0 +1,16 @@
+Fixed> Ezreal crashing in urf
+Fixed> Several crashes in sylas E2 logic
+Improved> SDK TickTime to be around 80x faster
+Improved> Evade Calculation Time is around 2x faster
+_Improved> Also as a note im working on micro optimizations of my linq mess for evade
+_Improved> This should almost tripple the speed once finished and massively improve it
+Added> KSante to Evade
+Improved> A small tick error on turret health (44% ticktime usage improvement)
+Improved> Character Text Draw Speeds (13% onDraw usage improvement)
+Improved> Cooldown Tracker (4.50% onDraw usage improvement)
+Improved> Hud Tracker (6.2% onPostDraw usage improvement)
+Improved> Evade Tick speed
+Updated> Offsets for Native 12.21
+Updated> Skins to 12.21
+Updated> SkinChnager Re-Enabled Minion/Tower/Jungle skins
+Fixed> A few Prediction Crashes on 12.21
