@@ -1,0 +1,11 @@
+Added> Click To remove Spells to Evade
+Added> Console Logs to File for easier debugging of crashes
+Updated> HudTrack Drawings to have position and size logic done async 
+Fixed> Zed having errors on last hit queues
+Improved> NameChanger TickRate (5.5% onUpdate usage improvement)
+Improved> Evade SpellShield Checks (49.8% path improvement >.> fuck me that was dumb)
+Improved> Evade Positional Caches (2.3% EvadeTick improvement)
+Improved> All Uses of IsRecalling to run around 96% faster
+Improved> Minimap.getCircle logic (4.1% onDraw improvement)
+Fixed> Crash related to Threading the wrong Natives
+Fixed> Crash related to Dx9 render not accepting IO Threads
