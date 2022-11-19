@@ -1,1 +1,2 @@
-*Edit* Now waiting for cap to build latest to esplugin >.>
+Minor note for 12.22 I broke the cannon logic on viktor just disable it XD will hotfix later
+Please report any bugs <3

@@ -1,0 +1,66 @@
+Fixed> Some killsteal logic issues around trynamere when at low on health (ignoring range/distance checks)
+Fixed> Minimap drawing being slightly off centered
+Fixed> Auto Ignite being broken for the last like 10 patches 
+_Fixed> WHOOPS blame Kingjay >.>
+Fixed> Incomming Damage calc assuming ALL missiles and ALL champions damage will hurt you
+Fixed> Incomming Damage calc using missiles twice
+Fixed> CooldownTracker Font drawTime issue
+Fixed> Collision not stopping after first element hit wasting time
+Fixed> Collision not casting spells if first collision is target
+Fixed> VeigarE Not evading correctly again >.>
+Fixed> Kalista E Damage being 1.5* what it was ment to be aftering first dragon dies
+Fixed> Teemo shrooms expiring causing errors when there is a teemo on both teams
+Fixed> New Smites on Zoe causing crash
+Fixed> New Smites Damage on Zoe
+Fixed> Sylas E2 not being cast correctly or as frequently as it should have been
+Fixed> Oriana having errors when there is an Ori on both teams
+Fixed> Zed WQ evade having issues after preseason changes
+Fixed> Zac ult damage being incorrect
+Fixed> LineEvade not calculating pulls as dangerous
+Fixed> CharacterText having potential Nullpointer on setText
+Fixed> A potential crash with Cooldown Tracker drawing happening before the initial update
+Fixed> An Orbwalker Nullpointer caused by legacy code (whoops)
+Fixed> Corki R using the wrong Prediction 
+Fixed> Corki Combo Logic to function better
+Fixed> Corki Harass logic to function better
+Fixed> LuxQ not functioning correctly with collisions (Automatic/V2/V3 only)
+Fixed> Collision not accounting for SamiraW
+Fixed> Orbwalker not ignoring targets with NilahW
+Fixed> Xin W in harass
+Fixed> Vayne/Qiyana to support new ARAM falling turret terrain
+Fixed> V2/V3 WallPrediction to support new ARAM falling turret terrain
+Fixed> Viktor Q not being used correctly in waveclear
+Fixed> Viktor ult not checking spellshield
+Fixed> TargetSelector targeting jungle while in lane for skillshots
+_Fixed> No more firing random skills into the jungle cause ur jungler walked by
+_Fixed> Configurable in Core->Fixes->JungleTargetingFix
+Fixed> Zhonias being used semi randomly with an issue in IncommingDamage calc
+Improved> Viktor Cannon clear logic
+Improved> Viktor can now cast E while evading
+Improved> HasBuff Speeds (around 40x faster than before)
+Improved> BuffRemoval Speeds
+Improved> HasBuffOfType Speeds (around 40*totalbuffs faster)
+Improved> Buff.StartTime Buff.EndTime and Buff.Caster to work async
+Improved> AutoCleanse using new buff methods for self cleanse
+_Improved> Ally cleanse will still use the old method ill redo this later
+Improved> FastEvade default spell list
+Improved> ArcEvade (This still needs some MASSIVE rewrites)
+Improved> Kalista Jungle clear logic
+Improved> Corki R Prediction on Automatic
+Improved> Oriana Urf Laneclear logic
+Improved> Oriana Flee logic
+Improved> Oriana Q Prediction
+_Improved> Her combo logic is in progress of a rewrite to improve general usage
+Improved> Blitzcrank Q Accuracy on Automatic
+Improved> Evade.CanIssueMovement being way too slow
+Improved> Orbwalker Movement Rate to be much quicker
+Improved> Orbwalker ShouldWait for cannons
+Improved> Loader Dx11 Hooks
+Improved> Ashe MoveEarly when Q is active for better kiting
+Improved> FCollision minion/jungle/hero testing every single minion/hero in the game (Whoops)
+Improved> Veigar E ring size in evade to be more accurate and safer for inner movements and walking into the ring
+Improved> Vision Ping for Gaining the +5 gold for first vision ping
+Updated> Smite Logic for PreSeason Smite
+Added> New Drake back to Orbwalker targets
+Updated> Gold Tracker to account for Plate/Midlane gold changes
+_Fixed> Rewrote> Barrier logic (Its not stupid now XD)
