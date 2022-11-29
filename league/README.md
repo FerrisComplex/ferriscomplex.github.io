@@ -7,7 +7,7 @@ The #1 Free EnsoulSharp Script available!
 ## Features
 
 8 Unique Predictions
-- 4 Custom Prediction Methods that far exede other predictions available
+- 4 Custom Prediction Methods that far exceed other predictions available
 - 2 Ports from Bot of Legends
 - 1 Port from LeagueSharp
 
