@@ -28,7 +28,8 @@ Tons of Utilities
 - Chat Spammer
 
 A Custom Analytics & Stat Tracker
-- https://ferrisaio.ferrisbot.com:8443/Dashboard
+- https://ferrisaio.ferrisbot.com:8443
+- This is still in progress (View Dashboard for Statistics page)
 
 A Heavilly Improved Evade
 
