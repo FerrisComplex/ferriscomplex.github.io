@@ -1,3 +1,4 @@
+Aatrox
 Ahri
 Akali
 Akshan
@@ -7,6 +8,7 @@ Anivia
 Annie
 Ashe
 Azir
+BelVeth
 Blitzcrank
 Brand
 Caitlyn
@@ -47,6 +49,7 @@ Lillia
 Lucian
 Lux
 Malphite
+MasterYi
 MissFortune
 Neeko
 Nunu
@@ -56,14 +59,18 @@ Pyke
 Qiyana
 Quinn
 Rakan
+Renata
 Rengar
 Riven
 Samira
+Senna
 Shaco
 Sion
 Sivir
+Swain
 Sylas
 TahmKench
+Taric
 Teemo
 Tristana
 Tryndamere
@@ -87,4 +94,5 @@ Zac
 Zed
 Zeri
 Zilean
+Zoe
 Zyra
