@@ -29,7 +29,8 @@ Tons of Utilities
 
 A Custom Analytics & Stat Tracker
 - https://ferrisaio.ferrisbot.com:8443
-- This is still in progress (View Dashboard for Statistics page)
+    > This is still in progress so stats may be cleared from time to time
+    > (View Dashboard for Statistics page)
 
 A Heavilly Improved Evade
 
