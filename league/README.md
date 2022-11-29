@@ -7,11 +7,11 @@ The #1 Free EnsoulSharp Script available!
 ## Features
 
 8 Unique Predictions
-- 4 Custom Prediction Methods that far exceed other predictions available
+- 4 Custom Prediction Methods that far exede other predictions available
 - 2 Ports from Bot of Legends
 - 1 Port from LeagueSharp
 
-Tons of Utilities
+### Tons of Utilities
 - AA Tilter
 - AntiAfk
 - AutoLeveler
@@ -27,24 +27,21 @@ Tons of Utilities
 - Custom BaseUlt
 - Chat Spammer
 
-A Custom Analytics & Stat Tracker
-- https://ferrisaio.ferrisbot.com:8443
-    > This is still in progress so stats may be cleared from time to time
-    > (View Dashboard for Statistics page)
+### [A Custom Analytics & Stat Tracker](https://ferrisaio.ferrisbot.com:8443)
+- This is still in progress so stats may be cleared from time to time
+    > (View Dashboard for Statistics Page)
+### A Heavilly Improved Evade
 
-A Heavilly Improved Evade
-
-A Custom Orbwalker
+### A Custom Orbwalker
 - Including Animation Cancelling
 
-A Custom Activator
+### A Custom Activator
 - Including 3/4 of Spells from Ultimate Spellbook
 
 ## Custom Exploits
 - Jungle Tracker (Shows Camps as they are killed in FOW)
 - Baron/Dragon Tracker (Shows when Baron/Dragons are attacked in FOW)
-- MapHack (Sometimes shows Players in FOW as if you had vision)
-    > https://gyazo.com/446ce770aa783c64e0d5f2273b4b3532
+- [MapHack](https://gyazo.com/446ce770aa783c64e0d5f2273b4b3532) (Sometimes shows Players in FOW as if you had vision)
 - Many Champion Bugs Such as the Sion Ultimate Bug
 
 
