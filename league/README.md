@@ -1,7 +1,5 @@
 
-# FerrisAIO
-
-The #1 Free EnsoulSharp Script available!
+![Logo](https://ferrisaio.ferrisbot.com:8443/assets/github/logo.gif)
 
 
 ## Features
