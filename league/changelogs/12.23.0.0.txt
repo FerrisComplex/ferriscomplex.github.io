@@ -1,0 +1,41 @@
+Fixed> Viktor cannon logic with Q (Whoops)
+Fixed> Scripter Tracker detecting the same user multiple times per game on reload
+Fixed> A crash related to sending chat messages in the wrong threadpool
+Fixed> Client Script tracking firing too many times per game
+Fixed> Orbwalker OnAttack firing too early in windup
+Fixed> Several prediction crashes
+Fixed> Evade Circle hitboxes being slightly offcenter
+Fixed> Smite range being slightly shorter than intended (Wiki was wrong >.>)
+Fixed> AutoPotion not functioning correctly after a crash/reconnect due to an asm error after minion spawn
+Fixed> A lang issue causing menus to show key rather than name
+Fixed> Several crashes related to chat events firing outside main thread
+Fixed> Several crashes related to drawing getting text size outside of main thread
+Fixed> Evade ExtendedDistance check being used even when disabled
+Fixed> April fools hooks happening the wrong date (i honestly dont know what the fuck i was thinking when writing that XD)
+Fixed> Orbwalker targetting champions under tower when in laneclear (whoops)
+Fixed> Ashe Jungleclear glitching out
+Fixed> ShouldAllowJungleClear breaking after dragon is taken
+Fixed> IsCC(Buff) not functioning correctly on the new bufftype system
+Fixed> Crash caused by virtualizing V2 Collision tests incorrectly
+Fixed> Crash caused by analytics using the wrong threadpool
+Fixed> Native Downloader failing to download in some cases
+Fixed> Evade Getting stuck at the Edge of certain lines (0.1 Teemo oversight)
+Fixed> Orbwalker Attack MissileCreate delay ping logic being wrong
+Fixed> Evade Distance check being too short for some spells (YorickE, ViktorE, XerathQ)
+Fixed> Graves Q Colliding with walls during laneclear/combo
+Added> Smite will now target dragons/barrons regardless of autosmite value by default (Seperate config option)
+Added> Color options to the Orbwalker AttackRange/HoldRange circles
+Added> Evade Collission projection leeway config to ExtraBuffers->Evade Movement Leeway Time to allow extra time before spells hit in evade logic
+Improved> All Networking has been rewritten between my server and should function much faster
+Improved> SpellBlock Logic to allow for many spells that are instant cast during evade
+Improved> Jungle Tracking to show attacking champion position when camp dies
+Improved> Evade Collission Projection timings
+Improved> Evade Ping Calculations being wrong
+Improved> Yi E & Q Usage
+_Improved>Rewrote> A huge chunk of core logic some things may be broken
+_Improved> Please report bugs to me in Telegram <3
+Improved> Some native asm (mov eax, [ebx + 8] was totally right to load a ref pointer anyone who says otherwise is wrong clearly not my blatent mistake XD)
+Improved> My x86RetSpoof method caller causing crashes on AMD chips
+Improved> Native Downloader to work on CN servers without a VPN
+Improved> Native Downloader to now use a faster transport method
+Improved> Some ILCode SDK edits not loading fast enough post load

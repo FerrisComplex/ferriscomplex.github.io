@@ -1,2 +1,2 @@
-Minor note for 12.22 I broke the cannon logic on viktor just disable it XD will hotfix later
-Please report any bugs <3
+Stats and Analytics page is now live in any browser!
+ferrisaio.ferrisbot.com:8443/Dashboard
