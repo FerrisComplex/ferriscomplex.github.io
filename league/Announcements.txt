@@ -1,5 +1,8 @@
-W> We are aware of a crash related to minion skin changer
-W> Disable it in SkinChanger->Minion Skin->Enable Minion Changer
+W> We are aware of a crash related to minion skin changer & Zoomhack
+W> Disable SkinChanger->Minion Skin->Enable Minion Changer
+W> Disable Utilities->ZoomHack->Enabled
+W> This will be fixed in the next few hours +-
 
-Stats and Analytics page is now live in any browser!
-ferrisaio.ferrisbot.com:8443/Dashboard
+
+G> Stats and Analytics page is now live in any browser!
+G> ferrisaio.ferrisbot.com:8443/Dashboard
