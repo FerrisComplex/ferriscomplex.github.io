@@ -1,2 +1,5 @@
+W> We are aware of a crash related to minion skin changer
+W> Disable it in SkinChanger->Minion Skin->Enable Minion Changer
+
 Stats and Analytics page is now live in any browser!
 ferrisaio.ferrisbot.com:8443/Dashboard
