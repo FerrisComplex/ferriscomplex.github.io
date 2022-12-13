@@ -1,6 +1,4 @@
-W> If you are crashing, update your AIO again
-W> A Hotfix was pushed without changing the version #
-W> Zoomhack will be disabled for now due to ensoul core issues
-
 G> Stats and Analytics page is now live in any browser!
 G> ferrisaio.ferrisbot.com:8443/Dashboard
+
+W> Sorry for crash fixes, should be ready sometime today
