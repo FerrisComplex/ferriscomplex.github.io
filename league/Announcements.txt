@@ -1,4 +1,4 @@
 G> Stats and Analytics page is now live in any browser!
 G> ferrisaio.ferrisbot.com:8443/Dashboard
 
-W> Sorry for crash fixes, should be ready sometime today
+W> Sorry for crashes, fixes should be ready sometime today
