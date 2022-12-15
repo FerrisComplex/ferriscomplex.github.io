@@ -1,4 +1,5 @@
 G> Stats and Analytics page is now live in any browser!
 G> ferrisaio.ferrisbot.com:8443/Dashboard
 
-W> Sorry for crashes, fixes should be ready sometime today
+W> Crash fix is live, You may still crash at the 2minute mark
+W> After that game should be normal blame ensoul XD

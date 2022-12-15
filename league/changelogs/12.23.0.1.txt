@@ -1,0 +1,19 @@
+Fixed> Crashes related to GoldTracker
+Fixed> Crashes related to Zoomhack
+Fixed> Crashes related to Evade
+Fixed> Crashes related to vision tracker
+Fixed> Crashes related to recal tracker
+Fixed> Crashes related to SkinChanger (minions again)
+Fixed> Crashes related to Maphack not correctly being able to decode certain packets
+Fixed> Crashes related to PingSpell causing OOM
+Fixed> Crashes related to ChatSpammer
+Fixed> Crashes related to EmoteSpammer
+_Fixed> Fuck leagues anoying stitching multiple packets into one >.>
+_Fixed> Fuck this league update broke soooo much shit XD
+Fixed> LuxR Evade not being calculated in FOW
+Fixed> Evade not detecting spells futhur than 10 teemos away correctly
+_Fixed> Rewrote> Scheduler server to be less CPU reliant
+Added> Option to PingForGold on wards rather than pinging all vision (+ a suboption to only ping within X range)
+Improved> SkinChanger update rates for minions
+Improved> SpellTracker to track Active/ActiveTime ultimates better
+Improved> SpellTracker now detects TP for cooldown in fow
