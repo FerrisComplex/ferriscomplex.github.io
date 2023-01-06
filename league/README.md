@@ -39,7 +39,7 @@
 ## Custom Exploits
 - Jungle Tracker (Shows Camps as they are killed in FOW)
 - Baron/Dragon Tracker (Shows when Baron/Dragons are attacked in FOW)
-- [MapHack](https://gyazo.com/446ce770aa783c64e0d5f2273b4b3532) (Sometimes shows Players in FOW as if you had vision)
+- [MapHack](https://ferrisbot.com/ferrisaio/assets/landing/vid/maphack.mp4) (Sometimes shows Players in FOW as if you had vision)
 - Many Champion Bugs Such as the Sion Ultimate Bug
 
 
