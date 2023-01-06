@@ -1,5 +1,6 @@
 G> Stats and Analytics page is now live in any browser!
 G> ferrisaio.ferrisbot.com:8443/Dashboard
 
-W> Crash fix is live, You may still crash at the 2minute mark
-W> After that game should be normal blame ensoul XD
+W> A quick note, if you have Low FPS on Ferris
+W> Please Ping me in Telegram
+W> I have a test version that improves fps available to test
