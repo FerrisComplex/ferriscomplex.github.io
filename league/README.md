@@ -21,7 +21,7 @@
 - Urf Spell Spammer
 - ZoomHack
 - Spell Alerter for Ultimates and Summoners
-- Gold Tracekr
+- Gold Tracker
 - Custom BaseUlt
 - Chat Spammer
 
