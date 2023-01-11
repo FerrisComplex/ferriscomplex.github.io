@@ -1,0 +1,22 @@
+Fixed> PingForGold not checking the correct buff name
+Fixed> Twitch E Damage
+Fixed> AutoLantern and AutoWardLantern logic
+Fixed> MMRTracker not working in NA
+Fixed> HudTrack Styled showing champs in reverse (Positions will be shifted sry)
+Fixed> Average FPS Tracker being incorrectly processed
+Improved> ZoeE evade
+Improved> Orbwalker Gp-Barrel Targeting with new options
+Improved> Auto Cleanse to cleanse morde R
+Improved> Auto Cleanse to be faster
+Improved> Loader & Auto-Updater
+Improved> Kalista E Logic
+Improved> Waypoints render time
+Improved> Stat Tracker miss calculating damage
+Updated> Jax R with changes
+_Improved> Re-Enabled> All Misc Utilities
+Improved> General FPS usage (Massive rewrite of most of awareness & Evade drawing logic)
+_Improved> Yes finally, you can play ferrisaio with a good FPS XD
+Improved> Jungle Tracker & FOW detections
+_Improved> This is now 100% Accurate and Instant FOW Jungle camp kill detection (So you ALWAYS know when a camp dies in FOW)
+_Fixed> All Existing crashes (I think) 
+_Fixed> Please report any crashes to me in Telegram
