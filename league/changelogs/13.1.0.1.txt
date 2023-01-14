@@ -1,0 +1,6 @@
+Fixed> IsMainThread not respecting tasks correctly
+Fixed> DelegateProcessor.InvokeDraw being called on the wrong thread
+Fixed> LogoPrinter throwing nullpointer due to a missing ptr reference
+Fixed> TargetSelector priority being inverted (Not sure how i dint notice this)
+Fixed> Orbwalker canAttack being slightly too slow
+Improved> BuffManager is now about 80x faster to calculate
