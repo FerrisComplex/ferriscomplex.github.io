@@ -1,6 +1,0 @@
-G> Stats and Analytics page is now live in any browser!
-G> ferrisaio.ferrisbot.com:8443/Dashboard
-
-W> A quick note, if you have Low FPS on Ferris
-W> Please Ping me in Telegram
-W> I have a test version that improves fps available to test
